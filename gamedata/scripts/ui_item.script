@@ -408,7 +408,7 @@ function build_desc_footer(obj, sec, str) -- one obj used
 		local community = ini_sys:r_string_ex(sec,"community")
 		
 --		_str = _str .. clr_2 .. " " .. str_tbl.prop .. ":\\n"
-		_str = _str .. clr_2 .. "\\n" .. str_tbl.prop .. " : \\n" --japan
+		_str = _str .. clr_2 .. " " .. str_tbl.prop .. " : \\n" --japan
 --		_str = _str .. clr_y .. "  ・" .. clr_1 .. " " .. str_tbl.out_comm .. ": " .. clr_2 .. (community and gc("st_dyn_news_comm_" .. community .. "_6") or str_tbl.stat_unknown) .. " \\n"
 		_str = _str .. clr_y .. " ・ " .. str_tbl.out_comm .. " : " .. (community and gc("st_dyn_news_comm_" .. community .. "_6") or str_tbl.stat_unknown) .. " \\n" --japan
 --		_str = _str .. clr_p .. "  ・" .. clr_1 .. " " .. str_tbl.out_helm .. ": " .. clr_2 .. (helmet_avaliable and str_tbl.stat_included or str_tbl.stat_avail) .. " \\n"
