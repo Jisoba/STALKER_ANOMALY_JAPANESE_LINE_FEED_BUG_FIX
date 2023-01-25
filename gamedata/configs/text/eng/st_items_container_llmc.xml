@@ -10,12 +10,12 @@
 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_pin_lead_box_name">
@@ -29,12 +29,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_cristall_lead_box_name">
@@ -49,12 +49,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_fireball_lead_box_name">
@@ -68,12 +68,12 @@
 \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_blood_lead_box_name">
@@ -86,12 +86,12 @@
 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_mincer_meat_lead_box_name">
@@ -106,12 +106,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23mSv
-                %c[ui_white] ・ 状態 : 満杯</text>
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 許容放射線レベル : 23mSv
+\n%c[ui_white] ・ 状態 : 満杯\n</text>
   </string>
   <string id="st_af_bracelet_lead_box_name">
     <text>アーティファクト完全隔離容器／「ブレスレット」</text>
@@ -124,12 +124,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管装置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 許容放射線レベル : 23mSv
-                %c[ui_white] ・ 状態 : 満杯</text>
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管装置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 許容放射線レベル : 23mSv
+\n%c[ui_white] ・ 状態 : 満杯\n</text>
   </string>
   <string id="st_af_baloon_lead_box_name">
     <text>アーティファクト完全隔離容器／「バブル」</text>
@@ -142,12 +142,12 @@
       \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_electra_sparkler_lead_box_name">
@@ -161,12 +161,12 @@
 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_sponge_lead_box_name">
@@ -180,12 +180,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_ring_lead_box_name">
@@ -200,12 +200,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_electra_flash_lead_box_name">
@@ -220,12 +220,12 @@
 \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_cristall_flower_lead_box_name">
@@ -240,12 +240,12 @@
 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_lobster_eyes_lead_box_name">
@@ -260,12 +260,12 @@
 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_electra_moonlight_lead_box_name">
@@ -278,12 +278,12 @@
                 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_black_spray_lead_box_name">
@@ -299,12 +299,12 @@
                 \n\n高レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_medusa_lead_box_name">
@@ -318,12 +318,12 @@
                 \n\n低レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_vyvert_lead_box_name">
@@ -337,12 +337,12 @@
                 \n\n中レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_empty_lead_box_name">
@@ -357,12 +357,12 @@
                 \n\n中レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_full_empty_lead_box_name">
@@ -377,12 +377,12 @@
                 \n\n高レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_night_star_lead_box_name">
@@ -397,12 +397,12 @@
                 \n\n低レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_gravi_lead_box_name">
@@ -416,12 +416,12 @@
                 \n\n中レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_gold_fish_lead_box_name">
@@ -437,12 +437,12 @@
 \n\n最高レベルの照射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_dummy_glassbeads_lead_box_name">
@@ -457,12 +457,12 @@
                 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_eye_lead_box_name">
@@ -478,12 +478,12 @@
                 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_fire_lead_box_name">
@@ -499,12 +499,12 @@
                 \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_dummy_battery_lead_box_name">
@@ -519,12 +519,12 @@
                 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_dummy_dummy_lead_box_name">
@@ -541,12 +541,12 @@
                 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_ice_lead_box_name">
@@ -562,12 +562,12 @@
                 \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_soul_lead_box_name">
@@ -581,12 +581,12 @@
                 \n\n低レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_fuzz_kolobok_lead_box_name">
@@ -603,12 +603,12 @@
                 \n\n中レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_glass_lead_box_name">
@@ -624,12 +624,12 @@
                 \n\n高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_compass_lead_box_name">
@@ -644,12 +644,12 @@
                 \n\nこのアーティファクトを体に近づけると、数分で死に至る。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_oasis_heart_lead_box_name">
@@ -663,12 +663,12 @@
                 \n\n最高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_death_lamp_lead_box_name">
@@ -685,12 +685,12 @@
 \n\n最高レベルの放射線出力を有する。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
   <string id="st_af_misery_bread_lead_box_name">
@@ -701,12 +701,12 @@
                 鉛製の容器に入った特異なパン。これを残した人の魂のように暗い。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
-                %c[d_cyan] ・ 貴重品
-                %c[ui_white] ・ アーティファクト保管放置
-                %c[ui_white] ・ 最大容量 : 1
-                %c[ui_white] ・ 完全隔離
-                %c[ui_white] ・ 状態 : 満杯
+\n%c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 貴重品
+\n%c[ui_white] ・ アーティファクト保管放置
+\n%c[ui_white] ・ 最大容量 : 1
+\n%c[ui_white] ・ 完全隔離
+\n%c[ui_white] ・ 状態 : 満杯\n
                 </text>
   </string>
 </string_table>

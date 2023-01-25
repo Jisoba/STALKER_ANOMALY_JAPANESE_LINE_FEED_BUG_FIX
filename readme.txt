@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////
-S.T.A.L.K.E.R. Anomaly 1.5.2 日本語化MOD
+S.T.A.L.K.E.R. Anomaly 1.5.2 DLTX対応日本語化MOD
 ////////////////////////////////////////////////////////////////////
 
 ◆概要
@@ -39,3 +39,36 @@ gamedata\scripts\ui_mm_faction_select.script
 gamedata\scripts\ui_options.script
 gamedata\scripts\ui_workshop.script
 gamedata\scripts\utils_ui.script
+
+◆DLTX対応
+DLTXのexeファイルにてマルチバイトフォント環境下の改行バグが修正された為、以下ファイルを修正
+gamedata\configs\text\eng\st_items_ammo.xml
+gamedata\configs\text\eng\st_items_artefacts.xml
+gamedata\configs\text\eng\st_items_artefacts2.xml
+gamedata\configs\text\eng\st_items_attachments.xml
+gamedata\configs\text\eng\st_items_backpacks.xml
+gamedata\configs\text\eng\st_items_consumable.xml
+gamedata\configs\text\eng\st_items_container_aac.xml
+gamedata\configs\text\eng\st_items_container_aam.xml
+gamedata\configs\text\eng\st_items_container_iam.xml
+gamedata\configs\text\eng\st_items_container_llmc.xml
+gamedata\configs\text\eng\st_items_cooking.xml
+gamedata\configs\text\eng\st_items_devices.xml
+gamedata\configs\text\eng\st_items_equipment.xml
+gamedata\configs\text\eng\st_items_explosive.xml
+gamedata\configs\text\eng\st_items_letters.xml
+gamedata\configs\text\eng\st_items_medical.xml
+gamedata\configs\text\eng\st_items_money.xml
+gamedata\configs\text\eng\st_items_mutant_parts.xml
+gamedata\configs\text\eng\st_items_parts.xml
+gamedata\configs\text\eng\st_items_patches.xml
+gamedata\configs\text\eng\st_items_quest.xml
+gamedata\configs\text\eng\st_items_repair.xml
+gamedata\configs\text\eng\st_items_tools.xml
+gamedata\configs\text\eng\st_items_trash.xml
+gamedata\configs\text\eng\st_items_upgrade.xml
+gamedata\configs\text\eng\st_items_weapons.xml
+gamedata\configs\text\eng\st_items_weapons_addons.xml
+gamedata\configs\text\eng\st_mm_faction_select.xml
+gamedata\scripts\ui_item.script
+gamedata\scripts\ui_mm_faction_select.script

@@ -8,8 +8,8 @@
              小さなプラスチックの容器。小物、特に薬品や医薬品を安全に保管するのに便利だ。内容物を湿気から守り、製品の含水量を確実に保つ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 基本素材
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 基本素材
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="st_e_syringe">
@@ -19,8 +19,8 @@
     <text>お粗末なプランジャーを備えた12mLの医療用注射器。何度も再利用されているようだ。製薬キットと適切な知識があれば、この注射器はさまざまな種類の薬を作成するのに役立つ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 基本素材
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 基本素材
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="st_rope">
@@ -30,7 +30,7 @@
     <text>状態の良いロープはゾーンでは大変重宝する。ほとんどのストーカーがロープを必要としているので、売買価格は高い。このロープの長さは、約 10 メートル。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_cyan] ・ 基本素材</text>
+\n%c[d_cyan] ・ 基本素材\n</text>
   </string>
   <string id="st_porn">
     <text>ロシア版「PLAYBOY」</text>
@@ -39,7 +39,7 @@
     <text>100ページ相当のロシア女子たちの素晴らしいヌード集。精神的に良い所へトリップするいい方法である。「ロシアから愛をこめて」と、西側の人間はしばしば冗談に使う。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_survivalguide">
     <text>ウクライナ特殊部隊 サバイバルガイド</text>
@@ -48,7 +48,7 @@
     <text>あなたはこれまで何度もこのサバイバルガイドを熟読し、研究してきた。そのため本書の内容に価値は無いが、即金で販売できるはずだ。一部のストーカーは、これを見たがるかもしれない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_guitar_name">
     <text>ギター</text>
@@ -57,7 +57,7 @@
     <text>ギターは殺伐とした雰囲気を変え、他のストーカーと円滑なコミュニケーションを取る上で非常に役に立つ弦楽器で、派閥を問わず広く親しまれている。多くの場合、野営地や前哨基地、特に焚き火の周りなど比較的安全な場所で演奏している姿を見ることができる。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_harmonica_name">
     <text>ハーモニカ</text>
@@ -66,7 +66,7 @@
     <text>ブルースと牢獄のロマンスを愛する者たちへ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_steel_wool">
     <text>スチールウール</text>
@@ -75,7 +75,7 @@
     <text>スチールウール、又はワイヤーウールは、非常に細い鉄線を綿状に固めた物。家庭用調理器具の清掃やさび落し、塗装剥がし、木材や金属製品の研磨、仕上げ等に使う。スチールウールは低炭素鋼から作られている (炭素の含有量は普通の鉄同程度まで低く抑えている)。1 本 1 本の繊維の断面が、三日月型や三角形、長方形等の多面体で、エッジがあるだけでなく、製法上、繊維自体が均一化されず表面積が大きくなることにより、優れた研磨特性を発揮する。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品</text>
+\n%c[d_blue] ・ 技術品\n</text>
   </string>
   <string id="st_grease">
     <text>工業用グリス</text>
@@ -84,8 +84,8 @@
     <text>グリスは、半個体の潤滑剤。基本的には液状潤滑油にカルシウム ナトリウム リチウム アルミニウムの石鹸(脂肪酸の塩)等の増ちょう剤を均一に拡散させ、ゼリー状にしたもの。主にすべり軸受けやベアリング、あるいは接触する面が動くために潤滑剤の膜を付着した状態に保つのが難しい摺動面に用いられる。さらに、液体や非圧縮性の材料が染み出すのを防ぐシーラントの役目も果たす。グリスで円滑になったベアリングは低い摩擦係数を示す。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_blue] ・ 高品質
+\n%c[d_blue] ・ 技術品
+\n%c[d_blue] ・ 高品質\n
                 </text>
   </string>
   <string id="st_shovel_old">
@@ -95,7 +95,7 @@
     <text>様々な分野で使われている古い金属ショベル。特に工業地帯でよく見られるシャベルをバックパックに入れている者はほとんどいない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_shovel_mili">
     <text>軍用シャベル</text>
@@ -104,7 +104,7 @@
     <text>高品質な黒い軍用シャベル。様々な野外活動で使用する。スペツナズ兵士の訓練には、素手による格闘の他、武器の代わりになる物を使い敵を排除するメニューも組まれる。それは、シャベルがスペツナズ兵士の手に握られた時、接近戦において恐るべき凶器に変貌することを意味する。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 軍用品</text>
+\n%c[d_blue] ・ 軍用品\n</text>
   </string>
   <string id="st_meinkampf">
     <text>我が闘争</text>
@@ -113,7 +113,7 @@
     <text>アドルフ ヒトラーの戦略的な記録が一冊にまとめられた本。この本の内容が多くの人々に嫌われる一方で、高い象徴的価値をも持っている。アドルフ ヒトラー（1889年4 月20 日 ~ 1945年4 月30日）オーストリアのハンガリー帝国に生まれたドイツの政治家で国家社会主義ドイツ労働者党（ナチス）指導者。1933年にドイツの首相となり、1934 ~ 1945年の間、ナチスドイツの独裁者だった。ヒトラーは第二次世界大戦の開戦およびホロコーストの責任を負っている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 私物</text>
+\n%c[d_blue] ・ 私物\n</text>
   </string>
   <string id="st_journal">
     <text>個人の日誌</text>
@@ -122,7 +122,7 @@
     <text>皮革で装丁された、初期の地図と記録が書かれた個人の日誌。簡単な生存のヒントは、ほとんどの人間には価値が無い。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 私物</text>
+\n%c[d_blue] ・ 私物\n</text>
   </string>
   <string id="st_maps_kit">
     <text>地図作成キット</text>
@@ -131,8 +131,8 @@
     <text>ペンと測定器具がセットになった地図作成キット。防水 カモフラージュされた高品質のカバーです。ウクライナの砲兵要員によって使用されていた。一部のマップはまだ完成していない。あなたのPDAはこれよりもずっと役に立つ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_welding_goggles">
     <text>溶接用ゴーグル</text>
@@ -141,7 +141,7 @@
     <text>切れた皮バンドの古く腐食した溶接用ゴーグル。溶接作業中に目を防護するために使用するものだが、これは既に役目を終えている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_survival_kit">
     <text>小型サバイバルキット</text>
@@ -150,11 +150,11 @@
     <text>サバイバルキットには、生地、縫い針、皮革を数枚含む。長いゾーンの旅でベテランストーカーは、出血を止め、裂傷を治療する手段として、この小さなサバイバルキットの重要性を認識している。そして、激しく損傷したスーツを修復するために用いる。
 
              \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_blue] ・ 高品質
-                %c[d_red] ・ 効果が現れるまでの早さ : 遅い
-                %c[d_blue] ・ 大量出血を即座に止血
-                %c[d_red] ・ 回復にかかる時間 : 長い</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 高品質
+\n%c[d_red] ・ 効果が現れるまでの早さ : 遅い
+\n%c[d_blue] ・ 大量出血を即座に止血
+\n%c[d_red] ・ 回復にかかる時間 : 長い\n</text>
   </string>
   <string id="st_jewelry_box">
     <text>装飾された宝石箱</text>
@@ -163,8 +163,8 @@
     <text>女性が身に付ける宝石やアクセサリーが詰まった小さな箱。かなり価値がありそうだが、ブラインド ドッグの歯以外のアクセサリーを身に付けている ストーカーを見た覚えが無い。故に取引価格は知れている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_blue] ・ 高価値</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 高価値\n</text>
   </string>
   <string id="st_book1">
     <text>機械工学の解説書</text>
@@ -173,7 +173,7 @@
     <text>機械工学のマニュアル。このような本を読んで専門知識を深め、ゾーン内の施設や工場についてさらに詳しく学ぶ人もいる。販売価格は安い。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_book2">
     <text>生産工学の解説書</text>
@@ -182,7 +182,7 @@
     <text>工業工学の手引書。このような本を読んで専門知識を深め、ゾーン内の施設や工場についてさらに詳しく学ぶ人もいる。販売価格は安い。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_drugnotes">
     <text>薬物取引について</text>
@@ -191,8 +191,8 @@
     <text>様々な薬物取引について詳細に書かれている。固有の呼称、取引の時間および場所も含む。取引は物々交換によるものと、大量のルーブルによって行われる。本をめくるにつれ、Freedomがマリファナの様な天然薬物のブローカーであることが明らかになる。Banditは、サリチル酸やコカイン等より強くかつ危険な合成薬物の生産者でありブローカーでもある。明らかにゾーンの各派閥はこれらの取引に関わっている。特にMonolithは、高価な弾薬と装備との交換によって大量の薬物を取得しているように見られる。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 私物
-                %c[d_blue] ・ 貴重品</text>
+\n%c[d_blue] ・ 私物
+\n%c[d_blue] ・ 貴重品\n</text>
   </string>
   <string id="st_picture_woman">
     <text>女性の写真</text>
@@ -201,7 +201,7 @@
     <text>セロハンに包まれた小さな写真には、ブロンドの美しい女性が写っている。写真の下部の名前を書いた部分は削り取られている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 私物</text>
+\n%c[d_blue] ・ 私物\n</text>
   </string>
   <string id="st_porn2">
     <text>ウクライナ版「マキシム」</text>
@@ -210,7 +210,7 @@
     <text>雑誌に掲載されているのは、美しいスラブ系の少女達で、今月の特集はジョアナ クルーパだ。ゾーンの人々が気分を紛らわす手段としてとても人気。この雑誌のジョアナのポスターは切り取られている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_boots">
     <text>レザーブーツ</text>
@@ -219,8 +219,8 @@
     <text>誰もが優秀な道具の重要性に気づいている。一足の予備のブーツがどれ程有用であるかは推して知るべし。それは、他のストーカーからの羨望の対象である。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_blue] ・ 私物</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 私物\n</text>
   </string>
   <string id="st_batteries_dead_empty">
     <text>古いバッテリー（空）</text>
@@ -229,8 +229,8 @@
     <text>ゾーンで見つかった 10 個のバッテリーの内 1 つだけ若干の電気が残っていたもの。もう完全に放電しており、まったく利用価値が無い。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 電力は枯渇</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 電力は枯渇\n</text>
   </string>
   <string id="st_batteries_empty">
     <text>バッテリー（空）</text>
@@ -239,8 +239,8 @@
     <text>完全に消耗したバッテリー。価値はただ金属製であると言うことのみ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 電力は枯渇</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 電力は枯渇\n</text>
   </string>
   <string id="st_batteries_ccell_empty">
     <text>軍用バッテリー（空）</text>
@@ -249,8 +249,8 @@
     <text>空の軍用バッテリー。満充電なら大変貴重で高い需要があるが、完全放電してしまったバッテリーはただの鉄の塊で、足かせにしかならない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 電力は枯渇</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 電力は枯渇\n</text>
   </string>
   <string id="st_flashlight_broken">
     <text>壊れた懐中電灯</text>
@@ -259,9 +259,9 @@
     <text>ハンドルが壊れており、ダクトテープでさえバッテリーを固定できないだろう。これにもはや価値はない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_underwear">
     <text>汚れた下着</text>
@@ -270,8 +270,8 @@
     <text>予備のシャツや下着、靴下は快適な日々を送るのにかかせない。残念ながら、このセットは酷く汚れていて、金を払ってまで買おうとするストーカーはいない。だが、捨てるにはまだ早く、スーツや銃器の整備に流用出来る。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_blue] ・ 私物</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 私物\n</text>
   </string>
   <string id="st_wpn_spareparts">
     <text>銃の予備部品</text>
@@ -279,8 +279,8 @@
   <string id="st_wpn_spareparts_descr">
     <text>「AKM」と思われるアサルトライフルの予備部品。木製の部品はあまり良い状態ではなく、金属部分も同様である。初心者しか買おうとしないだろう。しかし、装備品の修理には使えそうだ。ゾーンの住人の中には、新しい武器を発見したときに、スタッシュから盗んだと疑われないように部品を交換する人もいる。
 
-                %c[ui_gray_3]特性
-                %c[d_blue] ・ 軍用品
+\n%c[ui_gray_3]特性
+\n%c[d_blue] ・ 軍用品\n
                 </text>
   </string>
   <string id="st_beadspread">
@@ -290,7 +290,7 @@
     <text>ゾーンでは贅沢な物。これは、しっかりとした睡眠を取る機会を10%増してくれる。ゾーンの避難所には少数のベッドしかなく、しっかりと睡眠を取るには窮屈だが、寝袋とシュラフマットを持っていれば快適な睡眠を取れるだろう。シュラフマットはいくつかの部隊の装備品に含まれる。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="st_walkie">
@@ -300,9 +300,9 @@
     <text>ディスプレイは表示されず、スピーカーからは常に雑音が出ていることから、壊れているということがわかる。噛み跡からミュータントに噛まれた事も伺える。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_cards">
     <text>トランプ</text>
@@ -311,7 +311,7 @@
     <text>この酷く恐ろしい場所に置かれ、常に緊張を強いられた状況を緩和するには他の娯楽に興じることが必要だ。トランプをすることは気晴らしにうってつけだが、一組のトランプは特別な取引にも使われる。カバーにはモスクワ地下鉄が誇る駅舎がデザインされている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_mili_maps">
     <text>Militaryの地図</text>
@@ -320,7 +320,7 @@
     <text>ゾーン周辺にあるMilitaryの野営地の位置を示す地図。PDAにはこれらの地図がインストールされているので、このアイテムが役に立つことはほとんどないだろう。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 軍事品</text>
+\n%c[d_blue] ・ 軍事品\n</text>
   </string>
   <string id="st_headlamp">
     <text>古いヘッドマウントライト</text>
@@ -329,9 +329,9 @@
     <text>夜のゾーンを探索する必要にせまられ、恐れず行動するために重大な役割を果たしてくれる。残念ながらこのライトは長い間酷使されていたため、今は簡単な部品取りとして役立てる他ない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可能
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可能
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_mirror">
     <text>テレスコピックミラー</text>
@@ -340,7 +340,7 @@
     <text>望遠鏡の鉄管に取り付けられた小さな鏡。市街地での戦闘に精通したファイターが、撃たれずにコーナーを覗ける便利なアイテム。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 軍事品</text>
+\n%c[d_blue] ・ 軍事品\n</text>
   </string>
   <string id="st_hammer">
     <text>古びたハンマー（再利用可能）</text>
@@ -349,8 +349,8 @@
     <text>木の取っ手と鉄の頭部を持つハンマー。ゾーンの工場ではどこでも見かける。重量があるが、その汎用性からか、よくバックパックに入れて持ち運ばれている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_orange] ・ 使用回数の制限なし</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_orange] ・ 使用回数の制限なし\n</text>
   </string>
   <string id="st_tarpaulin">
     <text>迷彩防水シート</text>
@@ -359,7 +359,7 @@
     <text>防水シート（粗末な小屋）とは、丈夫で柔軟性があり、耐水性や防水性のある大きなシートのことで、キャンバスやポリエステルなどの布にウレタンをコーティングしたものや、ポリエチレンなどのプラスチック製のものが多い。角や側面にはロープを通すためのグロメットが付いており、これを使って縛ったり吊るしたりすることができる。様々な用途があるが、主に小型でシンプルなテントのような隠れ家を作るのに使われる。簡単に手に入る代替品のため、取引価値は低い。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 軍用品</text>
+\n%c[d_blue] ・ 軍用品\n</text>
   </string>
   <string id="st_synthrope">
     <text>2 本の合成繊維ロープ</text>
@@ -368,7 +368,7 @@
     <text>合成繊維素材のロープは軍の倉庫で見つけることが出来る。理由は定かではないが、軍のストーカーのほとんどは、それを携行していない。状態の良いロープはゾーンでは大変重宝する。ほとんどのストーカーがロープを必要としているので、売買価格は高い。このロープの長さは、それぞれが約5メートル。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="st_cutlery">
@@ -378,7 +378,7 @@
     <text>バックパックや野外調査などに、丈夫で軽く機能的な鉄製のナイフ、フォークとスプーンのセット。銅線で一緒に括られている。錆などを落とし常に清潔に保てば、安全に使用出来る。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="st_radio">
@@ -388,9 +388,9 @@
     <text>音楽は神経を静めるのに最適な方法だ。しかしアンテナが壊れているため、このラジオはほとんど役に立たない。湿気や汚れもこびりついている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_radio2">
     <text>壊れたラジオ</text>
@@ -399,9 +399,9 @@
     <text>劣悪な状態の小さなラジオ。汚れていて湿気で傷んでいる。ラジオを揺らすとガタガタ音がするので、内装がかなり悪いようだ。価値はほとんどない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_broken_detector">
     <text>壊れた探知機</text>
@@ -410,9 +410,9 @@
     <text>壊れたBear探知機。画面が割れていて、内装もかなり悪い状態であるが、中に入っている電子部品のいくつかはまだ安全だ。これらは修理のための部品としての利用、またはクラフトによって再利用することも可能だ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 技術品
-                %c[d_red] ・ 修復不可
-                %c[d_red] ・ 使用不可</text>
+\n%c[d_blue] ・ 技術品
+\n%c[d_red] ・ 修復不可
+\n%c[d_red] ・ 使用不可\n</text>
   </string>
   <string id="st_gloves">
     <text>レザーグローブ</text>
@@ -421,8 +421,8 @@
     <text>革製の手袋。最近買ったかのように気持ちいい香りがする。天候が悪化して寒くなったときは、手を暖かくすることが重要になる。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
-                %c[d_blue] ・ 高価値</text>
+\n%c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 高価値\n</text>
   </string>
   <string id="st_hand_watch">
     <text>腕時計</text>
@@ -431,9 +431,9 @@
     <text>古びた、古典的なソビエトの「raketa3」時計。まだ調子は良さそうだ。多くのストーカーが通常の時間確認のためにPDAよりも機械式時計を好むのは当然である。時計は、最悪の状況でも信頼性と耐久性があるという事実を考えると、PDAが放射または近くの異常な領域から来る強い電磁波のためにエラーを起こしても役立つ。ただし、一部の者はスタイリッシュなアクセサリーとして単に身に着けているだけだ。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_cyan] ・ 私物
-                %c[d_blue] ・ 技術品
-                %c[d_blue] ・ 高価値</text>
+\n%c[d_cyan] ・ 私物
+\n%c[d_blue] ・ 技術品
+\n%c[d_blue] ・ 高価値\n</text>
   </string>
   <string id="st_ball_hammer">
     <text>鉄工ハンマー</text>
@@ -442,7 +442,7 @@
     <text>機械工のハンマーとしても知られている鉄工ハンマーは、金属加工に使用されるピーニングハンマーの一種。古くて錆びているにもかかわらず、小さな修理作業のために使用することで作業は大きく捗るだろう。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品</text>
+\n%c[d_blue] ・ 日用品\n</text>
   </string>
   <string id="st_duct_tape">
     <text>ダクトテープ</text>
@@ -451,7 +451,7 @@
     <text>ダクトテープは、強くて柔軟で非常に粘着性のあるテープが必要な状況で一般的に使用されている。迅速な修理作業において、簡単だが一時的な解決策である。このタイプは長期的な接着性能と耐候性を持っている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 日用品
+\n%c[d_blue] ・ 日用品\n
                 </text>
   </string>
   <string id="ammo12x70_base_name">
@@ -461,8 +461,8 @@
     <text>火薬、薬包、弾丸など、12x70のバックショット弾を作るのに必要なものがすべて揃っている。40発作るのに十分な量である。
 
 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 弾薬の製造に使用される。
-%c[0,253,155,155] ・ 道具が必要</text>
+\n%c[d_cyan] ・ 弾薬の製造に使用される。
+\n%c[0,253,155,155] ・ 道具が必要\n</text>
   </string>
   <string id="ammo12x70_tools_name">
     <text> 12x70散弾用ハンドローダー</text>
@@ -471,8 +471,8 @@
     <text>12x70のバックショット弾を作るのに必要な道具。
 
 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 弾薬の製造に使用される
-                %c[d_cyan] ・ 日用品</text>
+\n%c[d_cyan] ・ 弾薬の製造に使用される
+\n%c[d_cyan] ・ 日用品\n</text>
   </string>
   <string id="sew_tools_name">
     <text>裁縫道具</text>
@@ -481,8 +481,8 @@
     <text>針や布くず。布製品を作るのに必要なもの。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ %c[ui_gray_2]クラフトツール
-                %c[d_cyan] ・ %c[ui_gray_2]一般的</text>
+\n%c[d_cyan] ・ %c[ui_gray_2]クラフトツール
+\n%c[d_cyan] ・ %c[ui_gray_2]一般的\n</text>
   </string>
   <string id="sleepbag_base_name">
     <text>寝袋の構成品</text>
@@ -491,8 +491,8 @@
     <text>寝袋を作るために必要なものがすべて揃っている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ クラフトアイテム
-                %c[0,253,155,155] ・ 裁縫道具が必要</text>
+\n%c[d_cyan] ・ クラフトアイテム
+\n%c[0,253,155,155] ・ 裁縫道具が必要\n</text>
   </string>
   <string id="backpack_base_name">
     <text>バックパックの構成品</text>
@@ -501,8 +501,8 @@
     <text>ゴム引きの生地、ファスナー、リベット。バックパックを作るために必要なものがすべて揃っている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ クラフトアイテム
-                %c[0,253,155,155] ・ 裁縫道具が必要</text>
+\n%c[d_cyan] ・ クラフトアイテム
+\n%c[0,253,155,155] ・ 裁縫道具が必要\n</text>
   </string>
   <string id="selfroll_1_name">
     <text>巻きたばこ</text>
@@ -511,8 +511,8 @@
     <text>ゆるいたばこ、フィルター、紙
 
                 \n%c[ui_gray_2]特性 : 
-                %c[0,253,155,155] ・ 癌を引き起こす可能性がある
-                %c[d_cyan] ・ 自家製</text>
+\n%c[0,253,155,155] ・ 癌を引き起こす可能性がある
+\n%c[d_cyan] ・ 自家製\n</text>
   </string>
   <string id="st_itm_cutting_tools">
     <text>達人の分解ツール</text>
@@ -521,8 +521,8 @@
     <text>上位の装備品を分解できるツール。
 
                 \n%c[ui_gray_2]特性 : 
-%c[0,155,155,155] ・ クラフトツール
-%c[0,255,1,1] ・ 上位の装備品に対応</text>
+\n%c[0,155,155,155] ・ クラフトツール
+\n%c[0,255,1,1] ・ 上位の装備品に対応\n</text>
   </string>
   <string id="st_itm_cutting_tools_2">
     <text>熟練職人の分解ツール</text>
@@ -531,8 +531,8 @@
     <text>中位の装備品を分解できるツール。
 
                 \n%c[ui_gray_2]特性 : 
-%c[0,155,155,155] ・ クラフトツール
-%c[0,255,1,1] ・ 中位の装備品に対応</text>
+\n%c[0,155,155,155] ・ クラフトツール
+\n%c[0,255,1,1] ・ 中位の装備品に対応\n</text>
   </string>
   <string id="st_itm_cutting_tools_3">
     <text>素人の分解ツール</text>
@@ -541,8 +541,8 @@
     <text>下位の装備品を分解できるツール。
 
                 \n%c[ui_gray_2]特性 : 
-%c[0,155,155,155] ・ クラフトツール
-%c[0,255,1,1] ・ 下位の装備品に対応</text>
+\n%c[0,155,155,155] ・ クラフトツール
+\n%c[0,255,1,1] ・ 下位の装備品に対応\n</text>
   </string>
   <string id="plate_seva_name">
     <text>SEVA装甲板</text>
@@ -551,7 +551,7 @@
     <text>SEVAスーツから削り出した装甲板。小さな弾丸を止めることができ、いくつかの耐性がある。修理にも使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 技術品\n
                 </text>
   </string>
   <string id="plate_heavy_name">
@@ -561,7 +561,7 @@
     <text>クラス4の防護性能を持つセラミック複合板。補修材としても使える。
 
                 \n%c[ui_gray_2]特性
-                %c[d_cyan] ・ 技術品
+\n%c[d_cyan] ・ 技術品\n
                 </text>
   </string>
   <string id="plate_medium_name">
@@ -571,7 +571,7 @@
     <text>クラス3の防護を提供する装甲板。修理材料としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_light_name">
     <text>自家製装甲板</text>
@@ -580,7 +580,7 @@
     <text>ケブラーとアラミドを使用した手作りの装甲板。クラス2の防護性能を提供する。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_cloth_name">
     <text>軽量布製装甲板</text>
@@ -589,7 +589,7 @@
     <text>手作りのケブラーと布の板。クラス1の防護性能を提供する。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_military_name">
     <text>グラナイト4M装甲板</text>
@@ -598,7 +598,7 @@
     <text>セラミック製の軍用重装甲板。クラス5の防護性能を提供する。修理材料としても使用できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_monolith_name">
     <text>不明な装甲板</text>
@@ -607,7 +607,7 @@
     <text>未知の材料から成る装甲板。固形の合金と布でできており、ものすごく重い。クラス5の防護性能を提供する（フィールドテスト)。補修材としても使用できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_unload_name">
     <text>弾薬ポーチ</text>
@@ -616,7 +616,7 @@
     <text>マガジンなどを収納するために使われていた、弾薬袋。高密度で上質な生地を使用している。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plate_small_name">
     <text>小さな装甲板</text>
@@ -625,7 +625,7 @@
     <text>小さな自家製の装甲板で、溶けたスクラップでできているようだ。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="cloth_green_name">
     <text>緑の布</text>
@@ -634,7 +634,7 @@
     <text>緑のスーツからカットされた緑の生地。非常に高品質で高密度の生地。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="cloth_black_name">
     <text>黒い布</text>
@@ -643,7 +643,7 @@
     <text>黒いスーツからカットされた黒い生地。非常に高品質で高密度の生地。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="cloth_brown_name">
     <text>茶色の布</text>
@@ -652,7 +652,7 @@
     <text>茶色いスーツからカットされた茶色の生地。非常に高品質で高密度の生地。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="cloth_white_name">
     <text>白い布</text>
@@ -661,7 +661,7 @@
     <text>白いスーツからカットされた白色の生地。非常に高品質で高密度の生地。補修材としても使える。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="servomotor_name">
     <text>サーボドライブ</text>
@@ -669,7 +669,7 @@
   <string id="servomotor_descr">
     <text>強化外骨格から取ったサーボ。リペアキットで交換できそうだ。
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="plastic_pieces_name">
     <text>プラスチックのくず</text>
@@ -678,7 +678,7 @@
     <text>スーツから削り出された密度の高いプラスチックの破片。パッチや修理に使用できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="glass_pieces_name">
     <text>ガラス</text>
@@ -687,7 +687,7 @@
     <text>ガスマスクやヘルメットのガラス片。ほとんどの割れたヘルメットのガラスを適切なツールを使い交換できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_spareparts">
     <text>古い散弾銃の部品</text>
@@ -696,7 +696,7 @@
     <text>スムースボアライフルの古い木材と金属の部品が様々な状態で入っている。この中には修理に役立つものもある。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_sov_r_spareparts">
     <text>ソビエト製自動小銃の部品</text>
@@ -705,7 +705,7 @@
     <text>ソビエトライフルの古い銃身、フレーム、ストックが、すべてさまざまな状態で保管されている。この中には修理に役立つものもありそうだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_nato_r_spareparts">
     <text>NATO製自動小銃の部品</text>
@@ -714,7 +714,7 @@
     <text>NATO自動小銃用の古い銃身、フレーム、ストックが、すべてさまざまな状態で保管されている。この中には修理に役立つものもありそうだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_sov_p_spareparts">
     <text>ソビエト製ピストルの部品</text>
@@ -723,7 +723,7 @@
     <text>さまざまなソビエト製ピストルの古いスプリング、ハンマー、フレームが入っている。この中には修理に役立つものもありそうだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_nato_p_spareparts">
     <text>NATO製ピストルの部品</text>
@@ -732,7 +732,7 @@
     <text>さまざまなNATO製ピストルの古いスプリング、ハンマー、フレームが入っている。この中には修理に役立つものもありそうだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_sov_s_spareparts">
     <text>ソビエト製狙撃ライフルの部品</text>
@@ -741,7 +741,7 @@
     <text>古いソビエト製の長いライフルの部品。この一部は修理に使用できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_nato_s_spareparts">
     <text>NATO製狙撃ライフルの部品</text>
@@ -750,7 +750,7 @@
     <text>旧NATOの狙撃銃の部品。この一部は修理に使用できる。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_shot_spareparts">
     <text>ショットガンの部品</text>
@@ -759,7 +759,7 @@
     <text>この比較的新しい部品は、スムーズバレルライフル用に設計されている。これは修理に使えるかもしれない。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_pp_spareparts">
     <text>サブマシンガンの部品</text>
@@ -768,7 +768,7 @@
     <text>サブマシンガン用に設計されたスプリング、フレーム、ストックが入っている。これは修理に使えそうだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_deactivate_mix">
     <text>自家製防腐剤</text>
@@ -777,8 +777,8 @@
     <text>錠剤と溶媒の混合物は、放射線や生物学的に有害な物質の中和に効果があることが証明されている。アイテムの除染に適している。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ アイテムの除染
-                %c[d_cyan] ・ %c[ui_gray_2]自家製</text>
+\n%c[d_cyan] ・ アイテムの除染
+\n%c[d_cyan] ・ %c[ui_gray_2]自家製\n</text>
   </string>
   <string id="st_barrelkit_shotgun">
     <text>ショットガン銃身の交換セット</text>
@@ -787,7 +787,7 @@
     <text>ショットガンの銃身を野外で交換するための専用キット。すべてのツールと銃身が含まれている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 技術品</text>
+\n%c[d_cyan] ・ 技術品\n</text>
   </string>
   <string id="st_vodka_4">
     <text>イエーガーマイスター リキュール</text>
@@ -796,8 +796,8 @@
     <text>ドイツの強力なハーブリキュール。56種類のハーブで作られ、12か月間オーク樽で熟成されている。瓶のラベルには、角に十字架のついた鹿が描かれている。伝説によると、その鹿はハンターの守護聖人、セントヒューバートによって目撃されたものと言われている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ 強いアルコール飲料
-                %c[d_cyan] ・ めまいを引き起こす</text>
+\n%c[d_cyan] ・ 強いアルコール飲料
+\n%c[d_cyan] ・ めまいを引き起こす\n</text>
   </string>
   <string id="st_selfroll_base_1_name">
     <text>紙、タバコ、フィルター</text>
@@ -806,6 +806,6 @@
     <text>タバコ、フィルター、紙などタバコを作るのに必要なすべて。これで大体6、7本は作れる。 
 
                 \n%c[ui_gray_2]特性 : 
-                %c[d_cyan] ・ クラフトアイテム</text>
+\n%c[d_cyan] ・ クラフトアイテム\n</text>
   </string>
 </string_table>

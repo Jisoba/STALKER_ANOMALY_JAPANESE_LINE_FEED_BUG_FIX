@@ -7,10 +7,10 @@
     <text>キャンプファイヤーは持ち運べるアイテムではないので、この神出鬼没な姿を見てはいけない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[0,100,255,255] ・ ストーカーのお気に入りの場所
-                %c[0,100,255,255] ・ 料理に役立つ
-                %c[0,100,255,255] ・ ストーリータイム
-                %c[0,100,255,255] ・ ギターやウォッカのお共に</text>
+\n%c[0,100,255,255] ・ ストーカーのお気に入りの場所
+\n%c[0,100,255,255] ・ 料理に役立つ
+\n%c[0,100,255,255] ・ ストーリータイム
+\n%c[0,100,255,255] ・ ギターやウォッカのお共に</text>
   </string>
   <string id="st_poxod_rukzak">
     <text>特異なバックパック</text>
@@ -19,7 +19,7 @@
     <text>一見、なんの変哲もないように見えるバックパック。しかし、その中に入れられたアイテムは時間の経過とともに重量が減少するという特性を持っている。それは軍のバックパックが誤ってアノマリーに巻き込まれたためだと言われている。科学者たちはこの奇妙な特性を再現しようと試みたが失敗に終った。この奇妙なバックパックは、ゾーンの有力者よって購入され、世界中に輸出され続けている。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ ユニークアイテム</text>
+\n%c[d_blue] ・ ユニークアイテム</text>
   </string>
   <string id="st_bolt">
     <text>ボルト</text>
@@ -28,8 +28,8 @@
     <text>普通の錆びたボルトで、初心者にも経験豊富なストーカーにもよく使われ、アノマリーを安全に通り抜けるために使われている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[ui_gray_2] ・ 日用品
-                %c[ui_gray_2] ・ 無限に使用可能</text>
+\n%c[ui_gray_2] ・ 日用品
+\n%c[ui_gray_2] ・ 無限に使用可能</text>
   </string>
   <string id="st_bolty">
     <text>ボルト</text>
@@ -38,7 +38,7 @@
     <text>普通の錆びたボルトで、初心者にも経験豊富なストーカーにもよく使われ、アノマリーを安全に通り抜けるために使われている。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[ui_gray_2] ・ 日用品</text>
+\n%c[ui_gray_2] ・ 日用品</text>
   </string>
   <string id="st_bolt_bullet">
     <text>空薬きょう</text>
@@ -47,7 +47,7 @@
     <text>時折ストーカーたちは空薬きょうをボルトの変わりに使う。アノマリーを安全に通り抜けるためだ。
 
                 \n%c[ui_gray_2]特性 : 
-                %c[ui_gray_2] ・ 日用品</text>
+\n%c[ui_gray_2] ・ 日用品</text>
   </string>
   <string id="st_identity_card">
     <text>USS 身分証明書</text>
@@ -56,101 +56,101 @@
     <text>身元を保証する ID カードは大切に保管すること。あなたはアサルトライフルと重火器を運用するUSSアサルターで、銃器の反動制御に長けているが、スプリントは速くない。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ 所持品</text>
+\n%c[d_blue] ・ 所持品</text>
   </string>
   <string id="st_identity_card_assaulter_descr">
     <text>USSアサルターは、以下の長所と短所を持っている。
 
                 \n%c[d_cyan]装備
-                %c[default]重いアーマーでの敏速さ : A+
-                %c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : C
-                %c[d_blue] ・ %c[default]アーティファクトの取り扱い : C
-                %c[d_cyan]武器
-                %c[d_blue] ・ %c[default]ナイフスキル : A+
-                %c[d_blue] ・ %c[default]得意な武器 : 重火器
-                %c[d_blue] ・ %c[default]メンテナンスが得意なもの : 重火器
-                %c[d_cyan]薬
-                %c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : B
-                %c[d_blue] ・ %c[default]回復する量 : C
-                %c[d_blue] ・ %c[default]薬物使用時の手早さ : C
-                %c[d_cyan]運動神経
-                %c[d_blue] ・ %c[default]持久力 : 非常に高い
-                %c[d_blue] ・ %c[default]移動速度 : 遅い
-                %c[d_blue] ・ %c[default]ジャンプ力 : 低い
-                %c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 低い
-                %c[d_blue] ・ %c[default]基本的なスタミナ : 低い
-                %c[d_blue] ・ %c[default]最大可搬重量 : 多い
-                %c[d_cyan]健康面
-                %c[d_blue] ・ %c[default]食料消費率 : 高い
-                %c[d_blue] ・ %c[default]睡眠の必要性 : 高い
-                %c[d_cyan]免疫系の抵抗力
-                %c[d_blue] ・ %c[default]薬／アルコール : A+
-                %c[d_blue] ・ %c[default]不健康な食品 : B
-                %c[d_blue] ・ %c[default]アーティファクト : C
-                %c[d_blue] ・ %c[default]放射線 : C</text>
+\n%c[default]重いアーマーでの敏速さ : A+
+\n%c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : C
+\n%c[d_blue] ・ %c[default]アーティファクトの取り扱い : C
+\n%c[d_cyan]武器
+\n%c[d_blue] ・ %c[default]ナイフスキル : A+
+\n%c[d_blue] ・ %c[default]得意な武器 : 重火器
+\n%c[d_blue] ・ %c[default]メンテナンスが得意なもの : 重火器
+\n%c[d_cyan]薬
+\n%c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : B
+\n%c[d_blue] ・ %c[default]回復する量 : C
+\n%c[d_blue] ・ %c[default]薬物使用時の手早さ : C
+\n%c[d_cyan]運動神経
+\n%c[d_blue] ・ %c[default]持久力 : 非常に高い
+\n%c[d_blue] ・ %c[default]移動速度 : 遅い
+\n%c[d_blue] ・ %c[default]ジャンプ力 : 低い
+\n%c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 低い
+\n%c[d_blue] ・ %c[default]基本的なスタミナ : 低い
+\n%c[d_blue] ・ %c[default]最大可搬重量 : 多い
+\n%c[d_cyan]健康面
+\n%c[d_blue] ・ %c[default]食料消費率 : 高い
+\n%c[d_blue] ・ %c[default]睡眠の必要性 : 高い
+\n%c[d_cyan]免疫系の抵抗力
+\n%c[d_blue] ・ %c[default]薬／アルコール : A+
+\n%c[d_blue] ・ %c[default]不健康な食品 : B
+\n%c[d_blue] ・ %c[default]アーティファクト : C
+\n%c[d_blue] ・ %c[default]放射線 : C</text>
   </string>
   <string id="st_identity_card_recon_descr">
     <text>USSレコンは、以下の長所と短所を持っている。
 
                 \n%c[d_cyan]装備
-                %c[default]重いアーマーでの敏速さ : C
-                %c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : A+
-                %c[d_blue] ・ %c[default]アーティファクトの取り扱い : A+
-                %c[d_cyan]武器
-                %c[d_blue] ・ %c[default]ナイフスキル : A
-                %c[d_blue] ・ %c[default]得意な武器 : サブマシンガン
-                %c[d_blue] ・ %c[default]メンテナンスが得意なもの : サブマシンガン
-                %c[d_cyan]薬
-                %c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : A+
-                %c[d_blue] ・ %c[default]回復する量 : A
-                %c[d_blue] ・ %c[default]薬物使用時の手早さ : A
-                %c[d_cyan]運動神経
-                %c[d_blue] ・ %c[default]持久力 : 低い
-                %c[d_blue] ・ %c[default]移動速度 : 速い
-                %c[d_blue] ・ %c[default]ジャンプ力 : 高い
-                %c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 高い
-                %c[d_blue] ・ %c[default]基本的なスタミナ : 高い
-                %c[d_blue] ・ %c[default]最大可搬重量 : 普通
-                %c[d_cyan]健康面
-                %c[d_blue] ・ %c[default]食料消費率 : 普通
-                %c[d_blue] ・ %c[default]睡眠の必要性 : 低い
-                %c[d_cyan]免疫系の抵抗力
-                %c[d_blue] ・ %c[default]薬／アルコール : B
-                %c[d_blue] ・ %c[default]不健康な食品 : A+
-                %c[d_blue] ・ %c[default]アーティファクト : B
-                %c[d_blue] ・ %c[default]放射線 : B</text>
+\n%c[default]重いアーマーでの敏速さ : C
+\n%c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : A+
+\n%c[d_blue] ・ %c[default]アーティファクトの取り扱い : A+
+\n%c[d_cyan]武器
+\n%c[d_blue] ・ %c[default]ナイフスキル : A
+\n%c[d_blue] ・ %c[default]得意な武器 : サブマシンガン
+\n%c[d_blue] ・ %c[default]メンテナンスが得意なもの : サブマシンガン
+\n%c[d_cyan]薬
+\n%c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : A+
+\n%c[d_blue] ・ %c[default]回復する量 : A
+\n%c[d_blue] ・ %c[default]薬物使用時の手早さ : A
+\n%c[d_cyan]運動神経
+\n%c[d_blue] ・ %c[default]持久力 : 低い
+\n%c[d_blue] ・ %c[default]移動速度 : 速い
+\n%c[d_blue] ・ %c[default]ジャンプ力 : 高い
+\n%c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 高い
+\n%c[d_blue] ・ %c[default]基本的なスタミナ : 高い
+\n%c[d_blue] ・ %c[default]最大可搬重量 : 普通
+\n%c[d_cyan]健康面
+\n%c[d_blue] ・ %c[default]食料消費率 : 普通
+\n%c[d_blue] ・ %c[default]睡眠の必要性 : 低い
+\n%c[d_cyan]免疫系の抵抗力
+\n%c[d_blue] ・ %c[default]薬／アルコール : B
+\n%c[d_blue] ・ %c[default]不健康な食品 : A+
+\n%c[d_blue] ・ %c[default]アーティファクト : B
+\n%c[d_blue] ・ %c[default]放射線 : B</text>
   </string>
   <string id="st_identity_card_sniper_descr">
     <text>USSスナイパーは、以下の長所と短所を持っている。
 
                 \n%c[d_cyan]装備
-                %c[default]重いアーマーでの敏速さ : B
-                %c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : B
-                %c[d_blue] ・ %c[default]アーティファクトの取り扱い : C
-                %c[d_cyan]武器
-                %c[d_blue] ・ %c[default]ナイフスキル : B
-                %c[d_blue] ・ %c[default]得意な武器 : 狙撃銃
-                %c[d_blue] ・ %c[default]メンテナンスが得意なもの : 狙撃銃
-                %c[d_cyan]薬
-                %c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : B
-                %c[d_blue] ・ %c[default]回復する量 : B
-                %c[d_blue] ・ %c[default]薬物使用時の手早さ : B+
-                %c[d_cyan]運動神経
-                %c[d_blue] ・ %c[default]持久力 : 普通
-                %c[d_blue] ・ %c[default]移動速度 : 普通
-                %c[d_blue] ・ %c[default]ジャンプ力 : 普通
-                %c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 普通
-                %c[d_blue] ・ %c[default]通常移動のスタミナ : 高い
-                %c[d_blue] ・ %c[default]スプリントのスタミナ : 普通
-                %c[d_blue] ・ %c[default]最大可搬重量 : 少ない
-                %c[d_cyan]健康面
-                %c[d_blue] ・ %c[default]食料消費率 : 低い
-                %c[d_blue] ・ %c[default]睡眠の必要性 : 普通
-                %c[d_cyan]免疫系の抵抗力
-                %c[d_blue] ・ %c[default]薬／アルコール : C
-                %c[d_blue] ・ %c[default]不健康な食品 : C
-                %c[d_blue] ・ %c[default]アーティファクト : A
-                %c[d_blue] ・ %c[default]放射線 : A</text>
+\n%c[default]重いアーマーでの敏速さ : B
+\n%c[d_blue] ・ %c[default]閉鎖型呼吸での敏捷性 : B
+\n%c[d_blue] ・ %c[default]アーティファクトの取り扱い : C
+\n%c[d_cyan]武器
+\n%c[d_blue] ・ %c[default]ナイフスキル : B
+\n%c[d_blue] ・ %c[default]得意な武器 : 狙撃銃
+\n%c[d_blue] ・ %c[default]メンテナンスが得意なもの : 狙撃銃
+\n%c[d_cyan]薬
+\n%c[d_blue] ・ %c[default]包帯/医療キット使用時の手早さ : B
+\n%c[d_blue] ・ %c[default]回復する量 : B
+\n%c[d_blue] ・ %c[default]薬物使用時の手早さ : B+
+\n%c[d_cyan]運動神経
+\n%c[d_blue] ・ %c[default]持久力 : 普通
+\n%c[d_blue] ・ %c[default]移動速度 : 普通
+\n%c[d_blue] ・ %c[default]ジャンプ力 : 普通
+\n%c[d_blue] ・ %c[default]落下/ジャンプ時の敏捷性 : 普通
+\n%c[d_blue] ・ %c[default]通常移動のスタミナ : 高い
+\n%c[d_blue] ・ %c[default]スプリントのスタミナ : 普通
+\n%c[d_blue] ・ %c[default]最大可搬重量 : 少ない
+\n%c[d_cyan]健康面
+\n%c[d_blue] ・ %c[default]食料消費率 : 低い
+\n%c[d_blue] ・ %c[default]睡眠の必要性 : 普通
+\n%c[d_cyan]免疫系の抵抗力
+\n%c[d_blue] ・ %c[default]薬／アルコール : C
+\n%c[d_blue] ・ %c[default]不健康な食品 : C
+\n%c[d_blue] ・ %c[default]アーティファクト : A
+\n%c[d_blue] ・ %c[default]放射線 : A</text>
   </string>
   <string id="st_energy">
     <text>無し</text>
@@ -165,9 +165,9 @@
     <text>緑のカブトムシはすべてのストーカー切っても切り離せない存在だ。ゾーンの誰ひとりとして、コイツを見つけた者はいないだろう。あなたが一生に一度か二度発見できれば、それは幸運と見なすべきだ。しかし、あなたの気分はこの緑のカブトムシの発見の喜びと反比例して落ちていくだろう･･････。
 
                 \n%c[ui_gray_3]特性 : 
-                %c[d_blue] ・ ゲームがクラッシュする可能性が大幅に高くなる
-                %c[d_blue] ・ 捨てられない
-                %c[d_blue] ・ 売れない</text>
+\n%c[d_blue] ・ ゲームがクラッシュする可能性が大幅に高くなる
+\n%c[d_blue] ・ 捨てられない
+\n%c[d_blue] ・ 売れない</text>
   </string>
   <string id="sleep_itm_warning_blowout">
     <text>今眠るのは危険だ！</text>
