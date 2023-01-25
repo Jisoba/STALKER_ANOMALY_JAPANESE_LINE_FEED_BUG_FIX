@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_msg_hb_isg_dushman_intel">
+    <text>ダッシュマンがビープ音を送ってきた。彼が情報を教えてくれたんだな。地元ではジュピターと呼ばれている場所に住んでいる。すぐに座標を送る。生きてたどり着いてくんだ。</text>
+  </string>
+  <string id="st_msg_hb_isg_tech_goodluck">
+    <text>みんな、頑張ってくれ。</text>
+  </string>
+  <string id="st_msg_hb_isg_breakthrough">
+    <text>兵士たちよ、ジュピター地下は安全に管理されている。部隊のメンバーに座標を送り、新しい命令を待て。</text>
+  </string>
+  <string id="st_msg_hb_isg_petray">
+    <text>お前を信用してはいけないと思ったよ。</text>
+  </string>
+  <string id="st_dyn_news_isg_stash_1">
+    <text>$nameだ。緊急時のための物資を隠してある。これが座標だ。メッセージが必要としている部隊に届いていることを確認してくれ。</text>
+  </string>
+  <string id="st_dyn_news_isg_stash_2">
+    <text>任務が順調に進んでいることを祈る。私が隠したスタッシュを部隊に知らせたい。補給品などが入っている。誰かが有効活用してくれることを願っている。$name、交信終了。</text>
+  </string>
+  <string id="st_dyn_news_isg_stash_3">
+    <text>あー･･････こちら$nameだ。$locationに行ってきたがミュータントだらけだ。念のためにここにスタッシュを残しておいた。これがその座標だ。</text>
+  </string>
+  <string id="hb_hernandez_ds_start_dialog_0">
+    <text>兵士か？</text>
+  </string>
+  <string id="hb_hernandez_ds_intro_dialog_0">
+    <text>それで、結局は成功したんですね。次はなんですか？司令官。</text>
+  </string>
+  <string id="hb_hernandez_ds_intro_dialog_1">
+    <text>ウクライナ軍の境界線を突破できたのは幸運だったな。他のUNISG特殊作戦部隊もゾーンに侵入し、計画通り検問所で待機している。残りの部隊は彼等と合流するが、君には特別な任務を与えよう。ダッシュマンに会いに行くんだ。彼はMercenaryたちと外部の依頼人との連絡役だ。何か質問は？</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_0">
+    <text>ダッシュマンに会いに行く理由はなんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_1">
+    <text>情報だ。Mercenaryたちは長い間ここにいて、地図やメモを作成している。それを得ることが重要だ。ゾーンへの長期遠征のリスクを軽減し、目的の場所を特定するのに役立つ。
+</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_2">
+    <text>それで、彼は情報を全て渡すんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_3">
+    <text>ああ、ほとんどな。既に国連がキングの身代金を送っている。彼の所にいけば、ゾーンの情報を喜んで教えてくれるはずだ。</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_4">
+    <text>この情報を、デジタルで送ることは出来なかったのですか？</text>
+  </string>
+  <string id="hb_hernandez_about_dushman_dialog_5">
+    <text>Mercenaryたちは情報を売るのが好きなんだ。ネットワークを介して送られた情報は、容易く盗んだりコピーできる。盗みやすい情報やコピーしやすい情報は安くなりやすい。できるかもしれないが、彼等は我々のために楽をしようとは考えていないだろうから、実際選択の余地はないんだよ。</text>
+  </string>
+  <string id="hb_hernandez_about_darkscape_dialog_0">
+    <text>何かあったら、ここで会えますか？</text>
+  </string>
+  <string id="hb_hernandez_about_darkscape_dialog_1">
+    <text>いや、残りのチームは移動を続ける。ダッシュマンから情報を貰ったら、新しい場所を教える。それと命令もな。</text>
+  </string>
+  <string id="hb_hernandez_about_isg_groups_dialog_0">
+    <text>何故こんな少人数で行動しているんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_isg_groups_dialog_1">
+    <text>とりあえず、注目されないことが最重要だ。疑われないようにするのは簡単だ。小規模な分隊で移動する時、ウクライナ政府に我々の部隊の存在が知れたら、作戦的にも政治的にも大混乱になることは言うまでもない。しかし、たとえバレたとしても、散らばって隠密行動をしていれば、我々を完全に特定するのは困難するだろう。
+</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_0">
+    <text>ゾーンにいる者へのスタンスはどうしますか？</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_1">
+    <text>彼等は我々がゾーンを調査していることを知っているが、極秘任務を知られてはならない。彼らの多くは我々を襲おうとするだろう。我々の任務は秘密にしておかなければならない。Mercenary以外の者に目をつけられたら、排除するように。目撃者がいてはならない。</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_2">
+    <text>ゾーンにいる者が、SSU（ウクライナの情報機関）に通報すると思うんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_3">
+    <text>そうだ。間接的にではあるが、ブローカーのストーカーや、Ecologistが政府に報告書を送ったり、Dutyのような派閥がスペツナズに情報を流したりと、どこにでも目と耳がある。その中のひとりにでもUNISGが、公式に立入り禁止とされている地域を調査していることが明らかになれば、我々の作戦全体が危険にさらされることになる。</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_4">
+    <text>それで、どうやって人の多い地域を移動するんですか？大量の殺人も注目されるのではないですか？</text>
+  </string>
+  <string id="hb_hernandez_about_disguise_dialog_5">
+    <text>ゾーンの死亡率は非常に高く、毎日多くのストーカーが跡形もなく姿を消している。しかし、君の言うことも一理ある。ストーカーの野営地を通る時は、変装するといいだろう。危険なことだが、実用的ではある。</text>
+  </string>
+  <string id="hb_hernandez_about_mercs_dialog_0">
+    <text>ダッシュマンとMercenaryたちは信用できるんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_mercs_dialog_1">
+    <text>国連とMercenaryたちとの関係は明確ではない。しかし、情報を得るためにキングの身代金を払っただけでなく、作戦が成功すれば、さらに大きな報酬が約束されている。我々は事実上、彼らを買収したことになる。我々の作戦が成功するのを見守るのが彼らの最善の利益だ。とはいえ、ヘマした途端裏切られる可能性もある。十分気をつけるように。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_dialog_0">
+    <text>全体の作戦目標は何ですか？</text>
+  </string>
+  <string id="hb_hernandez_about_operation_dialog_1">
+    <text>UNISGの任務は2つある。第1に、一般的な調査を行っている科学者チームとしての任務。第2に、特殊部隊として古い研究所を襲撃して、ゾーンの正体を明らかにするための資料を探し出す任務。我々はゾーンを人工物であると考えている。これを確認できれば、より深く、よりオープンな調査が正当化されることになる。君と私は第2グループのメンバーだ。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_0">
+    <text>UNISGのゾーンでの作戦について、他に何かありますか？</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_1">
+    <text>国際的な作戦は初めてではないと聞いている。以前は「ISG」というグループが活躍していた。彼らは国連がスポンサーとなっている環境研究者で、ウクライナ政府の命令で活動しているEcologistとは対照的だった。だが、2011年9月の第二次大規模エミッションの直後、多大な犠牲者が出たため解散せざるを得なくなった。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_2">
+    <text>それで、ISG解散後はどうなったんですか？</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_3">
+    <text>生存者は少なく、ほとんどの者はゾーンを離れていった。しかし一部の生存者は、MercenaryたちやEcologistたちと契約したり、Freedomやフリーのストーカーになっている。
+                \n当初の任務を勇敢に遂行したメンバーもいたが、その数は減少の一途をたどっていた。つまり、ゾーン内の国連の目と耳は、良い意味で強制的に閉ざされたんだ。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_4">
+    <text>それでも我々はここにいるんですね。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_5">
+    <text>その通り。何人かのISGの頑固者は、何年にもわたり国連に支援を求めて静かに訴え続けていたが、ほぼ無視されていた。それが最近、ロンドンでエミッションが目撃されて変化した。生き残った元ISGは、新しい派閥でスパイとして働くか、国連がゾーンから呼び戻し、UNISGの科学的中核を形成している。我々はただの兵士だが、最近ではUNISGの工作員のほとんどがそうだ。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_6">
+    <text>昔のISGと今のISGでは全く違うようですね。</text>
+  </string>
+  <string id="hb_hernandez_about_operation_more_dialog_7">
+    <text>昔のISGはほとんどが科学者で構成され、彼らはウクライナの同意を得て運営されていた。だが、その同意にも監視や干渉、検閲などの問題があった。ゾーンの真相が隠されていたのではないかと、疑われていて、全世界に損害をもたらす可能性がある。今回は、我々の資金と兵士を投入することにした。国連が資金提供してくたおかげで、真実を暴くことができる。</text>
+  </string>
+  <string id="hb_hernandez_ds_break_dialog_0">
+    <text>司令官、質問は以上です。準備はできてます。</text>
+  </string>
+  <string id="hb_hernandez_ds_break_dialog_1">
+    <text>よし。ダッシュマンに会ったら合言葉を伝えろ。
+\n「この死にゆく世界の青い海を今でも覚えてる。」
+                \n彼の居場所と行き方をPDAにマークしておこう。</text>
+  </string>
+  <string id="hb_hernandez_ds_break_dialog_2">
+    <text>それはファイアレイク（ウクライナの音楽グループ）の歌詞ですか?</text>
+  </string>
+  <string id="hb_hernandez_ds_break_dialog_3">
+    <text>･･････ああ、行くぞ。</text>
+  </string>
+  <string id="hb_hernandez_ds_break_dialog_4">
+    <text>それではまた。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_0">
+    <text>ヘルナンデス少佐が君から情報を回収するために私を派遣した。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_1">
+    <text>そうか、合言葉は？</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_2">
+    <text>「この死にゆく世界の青い海を今でも覚えている。」</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_3">
+    <text>それが単なる思い出にならないことを願うよ。ここに、国連が要求したすべての情報がある。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_4">
+    <text>ありがとう。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_5">
+    <text>出発する前に。政府の仕事の給料はかなり酷いもんだろ。金を稼ぎたいなら、遠慮なくここに来てくれ。俺らMercenaryには仕事が山ほどある。儲かるもんがな。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_6">
+    <text>覚えておこう。</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_7">
+    <text>OK。今の仕事に囚われて欲しくない。政治家のたわごとのために死ぬなんて、誰もが快くは思わない。自分のために働けるのに、なぜ奴等のために働かなきゃならない？</text>
+  </string>
+  <string id="hb_dushman_isg_intel_dialog_8">
+    <text>この作戦は我々よりも重要なものだ、ダッシュマン。次会う時も、正当な理由があると良いがな。</text>
+  </string>
+  <string id="drx_isg_cit_killers_merc_trader_stalker_game_start_dialog_1_0">
+    <text>私に仕事の依頼があるそうだな。興味がある。</text>
+  </string>
+  <string id="drx_isg_cit_killers_merc_trader_stalker_game_start_dialog_1_1">
+    <text>聞けてよかった。雇い主は重大な仕事をしたいと思っている。誰がどこで何をやっているのか、俺でさえ正確には言えない。知ってるのは大金を持ってることだけだ。とにかく、この雇い主は我々に「利害関係者」のリストのために便宜を図るよう求めてきた。関係者の詳細はPDAにアップロードされる。じゃあな、背後に気を付けろ。ゾーンは儲かるかもしれないが、生き地獄でもある。今まで見たことがないほどにな。</text>
+  </string>
+  <string id="hb_hernandez_jup_start_dialog_0">
+    <text>ああ。無事だったのか。よかった。</text>
+  </string>
+  <string id="hb_hernandez_jup_dushman_intel_0">
+    <text>ああ。無事だったのか。よかった。</text>
+  </string>
+  <string id="hb_hernandez_jup_dushman_intel_1">
+    <text>情報を持ってきました。</text>
+  </string>
+  <string id="hb_hernandez_jup_dushman_intel_2">
+    <text>よろしい。見ての通り、ここは良い避難場所だが、露出が多すぎる。地下の墓所を探索し、居住可能かどうか確認したいが、最後に派遣した分隊は連絡が取れなくなり、まだ戻っていない。焦りすぎたのは私の責任だ。誰かを送る前に、丘の上にある工場を捜索しないければならない。地下のレイアウトについて、何か手がかりがあるかもしれない。</text>
+  </string>
+  <string id="hb_hernandez_about_jup_factory_dialog_0">
+    <text>工場で何か役立つものが見つかると思いますか？</text>
+  </string>
+  <string id="hb_hernandez_about_jup_factory_dialog_1">
+    <text>見ての通り、我々には臨時の部隊がいる。ジュピター工場を調査していたらしく、ブリーフケースの中に書類や間取り図、建物の配置図などを発見したと言っていた。
+        \nしかし、予期せぬMilitaryの部隊に発見されるのを避けるため、素早く退却した。まだブリーフケースは残されたままだ、回収しなければならない。</text>
+  </string>
+  <string id="hb_hernandez_about_jup_factory_enter_dialog_0">
+    <text>工場へはどうやって行けばいいですか？</text>
+  </string>
+  <string id="hb_hernandez_about_jup_factory_enter_dialog_1">
+    <text>慎重にな。報告書によれば、ウクライナ軍の小隊がそこに潜んでいる可能性がある。彼らを迅速かつ静かに排除するんだ。</text>
+  </string>
+  <string id="hb_hernandez_search_jup_factory_dialog_0">
+    <text>工場を調査する準備が出来ました。</text>
+  </string>
+  <string id="hb_hernandez_search_jup_factory_dialog_1">
+    <text>よし。君の指揮下で分隊を編成し、書類を回収、目撃者を排除しろ。私はダッシュマンの情報に目を通す。解散。</text>
+  </string>
+  <string id="hb_hernandez_search_jup_factory_dialog_2">
+    <text>了解。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_0">
+    <text>ブリーフケースです。目撃者は全て排除しました。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_1">
+    <text>さて、見てみようか･･････うーん、ああ！こいつだ。「プリピャチの地下道」、ここいらでは「ジュピター地下」と言われてる。見た目はシンプルな配置図だな。しかし、ダッシュマンの資料によると、ミュータントが好む環境のようだ。暗くてじめじめして、狭い場所もある。ふむ、部隊が戻らなかった理由が分かった。この配置図を見る限りでは、地下にも大きな穴の開いた場所があるようだ･･････。そして工場と地下道の間にある要求書によると、1986年と2006年に避難させたはずの書類が下にあるんだが･･････2回とも脱出できなかった。興味深いだろ？</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_2">
+    <text>計画は何ですか？</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_3">
+    <text>一緒にここを捜索し、残された書類を見つけ、広々とした場所に陣取った。ここはあまり人が来ないだろうから、我々には最適だ。下に降りる準備はできたか？</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_4">
+    <text>もう行けます。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_41">
+    <text>よし、一緒に行こう。互いの背中に気を付け、常に仲間の場所を確認するんだ。ミュータントに遭遇した者もいるだろうが、地下のものは厄介な存在だと聞いている。バックルを締め、頭をスッキリさせ、常に冷静でいるように。君が先頭だ。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_42">
+    <text>了解しました。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_5">
+    <text>待ってください、一息つかせてください。</text>
+  </string>
+  <string id="hb_hernandez_found_jupiter_documents_dialog_51">
+    <text>分かった。だが、長くは留まれないぞ。見つかる可能性が高くなるからな。</text>
+  </string>
+  <string id="hb_hernandez_start_jup_u_breakthrough_dialog_0">
+    <text>地下を確保する準備が整いました。</text>
+  </string>
+  <string id="hb_hernandez_start_jup_u_breakthrough_dialog_1">
+    <text>よし、一緒に行こう。互いの背中に気を付け、常に仲間の場所を確認するんだ。ミュータントに遭遇した者もいるだろうが、地下のものは厄介な存在だと聞いている。バックルを締め、頭をスッキリさせ、常に冷静でいるように。君が先頭だ。</text>
+  </string>
+  <string id="hb_hernandez_start_jup_u_breakthrough_dialog_2">
+    <text>了解しました。</text>
+  </string>
+  <string id="hb_hernandez_found_jup_u_documents_dialog_0">
+    <text>少佐、これは、あの要求書に記載されていた書類に違いありません。</text>
+  </string>
+  <string id="hb_hernandez_found_jup_u_documents_dialog_1">
+    <text>これは･･････信じられない。これだけで国連はゾーンの公開調査をエスカレートさせることができるぞ。だが、もっと見つける必要がある。動かぬ証拠でなければな。残りのUNISG分隊に連絡し、強力な中央基地を確立したことを知らせよう。プリピャチの真下にいることに勝るものはないだろう？</text>
+  </string>
+  <string id="hb_hernandez_found_jup_u_documents_dialog_2">
+    <text>そろそろ暗がりから出てもいいんじゃないですか？</text>
+  </string>
+  <string id="hb_hernandez_found_jup_u_documents_dialog_3">
+    <text>まだだが、もうすぐだ。まだ準備がある。ここに来た理由の１つは、ゾーンに点在する古い研究所を探すことだ。ダッシュマンの情報のおかげで、それが可能になった。彼のメモによると、多くの研究所はすでに探索済みだそうだ。しかし、すでに回収されていた書類は、SSU（ウクライナの情報機関）が漏洩させたのか、不思議なことに消えてしまっていた。そのメモには、研究所に入った者のうち、出てくる人はほとんどいないと書かれており、探している証拠がまだ残っている可能性が高い。この地下道だけで見つかったものを考えると、確かに賭けに出た方がよさそうだ。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_0">
+    <text>どんな証拠を探せばいいのですか？</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_1">
+    <text>研究所で見つけた書類は、どんなものであれ入手しろ。徹底的にな。ゾーンの現象の多くは、研究所での研究が原因である可能性がある。つまり、この異常な生態学的災害は、ジュネーブ条約に違反した大量破壊兵器が意図的に作られた結果かもしれない。我々にはそれを証明できるものが必要だ。
+        \n理想は、ゾーンが国際的な安全保障上のリスクを犯しているという確実な証拠を持ったうえで、ここから脱出できることだ。東欧の僻地では手に負えないものだ。
+                \n国連がチェルノブイリとその秘密を自由に扱えるように、ウクライナには圧力がかけられるだろう･･････もしかしたら、ウクライナが独占していたアーティファクト貿易は誰かの手に渡るかもしれない･･････。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_2">
+    <text>随分陰険ですね。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_21">
+    <text>どうだろうな。だが、これが我々の仕事だ。最後までやり遂げよう。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_3">
+    <text>同感です。ゾーンは世界を脅かす可能性があります。ここは一国の管理下に置くべきではありません。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_31">
+    <text>同意してくれて嬉しいよ。</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_4">
+    <text>実際に国連が気にしているのは、一般市民を守ることなのか、アーティファクト貿易を強奪することなのか、どちらだと思いますか？</text>
+  </string>
+  <string id="hb_hernandez_about_evidence_dialog_41">
+    <text>私がコメントするものではない、もちろん君でもない。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_0">
+    <text>誰が研究所を調査するんですか？</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_1">
+    <text>君が適任だと思っている。戦闘だけでなく、地元のストーカーを操り、ひとりで任務を遂行する能力があることを証明してくれた。それもSSU（ウクライナの情報機関）に警戒されることなくだ。ただし、行く前にこれを受け取ってくれ。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_2">
+    <text>これは何ですか？</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_3">
+    <text>Ecologistのスパイが、ほにゃらら回路図を送ってくれた、確か･･････「精神波の防護機器」だ。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_4">
+    <text>マインドコントロールからってことですか？</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_5">
+    <text>そうだ。誓って言うが、ここは知れば知るほど、糞みたいに見えてくる場所だ。いずれにせよ、我々が作ったこのヘルメットは、君を守ってくれるはずだ。マインドコントロール装置が、研究所内でまだ動いているらしいからな。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_6">
+    <text>なんてこった。ホラー映画みたいですね。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_7">
+    <text>大丈夫だ。部下の何人かに似たような装置を装備させた、君さえよければ、連れて行ってもかまわない。とにかく、覚えておいてくれ。君の仕事は、研究所から極秘文書を回収すること、目撃者を残さないことだ。PDAに位置をマークしておく。これでよし。</text>
+  </string>
+  <string id="hb_hernandez_search_labs_dialog_8">
+    <text>期待は裏切りません。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_0">
+    <text>はい、極秘情報の運び人がまた戻ってきましたよ。これを見て下さい。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_1">
+    <text>素晴らしい･･････。よくやった！称賛に値する。国連は我々が学んできた内容を見い出して喜ぶだろう。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_2">
+    <text>私がいない間に何かありましたか？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_3">
+    <text>また、他のUNISGチームも原子力発電所やその他の地域への遠征から戻ってきた。彼らや君の努力によって、過去数十年間にゾーンの裏で起きていたことが、かなり明らかになってきたと思う。しかし、まだ解明されていないこともある。ゾーンの創造主がいなくなったり、滅んだりしたのに、なぜゾーンは強くなったのか。また、「Monolith」と呼ばれる狂信的なカルト教団が、なぜこれほどまでに強固で供給力のある状態を維持できているのか。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_4">
+    <text>その謎の答えがどこにあるか知っているんですか？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_5">
+    <text>ああ。ジュピター工場で遭遇したMilitaryの連中を覚えているか？彼等があそこにいたのは偶然ではなかった。我々と同じことを成し遂げようとしていたんだ。世界に知らしめるのではなく、書類を燃やす方を選択したんだ。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_6">
+    <text>それで、別の部隊の場所を発見したんですね。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_7">
+    <text>そうだ。だがそれだけじゃない、私のスパイも、彼等の目的を推理している。このMilitary部隊は、ある元主任科学顧問を追っている。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_8">
+    <text>少し奇妙ですね。何故そんなことを？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_9">
+    <text>彼らの元主任科学顧問は、博士号を取得したのではなく、ゾーンの現象を直に体験したことでその地位を得たんだ。我々のメモにもないようなゾーンの起源も含めて、多くの秘密を明らかにしたようだ。彼の物語の半分が真実なら、驚きはしない。いずれにせよ、彼がここに逃げ帰ったことを考えれば、自分の公職に満足していなかったのは明らかだ。こんな地獄みたいな場所で、休暇を取りたいと思う奴がどんな仕事をしてるのか想像できないな。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_10">
+    <text>それで、その人は誰なんですか？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_11">
+    <text>ストレロックと呼ばれてる。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_12">
+    <text>彼を連れ戻してほしいということですか？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_13">
+    <text>そうだ。彼はパズルの最後のピースだ。プリピャチ郊外で彼を追うMilitaryから救え。そして、我々を助けてくれるよう説得してくれ。ウクライナ政府によるゾーンの取り扱いに関することを国連に証言すれば、手続きが遥かに容易になるだろう。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_14">
+    <text>もし拒否したら？</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_15">
+    <text>どんな方法でもいいから彼の知識を引き出し、それを持ち帰るんだ。そのために、私が部隊を派遣して支援しよう。私の知る限りでは、彼は追手の兵士よりも危険かもしれない。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_16">
+    <text>チャンスを逃すわけにはいきません。直ぐに出発すると、隊員に伝えて下さい。ストレロックを見つけ、追手を始末し、彼が気づく前に制圧します。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_17">
+    <text>ひとりで行きます。ストレロックが助けてくれると確信していますし、同士撃ちのリスクは冒したくありません。</text>
+  </string>
+  <string id="hb_hernandez_found_labs_docs_dialog_18">
+    <text>よろしい。幸運を。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_0">
+    <text>ストレロックについてですが･･････。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_1">
+    <text>君の目を見ると、彼を殺したんだな。何があった？</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_1_1">
+    <text>彼は降伏を拒否しました。他に選択肢はありませんでした。しかし、彼からこのUSBメモリーを見つけました。何か価値のあるものが入っているかもしれません。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_2">
+    <text>君は、ゾーンで最も知識が豊富で、狡猾で危険な男を本部に連れてきた。しかも、武装解除することなくだ。説明してくれ。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_2_1">
+    <text>それは、彼を追い詰めるための最良の方法であり、彼の足取りを隠すためでもありました。彼が持っていたものを見てみるといいでしょう。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_3">
+    <text>敵に捕まったのかと思い始めていたぞ。何故こんなに時間がかかった？</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_3_1">
+    <text>ストレロックを助けることに同意しました。そのお返しに、このUSBメモリーをくれました。ゾーンの歴史と謎が詰まっています。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_4">
+    <text>どれ･･････見てみよう･･････。
+                
+信じられない･･････。これは我々が期待していた以上のものだ･･････。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_5">
+    <text>何が入っていたんですか？</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_6">
+    <text>極秘文書、研究所の情報、複合装置、チェルノブイリ原子力発電所、願望機に関する個人的な経験と観察･･････。ストレロックは、それを全て経験しただけでなく、経験をしっかりと文書化している。任務達成と言っていいだろう。兵士諸君、よくやった！</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_7">
+    <text>成功したんですね？これからどうするんですか？</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_8">
+    <text>この地獄から抜け出して、故郷に帰る時が来た。国連は我々の成果に満足するだろう。全UNISG分隊長に撤退を知らせる。来たときと同じように小グループに分かれてな。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_9">
+    <text>了解です。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_10">
+    <text>何人かの科学者チームが残り、アーティファクトやアノマリー領域を研究する。何人かの兵士はMercenaryたちと契約し、長く滞在できるようにしている。</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_11">
+    <text>許されるんですか？</text>
+  </string>
+  <string id="hb_hernandez_strelok_pendrive_dialog_12">
+    <text>彼等には休暇を与えた。ゾーン独自の生活に馴染むことを望んでいる･･････。彼等が秘密を守ると信頼している。それに、彼らが作る人脈は後々役に立つだろう。
+\n我々は目的を果たした。この作戦での君の役割は終わった。もし君がゾーンに残る選択をした場合、私は祝福するが、魅力的な昇進のチャンスを逃すだろう。よく考えたまえ。
+\n解散。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_0">
+    <text>道が分からなくなりました。ここを離れたいです。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_1">
+    <text>ふむ。私の分隊の誰かに迎えに来てもらおう。どこに行きたいんだ？</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_2">
+    <text>前の隠れ家に戻ります、ジュピター工場の地下です。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_3">
+    <text>プリピャチ郊外です。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_4">
+    <text>大丈夫、ひとりで行きます。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_5">
+    <text>わかった。</text>
+  </string>
+  <string id="hb_hernandez_guide_dialog_6">
+    <text>そうか。</text>
+  </string>
+  <string id="hb_maus_start_0">
+    <text>･･････。</text>
+  </string>
+  <string id="hb_maus_start_1">
+    <text>私を知らないのか？</text>
+  </string>
+  <string id="hb_maus_start_2">
+    <text>ああ、少し見覚えがあるような･･････ちょっと待て。ああ、思い出した！うそだろ！どうやって隊長になったんだ？</text>
+  </string>
+  <string id="hb_maus_start_3">
+    <text>私はこの作戦の正式な階級を持っていない、ただ少佐に率直に答えてるだけだ。</text>
+  </string>
+  <string id="hb_maus_start_4">
+    <text>君に特別な計画があるようだな。君が雪の結晶だったら、溶けちまうだろうよ。</text>
+  </string>
+  <string id="hb_maus_start_5">
+    <text>君はどうだ？中尉なんだろ。</text>
+  </string>
+  <string id="hb_maus_start_6">
+    <text>当たり前だ！私も誇りに思ってるよ。最初エンジニアを目指した時に想像していたものとは違うが、かなりうまくいったと言えるだろう！</text>
+  </string>
+  <string id="hb_maus_start_7">
+    <text>放射線まみれの地獄のような場所に閉じ込められてる割には、かなり幸せそうだな。</text>
+  </string>
+  <string id="hb_maus_start_8">
+    <text>この地獄のような場所は、他の場所と同じようにいいところだろ？少なくとも、このあたりの銃を持った奴らは、酔っ払っていて半分もまともに撃てない。へへへ･･････。</text>
+  </string>
+  <string id="hb_maus_start_9">
+    <text>まっすぐ撃つといえば･･････。</text>
+  </string>
+  <string id="hb_maus_start_10">
+    <text>ああ、そうか。さっそうとした魅力と美貌を求めてここに来たのではないと気づくべきだったな。もし君の銃が少しでもホコリをかぶっていたら、もしくはホコリだらけだったら、私に渡してくれれば、氷の上の油膜よりもスムーズに動くようにしてやる。</text>
+  </string>
+  <string id="hb_maus_leave_0">
+    <text>任務が終わった今、何をするつもりなんだ？</text>
+  </string>
+  <string id="hb_maus_leave_1">
+    <text>あー、他の奴等と一緒に出てくのか？まさか、ここの人になろうと思ってないよな？</text>
+  </string>
+  <string id="hb_maus_leave_2">
+    <text>いや。家に帰って家族に会いたい。それはいいな。</text>
+  </string>
+  <string id="hb_maus_leave_3">
+    <text>もちろん、そんなことはない。私はUNISGの残りのメンバーと一緒に帰る。たぶん我々はそのうち会えるだろう。
+</text>
+  </string>
+  <string id="hb_maus_leave_4">
+    <text>そうではないが、ゾーンに居たいとは思ってる。少佐がどう思おうと、私の仕事は終わってない。</text>
+  </string>
+  <string id="hb_maus_leave_5">
+    <text>作戦が終わった今、私は単独行動するだろう。多分、Mercenaryたちの中で名を馳せる、楽しみにしててくれ。</text>
+  </string>
+  <string id="hb_maus_leave_6">
+    <text>ああ、分かったよ。好きにしな。</text>
+  </string>
+  <string id="hb_maus_leave_7">
+    <text>計画的だと思うけど、もし困ったことになっても、私はこのことを知らなかった、いいな？</text>
+  </string>
+  <string id="hb_maus_guide_0">
+    <text>ヘイ、「マウス」。新しい隠れ家に案内してくれ･･････。</text>
+  </string>
+  <string id="hb_maus_guide_1">
+    <text>トゥシュカノのせいで悪夢を見たのか？心配するな、誰かに連絡して迎えに来させる。
+</text>
+  </string>
+  <string id="hb_maus_guide_2">
+    <text>･･････。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_0">
+    <text>危なかったな。あんたは？</text>
+  </string>
+  <string id="hb_strelok_start_dialog_1">
+    <text>私は国連の代表を努めている。ストレロック、我々の保護下に入ってもらい、ウクライナ政府に不利な証言をしてもらいたい。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_2">
+    <text>ゾーンのユーモアのセンスは歪んでる。別の政府のならず者によって、政府のならず者から救出されたのか。つまらないな。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_3">
+    <text>彼らと互角以上に戦えることを証明した。降伏するか、さもなくば･･････。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_31">
+    <text>断る。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_4">
+    <text>これ以上の死は必要ない。私はひとりで来た。君の安全を確保し、知識を学ぶために。それがゾーンの調査に役立つかもしれない。ゾーンは国際的な管理下にある、政府の嘘や秘密はもう無い。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_5">
+    <text>どうやってそれを信じろっていうんだ？</text>
+  </string>
+  <string id="hb_strelok_start_dialog_6">
+    <text>そうすれば、一生、ウクライナ軍に追い回されたり、嫌がらせを受けたりすることはなくなるからだ。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_7">
+    <text>それはいいな。だが、国連の監視下で、自由を奪われるのは俺も困る。ここから連れ出してくれたら、ゾーンの秘密をあんたに教えよう。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_8">
+    <text>そうだな。どこへ行きたい？</text>
+  </string>
+  <string id="hb_strelok_start_dialog_9">
+    <text>レッド フォレスト。あの場所は死の領域だが、そこら辺のことは詳しい。そこならMilitaryも追っては来ないだろう。</text>
+  </string>
+  <string id="hb_strelok_start_dialog_10">
+    <text>さて、君の安全と引き換えに、ゾーンの知識を提供してもらおう。行こうか。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_0">
+    <text>さあ行くぞ、ストレロック。もう大丈夫だ。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_1">
+    <text>あんたは約束を守る奴なんだな。ありがとう。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_2">
+    <text>さあ、約束だ、ストレロック。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_3">
+    <text>もちろんだ。これがUSBメモリーだ。これにはゾーンに関する、俺の経験や考えを記録したものが入っている。冒険中に見つけた多くの興味深い書類や、その他の情報のコピーも入っている。国連は必要な答えを見つけてくれるだろうが、ゾーンを理解するのは決して簡単ではない。俺たちは、2つの石を擦り合わせて誤って火をつけてしまった原始人のようなものだ。何が起きたのか、何を見ているのか、はっきりしない。その間にも火は燃え広がり 周りのものを巻き込んで･･････。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_4">
+    <text>ありがとう。これは私が期待していた以上のものだ。司令官のところに戻ることにする。君はどうする？</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_5">
+    <text>埋葬すべき旧友が何人かいるし、訪ねようと思ってる人もいる。しばらくして、時間というものがいかに貴重なものであるかを実感し始めるだろう。そして、過ごした時間を思い出すことが、いかに重要であるかを･･････。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_6">
+    <text>じゃあな、ストレロック。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_21">
+    <text>くそ。これだけのことがあったのに、この情報を司令官に持ち帰ることができるかどうか。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_31">
+    <text>興味深い。考え直したか？</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_41">
+    <text>そうかもしれない。さっきも言ったが、考えれば考えるほど、国連がこの情報を良いことに使うとは思えない。私が君と共有したものは、世界全体を変えることができる。それは、すでにすべての権力を握っている人々の手に委ねられるべきではない。
+                \n私自身がもっとゾーンのことを知りたいのだ。何が正しい選択なのかを知るためには、もっと学ばなければならない。自分がストーカーにならない限り無理だ。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_51">
+    <text>その気持ちはわかるよ。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_61">
+    <text>最終的には脱走で捕まって軍法会議にかけられるかもしれない。皮肉なことに、それはさっき見つけた他の文書のせいだ。いつかUNISGがゾーンに武力侵攻することを許してしまうかもしれない。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_71">
+    <text>それに、このような事態に対処できるか、政府の能力にも非常に疑問を感じている。しかし、あんたたちの集めた書類がゾーンから流出しないのであれば問題はない。それどころか、俺が持っているストーカーの人脈を使ってMilitaryに情報を流し、警備を強化してあんたの仲間がゾーンから出られないようにすることもできる。可能なんだ。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_81">
+    <text>ありがとう、でも私は･･････かつての仲間に傷ついてほしくないんだ。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_91">
+    <text>もしかしたら、別の方法があるかもしれない。そのうちわかるさ。とりあえず、本当にこれを実行するつもりなら、ロストクかザトンに行くことをお勧めする。そこにはフリーのストーカーのための仕事が常にあり、溶け込んだり隠れたりする場所がある。もしかしたら、友達ができるかもしれないぞ。
+                \nとにかく、時間がない。さあ、行こう。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_101">
+    <text>また会えるか?</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_111">
+    <text>たぶん無理だと思う。昔の友人たちを埋葬して、生き残っている連中に挨拶をして、たぶんどこかに消える場所を見つける必要がある。俺は自分の答えを見つけたと思っている。あんたも自分の答えが見つかることを願ってるよ。俺のUSBメモリーは持っていていいぞ。もう必要ないからな。</text>
+  </string>
+  <string id="hb_strelok_escorted_dialog_121">
+    <text>またな、ストレロック。いつかまた会おう。</text>
+  </string>
+</string_table>

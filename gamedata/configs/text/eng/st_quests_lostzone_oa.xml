@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="lttz_oa_encrypted_transmission_name">
+    <text>暗号化通信</text>
+  </string>
+  <string id="lttz_oa_encrypted_transmission_text">
+    <text>ザトンの「鉄の森アノマリー」で断続的な無線通信を傍受しろ</text>
+  </string>
+  <string id="lttz_oa_encrypted_transmission_text2">
+    <text>無線通信の発信源を発見した。 調査しろ。</text>
+  </string>
+  <string id="decryption_radio_name">
+    <text>ラジオ</text>
+  </string>
+  <string id="decryption_radio_desc">
+    <text>この素朴な軍用無線機は､近くの送信を傍受して解読することができる。</text>
+  </string>
+  <string id="lttz_oa_rally_point_name">
+    <text>「アフターグロー作戦」 : 集結地点</text>
+  </string>
+  <string id="lttz_oa_rally_point_text">
+    <text>森林管理場を占拠しているUNISG分隊を排除する。</text>
+  </string>
+  <string id="lttz_oa_rally_point_text2">
+    <text>デグチャレフと次の目標を話し合う。</text>
+  </string>
+  <string id="lttz_oa_rally_point_text3">
+    <text>残りのUNISG分隊は基地に戻った。彼らを温かく迎え入れてやれ。</text>
+  </string>
+  <string id="lttz_oa_rally_point_text4">
+    <text>現地のUNISG部隊を排除した。デグチャレフと次の目標を話し合え。</text>
+  </string>
+  <string id="lttz_oa_rally_point_text5">
+    <text>遺体から有益な情報を探せ。</text>
+  </string>
+  <string id="lttz_oa_rally_point_text6">
+    <text>分隊長のPDAを見つけた。デグチャレフに渡せ。</text>
+  </string>
+  <string id="st_zat_b40_sarge_pda_name">
+    <text>分隊長のPDA</text>
+  </string>
+  <string id="st_zat_b40_sarge_pda_desc">
+    <text>このPDAはかつてUNISG特殊偵察隊の隊長のものだった。重要な戦術情報や戦略情報が含まれている可能性がある。明らかに暗号化されているので､確実なことはわからない。</text>
+  </string>
+  <string id="lttz_oa_report_name">
+    <text>報告</text>
+  </string>
+  <string id="lttz_oa_report_text">
+    <text>ザトンで起きたことをリーダーに報告しろ。</text>
+  </string>
+  <string id="lttz_oa_special_delivery_name">
+    <text>「アフターグロー作戦」 : 特別な配送</text>
+  </string>
+  <string id="lttz_oa_special_delivery_text">
+    <text>ケースをMilitaryの幹部に届けろ。UNISGを密かに援助するために失敗してもよい。</text>
+  </string>
+  <string id="lttz_oa_special_delivery_text2">
+    <text>デグチャレフに、無事にケースを届けたことを報告する。</text>
+  </string>
+  <string id="lttz_oa_special_delivery_text3">
+    <text>Militaryの幹部が死んだようだ。デグチャレフに任務を遂行できないと報告しろ。</text>
+  </string>
+  <string id="lttz_oa_special_delivery_text4">
+    <text>ケースを時間内に届けられなかったようだ。デグチャレフに仕事を完了できなかったことを報告しろ。</text>
+  </string>
+  <string id="special_delivery_case_name">
+    <text>密封ケース</text>
+  </string>
+  <string id="special_delivery_case_desc">
+    <text>未公開の内容物が入った密封ケース。かなり重い。</text>
+  </string>
+  <string id="lttz_oa_undercover_agent_name">
+    <text>「アフターグロー作戦」 : 潜入諜報員</text>
+  </string>
+  <string id="lttz_oa_undercover_agent_text">
+    <text>UNISG部隊に潜入した諜報員と会い､有益な情報を聞き出せ。不審な行動はUNISGを用心深くさせて、彼らの警戒を強めるかもしれない。</text>
+  </string>
+  <string id="lttz_oa_undercover_agent_text2">
+    <text>UNISG部隊を警戒させずに情報を得ることができた。デグチャレフに報告しろ。</text>
+  </string>
+  <string id="lttz_oa_undercover_agent_text3">
+    <text>情報を得ることができたが、UNISG部隊に警戒された。デグチャレフに報告しろ。</text>
+  </string>
+  <string id="st_army_isg_spy_pendrive_name">
+    <text>諜報員のUSBメモリー</text>
+  </string>
+  <string id="st_army_isg_spy_pendrive_descr">
+    <text>デグチャレフの説明によると、UNISGの中のスパイが、彼らの目標や動きに関する情報を収集していて、国連軍に法的または政治的な圧力をかけてゾーンから退去させるための証拠を集めているとのことだ。明らかに暗号化されている。</text>
+  </string>
+  <string id="lttz_oa_search_unit_name">
+    <text>「アフターグロー作戦」 : 守られた機密</text>
+  </string>
+  <string id="lttz_oa_search_unit_text">
+    <text>旧ジュピター工場を物色しているUNISG部隊を排除しろ。あるいは、デグチャレフのために時間稼ぎをして、UNISGが求める情報を持って逃げられるようにしろ。</text>
+  </string>
+  <string id="lttz_oa_search_unit_text2">
+    <text>UNISG部隊を排除した。次の目標をデグチャレフと話し合え。</text>
+  </string>
+  <string id="lttz_oa_search_unit_text3">
+    <text>工場内に残っている極秘文書を探せ。</text>
+  </string>
+  <string id="lttz_oa_search_unit_text4">
+    <text>文書を見つけた。デグチャレフと話せ。</text>
+  </string>
+  <string id="lttz_oa_search_unit_text5">
+    <text>遅すぎた､UNISG軍が文書を持ち去っていった。デグチャレフと話せ。</text>
+  </string>
+  <string id="jupiter_documents_name">
+    <text>ジュピター工場の文書</text>
+  </string>
+  <string id="jupiter_documents_desc">
+    <text>おそらく工場に残された機密情報を含む最後の文書。他国の諜報員の手に渡らせない方がいい。</text>
+  </string>
+  <string id="lttz_oa_strelok_name">
+    <text>狙撃手</text>
+  </string>
+  <string id="lttz_oa_strelok_text">
+    <text>ストレロックがMonolithの分隊を追跡するのを手伝え。</text>
+  </string>
+  <string id="lttz_oa_strelok_text2">
+    <text>ストレロックと話せ。</text>
+  </string>
+  <string id="lttz_oa_strelok_text3">
+    <text>ストレロックをコインランドリーへ連れて行け。</text>
+  </string>
+  <string id="lttz_oa_strelok_text4">
+    <text>ストレロックと話せ。</text>
+  </string>
+  <string id="lttz_oa_rogue_name">
+    <text>戦争の内側</text>
+  </string>
+  <string id="lttz_oa_rogue_text">
+    <text>ローグに会って、何が起こったのかを明らかにしろ。</text>
+  </string>
+  <string id="lttz_oa_rogue_text1">
+    <text>ローグに精神波ブロック錠剤を１回投与して、精神波アノマリーの影響からの回復を助けろ。</text>
+  </string>
+  <string id="lttz_oa_rogue_text2">
+    <text>精神波ブロック錠剤をローグに渡せ。</text>
+  </string>
+  <string id="lttz_oa_rogue_text3">
+    <text>ローグをコインランドリーに案内しろ。</text>
+  </string>
+  <string id="lttz_oa_rogue_text4">
+    <text>ローグは異変の影響を受けて倒れた。ストレロックに彼の運命を伝えろ。</text>
+  </string>
+  <string id="lttz_oa_stitch_name">
+    <text>歩く死体</text>
+  </string>
+  <string id="lttz_oa_stitch_text">
+    <text>スティッチがゾンビを撃退するのを助けろ。</text>
+  </string>
+  <string id="lttz_oa_stitch_text2">
+    <text>ゾンビを殲滅した。スティッチと話せ。</text>
+  </string>
+  <string id="lttz_oa_stitch_text3">
+    <text>スティッチをコインランドリーへ連れて行け。</text>
+  </string>
+  <string id="lttz_oa_stitch_text4">
+    <text>スティッチは間に合わなかった。ストレロックに彼の運命を伝える。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_name">
+    <text>「アフターグロー作戦」 : 未解決</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text">
+    <text>デグチャレフ大佐に現在の任務を問え。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text2">
+    <text>ストレロックと交渉し妥協点を探せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text21">
+    <text>ストレロックを殺せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text22">
+    <text>デグチャレフを殺せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text3">
+    <text>デグチャレフは死んだ。彼の結末をストレロックに伝えろ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text31">
+    <text>ストレロックは死んだ。デグチャレフと話せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text4">
+    <text>ストレロックが彼の条件で協力する意思があるとデグチャレフに伝えろ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text41">
+    <text>ストレロックがデグチャレフを排除するのを手伝う事に決めた。大佐を殺せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text5">
+    <text>UNISGの部隊がデグチャレフを追っている。彼を手助けしろ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text6">
+    <text>UNISG分隊は全滅した。デグチャレフと話せ。</text>
+  </string>
+  <string id="lttz_oa_loose_ends_text7">
+    <text>デグチャレフと彼の部隊は去った。ストレロックにもう大丈夫だと伝えろ。</text>
+  </string>
+</string_table>

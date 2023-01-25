@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="sar_monolith">
+    <text>北からの呼び声</text>
+  </string>
+  <string id="sar_monolith_0">
+    <text>願望機へ話せ。</text>
+  </string>
+  <string id="sar_monolith_1">
+    <text>北から自分を呼ぶ声がする･･････。探しに行かなければ･･････。</text>
+  </string>
+  <string id="sar_monolith_2">
+    <text>自分を呼ぶ声は願望機が発している。石棺を探し出さなければならない。</text>
+  </string>
+  <string id="sar_monolith_destroy">
+    <text>コンクリートの石棺</text>
+  </string>
+  <string id="sar_monolith_destroy_0">
+    <text>原稿に記載されている隠れされたMonolith基地を見つけ、そこで隠されているものを探せ。</text>
+  </string>
+  <string id="sar_monolith_destroy_1">
+    <text>願望器を破壊しろ : 願望機からの10回の「召喚」を撃破しろ。</text>
+  </string>
+  <string id="sar_monolith_destroy_2">
+    <text>共同意識体たちのエネルギー供給機を破壊しろ。</text>
+  </string>
+  <string id="sar_monolith_destroy_3">
+    <text>ジェネレーターのスイッチを止め、全てを終わらせろ。</text>
+  </string>
+</string_table>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="trucks_cemetery_bandit_mechanic_task_1_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_1_text">
+    <text>トラック墓地の技術屋は%sの捜索を依頼してきた。</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_1_about">
+    <text>ブラザー。俺たちがここで手に入れたブツは半分以上がバラバラになってやがった。そんで、俺にはここの連中のためにマジでツールが必要なんだよ。助けてくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_1_fetch_about">
+    <text>ブラザー。俺たちがここで手に入れたブツは半分以上がバラバラになってやがった。そんで、俺にはここの連中のためにマジでツールが必要なんだよ。助けてくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+    <text>おー、スッゲぇ･･････。こいつだ、話してたブツはよ。こうしよう。アンタは俺を助けてくれた。なんで俺はアンタに割引をする。どうよ。</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_2_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_2_text">
+    <text>トラック墓地の技術屋は%sの捜索を依頼してきた。</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_2_about">
+    <text>このあたりは完全に荒れ放題な土地なんだが、野営地はここにある･･････。戦略上重要なポイントってやつさ！俺たちの同志がなるたけ大量の火力をぶっ放すためには、もっといいツールが必要だ。もっかい助けちゃくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_2_fetch_about">
+    <text>このあたりは完全に荒れ放題な土地なんだが、野営地はここにある･･････。戦略上重要なポイントってやつさ！俺たちの同志がなるたけ大量の火力をぶっ放すためには、もっといいツールが必要だ。もっかい助けちゃくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+    <text>ファーーック。アンタは最高だぜ。間違いなく割引するぜ！もちろん今までの値引きから更にだ。</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_3_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_3_text">
+    <text>トラック墓地の技術屋は%sの捜索を依頼してきた。</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_3_about">
+    <text>そいつが失くなったのに気がついたのは、俺たちが車座になって映画の悪党みてえにマッタリしてる時だった。そうだよ、スゲエ良いツールのことさ。、行方不明になったことに気づいたときは、まわりに座り、悪役のようにまったりしました。そうです、さらに優れたツールです。ところで、アンタ調子はどうだ？もしよけりゃあ捜索を手伝ってくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_3_fetch_about">
+    <text>そいつが失くなったのに気がついたのは、俺たちが車座になって映画の悪党みてえにマッタリしてる時だった。そうだよ、スゲエ良いツールのことさ。、行方不明になったことに気づいたときは、まわりに座り、悪役のようにまったりしました。そうです、さらに優れたツールです。ところで、アンタ調子はどうだ？もしよけりゃあ捜索を手伝ってくれねえか？</text>
+  </string>
+  <string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+    <text>ワオ！あんたホントに見つけてくれたのかよ！サンキュー親友！アンタ最高だぜ！アンタにはでっけえ割引させてくれよな。楽しんでくれ！</text>
+  </string>
+</string_table>

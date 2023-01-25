@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="ammo_12.7x55_ap">
+    <text>12.7x55mm STs-130 VPS弾</text>
+  </string>
+  <string id="ammo_12.7x55_ap_descr">
+    <text>VKSブルパップ スナイパーライフルには、装甲貫通型の12.7x55mm亜音速弾が使用される。この弾薬は、59［g］（911グレイン）から76［g］（1173グレイン）の重量の弾頭を発射でき、大量の運動エネルギーを発生させる。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い 
+</text>
+  </string>
+  <string id="ammo_12.7x55_ap_s">
+    <text>12.7x55mm互換品</text>
+  </string>
+  <string id="ammo-11.43x23-fmj">
+    <text>.45 ACP弾</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_descr">
+    <text>0.45インチ（11.43mm）口径のフルメタル ジャケット弾は、その弾道性能と比較的小さな推進力のおかげで、百年にわたって人気を博してきた。結果として、弾速は、比較的遅いが、非常に正確であり、かなりのストッピングパワーがある。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : なし
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_s">
+    <text>.45互換品</text>
+  </string>
+  <string id="ammo-11.43x23-hydro">
+    <text>.45 ACPハイドロショック弾</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_descr">
+    <text>中空鋼製弾芯を持つ珍しい0.45インチ（11.43mm）口径のジャケッテッド ソフト ポイント弾。ソフトポイント弾と徹甲弾の両方の利点と、低伸性が低いという欠点を併せ持つ。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIA
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_s">
+    <text>.45互換品</text>
+  </string>
+  <string id="ammo-12.7x55-fmj">
+    <text>12.7x55mm STs-130弾</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_descr">
+    <text>フルメタル ジャケット12.7x55mm亜音速弾は、VKSブルパップ スナイパーライフルで使用されている。この弾薬は、59［g］（911グレイン）から76［g］（1173グレイン）の重量の発射体を搭載でき、大量の運動エネルギーを生成する。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い 
+</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_s">
+    <text>12.7x55mm互換品</text>
+  </string>
+  <string id="ammo-12x70-buck">
+    <text>12x70mmバックショット弾</text>
+  </string>
+  <string id="ammo-12x70-buck_descr">
+    <text>8mmボールが詰まった標準的な12ゲージ口径の散弾。至近距離では高い殺傷力を示す。滑腔銃身の銃のみに適す。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : 無
+%c[d_purple] ・ 物理的損傷評価 : 普通 ~ 高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_purple] ・ 近距離が効果的</text>
+  </string>
+  <string id="ammo-12x70-buck_s">
+    <text>12x70mm互換品と12x76mm互換品</text>
+  </string>
+  <string id="ammo-12x76-dart">
+    <text>12x76mmダート弾</text>
+  </string>
+  <string id="ammo-12x76-dart_descr">
+    <text>12ゲージのダート弾。通常は大型の狩猟に使用されるが、柔らかいアーマーの貫通などの目的にも適している。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-12x76-dart_s">
+    <text>12x70mm互換品と12x76mm互換品</text>
+  </string>
+  <string id="ammo-12x76-bull">
+    <text>12x76mmブル弾</text>
+  </string>
+  <string id="ammo-12x76-bull_descr">
+    <text>恐竜やミュータントを鎮圧するための12ゲージの特注スラッグ弾。スラッグ弾の内部構造は鋼鉄製の矢に似た飛翔体が鉛と銅で覆われている。スラッグ弾は非常に長く、その分装薬量も多い。そのため、比喩ではなく、反動によって射手の腕をへし折る可能性がある。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い </text>
+  </string>
+  <string id="ammo-12x76-bull_s">
+    <text>12x70mm互換品と12x76mm互換品</text>
+  </string>
+  <string id="ammo-12x76-zhekan">
+    <text>12x76mmスラッグ弾</text>
+  </string>
+  <string id="ammo-12x76-zhekan_descr">
+    <text>この重い12ゲージのスラッグ弾は通常、大型の狩猟で使用されるが、他の目的にも適している。この弾は、貫通するのではなく、装甲を破壊する。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : II
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い</text>
+  </string>
+  <string id="ammo-12x76-zhekan_s">
+    <text>12x70mm互換品と12x76mm互換品</text>
+  </string>
+  <string id="ammo-338-lapua">
+    <text>.338ラプア マグナム弾</text>
+  </string>
+  <string id="ammo-338-lapua_descr">
+    <text>.338ラプア マグナム弾は、軍用の長距離狙撃用ライフル向けに開発された0.338インチ（8.58mm）のボトルネック弾薬である。アフガニスタン戦争とイラク戦争で、数々の実績を早々にあげ、実戦での有用性を証明した。この弾薬は対人 対物の両方に使用可能だが、対物においてその効果は制限される。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い</text>
+  </string>
+  <string id="ammo-338-lapua_s">
+    <text>.338互換品</text>
+  </string>
+  <string id="ammo-357-hp">
+    <text>.357 HP弾 </text>
+  </string>
+  <string id="ammo-357-hp_descr">
+    <text>.357 HP弾は0.357インチ（9.1mm）のホロー ポイント弾の略称。この弾丸は、衝撃により速度を落とし、貫通せずに体内にとどまる。その分だけ弾丸の衝撃がダメージとして伝わり、大きな内部組織損傷を引き起こす。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : II
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-357-hp_s">
+    <text>.357互換品</text>
+  </string>
+  <string id="ammo-5.45x39-ap">
+    <text>5.45x39mm徹甲弾 </text>
+  </string>
+  <string id="ammo-5.45x39-ap_descr">
+    <text>軍用5.45x39mm口径7N22徹甲弾はワルシャワ条約機構軍の自動小銃に使用される。弾頭には硬質合金を含む装甲貫徹弾で、ボディアーマーに対して効果を発揮する。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.45x39-ap_s">
+    <text>5.45x39mm互換品</text>
+  </string>
+  <string id="ammo-5.45x39-ep">
+    <text>5.45x39mm EP弾</text>
+  </string>
+  <string id="ammo-5.45x39-ep_descr">
+    <text>軍用5.45x39mm口径7N10は、貫通力が強化された弾丸でワルシャワ条約機構軍の自動小銃に使用される。より堅くなめらかな鋼芯により貫徹能力が改善されている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.45x39-ep_s">
+    <text>5.45x39mm互換品</text>
+  </string>
+  <string id="ammo-5.45x39-fmj">
+    <text>5.45x39mm FMJ弾</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_descr">
+    <text>軍用5.45x39mm口径7N6は、ワルシャワ条約機構軍の自動小銃に使用される新型小口径弾薬として初の標準型官給弾薬だった。7.62mm弾薬に比べ100［ｍ］射程が延長し、反動が減少したため命中精度も増加している。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_s">
+    <text>5.45x39mm互換品</text>
+  </string>
+  <string id="ammo-5.56x45-ap">
+    <text>5.56x45mm徹甲弾</text>
+  </string>
+  <string id="ammo-5.56x45-ap_descr">
+    <text>最新のNATO軍用5.56x45mm口径は、M855A1として知られるアメリカ軍が使用する弾薬。貫通力が強化され、ボディアーマーと軟部組織の両方に対する有効性が向上した。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.56x45-ap_s">
+    <text>5.56x45mm互換品</text>
+  </string>
+  <string id="ammo-5.56x45-ss190">
+    <text>5.56x45mm EP弾</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_descr">
+    <text>鋼鉄 コア付きの5.56×45mm口径NATO弾。新しい設計は、信頼性の低い組織損傷を犠牲にして、貫通力を強化した。制式呼称、M855で広く知られている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_s">
+    <text>5.56x45mm互換品</text>
+  </string>
+  <string id="ammo-5.56x45-fmj">
+    <text>5.56x45mm FMJ弾</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_descr">
+    <text>正確な射撃のために特別に設計されたNATO標準仕様の5.56x45mm口径M193弾。ハンティング弾をベースに設計され、良好な弾道特性を有する。ベトナム戦争で使用され、組織に対して優れた性能を発揮することで知られているが、貫通力は限定的である。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_s">
+    <text>5.56x45mm互換品</text>
+  </string>
+  <string id="ammo-5.7x28-ss190">
+    <text>5.7x28mm SS190弾</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_descr">
+    <text>FN 5.7x28mmはFN Herstalにより設計 製造された高速弾薬である。.22ホーネットまたは.22 K-ホーネットにやや似たボトルネックのセンターファイア弾薬だ。5.7x28mmは、NATOの9x19mmパラベラム 弾薬の痴漢要求に応えるべく、FN P90個人防衛火器(PDW)とFN ファイブセブン ピストルと共に開発された。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 低い-普通</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_s">
+    <text>5.7x28mm互換品</text>
+  </string>
+  <string id="ammo-4.6x30-fmj">
+    <text>4.6x30mm FMJ弾</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_descr">
+    <text> HK 4.6x30mm弾は、主にヘッケラー＆コッホ社のMP7、いわゆる個人防衛火器（PDW）で使用される弾薬の種類だ。これは、重さと反動を最小限に抑えながら、防護服の貫通力を高めるように設計されている。ボトルネック形状と、弾頭を完全に真鍮で覆われているのが特徴だ。
+
+                \n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+                %c[d_purple] ・ 物理的損傷評価 : 低い ~ 普通</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_s">
+    <text>4.6x30mm互換品</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_bad">
+    <text>4.6x30mm FMJ弾（劣化）
+</text>
+  </string>
+  <string id="ammo-4.6x30-fmj_verybad">
+    <text>4.6x30mm FMJ弾（破損）</text>
+  </string>
+  <string id="ammo-5.7x28-ss195">
+    <text>5.7x28mm SS195弾</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_descr">
+    <text>FN 5.7x28mmはFNハースタル社により設計 製造された拡張弾薬である。.22ホーネットまたは.22 Kホーネットにやや似たボトルネックのセンターファイア弾薬だ。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIA
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_s">
+    <text>5.7x28mm互換品</text>
+  </string>
+  <string id="ammo-50-bmg">
+    <text>.50 BMG弾</text>
+  </string>
+  <string id="ammo-50-bmg_descr">
+    <text>50ブローニング機関銃（12.7x99mm NATO弾で、C.I.P.によって50ブローニングに指定されている）のためにブローニング社によって開発された弾頭だ。1910年後半に0.50インチ口径の機関銃が登場し、1921年に実戦配備された。これはNATO軍だけでなく多くの非NATO諸国にとっても標準的な弾薬となっている。弾薬には様々な種類があり、通常の弾丸、曳光弾、徹甲弾（AP）、焼夷弾、サボット弾などが何世代にもわたって作られてきた。マシンガン用の弾薬は、ベルトリンクで連結されたものを使用する。\n
+また、50BMG弾は、長距離ライフルや対物ライフルなどにも使用されている。
+
+                \n%c[d_purple] ・ 貫通可能アーマークラス : IV
+                %c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-50-bmg_s">
+    <text>.50互換品</text>
+  </string>
+  <string id="ammo-50-bmg_bad">
+    <text>.50 BMG弾（劣化）</text>
+  </string>
+  <string id="ammo-50-bmg_verybad">
+    <text>.50 BMG弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x25-p">
+    <text>7.62x25mm P弾</text>
+  </string>
+  <string id="ammo-7.62x25-p_descr">
+    <text>7.62x25mm弾は、旧ソ連の衛星国、中国、パキスタンなどで広く使用されているロシア製のボトルネック ピストル弾である。弾は、7.63x25mmモーゼルのロシア版を強化したものである。貫通力に優れており、軽量の防弾ベストやケブラーのヘルメットを簡単に破ることができる。この口径の小火器のほとんどは旧式であり、軍用在庫から撤去されているが、大量の弾薬が貯蔵されているため、弾薬は依然として広く使用されている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : I
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-7.62x25-p_s">
+    <text>7.62x25mm互換品</text>
+  </string>
+  <string id="ammo-7.62x25-ps">
+    <text>7.62x25mm Pst弾</text>
+  </string>
+  <string id="ammo-7.62x25-ps_descr">
+    <text>鋼製弾芯7.62x25mm弾は、旧ソ連の衛星国、中国、パキスタンなどで広く使用されているロシア製ボトルネックピストル弾である。装甲のないターゲットに対して非常に効果的だ。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : II
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-7.62x25-ps_s">
+    <text>7.62x25mm互換品</text>
+  </string>
+  <string id="ammo-7.62x39_ap">
+    <text>7.62x39mm M43弾 </text>
+  </string>
+  <string id="ammo-7.62x39_ap_descr">
+    <text>7.62x39mm M43弾は、中国で生産された徹甲弾で、それがしばしば「7.62x39 CN」と呼ばれる理由である。この弾薬は、その貫通能力を増強する軟鋼芯が特色。この中国の弾薬（ならびに他のすべての M43弾薬）は、米国連邦法が拳銃徹甲弾として分類しているため、現在アメリカでの輸入は禁止されている。この分類は、素材や弾丸の設計よりもむしろ装甲を貫通する経験的な能力、に基づいている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x39_ap_s">
+    <text>7.62x39mm互換品</text>
+  </string>
+  <string id="ammo-7.62x39_fmj">
+    <text>7.62x39mm FMJ弾</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_descr">
+    <text>7.62x39mmフルメタル ジャケット弾は、特にアフリカと中東で最も一般的に使用される弾薬の種類の1つだ。テロ組織や犯罪組織が好んで使用することから、「革命の弾丸」というニックネームが付けられた。ほとんどの軍事組織は、7.62x39mmに対抗するために追加の鋼板を使用するようになった。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_s">
+    <text>7.62x39mm互換品</text>
+  </string>
+  <string id="ammo-7.62x51_ap">
+    <text>7.62x51mm NATO AP弾</text>
+  </string>
+  <string id="ammo-7.62x51_ap_descr">
+    <text>強化された鋼製弾芯を使用した軍用7.62x51mm口径M61徹甲弾。防弾チョッキに対する性能を大幅に向上させながら、高い損傷性を有する。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x51_ap_s">
+    <text>7.62x51mm互換品</text>
+  </string>
+  <string id="ammo-7.62x51_fmj">
+    <text>7.62x51mm NATO ボール弾</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_descr">
+    <text>7.62×51mm NATO弾は、.308弾の軍用の弾薬である。ベトナム戦争で70年代に5.56mmの弾薬が導入されるまでNATO軍の標準的な弾薬として使われていた。現在、世界中の民間軍事請負業者が最も多く採用している。7.62×51mm弾は非常に一般的な機関銃の口径で、戦闘用ライフルや狙撃用ライフルにも使用できる。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_s">
+    <text>7.62x51mm互換品</text>
+  </string>
+  <string id="ammo-7.62x54_7n14">
+    <text>7.62x54mm 7N14弾</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_descr">
+    <text>7.62x54mm口径7N14弾は、装甲貫通弾薬である。弾丸は、装甲や軽量の防壁を貫通する鉄心と、精度を高めるためのボートテイルベースを備えている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_s">
+    <text>7.62x54mm互換品</text>
+  </string>
+  <string id="ammo-7.62x54-7n1">
+    <text>7.62x54mm 7N1弾</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_descr">
+    <text>SVD用に特別に設計された鋼鉄製のペネトレータを備えた7.62x54mm口径の狙撃弾。機関銃用の7.62x54mm弾丸とは異なり、7N1はより高い精度を誇る。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_s">
+    <text>7.62x54mm互換品</text>
+  </string>
+  <string id="ammo-7.62x54-ap">
+    <text>7.62x54mm AP弾</text>
+  </string>
+  <string id="ammo-7.62x54-ap_descr">
+    <text>7.62x54mm口径7N13装甲貫通機関銃弾。強力な弾薬で、硬い鋼製弾芯のおかげでかなりの貫通力を持っている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x54-ap_s">
+    <text>7.62x54mm互換品</text>
+  </string>
+  <string id="ammo-7.62x54-r">
+    <text>7.62x54mm PP弾</text>
+  </string>
+  <string id="ammo-7.62x54-r_descr">
+    <text>7.62×54mm PP弾は、19世紀初頭にソ連帝国に導入され、第二次世界大戦後もソ連が使用していた旧式のライフル銃で、当初はモシン ナガントの歩兵用ライフルのために設計されたものであり、このライフルの人気により、このゾーンではごく普通に使用されている。弾薬は比較的安価だが、最新の弾薬タイプと比較しても驚くほど優れた貫通能力を備えている。PKMマシンガンの安価な弾薬としても使用できる。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.62x54-r_s">
+    <text>7.62x54mm互換品</text>
+  </string>
+  <string id="ammo-7.92x33_ap">
+    <text>7.92x57mm SA弾</text>
+  </string>
+  <string id="ammo-7.92x33_ap_descr">
+    <text>7.92x57mm SA弾 は、英国軍が装甲に対して使用した弾薬である。強化された鋼製弾芯を採用し、高い貫通性能を実現している。主に長距離での狙撃に使用され、この弾薬の品質は標準よりも高くなっている。この弾薬は、複数の狙撃銃によって支えられている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IV
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.92x33_ap_s">
+    <text>7.62x57mm互換品</text>
+  </string>
+  <string id="ammo-7.92x33_fmj">
+    <text>7.92x57mm モーゼル弾</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_descr">
+    <text>7.92x57mm モーゼル弾はドイツ帝国と第三帝国に採用された。2つの世界大戦の時代に最も人気のある弾薬の1つでした。しかし、現代では主に狩猟やスポーツに用いられる。
+
+ \n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_s">
+    <text>7.62x57mm互換品</text>
+  </string>
+  <string id="ammo-9x18-ap">
+    <text>9x18mm RG028弾</text>
+  </string>
+  <string id="ammo-9x18-ap_descr">
+    <text>RG028弾は、装甲貫通のために使用される弾薬だ。RG028弾の目標は、防弾服に対抗することであり、そのため、鉄心が強化されている。残念ながら、この弾は標準の9x18mm弾と比べてあまり改善されておらず、強いインパクトを持っているだけだ。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : II
+%c[d_purple] ・ 物理的損傷評価 : 低い ~ 普通</text>
+  </string>
+  <string id="ammo-9x18-ap_s">
+    <text>9x18mm互換品</text>
+  </string>
+  <string id="ammo-9x18-fmj">
+    <text>9x18mm FMJ弾</text>
+  </string>
+  <string id="ammo-9x18-fmj_descr">
+    <text>金属ジャケットの下に鋼鉄製の貫通体とリードコアを備えたフルメタル ジャケット弾。抑止力は良好だが、防弾ベストには効果がない。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : なし
+%c[d_purple] ・ 物理的損傷評価 : 低い ~ 普通</text>
+  </string>
+  <string id="ammo-9x18-fmj_s">
+    <text>9x18mm互換品</text>
+  </string>
+  <string id="ammo-9x18-pmm">
+    <text>9x18mm +P+弾</text>
+  </string>
+  <string id="ammo-9x18-pmm_descr">
+    <text>この弾薬はストッピングパワーが強化された弾丸を含み、「ヨーロッパの+P+」の名称はマズル速度が30%増加した「過圧弾薬」を意味する。防弾ベストには効果がない。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : I
+%c[d_purple] ・ 物理的損傷評価 : 普通 ~ 高い</text>
+  </string>
+  <string id="ammo-9x18-pmm_s">
+    <text>9x18mm互換品</text>
+  </string>
+  <string id="ammo-9x19-ap">
+    <text>9x19mm徹甲弾</text>
+  </string>
+  <string id="ammo-9x19-ap_descr">
+    <text>このロシアの9x19mm口径の弾丸は、硬い鋼製弾芯と強い圧力を備えている。小型武器やサブマシンガンの装甲貫通能力を高めるように設計されている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 低い ~ 普通</text>
+  </string>
+  <string id="ammo-9x19-ap_s">
+    <text>9x19mm互換品</text>
+  </string>
+  <string id="ammo-9x19-fmj">
+    <text>9x19mm FMJ弾</text>
+  </string>
+  <string id="ammo-9x19-fmj_descr">
+    <text>この基本的な9x19mm口径被甲弾は製造が簡単で良い特性を持つ。国際協定により紛争でのさく裂弾頭の使用が禁じられているため、この弾薬は人気がある。防弾ベストに対しては有効ではない。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : I
+%c[d_purple] ・ 物理的損傷評価 : 普通</text>
+  </string>
+  <string id="ammo-9x19-fmj_s">
+    <text>9x19mm互換品</text>
+  </string>
+  <string id="ammo-9x19-pbp">
+    <text>9x19mm JHP弾</text>
+  </string>
+  <string id="ammo-9x19-pbp_descr">
+    <text>この着弾時にマッシュルーミングと呼ばれる変形を起こしやすい穴が開けられた9x19mm口径ジャケッテッド ホロー ポイント弾は高い威力を持つと共に、跳弾しにくい性質を持つ。警察官向けや護身用として用いられている。低い貫通力のために防弾ベストに対しては有効ではない。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : I
+%c[d_purple] ・ 物理的損傷評価 : 高い</text>
+  </string>
+  <string id="ammo-9x19-pbp_s">
+    <text>9x19mm互換品</text>
+  </string>
+  <string id="ammo-9x39-ap">
+    <text>9x39mm SP-6弾</text>
+  </string>
+  <string id="ammo-9x39-ap_descr">
+    <text>9x39mm SP-6弾はジャケットから露出した硬い鋼製弾芯を持つジャケッテッド ソフト ポイント弾の亜音速ライフル弾である。消音射撃にはサプレッサーを必要とする。ワルシャワ条約機構加盟国の特殊部隊に使用されている。防弾ベストに対して有効である。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : III
+%c[d_purple] ・ 物理的損傷評価 : 高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_red] ・ 亜音速弾
+%c[d_purple] ・ 優れた弾道低伸性</text>
+  </string>
+  <string id="ammo-9x39-ap_s">
+    <text>9x39mm互換品</text>
+  </string>
+  <string id="ammo-9x39-pab9">
+    <text>9x39mm SP-5弾</text>
+  </string>
+  <string id="ammo-9x39-pab9_descr">
+    <text>9x39mm SP-5弾は多種の金属が用いられた亜音速狙撃用弾薬である。弾芯の前部に高硬度鋼鉄と後部に比重が大きい鉛を配している。消音射撃にはサプレッサーを必要とする。ワルシャワ条約機構加盟国の特殊部隊に使用されている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : IIIA
+%c[d_purple] ・ 物理的損傷評価 : 高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_red] ・ 亜音速弾
+%c[d_purple] ・ 優れた弾道低伸性</text>
+  </string>
+  <string id="ammo-9x39-pab9_s">
+    <text>9x39mm互換品</text>
+  </string>
+  <string id="ammo-gauss">
+    <text>バッテリー</text>
+  </string>
+  <string id="ammo-gauss_descr">
+    <text>「フラッシュ」アーティファクトの一部をカプセル化したものを電源とする電池。ハイテク機器を使用して製造されている。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : V
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_purple] ・ 技術品
+%c[d_purple] ・ プロトタイプ</text>
+  </string>
+  <string id="ammo-gauss_cardan">
+    <text>自家製バッテリー</text>
+  </string>
+  <string id="ammo-gauss_cardan_descr">
+    <text>これらの低容量バッテリーは「フラッシュ」アーティファクトの破片をカプセル化したものをエネルギー源にしている。低容量なのは、専用の設備では無く間に合わせの設備で製造されたためである。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : V
+%c[d_purple] ・ 物理的損傷評価 : 非常に高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_purple] ・ 技術品
+%c[d_purple] ・ プロトタイプ
+</text>
+  </string>
+  <string id="ammo-m209">
+    <text>M203グレネード弾</text>
+  </string>
+  <string id="ammo-m209_descr">
+    <text>M203グレネードランチャーに使用する40mmグレネード弾である。殺傷範囲は着弾地点を中心にした直径3.5［m］の範囲。FT-200M内蔵グレネードランチャーにも装填出来る。
+
+\n%c[d_purple] ・ 爆発力 : 普通
+%c[d_purple] ・ 爆発半径 : 4.1［m］
+%c[d_purple] ・ 破片の飛散する半径 : 28［m］
+%c[d_purple] ・ 平均的な飛散する破片数 : 95（小さい飛散破片）
+%c[d_purple] ・ 爆発までの遅延時間 :  無し （衝撃で爆発）</text>
+  </string>
+  <string id="ammo-m209_s">
+    <text>M203グレネード弾</text>
+  </string>
+  <string id="ammo-og-7b">
+    <text>OG-7V対人弾頭</text>
+  </string>
+  <string id="ammo-og-7b_descr">
+    <text>RPG-7で使用されている、対人戦闘用の炸裂弾頭。この弾頭の主な目的は、手榴弾の射程外に隠れた敵を制圧することである。
+
+\n%c[d_purple] ・ 爆発力 : 高い
+%c[d_purple] ・ 爆発半径 : 5.6［m］
+%c[d_purple] ・ 破片の飛散する半径 : 41［m］
+%c[d_purple] ・ 平均的な飛散する破片数 : 153 （小さな破片）
+%c[d_purple] ・ 爆発までの遅延時間 : 無し （衝撃で爆発）</text>
+  </string>
+  <string id="ammo-og-7b_s">
+    <text>OG-7V対人弾頭</text>
+  </string>
+  <string id="ammo-vog-25">
+    <text>VOG-25グレネード弾</text>
+  </string>
+  <string id="ammo-vog-25_descr">
+    <text>GP-25 Kosterグレネードランチャー用の通常の炸裂榴弾。殺傷範囲は着弾地点を中心にした直径2.5m の範囲である。VOG-25グレネード弾はOC-14 Groza内蔵グレネードランチャー、およびRG6/6G30リボルバー グレネードランチャーにも適合する。
+
+\n%c[d_purple] ・ 爆発力 : 普通
+%c[d_purple] ・ 爆発半径 : 3.6［m］
+%c[d_purple] ・ 破片の飛散する半径 : 20［m］
+%c[d_purple] ・ 平均的な飛散する破片数 : 81 （小さな破片）
+%c[d_purple] ・ 爆発までの遅延時間 : 無し （衝撃で爆発）</text>
+  </string>
+  <string id="ammo-vog-25_s">
+    <text>VOG-25グレネード弾</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_bad">
+    <text>.45 ACP弾（劣化）</text>
+  </string>
+  <string id="ammo-11.43x23-fmj_verybad">
+    <text>.45 ACP弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_bad">
+    <text>7.62x51mm NATO弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x51_fmj_verybad">
+    <text>7.62x51mm NATO弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x51_ap_bad">
+    <text>7.62x51mm AP弾（劣化）
+</text>
+  </string>
+  <string id="ammo-7.62x51_ap_verybad">
+    <text>7.62x51mm AP弾（破損）
+</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_bad">
+    <text>.45 ACPハイドロショック弾（劣化）</text>
+  </string>
+  <string id="ammo-11.43x23-hydro_verybad">
+    <text>.45 ACPハイドロショック弾（破損）</text>
+  </string>
+  <string id="ammo-357-hp_bad">
+    <text>.357 HP弾（劣化）</text>
+  </string>
+  <string id="ammo-357-hp_verybad">
+    <text>.357 HP弾（破損）</text>
+  </string>
+  <string id="ammo-338-lapua_bad">
+    <text>.338ラプア マグナム弾（劣化）</text>
+  </string>
+  <string id="ammo-338-lapua_verybad">
+    <text>.338ラプア マグナム弾（破損）</text>
+  </string>
+  <string id="ammo-12x70-buck_bad">
+    <text>12×70（劣化）</text>
+  </string>
+  <string id="ammo-12x70-buck_verybad">
+    <text>12×7012x70 散弾（破損）</text>
+  </string>
+  <string id="ammo-12x76-zhekan_bad">
+    <text>12×76スラッグ弾（劣化）</text>
+  </string>
+  <string id="ammo-12x76-zhekan_verybad">
+    <text>12×76スラッグ弾（破損）</text>
+  </string>
+  <string id="ammo-12x76-dart_bad">
+    <text>12×76ダート弾（劣化）</text>
+  </string>
+  <string id="ammo-12x76-dart_verybad">
+    <text>12×76ダート弾（破損）</text>
+  </string>
+  <string id="ammo-5.45x39-ap_bad">
+    <text>5.45x39mm AP弾（劣化）</text>
+  </string>
+  <string id="ammo-5.45x39-ap_verybad">
+    <text>5.45x39mm AP弾（破損）</text>
+  </string>
+  <string id="ammo-5.45x39-ep_bad">
+    <text>5.45x39mm EP弾（劣化）</text>
+  </string>
+  <string id="ammo-5.45x39-ep_verybad">
+    <text>5.45x39mm EP弾（破損）</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_bad">
+    <text>5.45x39mm FMJ弾（劣化）</text>
+  </string>
+  <string id="ammo-5.45x39-fmj_verybad">
+    <text>5.45x39mm FMJ弾（破損）</text>
+  </string>
+  <string id="ammo-5.56x45-ap_bad">
+    <text>5.56x45mm AP弾（劣化）</text>
+  </string>
+  <string id="ammo-5.56x45-ap_verybad">
+    <text>5.56x45mm AP弾（破損）</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_bad">
+    <text>5.56x45mm EP弾（劣化）</text>
+  </string>
+  <string id="ammo-5.56x45-ss190_verybad">
+    <text>5.56x45mm EP弾（破損）</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_bad">
+    <text>5.56x45mm FMJ弾（劣化）</text>
+  </string>
+  <string id="ammo-5.56x45-fmj_verybad">
+    <text>5.56x45mm FMJ弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_bad">
+    <text>7.62×54mm 7N1弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x54-7n1_verybad">
+    <text>7.62×54mm 7N1弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_bad">
+    <text>7.62×54mm 7N14弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x54_7n14_verybad">
+    <text>7.62×54mm 7N14弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x54-ap_bad">
+    <text>7.62x54mm AP弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x54-ap_verybad">
+    <text>7.62x54mm AP弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x54-r_bad">
+    <text>7.62x54mm PP弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x54-r_verybad">
+    <text>7.62x54mm PP弾（破損）</text>
+  </string>
+  <string id="ammo-9x18-fmj_bad">
+    <text>9x18mm FMJ弾（劣化）
+</text>
+  </string>
+  <string id="ammo-9x18-fmj_verybad">
+    <text>9x18mm FMJ弾（破損）
+</text>
+  </string>
+  <string id="ammo-9x18-pmm_bad">
+    <text>9×18mm + P +弾（劣化）</text>
+  </string>
+  <string id="ammo-9x18-pmm_verybad">
+    <text>9x18mm + P +弾（破損）</text>
+  </string>
+  <string id="ammo-9x18-ap_bad">
+    <text>9x18mm RG028弾（劣化）</text>
+  </string>
+  <string id="ammo-9x18-ap_verybad">
+    <text>9x18mm RG028弾（破損）</text>
+  </string>
+  <string id="ammo-9x19-fmj_bad">
+    <text>9×19mm FMJ弾（劣化）</text>
+  </string>
+  <string id="ammo-9x19-fmj_verybad">
+    <text>9x19mm FMJ弾（破損）</text>
+  </string>
+  <string id="ammo-9x19-pbp_bad">
+    <text>9×19mm JHP弾（劣化）</text>
+  </string>
+  <string id="ammo-9x19-pbp_verybad">
+    <text>9x19mm JHP弾（破損）</text>
+  </string>
+  <string id="ammo-9x19-ap_bad">
+    <text>9×19mm AP弾（劣化）</text>
+  </string>
+  <string id="ammo-9x19-ap_verybad">
+    <text>9x19mm AP弾（破損）</text>
+  </string>
+  <string id="ammo-9x39-ap_bad">
+    <text>9x39mm SP-6弾（劣化）</text>
+  </string>
+  <string id="ammo-9x39-ap_verybad">
+    <text>9x39mm SP-6弾（破損）</text>
+  </string>
+  <string id="ammo-9x39-pab9_bad">
+    <text>9x39mm SP-5弾（劣化）</text>
+  </string>
+  <string id="ammo-9x39-pab9_verybad">
+    <text>9x39mm SP-5弾（破損）</text>
+  </string>
+  <string id="ammo-gauss_bad">
+    <text>電池（劣化）</text>
+  </string>
+  <string id="ammo-gauss_verybad">
+    <text>電池（破損）</text>
+  </string>
+  <string id="ammo-m209_bad">
+    <text>M203グレネード弾（劣化）</text>
+  </string>
+  <string id="ammo-m209_verybad">
+    <text>M203グレネード弾（破損）</text>
+  </string>
+  <string id="ammo-og-7b_bad">
+    <text>OG-7V弾頭（劣化）</text>
+  </string>
+  <string id="ammo-og-7b_verybad">
+    <text>OG-7V弾頭（破損）</text>
+  </string>
+  <string id="ammo-vog-25_bad">
+    <text>VOG-25グレネード弾（劣化）</text>
+  </string>
+  <string id="ammo-vog-25_verybad">
+    <text>VOG-25グレネード弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x39_ap_bad">
+    <text>7.62x39mm M43弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x39_ap_verybad">
+    <text>7.62x39mm M43弾（破損）</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_bad">
+    <text>7.62x39mm FMJ弾（劣化）</text>
+  </string>
+  <string id="ammo-7.62x39_fmj_verybad">
+    <text>7.62x39mm FMJ弾（破損）</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_bad">
+    <text>7.92x57mmモーゼル弾（劣化）</text>
+  </string>
+  <string id="ammo-7.92x33_fmj_verybad">
+    <text>7.92x57mmモーゼル弾（破損）</text>
+  </string>
+  <string id="ammo-7.92x33_ap_bad">
+    <text>7.92x57mm SA弾（劣化）</text>
+  </string>
+  <string id="ammo-7.92x33_ap_verybad">
+    <text>7.92x57mm SA弾（破損）</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_bad">
+    <text>5.7x28 SS190弾（劣化）
+</text>
+  </string>
+  <string id="ammo-5.7x28-ss190_verybad">
+    <text>5.7x28 SS190弾（破損）
+</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_bad">
+    <text>5.7x28mm SS195弾（劣化）
+</text>
+  </string>
+  <string id="ammo-5.7x28-ss195_verybad">
+    <text>5.7x28mm SS195弾（破損）
+</text>
+  </string>
+  <string id="ammo-7.62x25-p_bad">
+    <text>7.62x25mm P弾（劣化）
+</text>
+  </string>
+  <string id="ammo-7.62x25-p_verybad">
+    <text>7.62x25mm P弾（破損）
+</text>
+  </string>
+  <string id="ammo-7.62x25-ps_bad">
+    <text>7.62x25mm Pst弾（劣化）
+</text>
+  </string>
+  <string id="ammo-7.62x25-ps_verybad">
+    <text>7.62x25mm Pst弾（破損）</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_bad">
+    <text>12.7x55mm STs-130弾（劣化）
+</text>
+  </string>
+  <string id="ammo-12.7x55-fmj_verybad">
+    <text>12.7x55mm STs-130弾（破損）
+</text>
+  </string>
+  <string id="ammo_12.7x55_ap_bad">
+    <text>12.7x55mm STs-130 VPS弾（劣化）</text>
+  </string>
+  <string id="ammo_12.7x55_ap_verybad">
+    <text>12.7x55mm STs-130 VPS弾（破損）</text>
+  </string>
+  <string id="ammo-12x70-buck_self">
+    <text>自家製12x70mm散弾</text>
+  </string>
+  <string id="ammo-12x70-buck_self_descr">
+    <text>中古の弾丸や破損した弾丸、さらには榴散弾の破片で満たされた自家製の12ゲージシェル。近距離では致死性が高い。滑腔砲を備えた銃器ににのみ適している。
+
+\n%c[d_purple] ・ 貫通可能アーマークラス : 無し
+%c[d_purple] ・ 物理的損傷評価 : 普通 ~ 高い
+
+\n%c[ui_gray_1]特性 : 
+%c[d_purple] ・ 弾が拡散する、射程が短い</text>
+  </string>
+  <string id="ammo_flw">
+    <text>火炎放射器燃料</text>
+  </string>
+  <string id="ammo_flw_descr">
+    <text>ゆでた動物性脂肪、ディーゼル油、溶けたゴムのかけら。点火すると、粘着性のあるナパームのような物質になる。</text>
+  </string>
+</string_table>

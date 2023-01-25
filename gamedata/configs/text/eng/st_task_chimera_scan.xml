@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="yan_stalker_sakharov_task_chimera_scan_name">
+    <text>脳波マップの作製</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_about">
+    <text>キメラと呼ばれるミュータントを知っているかな？この生物は、重度の突然変異を起こした動物が人間の頭部のようなものを持つようになっただけなのか、それとも科学的倫理に反する恐ろしい行為の結果なのか、科学界では多くの議論がなされている。この謎を解明するためには、さらなるデータが必要だ。我々の技術者たちは、脳が発する電磁波を正確に記録するための特殊な装置を用意した。とにかく必要なのは、特定のキメラの標本にたどり着き、その脳の信号を記録するボランティアだ。もちろん、生きている間に行わなければならないが、これが難しい。キメラに近づき、装置が安定して信号を記録できるようになるまで生き延びなければならない。その後、あの可哀想な生き物を生きたままにしておく必要はないが、それは君次第だ。</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_stage_0">
+    <text>指定されたキメラの近くにいて、脳波を記録する</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_stage_1">
+    <text>機器を復元する</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_stage_2">
+    <text>サハロフのところに戻る</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_start">
+    <text>初期化完了 : スキャン開始</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_error">
+    <text>エラー : 信号ロスト、スキャン失敗</text>
+  </string>
+  <string id="yan_stalker_sakharov_task_chimera_scan_complete">
+    <text>スキャン完了</text>
+  </string>
+  <string id="chimera_scan_device_name">
+    <text>脳波スキャナー</text>
+  </string>
+  <string id="chimera_scan_device_desc">
+    <text>近くの電磁波を記録するための装置で、キメラの神経の振動を分離するために特別に調整されている。</text>
+  </string>
+</string_table>

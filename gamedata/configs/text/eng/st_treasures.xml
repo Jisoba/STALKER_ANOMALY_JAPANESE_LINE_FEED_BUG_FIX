@@ -1,0 +1,2583 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_dark_valley_treasure_1_name">
+    <text>地下の箱</text>
+  </string>
+  <string id="st_dark_valley_treasure_1_descr">
+    <text>荷物をドアの近くにある地下室に危険サインを付けて捨てた。今は時間がないが、後で拾いに行こう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_2_name">
+    <text>配電室にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_2_descr">
+    <text>捨てられた工場の2階にある配電盤の部屋に素敵な小さなスタッシュを作った。もう少しアーティファクトを貯めてから、すべて現金に変えよう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_3_name">
+    <text>袋小路のパンタグラフにあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_3_descr">
+    <text>誤ってパンタグラフの土台下にある袋小路に迷い込んだ。良いスタッシュになりそうだったんで、配管の交差部品にいくつかのお宝を隠した。</text>
+  </string>
+  <string id="st_dark_valley_treasure_4_name">
+    <text>パイプの中にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_4_descr">
+    <text>俺は放棄された工場の一階、階段の近くにあるパイプの内側にスタッシュを作った。</text>
+  </string>
+  <string id="st_dark_valley_treasure_5_name">
+    <text>貯水槽の下のパイプ</text>
+  </string>
+  <string id="st_dark_valley_treasure_5_descr">
+    <text>農場のそばを通り過ぎるときに犬の群れに追いかけられたんで、荷物を貯水槽の下のパイプの中に捨てた。そのうち取り戻しに行こう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_6_name">
+    <text>工場の中にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_6_descr">
+    <text>捨てられた工場に超良いスタッシュがある。場所は入り口を横切ったところにある、弁を持つ十字配管の中だ。ごちゃった配管の中でも見つけるのは楽だぜ。</text>
+  </string>
+  <string id="st_dark_valley_treasure_7_name">
+    <text>運転席の中にあるバックパック</text>
+  </string>
+  <string id="st_dark_valley_treasure_7_descr">
+    <text>ひっくり返ったトレーラートラックの運転席からサッサと俺のバックを取りに行かないと。この前は危なくケツに噛みつかれるところだったから捨ててきたがな。</text>
+  </string>
+  <string id="st_dark_valley_treasure_8_name">
+    <text>モミの木の下にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_8_descr">
+    <text>戦利品を捨てたモミの木を忘れないようにしないと。集電器の入り口は近くにあるが、それでも木自体は目立つものじゃ無いからな。</text>
+  </string>
+  <string id="st_dark_valley_treasure_9_name">
+    <text>木の上のバックパック</text>
+  </string>
+  <string id="st_dark_valley_treasure_9_descr">
+    <text>誰も彼も、現金は地下に隠したがる。だが俺様は木の上にスタッシュを作った。誰もそこを見ようとは思わないだろうぜ！</text>
+  </string>
+  <string id="st_dark_valley_treasure_10_name">
+    <text>屋根の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_10_descr">
+    <text>俺のスタッシュについて心配はしていない。誰かがそれを探しに来ても、盗もうとするならリスみたいに梁を飛び越えなくちゃならんからな。</text>
+  </string>
+  <string id="st_dark_valley_treasure_11_name">
+    <text>塔にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_11_descr">
+    <text>仲間には、途中でバックパックを失くしてクソ野郎に食われちまった、と言ってあるが、本当は給水塔の上に隠してある。そのバッグは俺のことをまだ待ってるぜ。</text>
+  </string>
+  <string id="st_dark_valley_treasure_12_name">
+    <text>エレベーターの中にあるバックパック</text>
+  </string>
+  <string id="st_dark_valley_treasure_12_descr">
+    <text>全員が撃ちまくらなきゃならなかったから、荷物をまともに隠す時間なんて無かった。なんで木の板の下の「ホース」に放り込んだ。時間が出来たら取りに行こう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_13_name">
+    <text>鍵屋のケース</text>
+  </string>
+  <string id="st_dark_valley_treasure_13_descr">
+    <text>昔は鍵屋のケースだったらしい物を見つけたから、俺の「宝物」を中にしまった。可能なら、今度もっとマシなスタッシュに移そう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_14_name">
+    <text>工場にある金庫</text>
+  </string>
+  <string id="st_dark_valley_treasure_14_descr">
+    <text>誰かがこれを読んでいるなら、俺はくたばって埋葬されてるってことだ。だから、ここにはアンタが金庫にある俺のスタッシュについて知るべきことを書いておこう。絶対に開けないでくれよな。ケツ穴野郎！</text>
+  </string>
+  <string id="st_dark_valley_treasure_15_descr">
+    <text>そこを切り抜けるには荷物を削るしか無かったんで、捨てられた農場の錆びた金庫に荷物を隠した。今こそ取りに行く時だな。</text>
+  </string>
+  <string id="st_dark_valley_treasure_16_name">
+    <text>島の切り株</text>
+  </string>
+  <string id="st_dark_valley_treasure_16_descr">
+    <text>あの沼でアンブッシュを食らった時、相棒はスゲエ良いブツを持ってたんだ。アイツは助からなかったが、最後に震える声で教えてくれた。アンテナからそれほど遠くない、腐った切り株の中にいくつかの戦利品を隠したってな。ヤツのためにも回収しに行くべきだろう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_17_name">
+    <text>腐った丸太</text>
+  </string>
+  <string id="st_dark_valley_treasure_17_descr">
+    <text>俺は仲間を信頼していない。やつは俺からブツをパクろうと考えてるはずだから、見つからないように戦利品は隠しておいた。島に架かる橋の近くに丸太でスタッシュを作った。アイツにそれが見つかりませんように、って祈ってるよ。</text>
+  </string>
+  <string id="st_dark_valley_treasure_18_name">
+    <text>腐った切り株</text>
+  </string>
+  <string id="st_dark_valley_treasure_18_descr">
+    <text>先日「ボア」から逃げてる時、荷物を古い農場からそれほど遠くない、切り株の穴に放り込んだ。</text>
+  </string>
+  <string id="st_dark_valley_treasure_19_name">
+    <text>丘の近くにある切り株</text>
+  </string>
+  <string id="st_dark_valley_treasure_19_descr">
+    <text>丘のふもとの辺りにある、古い切り株の下にスタッシュを作った。良いスタッシュだ。そこにまた物を隠せるくらいに幸運が続いて欲しいね。</text>
+  </string>
+  <string id="st_dark_valley_treasure_20_name">
+    <text>木の桟橋付近にある切り株</text>
+  </string>
+  <string id="st_dark_valley_treasure_20_descr">
+    <text>コーリャが島の切り株の近くに何度も行くのを見た。あの守銭奴のスタッシュがあそこにあるのは間違いない。あそこを調べる前に、ヤツにはもう少し戦利品を集めさせよう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_21_name">
+    <text>ザポロージェツ社製の古い車</text>
+  </string>
+  <string id="st_dark_valley_treasure_21_descr">
+    <text>かわいそうなアホは必死に脳みそを絞って考えてるが、何度探しても全部消えちまってるんだよ。バーカ！へっへっへ！さて、パクったモンはグレート スワンプの近くにある古い小さなザポロージェツ社製の車に隠した。誰も探そうとは思わないだろ。</text>
+  </string>
+  <string id="st_yantar_treasure_1_name">
+    <text>工場にある電気ボックス</text>
+  </string>
+  <string id="st_yantar_treasure_1_descr">
+    <text>アンドレイのPDAを調べ、「脳内研磨機」が倒れ始めたとき、彼が工場の錆びた電気箱にスタッシュを作っていたことを知った。</text>
+  </string>
+  <string id="st_yantar_treasure_2_name">
+    <text>変圧室のパネル板</text>
+  </string>
+  <string id="st_yantar_treasure_2_descr">
+    <text>工場全体が故障し始めた時、すべての荷物を変圧器の部屋のパネルの中に放置してきた。</text>
+  </string>
+  <string id="st_yantar_treasure_3_name">
+    <text>工場にある入れ物</text>
+  </string>
+  <string id="st_yantar_treasure_3_descr">
+    <text>以前はツールキットだったであろう箱を格納庫で見つけた。ガタガタ音はしたんだが、中を見る時間は無かった。次回また取りに行くまで置いとこう。</text>
+  </string>
+  <string id="st_yantar_treasure_4_name">
+    <text>トラックの中にある小さなケース</text>
+  </string>
+  <string id="st_yantar_treasure_4_descr">
+    <text>運転席とトラックの荷台の間にある、スタッシュにぴったりの場所は、辺りのゾンビと放射線で守られてる。素晴らしき自然の保護ってやつだ。</text>
+  </string>
+  <string id="st_yantar_treasure_5_name">
+    <text>フェンス横にあるスタッシュ</text>
+  </string>
+  <string id="st_yantar_treasure_5_descr">
+    <text>建設車両の近く、フェンスの隣にあるパイプの十字部分に少し物を隠した。</text>
+  </string>
+  <string id="st_yantar_treasure_6_name">
+    <text>パイプの中に少しばかりの装備品</text>
+  </string>
+  <string id="st_yantar_treasure_6_descr">
+    <text>俺は最高に価値の有るブツを持ってたんで、他の余り物を壁に穴がある部屋のパイプの中に置いてきた。</text>
+  </string>
+  <string id="st_yantar_treasure_7_name">
+    <text>入り口付近にあるバックパック</text>
+  </string>
+  <string id="st_yantar_treasure_7_descr">
+    <text>廃墟入り口のすぐ隣に、戦利品満載のバックパックを残してきた。まだ誰にも見つかってないといいが･･････。</text>
+  </string>
+  <string id="st_yantar_treasure_8_name">
+    <text>換気ダクト内にあるスタッシュ</text>
+  </string>
+  <string id="st_yantar_treasure_8_descr">
+    <text>なあトニー、座標と基準点を覚えてるか？バックパックは壊れてぶち抜かれた合成材の壁の隣にある換気ダクトの中だ。今後もよろしく、オウェルより。</text>
+  </string>
+  <string id="st_yantar_treasure_9_name">
+    <text>シートの下のバックパック</text>
+  </string>
+  <string id="st_yantar_treasure_9_descr">
+    <text>考える時間がなかったので、さびたUAZ車の運転席の下に戦利品をくくりつけておいた。</text>
+  </string>
+  <string id="st_yantar_treasure_10_name">
+    <text>クレーンのギアボックス内にあるスタッシュ</text>
+  </string>
+  <string id="st_yantar_treasure_10_descr">
+    <text>神のみぞ知る俺は、何のためにわざわざそこにスタッシュを作ったのだろうか。今では俺でも手が届かない。</text>
+  </string>
+  <string id="st_yantar_treasure_11_name">
+    <text>金庫の中にあるスタッシュ</text>
+  </string>
+  <string id="st_yantar_treasure_11_descr">
+    <text>俺のスタッシュはゾーンでもピカイチだぜ。工場敷地内の金庫だ。</text>
+  </string>
+  <string id="st_yantar_treasure_12_name">
+    <text>空洞の丸太</text>
+  </string>
+  <string id="st_yantar_treasure_12_descr">
+    <text>俺は荷物を「とげ」の隣にある中が空洞の丸太に隠した。</text>
+  </string>
+  <string id="st_yantar_treasure_13_name">
+    <text>丘の近くにある丸太</text>
+  </string>
+  <string id="st_yantar_treasure_13_descr">
+    <text>ゾンビが工場から迫ってきた所ためで、俺は戦利品を手放すしかなかった。そいつは丘のふもとの丸太に隠してある。</text>
+  </string>
+  <string id="st_yantar_treasure_14_name">
+    <text>塔の近くにある切り株</text>
+  </string>
+  <string id="st_yantar_treasure_14_descr">
+    <text>切り株の穴をスタッシュにした。高電圧の塔がある丘の上にある。周りの連中は、俺が風景を見晴らしに行ってると思ってやがる。間抜け共め！</text>
+  </string>
+  <string id="st_gar_treasure_17_name">
+    <text>ラッパ口のパイプ</text>
+  </string>
+  <string id="st_gar_treasure_17_descr">
+    <text>放射性廃棄物の山の中、ラッパ口のパイプをスタッシュにした。</text>
+  </string>
+  <string id="st_gar_treasure_18_name">
+    <text>エンジン付近のパイプ</text>
+  </string>
+  <string id="st_gar_treasure_18_descr">
+    <text>廃品置き場の死んだエンジンの隣に、戦利品の入ったパイプがある。</text>
+  </string>
+  <string id="st_agr_treasure_1_name">
+    <text>十字架の元に</text>
+  </string>
+  <string id="st_agr_treasure_1_descr">
+    <text>アグロプロム、茂み、十字架。十字架の下の墓。</text>
+  </string>
+  <string id="st_agr_treasure_2_name">
+    <text>作業場の電気パネル</text>
+  </string>
+  <string id="st_agr_treasure_2_descr">
+    <text>デハイドレーターの野郎は名前通り脱水機みたいに俺たちの戦利品をすべて剥ぎ取っちまう奴だ。 忌々しいジジイめ。俺は2階の電気パネルの中にスタッシュを作った。醜いケツ野郎から守るためにな。</text>
+  </string>
+  <string id="st_agr_treasure_3_name">
+    <text>トラクター</text>
+  </string>
+  <string id="st_agr_treasure_4_name">
+    <text>ガレージの車</text>
+  </string>
+  <string id="st_agr_treasure_4_descr">
+    <text>指揮官用４WDのトランクにジャンク品を隠した。それが勝手に出発しない限り安全だ。</text>
+  </string>
+  <string id="st_agr_treasure_5_name">
+    <text>電車の下のケース</text>
+  </string>
+  <string id="st_agr_treasure_5_descr">
+    <text>アグロプロムの電車の下のツールボックス。</text>
+  </string>
+  <string id="st_agr_treasure_6_name">
+    <text>バス停</text>
+  </string>
+  <string id="st_agr_treasure_6_descr">
+    <text>中立基地近くにあるバス停に止まっているバスの中の道具箱。</text>
+  </string>
+  <string id="st_agr_treasure_3_descr">
+    <text>ティミーがトラクターを修理したから、俺たちは荷を積んで荒っぽいナイトドライブに繰り出した。それからブラッドサッカーに出くわした。俺たちはマジで急いで逃げなきゃいけなかった。そして俺たちの戦利品箱は置き去りになっちまった。</text>
+  </string>
+  <string id="st_agr_treasure_7_name">
+    <text>瓦礫の中のパイプ</text>
+  </string>
+  <string id="st_agr_treasure_7_descr">
+    <text>スタッシュについて。封鎖された地下への入り口。L字型のパイプの内側。</text>
+  </string>
+  <string id="st_agr_treasure_8_name">
+    <text>誰のものでもないバックパック</text>
+  </string>
+  <string id="st_agr_treasure_9_name">
+    <text>ストーカー基地</text>
+  </string>
+  <string id="st_agr_treasure_9_descr">
+    <text>木の股の上にバックパックを投げ入れた。もしそうしなかったら、誰もがヴィタリーを殺したのが俺だってことを知られちまったはずだ。バックを取る最も手早い方法は、中立基地のパイプを使うことだ。</text>
+  </string>
+  <string id="st_agr_treasure_8_descr">
+    <text>Duty基地近くにある木の上にそいつを見つけた。だが登る時間が無かった。</text>
+  </string>
+  <string id="st_agr_treasure_10_name">
+    <text>グレート スワンプにあるパイプ</text>
+  </string>
+  <string id="st_agr_treasure_11_name">
+    <text>失われたバックパック</text>
+  </string>
+  <string id="st_agr_treasure_11_descr">
+    <text>我々は旅行から戻ってきて岩陰で休んでいた。そしてどういうわけかバックパックを置き忘れてしまった。いくつか仕事をこなして自由になったら取りに戻ろう。</text>
+  </string>
+  <string id="st_agr_treasure_12_name">
+    <text>リグマンのバックパック</text>
+  </string>
+  <string id="st_agr_treasure_12_descr">
+    <text>仲間たちがクソ犬どもを追い払ってくれるのに時間をたっぷり掛けやがったんで、俺は塔の頂上まで登れたよ。そんなわけで、草むらにバックパックを捨てなけりゃいけなかった。</text>
+  </string>
+  <string id="st_agr_treasure_10_descr">
+    <text>俺のスタッシュはグレートスワンプのパイプにある。戦利品はバックパックにある。</text>
+  </string>
+  <string id="st_agr_treasure_13_name">
+    <text>茂みの金庫</text>
+  </string>
+  <string id="st_agr_treasure_13_descr">
+    <text>峡谷の向こうにジャンク品の入った金庫を引っ張って行こうとした。雨でスゲエぬかるんでたもんだから、俺たちは滑って落した。そして終いには金庫は道から外れて落っこちちまった。</text>
+  </string>
+  <string id="st_agr_treasure_14_name">
+    <text>孤立した丸太</text>
+  </string>
+  <string id="st_agr_treasure_15_name">
+    <text>イースター エッグ</text>
+  </string>
+  <string id="st_agr_treasure_15_descr">
+    <text>復活祭が来て、トニーは派閥のためのスタッシュを作らせた。俺は丸太にこれらの「復活祭の卵」のひとつを突っ込んだ。</text>
+  </string>
+  <string id="st_agr_treasure_14_descr">
+    <text>こんな遠くにある丸太の中にスタッシュが有るとは思わないだろう。</text>
+  </string>
+  <string id="st_agru_treasure_1_name">
+    <text>管制室のパイプ</text>
+  </string>
+  <string id="st_agru_treasure_1_descr">
+    <text>化け物がその場所であふれ出たとき、俺はパイプにいくつかの物を隠し、急いで逃げた。</text>
+  </string>
+  <string id="st_agru_treasure_2_name">
+    <text>アノマリーの中のバックパック</text>
+  </string>
+  <string id="st_agru_treasure_2_descr">
+    <text>この橋を横切っていて、誤って汚染地域にバックパックを落としてしまった。俺は取りに戻ろうとしたが、できなかった。</text>
+  </string>
+  <string id="st_agru_treasure_4_name">
+    <text>死体近くにあるバックパック</text>
+  </string>
+  <string id="st_agru_treasure_4_descr">
+    <text>凶暴な小さいミュータント、「ラット」か何かにちょっと似たそいつは俺の相棒をずたずたにしやがった。俺はかろうじて逃げた。間近に階段があったことを神に感謝している。</text>
+  </string>
+  <string id="st_agru_treasure_5_name">
+    <text>階段の下のバックパック</text>
+  </string>
+  <string id="st_agru_treasure_5_descr">
+    <text>俺は階段の下の水中に大きな黒いバックパックを見た。もしそこに恐ろしいくそアノマリーがなけりゃ、そいつを取りにいくんだが。</text>
+  </string>
+  <string id="st_esc_treasure_1_name">
+    <text>丘の上の十字架の元に</text>
+  </string>
+  <string id="st_esc_treasure_1_descr">
+    <text>丘の上にある偽モノのストーカーの墓の下に戦利品を隠した。</text>
+  </string>
+  <string id="st_esc_treasure_2_name">
+    <text>橋の上の箱</text>
+  </string>
+  <string id="st_esc_treasure_2_descr">
+    <text>橋梁の交差にある箱に戦利品を置いてきた。そこを登るのに1トンの汗をかいたけどな･･････。</text>
+  </string>
+  <string id="st_esc_treasure_3_name">
+    <text>伐採された木の下のパイプ</text>
+  </string>
+  <string id="st_esc_treasure_3_descr">
+    <text>俺たちはルーキー村からそれほど遠くないところに野営地を作った。伐採された木の下のパイプに荷物を隠しました。後で回収しなきゃな。</text>
+  </string>
+  <string id="st_esc_treasure_15_name">
+    <text>トンネル内パイプ</text>
+  </string>
+  <string id="st_esc_treasure_15_descr">
+    <text>俺たちは色んなガラクタををアノマリーに放り込んでいたんだが、間違って戦利品の入ったパイプもぶん投げちまった。塵まみれだけどまだそこにあるぜ。</text>
+  </string>
+  <string id="st_esc_treasure_4_name">
+    <text>ストーブ煙突の中のバックパック</text>
+  </string>
+  <string id="st_esc_treasure_4_descr">
+    <text>俺が新人だった頃は、ストーブの煙突にちょっと隠していた。その中に何を入れていたのかはもう覚えていないけど。</text>
+  </string>
+  <string id="st_esc_treasure_5_name">
+    <text>木の上にあるスタッシュ</text>
+  </string>
+  <string id="st_esc_treasure_5_descr">
+    <text>俺は木から車両基地を監視していたんだが、丁度いいからバックパックを置いておくことにした。そこに登る一番簡単な方法は丘の側面から枝を経由する事だ。</text>
+  </string>
+  <string id="st_esc_treasure_6_name">
+    <text>機関車の下</text>
+  </string>
+  <string id="st_esc_treasure_6_descr">
+    <text>俺の指揮官はニコラエフのグループをできるだけ早く助けるように我々に命令した。だから俺はバックパックを、堤防の隣にある機関車の下に投げ込まなければならなかった。</text>
+  </string>
+  <string id="st_esc_treasure_7_name">
+    <text>草むらに隠れたバックパック</text>
+  </string>
+  <string id="st_esc_treasure_7_descr">
+    <text>ある晩、Banditどもに遭遇して銃撃戦になった。そこに長居する必要もないからすぐにケツをまくろうとしたんだが、バックパックが邪魔だったんで岩の間にある草むらに投げ込んでおいた。</text>
+  </string>
+  <string id="st_esc_treasure_8_name">
+    <text>薪の下にバックパック</text>
+  </string>
+  <string id="st_esc_treasure_8_descr">
+    <text>スタッシュを覆うように薪を積み上げといた。</text>
+  </string>
+  <string id="st_esc_treasure_16_name">
+    <text>パイプの中の金庫</text>
+  </string>
+  <string id="st_esc_treasure_17_name">
+    <text>基地の金庫</text>
+  </string>
+  <string id="st_esc_treasure_17_descr">
+    <text>ジルはがらくたをコードンの中立基地の金庫に保管している。</text>
+  </string>
+  <string id="st_esc_treasure_16_descr">
+    <text>コーリャと俺で、ルーキー村近くの廃品置き場にある金庫にスタッシュを作った。</text>
+  </string>
+  <string id="st_esc_treasure_9_name">
+    <text>丸太の貯蔵品</text>
+  </string>
+  <string id="st_esc_treasure_9_descr">
+    <text>犬共に襲われたんで、あまり良い選択肢が残されてなかった。ただっ広い平地の真ん中にひびの入った丸太があったんで中に戦利品を隠して野営地に逃げ帰った。</text>
+  </string>
+  <string id="st_esc_treasure_10_name">
+    <text>丸太の中の隠れ家</text>
+  </string>
+  <string id="st_esc_treasure_10_descr">
+    <text>死んだストーカーの隠れ家の座標を手に入れた。農場の後ろの丸太の中だ。</text>
+  </string>
+  <string id="st_esc_treasure_11_name">
+    <text>トウヒ林の切り株</text>
+  </string>
+  <string id="st_esc_treasure_11_descr">
+    <text>相棒と俺はモミの木々の間の切り株に持っていたなけなしの戦利品を隠した。</text>
+  </string>
+  <string id="st_esc_treasure_12_name">
+    <text>村の近くにある切り株</text>
+  </string>
+  <string id="st_esc_treasure_12_descr">
+    <text>俺はスタッシュを作るためにあまり遠くまで歩かなかった。俺は、穴の開いたルーキー村の隣にある最初の切り株を選んだ。そこに見つけたものを隠している。</text>
+  </string>
+  <string id="st_esc_treasure_13_name">
+    <text>森の中の切り株</text>
+  </string>
+  <string id="st_esc_treasure_13_descr">
+    <text>シドロヴィッチは、外へ続く前哨基地の近くで、新人のために貯蔵所を作るように頼んできた。俺はすべてを丘の近くにある切り株に隠した。</text>
+  </string>
+  <string id="st_esc_treasure_14_name">
+    <text>コードンの切り株</text>
+  </string>
+  <string id="st_esc_treasure_14_descr">
+    <text>俺はガベージに向かっている途中で、Banditたちから取られないようにするために、すべてを切り株の中に隠した。</text>
+  </string>
+  <string id="st_gar_treasure_1_name">
+    <text>廃電気パネル</text>
+  </string>
+  <string id="st_gar_treasure_1_descr">
+    <text>後でフリーマーケットで売るために、ちょっとしたものをしまっておいた。倒れたクレーンのキャビンの隣の電気パネルに置いておいた。</text>
+  </string>
+  <string id="st_gar_treasure_2_name">
+    <text>小屋の下のパネルボード</text>
+  </string>
+  <string id="st_gar_treasure_2_descr">
+    <text>この近くにある物置の下のパネルボードの中にしまってあるものを売るのが楽しみだ。</text>
+  </string>
+  <string id="st_gar_treasure_16_name">
+    <text>廃品置き場の電気パネル
+</text>
+  </string>
+  <string id="st_gar_treasure_16_descr">
+    <text>その略奪品はゴミの山の中の電気パネルカバーの下にある。</text>
+  </string>
+  <string id="st_gar_treasure_3_name">
+    <text>ガベージのパイプ</text>
+  </string>
+  <string id="st_gar_treasure_3_descr">
+    <text>誰からも取られないように、俺はブツを壊れたパイプの中に入れた。</text>
+  </string>
+  <string id="st_gar_treasure_4_name">
+    <text>クレーンのふもとのパイプ</text>
+  </string>
+  <string id="st_gar_treasure_4_descr">
+    <text>折りたたまれたクレーンのふもとのパイプ。雨の日のために、俺の小物をいくつか隠しておいた。</text>
+  </string>
+  <string id="st_gar_treasure_5_name">
+    <text>モミの木の下のバックパック</text>
+  </string>
+  <string id="st_gar_treasure_19_name">
+    <text>クレーン室のバックパック</text>
+  </string>
+  <string id="st_gar_treasure_19_descr">
+    <text>クレーン車がまだ立ち上がっているときに、俺はバックパックをクレーンの小屋に隠した。今はもう入れない。</text>
+  </string>
+  <string id="st_gar_treasure_5_descr">
+    <text>もっと良い日が来るまで、俺のバックパックとその中身はこのモミの木の下に隠されたままだろう。</text>
+  </string>
+  <string id="st_gar_treasure_20_name">
+    <text>敵からの隠れ場所</text>
+  </string>
+  <string id="st_gar_treasure_20_descr">
+    <text>バックパックを放射性のゴミの山に捨てて、敵に取られないようにした。</text>
+  </string>
+  <string id="st_gar_treasure_6_name">
+    <text>廃品置き場にあるスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_6_descr">
+    <text>俺は汚染された車両の墓場近くにあるコンクリート板の下にブツを隠した。早く取りに行かないと誰かに取られちまうぜ。</text>
+  </string>
+  <string id="st_gar_treasure_7_name">
+    <text>機関車の屋根</text>
+  </string>
+  <string id="st_gar_treasure_7_descr">
+    <text>俺は列車の上にバックパックを忘れてきてしまった。土手から取るのは簡単だろうが、見つけるのは難しいはずだ。</text>
+  </string>
+  <string id="st_gar_treasure_8_name">
+    <text>水たまりの金庫</text>
+  </string>
+  <string id="st_gar_treasure_8_descr">
+    <text>あんな水溜りに沈みかけている金庫を掘りにいく奴はいないだろう。一時的なスタッシュとしてはいい場所だ。</text>
+  </string>
+  <string id="st_gar_treasure_9_name">
+    <text>支柱の下の金庫</text>
+  </string>
+  <string id="st_gar_treasure_9_descr">
+    <text>俺は「放射能危険」標識近くの金庫に戦利品を隠した。そこで金庫破りなんてしようとする奴は死んだも同然だぜ！</text>
+  </string>
+  <string id="st_gar_treasure_10_name">
+    <text>丸太の穴の中</text>
+  </string>
+  <string id="st_gar_treasure_10_descr">
+    <text>俺は合同野営地からそう遠くない丸太の穴を金庫として使った。</text>
+  </string>
+  <string id="st_gar_treasure_11_name">
+    <text>オークの木の裏の丸太</text>
+  </string>
+  <string id="st_gar_treasure_11_descr">
+    <text>俺はコーリャの情報に釣られてしまった。奴はこういったんだ。雑草だらけのお宝、つまり奴の戦利品が腐ったオークの木の裏にある丸太の中にあるって。
+</text>
+  </string>
+  <string id="st_gar_treasure_12_name">
+    <text>茂みの丸太</text>
+  </string>
+  <string id="st_gar_treasure_12_descr">
+    <text>俺は戦利品を丸太の中に詰め込み、茂みの中に隠した。あそこなら安全で、見つからないだろう。
+</text>
+  </string>
+  <string id="st_gar_treasure_13_name">
+    <text>逃亡者のスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_13_descr">
+    <text>発掘野郎のひとりがお宝を持ったまま逃げようとしたが、Shepherd とその手下たちは違う考えだったようだ。奴らは時間を無駄にしたあげく、そのお宝を見つけることができなかった。だが、俺は奴が切り株に隠しているとこを見てしまったのさ。</text>
+  </string>
+  <string id="st_gar_treasure_14_name">
+    <text>人里離れたスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_14_descr">
+    <text>俺は人里離れた切り株の穴を見つけ、スタッシュとして使うことにした。万が一、仲間の誰かが俺から強奪しようと決心するかもしれないからな。
+</text>
+  </string>
+  <string id="st_gar_treasure_15_name">
+    <text>基地の近くにある貯蔵庫
+</text>
+  </string>
+  <string id="st_gar_treasure_15_descr">
+    <text>俺の他には誰も知らないが、ヨーガの鼻先のすぐ下にいいモノを隠してやったぜ。フェンスの隣、古い切り株の下だ。
+</text>
+  </string>
+  <string id="st_hos_treasure_1_name">
+    <text>病院の電気パネル</text>
+  </string>
+  <string id="st_hos_treasure_1_descr">
+    <text>俺たちのグループは病院の２階の分電盤にスタッシュを作った。</text>
+  </string>
+  <string id="st_hos_treasure_2_name">
+    <text>階段の下のバックパック</text>
+  </string>
+  <string id="st_hos_treasure_2_descr">
+    <text>俺たちは2階に突入するために、必要のないものは全て捨てなければならなかった。</text>
+  </string>
+  <string id="st_hos_treasure_3_name">
+    <text>ホールのバリケード</text>
+  </string>
+  <string id="st_hos_treasure_3_descr">
+    <text>俺は激しい銃撃戦に巻き込まれ、病院の2階のホールに釘付けにされてしまった。だからバリケードの古い金庫に戦利品を隠さなければならなかった。</text>
+  </string>
+  <string id="st_lim_treasure_3_name">
+    <text>下水道のパイプ</text>
+  </string>
+  <string id="st_lim_treasure_3_descr">
+    <text>下水管の中にあるスタッシュを見つけた。今度あの場所へ行ったときにもらうとしよう。</text>
+  </string>
+  <string id="st_lim_treasure_6_name">
+    <text>人目につかない場所の旅行かばん</text>
+  </string>
+  <string id="st_lim_treasure_5_name">
+    <text>屋根裏部屋の旅行かばん</text>
+  </string>
+  <string id="st_lim_treasure_5_descr">
+    <text>俺たちは二日間にわたって戦った。最終的に俺たちは屋根まで追い込まれたが、そのとき味方の増援が来てくれた。その時に、屋根裏に箱があるのを見つけたんだが、拾っておくのを忘れてしまった。</text>
+  </string>
+  <string id="st_lim_treasure_6_descr">
+    <text>フェンスの裏に小さな道具箱があることに気付いたとき、俺たちは本拠地を通り過ぎた所に居たんだ。</text>
+  </string>
+  <string id="st_lim_treasure_7_name">
+    <text>UAZ車の下のパイプ</text>
+  </string>
+  <string id="st_lim_treasure_8_name">
+    <text>ガレージの裏</text>
+  </string>
+  <string id="st_lim_treasure_8_descr">
+    <text>ガレージの裏にスタッシュがあるのを見つけたが、中身を見る時間がなかった。木の後ろの大きなパイプの中だ。</text>
+  </string>
+  <string id="st_lim_treasure_1_name">
+    <text>コンテナ内のパイプ</text>
+  </string>
+  <string id="st_lim_treasure_1_descr">
+    <text>俺たちはある本拠地で足止めを食らった。そこにはゴミ箱があって、パイプの中に何かがあったのを憶えてる。ここでの仕事が終わったら、すぐにパイプの中身を調べに戻るつもりだ。</text>
+  </string>
+  <string id="st_lim_treasure_7_descr">
+    <text>UAZ自動車の下に、いくつかのガラクタが入った袋があった。俺にはそれを調べる時間がなかったが、後で調べるかもしれない･･････まだ俺が生きていたらな。</text>
+  </string>
+  <string id="st_lim_treasure_9_name">
+    <text>グローブボックスの下のバックパック</text>
+  </string>
+  <string id="st_lim_treasure_9_descr">
+    <text>哀れなブリキ缶のバックパックを、古いモスクヴィッチ社製の車のダッシュボードの下に貼り付けた。</text>
+  </string>
+  <string id="st_lim_treasure_2_name">
+    <text>フェンスのところのバックパック</text>
+  </string>
+  <string id="st_lim_treasure_14_name">
+    <text>けが人の物</text>
+  </string>
+  <string id="st_lim_treasure_14_descr">
+    <text>壁を登っているときに、サネクに1つ飛び込んできた。彼はバックパックを落として自分の尻を守る必要があった。</text>
+  </string>
+  <string id="st_lim_treasure_2_descr">
+    <text>俺は追われていた、だから俺はこの座標のフェンスの近くにバックパックを捨てた。</text>
+  </string>
+  <string id="st_lim_treasure_10_name">
+    <text>死人のバックパック</text>
+  </string>
+  <string id="st_lim_treasure_10_descr">
+    <text>俺のすぐ隣にいた新人が手榴弾でやられ、奴は泣き叫んでいた。ダンは奴のリュックサックをとって、橋の下に投げた。死人には必要ないだろうが、俺たちには必要になるかもしれないからな。</text>
+  </string>
+  <string id="st_lim_treasure_11_name">
+    <text>ガレージの金庫</text>
+  </string>
+  <string id="st_lim_treasure_11_descr">
+    <text>俺たちはガレージで逃亡者を捜していた時に、金庫を見つけた。いつかそれを開けようと思う</text>
+  </string>
+  <string id="st_lim_treasure_12_name">
+    <text>半分埋まった丸太</text>
+  </string>
+  <string id="st_lim_treasure_12_descr">
+    <text>俺たちがこのくそったれを殺す前に、奴が見晴らし小屋の後ろの丸太をいじっている所を見た。</text>
+  </string>
+  <string id="st_lim_treasure_13_name">
+    <text>切り株の中の大金</text>
+  </string>
+  <string id="st_lim_treasure_13_descr">
+    <text>俺たちが攻撃の準備をしていた時に、この切り株の中に包みのようなものを見た。</text>
+  </string>
+  <string id="st_mar_treasure_1_name">
+    <text>掩体壕の近くにあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_1_descr">
+    <text>目の細いギャングが俺に近づいてきていた。だから俺はさびれた車両基地からそう遠くない沼で、大量の戦利品を掩体壕の貯蔵庫に入れた。</text>
+  </string>
+  <string id="st_mar_treasure_2_name">
+    <text>塔の下の小さな箱</text>
+  </string>
+  <string id="st_mar_treasure_2_descr">
+    <text>俺はスタッシュを高圧電流のタワーに作り、そこに集めた戦利品を入れている。</text>
+  </string>
+  <string id="st_mar_treasure_3_name">
+    <text>ジル社製の車内のボックス</text>
+  </string>
+  <string id="st_mar_treasure_3_descr">
+    <text>変わり者のアレックスがどこかから錠前師の箱を持ってきた。俺たちはいくらかのブツをそれに詰めて、錆付いたジル社製の車内に置いておいた。</text>
+  </string>
+  <string id="st_mar_treasure_4_name">
+    <text>ポンプ場のパイプ</text>
+  </string>
+  <string id="st_mar_treasure_4_descr">
+    <text>沼地中央あたりの古いポンプ場にあるバルブの隣に設置されている鐘形の口をしたパイプに何かを隠した。</text>
+  </string>
+  <string id="st_mar_treasure_6_name">
+    <text>沼地のパイプ</text>
+  </string>
+  <string id="st_mar_treasure_6_descr">
+    <text>俺は荷物を引きずって沼地を横断するのが嫌になった。だから沼地で囲まれている半島のバルブのあるパイプ中に置いてきた。荷物は軽くなるし、アシの草の中に隠しておけば大丈夫だろう。</text>
+  </string>
+  <string id="st_mar_treasure_5_name">
+    <text>グレート スワンプのバックパック</text>
+  </string>
+  <string id="st_mar_treasure_5_descr">
+    <text>俺は沼地の獣からどうにか逃げ切ったのだが、走っていた時にリュックを落としちまった。もう取りに戻る気は起きない。</text>
+  </string>
+  <string id="st_mar_treasure_8_name">
+    <text>水没した金庫
+</text>
+  </string>
+  <string id="st_mar_treasure_8_descr">
+    <text>壊れた橋からそう遠くない水の中に水没した金庫がある。俺はその金庫を信じ、自分のすべての物をそこに置いた。</text>
+  </string>
+  <string id="st_mar_treasure_7_name">
+    <text>草むらの中のバックパック</text>
+  </string>
+  <string id="st_mar_treasure_7_descr">
+    <text>「ボア」と戦っていた時に、邪魔になったバックパックをアシの草のベッドに投げ込んだ。目安となるものは何もない、位置座標だけだ。</text>
+  </string>
+  <string id="st_mar_treasure_10_name">
+    <text>残された遺留品</text>
+  </string>
+  <string id="st_mar_treasure_10_descr">
+    <text>俺は馬鹿を騙してバックパックを盗んだ。それで、しばらく草むらの茂みに隠すことにした。だから俺は捕まることはないだろう。</text>
+  </string>
+  <string id="st_mar_treasure_9_name">
+    <text>木の近くにある切り株</text>
+  </string>
+  <string id="st_mar_treasure_9_descr">
+    <text>俺は、枯れた木の横の切り株に自分の戦利品をしまっておこうと決めた。グレート スワンプにお別れするときに持って行こう。</text>
+  </string>
+  <string id="st_mar_treasure_12_name">
+    <text>鉄塔近くにある丸太</text>
+  </string>
+  <string id="st_mar_treasure_12_descr">
+    <text>高電圧塔からさほど遠くない割れた丸太だ。</text>
+  </string>
+  <string id="st_mar_treasure_11_name">
+    <text>ガスマスクの付いた墓</text>
+  </string>
+  <string id="st_mar_treasure_11_descr">
+    <text>俺は生きている者より死んだ者を信頼している。俺の貯蔵庫は墓場にあり、一番左側の墓にガスマスクと共に置いてある。</text>
+  </string>
+  <string id="st_mar_treasure_14_name">
+    <text>木製の十字架</text>
+  </string>
+  <string id="st_mar_treasure_14_descr">
+    <text>雨の日に備えてちょっとしたものを蓄えておいた。それは教会にある木製の十字架の墓の中にある。</text>
+  </string>
+  <string id="st_mar_treasure_13_name">
+    <text>教会の薪の山
+</text>
+  </string>
+  <string id="st_mar_treasure_13_descr">
+    <text>神よ、どうか俺の荷物を守ってください。俺は物を薪の山のひび割れた丸太の中に隠した。</text>
+  </string>
+  <string id="st_mar_treasure_16_name">
+    <text>草むらの中にあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_16_descr">
+    <text>教会の近くにあるアシの茂みにバックパックを置いてきた。PDAに正確な座標があっても見つかることはないだろう。</text>
+  </string>
+  <string id="st_mar_treasure_15_name">
+    <text>汚れた金庫</text>
+  </string>
+  <string id="st_mar_treasure_15_descr">
+    <text>教会の近くにある沼の岸にある金庫にすべての略奪品を入れておいた。もってけ盗賊共！</text>
+  </string>
+  <string id="st_mar_treasure_18_name">
+    <text>ストーブの下の旅行かばん</text>
+  </string>
+  <string id="st_mar_treasure_18_descr">
+    <text>熱いストーブとイカした彼女の共通点はなんだろう？どちらも、燃え上がっちまうようなスリルを味わいながら扱うのさ！ハハ！俺が戦利品でいっぱいの旅行かばんを隠すのに使っているのも、そんなストーブのひとつだ。</text>
+  </string>
+  <string id="st_mar_treasure_17_name">
+    <text>ザポロージェツ社製の車の中の使えるやつ</text>
+  </string>
+  <string id="st_mar_treasure_17_descr">
+    <text>助けが来るまで半水没状態のザポロージェツ社製の車で半夜を過ごした。誰が俺たちのところへやって来るかわからなかったから、その辺に物を置いておいた。日の出ているうちにまた取りに行こう。</text>
+  </string>
+  <string id="st_mar_treasure_20_name">
+    <text>線路近くにある切り株</text>
+  </string>
+  <string id="st_mar_treasure_20_descr">
+    <text>俺たちが線路のそばを通っていると銃声が聞こえてきた。念のため、荷物を岩の後ろの切り株の中に入れておいた。</text>
+  </string>
+  <string id="st_mar_treasure_19_name">
+    <text>貯水槽からのパイプ</text>
+  </string>
+  <string id="st_mar_treasure_19_descr">
+    <text>俺と俺の仲間たちは持ち物をバルブのついたパイプの隅に隠した。パイプは貯水槽からグレート スワンプへと繋がっている。</text>
+  </string>
+  <string id="st_mar_treasure_22_name">
+    <text>マットレスの近くにあるバックパック</text>
+  </string>
+  <string id="st_mar_treasure_22_descr">
+    <text>間抜けなレカは沈没したボートのマットレスの上で眠り、そこにバックパックを忘れてきてしまった。</text>
+  </string>
+  <string id="st_mar_treasure_21_name">
+    <text>キッチンのボックス</text>
+  </string>
+  <string id="st_mar_treasure_21_descr">
+    <text>下取りに出したい商品を、キッチンの青い箱に入れた。</text>
+  </string>
+  <string id="st_mar_treasure_24_name">
+    <text>丸太の中にあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_24_descr">
+    <text>グレート スワンプから別の場所に行く前に、リュックサックの中身を整理しなければならなかった。割れた丸太の中に戦利品の一部を入ておいた。</text>
+  </string>
+  <string id="st_mar_treasure_23_name">
+    <text>パネルボードの中にあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_23_descr">
+    <text>農場の変圧器室の外のパネルボード。危険だ！近寄るな！</text>
+  </string>
+  <string id="st_mar_treasure_25_name">
+    <text>車両基地の電気制御ユニット</text>
+  </string>
+  <string id="st_mar_treasure_25_descr">
+    <text>グレーのギャングに加わったとき、俺は駅の電気制御装置にいくつかの小物をしまっておいた。いつか役に立つ日が来るかもしれない。</text>
+  </string>
+  <string id="st_mar_treasure_26_name">
+    <text>登山道のバックパック</text>
+  </string>
+  <string id="st_mar_treasure_26_descr">
+    <text>道で怪獣に出くわしたがナイフしか持ってなかった。俺はリュックを投げて飛びかかった。後に何人かの奴が1マイル離れた所で俺を見つけた。俺はいつかそこに戻らなければならない。</text>
+  </string>
+  <string id="st_mar_treasure_27_name">
+    <text>若い木の近くにある切り株</text>
+  </string>
+  <string id="st_mar_treasure_27_descr">
+    <text>愚か者はフックに絞っておこう。俺も略奪品を少しずつ集めて、若い木のそばの切り株の下に隠していく。</text>
+  </string>
+  <string id="st_mar_treasure_28_name">
+    <text>枯れ木の後ろの金庫</text>
+  </string>
+  <string id="st_mar_treasure_28_descr">
+    <text>仲間たちの薬と交換するために戦利品を貯めて、枯れ木の後ろの金庫に隠している。貯まったらすぐに外に出よう。</text>
+  </string>
+  <string id="st_mar_treasure_29_name">
+    <text>茂みの中にあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_29_descr">
+    <text>グレート スワンプの外に出たときは、疲れて歩けなかったので、道の途中の茂みの中に荷物を落とした。</text>
+  </string>
+  <string id="st_mar_treasure_30_name">
+    <text>トラックの荷台の下にあるスタッシュ</text>
+  </string>
+  <string id="st_mar_treasure_30_descr">
+    <text>橋の下にあるトラックの下のツールボックス。</text>
+  </string>
+  <string id="st_mar_treasure_31_name">
+    <text>沼地の真ん中</text>
+  </string>
+  <string id="st_mar_treasure_31_descr">
+    <text>俺は沼地の真ん中の金属の棒が突き出たコンクリートの上に、荷物の箱を置いた。今度外に出るときにでも回収しよう。</text>
+  </string>
+  <string id="st_mar_treasure_32_name">
+    <text>ストーブの中の小さな箱</text>
+  </string>
+  <string id="st_mar_treasure_32_descr">
+    <text>俺のスタッシュはたんすの中、たんすはこんろの中、こんろは燃えた家の中、そして家はグレート スワンプにある。</text>
+  </string>
+  <string id="st_mar_treasure_33_name">
+    <text>草むらの中の安全な場所</text>
+  </string>
+  <string id="st_mar_treasure_33_descr">
+    <text>あんな金庫がここの沼地で何をしているか知らないが、見過ごすことはできなかった。とりあえず荷物はそこに置いておく。</text>
+  </string>
+  <string id="st_mar_treasure_34_name">
+    <text>沼地にある木の幹</text>
+  </string>
+  <string id="st_mar_treasure_34_descr">
+    <text>うちの親分はあまり荷物を持っていかないようにと言った。僕は自分のを、給水塔の横の切り株の下、木の下の茂みの中に隠した。</text>
+  </string>
+  <string id="st_mar_treasure_35_name">
+    <text>沼地の木挽き</text>
+  </string>
+  <string id="st_mar_treasure_35_descr">
+    <text>俺はグレート スワンプを横断していた時に、木の甲板近くのこの腐った木挽きに気づいた。それは 「宝物」 のいいスタッシュになると思ったね。</text>
+  </string>
+  <string id="st_mar_treasure_36_name">
+    <text>島のバックパック</text>
+  </string>
+  <string id="st_mar_treasure_36_descr">
+    <text>沼の化け物が俺を追いかけ回してきやがった。数マイルのマラソンした後、俺は疲れきってしまい、島にバックパックを捨てなければならなかった。</text>
+  </string>
+  <string id="st_mar_treasure_37_name">
+    <text>駅の近くにあるハッチ</text>
+  </string>
+  <string id="st_mar_treasure_37_descr">
+    <text>駅の近くにあるハッチの下に俺の物を埋めた。Banditに俺の物を盗られたくなかったんでな。</text>
+  </string>
+  <string id="st_mar_treasure_38_name">
+    <text>パイプ内の貯蔵庫</text>
+  </string>
+  <string id="st_mar_treasure_38_descr">
+    <text>大きなパイプの中にある黒いバックパックは、ミトカが残したものの全てだ。</text>
+  </string>
+  <string id="st_mar_treasure_39_name">
+    <text>運転席の道具箱</text>
+  </string>
+  <string id="st_mar_treasure_39_descr">
+    <text>俺は沼地で道具箱を見つけ、そこに俺の物を全て入れ、それをクレーンの運転席に隠した。取りに戻るのは状況が良くなってからにしよう。</text>
+  </string>
+  <string id="st_mar_treasure_40_name">
+    <text>列車下のバックパック</text>
+  </string>
+  <string id="st_mar_treasure_40_descr">
+    <text>俺は逃げようとしていた。だから線路の土台の列車下にバックパックを捨てて、荷物を軽くした。</text>
+  </string>
+  <string id="st_mar_treasure_41_name">
+    <text>ドームの棚の上</text>
+  </string>
+  <string id="st_mar_treasure_41_descr">
+    <text>教会のドームの棚にバックパックを置いてきた。きっと俺は屋根じゅうを飛び回る野生のヤギに似ていたに違いない。</text>
+  </string>
+  <string id="st_mar_treasure_42_name">
+    <text>橋の下</text>
+  </string>
+  <string id="st_mar_treasure_42_descr">
+    <text>俺たちは橋の下に隠れ、追いかけてくる男たちは気づかずに橋の先を走り抜けて行った。そして、俺はいくつかの戦利品の入ったバックパックを橋柱の横に置いてきた。</text>
+  </string>
+  <string id="st_mar_treasure_43_name">
+    <text>岩場の間</text>
+  </string>
+  <string id="st_mar_treasure_43_descr">
+    <text>3つのでかい石の隙間にバッグを放り投げてた。さもないと貧欲な連中の標的になっちまうからな。</text>
+  </string>
+  <string id="st_mar_treasure_44_name">
+    <text>岩場下の木挽き</text>
+  </string>
+  <string id="st_mar_treasure_44_descr">
+    <text>俺はスタッシュのための安全な場所を探していた時に、アシの岩場下の穴にいい木挽きを見つけた。</text>
+  </string>
+  <string id="st_mil_treasure_11_name">
+    <text>墓にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_11_descr">
+    <text>墓の十字架の下に俺の物を埋めた。俺が取りに戻るまで、安心して眠らせておこう。</text>
+  </string>
+  <string id="st_mil_treasure_12_name">
+    <text>木の近くにある十字架</text>
+  </string>
+  <string id="st_mil_treasure_12_descr">
+    <text>俺は木の近くにある墓にスタッシュを作った。</text>
+  </string>
+  <string id="st_mil_treasure_1_name">
+    <text>ストーブの中のケース</text>
+  </string>
+  <string id="st_mil_treasure_1_descr">
+    <text>俺は荒廃した小屋のストーブの中に小さいケースを突っ込んだ。集めた物をそこにしまっておこう。</text>
+  </string>
+  <string id="st_mil_treasure_13_name">
+    <text>基地入り口のパイプ</text>
+  </string>
+  <string id="st_mil_treasure_13_descr">
+    <text>旗の鼻先に物を隠した。それは基地入り口の見張りのブース裏のパイプの中にある。</text>
+  </string>
+  <string id="st_mil_treasure_2_name">
+    <text>煙突の近くにあるバックパック</text>
+  </string>
+  <string id="st_mil_treasure_14_name">
+    <text>モスクヴィッチ社製の車の中にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_14_descr">
+    <text>マックスが戻ってきたとき、俺はあいつにこのバックパックを渡すつもりだ。それまでこいつはあのモスクヴィッチ社製の古い車に置いておく。</text>
+  </string>
+  <string id="st_mil_treasure_2_descr">
+    <text>荒廃した家の屋根裏の煙突近くにバックパックを置いてきた。村にあのブラッドサッカーがいなければ、取りに戻るのだろう。</text>
+  </string>
+  <string id="st_mil_treasure_3_name">
+    <text>トレーラーの下のバックパック</text>
+  </string>
+  <string id="st_mil_treasure_4_name">
+    <text>橋の下にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_4_descr">
+    <text>バックパックは軍の基地の橋の下の列車にある。</text>
+  </string>
+  <string id="st_mil_treasure_5_name">
+    <text>トンネルの亀裂</text>
+  </string>
+  <string id="st_mil_treasure_5_descr">
+    <text>俺は 「熱」が始まったときトンネルの上の亀裂にバックパックを落としたが、そいつは金属の棒に引っ掛かった。それを持たずに行くのは残念だった。俺はそれを取りに戻るべきだ。</text>
+  </string>
+  <string id="st_mil_treasure_6_name">
+    <text>トイレにあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_6_descr">
+    <text>村のトイレにあるスタッシュを探す奴はいないだろう。それにそこは俺の場所だから大丈夫だろう。</text>
+  </string>
+  <string id="st_mil_treasure_7_name">
+    <text>フェンス近くにあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_7_descr">
+    <text>かわいそうなコーリャのバックパックを格納庫の後ろに落としてしまった。俺は自分の持ち物で一杯だった。</text>
+  </string>
+  <string id="st_mil_treasure_8_name">
+    <text>木の下のバックパック</text>
+  </string>
+  <string id="st_mil_treasure_8_descr">
+    <text>給水塔近くであの化け物を見た瞬間に、俺はバックパックを倒れた木に捨てて、その場から去ったよ。夜間航行灯が点くような時間はあんたの命を助けるだろうよ。</text>
+  </string>
+  <string id="st_mil_treasure_15_name">
+    <text>地下のバックパック</text>
+  </string>
+  <string id="st_mil_treasure_15_descr">
+    <text>俺はエミッションが起きた後、眩暈がしたのでバックパックを地下室に捨てた。具合が良くなったら取りに戻ろう。</text>
+  </string>
+  <string id="st_mil_treasure_16_name">
+    <text>忘れられたバックパック</text>
+  </string>
+  <string id="st_mil_treasure_16_descr">
+    <text>爆発で壁が破壊され、その破片で下敷きになってしまった。そこから這い上がるためにバックパックを落として、全力を出す必要があったのだが、それがあまりにも楽しかったので、結局バックパックのことはすっかり忘れてしまった。たぶん、まだそこにあるだろう･･････。</text>
+  </string>
+  <string id="st_mil_treasure_17_name">
+    <text>キッチンの貯蔵庫</text>
+  </string>
+  <string id="st_mil_treasure_17_descr">
+    <text>廃村の家のひとつのキッチンストーブの緑のバックパック。座標は記録した。</text>
+  </string>
+  <string id="st_mil_treasure_18_name">
+    <text>岩場下にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_treasure_18_descr">
+    <text>俺は先日、荷物を運んでいた時に戦利品でいっぱいのバックパックを2つの岩場の間の茂みに置いてきた。</text>
+  </string>
+  <string id="st_mil_treasure_3_descr">
+    <text>俺は野郎がブロウアウトが来る前にトレーラー下に奴のバックパックを投げるのを見たんだ。後でそいつを調べに行こう。</text>
+  </string>
+  <string id="st_mil_treasure_9_name">
+    <text>裂けた丸太</text>
+  </string>
+  <string id="st_mil_treasure_19_name">
+    <text>農場労働者のそりの中にあるスタッシュ
+</text>
+  </string>
+  <string id="st_mil_treasure_19_descr">
+    <text>農場労働者のそりの隣に生える大きい丸太の中にあるスタッシュ
+</text>
+  </string>
+  <string id="st_mil_treasure_20_name">
+    <text>岩場下の丸太</text>
+  </string>
+  <string id="st_mil_treasure_20_descr">
+    <text>岩場のちょうど端に丸太はある。そしてその中に誰も見つけられない俺の隠したものがある。   </text>
+  </string>
+  <string id="st_mil_treasure_9_descr">
+    <text>俺は倒れた塔の隣の松の木下の丸太にブツを隠した。</text>
+  </string>
+  <string id="st_mil_treasure_10_name">
+    <text>コンクリートスラブの後ろの切り株</text>
+  </string>
+  <string id="st_mil_treasure_21_name">
+    <text>フェンスの横にある切り株</text>
+  </string>
+  <string id="st_mil_treasure_21_descr">
+    <text>ヴィティオックは戦利品の分け前を、Military基地のフェンスと小さい沼地の間の切り株のくぼみに置いたと言っていた。</text>
+  </string>
+  <string id="st_mil_treasure_10_descr">
+    <text>二つの巨石の間に積み重ねられたコンクリート板の裏の切り株。</text>
+  </string>
+  <string id="st_red_treasure_2_name">
+    <text>青い箱</text>
+  </string>
+  <string id="st_red_treasure_2_descr">
+    <text>俺の戦利品は、潅木近くにある建物の2階にある青い箱に入っている。</text>
+  </string>
+  <string id="st_red_treasure_1_name">
+    <text>カート内のパイプ</text>
+  </string>
+  <string id="st_red_treasure_1_descr">
+    <text>俺は自分の物をパイプに突っ込み、古い採石場の錆びた運搬車にパイプを投げた。</text>
+  </string>
+  <string id="st_red_treasure_8_name">
+    <text>黒いバックパック</text>
+  </string>
+  <string id="st_red_treasure_9_name">
+    <text>木の枝にバックパック</text>
+  </string>
+  <string id="st_red_treasure_9_descr">
+    <text>俺は木の上で怪物から隠れた。そいつの姿は見えなかったが、確かに聞こえたんだ。俺は枝にバックパックを置き、そこから飛び降りて必死に走ったよ。</text>
+  </string>
+  <string id="st_red_treasure_8_descr">
+    <text>くそ、俺は森から走り出るとき、黒いバックパックを無くしちまった。無くした場所の大体の見当はついているが、奴らが地獄へ落ちるよう、あのくそったれな場所すべてにナパーム弾でも加えない限り、そこに戻るつもりは無いね。</text>
+  </string>
+  <string id="st_red_treasure_10_name">
+    <text>フェンスの隣の木</text>
+  </string>
+  <string id="st_red_treasure_10_descr">
+    <text>くそ、ブラッドサッカーが俺を公園フェンスと木の上まで追いかけてきたんだ。俺はその木にバックパックを置いてこなければ、フェンスを越えることはできなかっただろう。</text>
+  </string>
+  <string id="st_red_treasure_19_name">
+    <text>洞窟のバックパック</text>
+  </string>
+  <string id="st_red_treasure_19_descr">
+    <text>夜に俺はいくらか睡眠を取るために洞窟の中をゆっくり進んだ。俺はバッグを引っ張るブラッドサッカーに目覚めさせれた。俺はトラック競技のチャンピオンのようにそこから逃げたが、俺のバックパックはまだブラッドサッカーが持っている。</text>
+  </string>
+  <string id="st_red_treasure_11_name">
+    <text>峡谷近くにある巨石
+</text>
+  </string>
+  <string id="st_red_treasure_11_descr">
+    <text>俺は峡谷近くまで犬共の群れに追い詰められた。だから俺はバックパックを岩場に投げ、突破しようとした。</text>
+  </string>
+  <string id="st_red_treasure_3_name">
+    <text>茂みの中のバックパック</text>
+  </string>
+  <string id="st_red_treasure_12_name">
+    <text>森のバックパック</text>
+  </string>
+  <string id="st_red_treasure_12_descr">
+    <text>それはホラー映画の中にいるみたいだったよ。俺はどうやってそこから出たのかわからない･･････。バックパックを失ったが、俺はそれを落としたであろう場所しか覚えていない。</text>
+  </string>
+  <string id="st_red_treasure_13_name">
+    <text>岩場の下のバックパック</text>
+  </string>
+  <string id="st_red_treasure_13_descr">
+    <text>コーリャのバックパックはあまりにも重過ぎた。だから俺はそれをリマンスク橋の出口の岩場に置いたよ。</text>
+  </string>
+  <string id="st_red_treasure_14_name">
+    <text>呪われた戦利品</text>
+  </string>
+  <string id="st_red_treasure_14_descr">
+    <text>そのバックパックはすごい逸話を持っているぞ！それを扱っていた奴らはみんな死んだ。俺は再び呪われたそいつを見ないように遠くに投げ捨てたよ。</text>
+  </string>
+  <string id="st_red_treasure_15_name">
+    <text>奇妙な場所</text>
+  </string>
+  <string id="st_red_treasure_15_descr">
+    <text>俺は巨石のそばで、バックパックの上に横たわってうとうとした。朝になってみると俺は全く別の場所にいた。俺はその巨石を見つけようとしたが、何かが俺をぐるぐる回らせた。</text>
+  </string>
+  <string id="st_red_treasure_16_name">
+    <text>岩下のバックパック</text>
+  </string>
+  <string id="st_red_treasure_16_descr">
+    <text>いくつかの大きな岩が峡谷から解放され、レッド フォレストの出口で俺の近くに落ちてきた。それから何か暗いものがそれらの後ろから俺に手を伸ばし始めた。俺はかろうじて逃げれたが、道に物を落とすより仕方が無かったんだ。</text>
+  </string>
+  <string id="st_red_treasure_3_descr">
+    <text>俺たちは茂みの中を通り抜けていたんだが、どういうわけか俺のバックパックが無くなってやがった。</text>
+  </string>
+  <string id="st_red_treasure_17_name">
+    <text>失われたバックパック</text>
+  </string>
+  <string id="st_red_treasure_17_descr">
+    <text>あのまぬけのエイブがこの場所近くのどこかの岩場で俺のバックパックを無くしやがった。もうあいつは怖がって取りに戻ろうとしない。さすがは俺の親友だぜ、まったく！</text>
+  </string>
+  <string id="st_red_treasure_18_name">
+    <text>鉱山地下道にあるスタッシュ</text>
+  </string>
+  <string id="st_red_treasure_18_descr">
+    <text>俺は寂れた鉱山の地下道の一番端にアーティファクトを隠した。</text>
+  </string>
+  <string id="st_red_treasure_24_name">
+    <text>荒地の切り株</text>
+  </string>
+  <string id="st_red_treasure_24_descr">
+    <text>レッド フォレストで迷子になって、ここの切り株の穴にがらくたを全部落としちゃったの。</text>
+  </string>
+  <string id="st_red_treasure_4_name">
+    <text>木のくぼみの中の物</text>
+  </string>
+  <string id="st_red_treasure_4_descr">
+    <text>俺とウィップはリマンスクへ向かう途中、保護区の出口近くにある伐採された木のくぼみに物を隠した。</text>
+  </string>
+  <string id="st_red_treasure_5_name">
+    <text>くぼみのある切り株</text>
+  </string>
+  <string id="st_red_treasure_6_name">
+    <text>森の前の木の切り株</text>
+  </string>
+  <string id="st_red_treasure_6_descr">
+    <text>この森で何が待ち構えているのか分からない...、俺たちは腐った切り株に余分なものを隠しておいた。</text>
+  </string>
+  <string id="st_red_treasure_7_name">
+    <text>峡谷の近くにある切り株</text>
+  </string>
+  <string id="st_red_treasure_7_descr">
+    <text>俺たちはあのひどいアノマリーの近くに物を蓄えた。俺たちの目標はアノマリーだ。そこには驚くような非常に高価なアーティファクトがあるに違いない。</text>
+  </string>
+  <string id="st_red_treasure_20_name">
+    <text>大きな木の切り株</text>
+  </string>
+  <string id="st_red_treasure_20_descr">
+    <text>セヴァは俺に、レッド フォレストの中の大きな空洞の切り株について話してくれた。今度それを見つけて、中に何があるか見てみよう。</text>
+  </string>
+  <string id="st_red_treasure_21_name">
+    <text>切り株の中にあるスタッシュ</text>
+  </string>
+  <string id="st_red_treasure_21_descr">
+    <text>ジーンと俺はレッド フォレストの切り株にいくつかのものを隠しておいた。</text>
+  </string>
+  <string id="st_red_treasure_22_name">
+    <text>渓谷の近くにある木の切り株</text>
+  </string>
+  <string id="st_red_treasure_22_descr">
+    <text>渓谷に落ちたときにこの切り株にぶつかったので、とりあえず戦利品を隠した。</text>
+  </string>
+  <string id="st_red_treasure_5_descr">
+    <text>俺は悲鳴と遠吠えを聞いた、だから俺は近くにあるくぼみのある切り株に俺も物を置いて、その場から退散したよ。</text>
+  </string>
+  <string id="st_red_treasure_23_name">
+    <text>鉱山の入り口にあるザポロージェツ社製の車</text>
+  </string>
+  <string id="st_red_treasure_23_descr">
+    <text>俺は鉱山入り口の隣のザポロージェツ社製の車の座席下に戦利品を隠した。シドロヴィッチに会いに行く前にそいつをまた拾おう。</text>
+  </string>
+  <string id="st_dark_valley_treasure_15_name">
+    <text>農場の金庫</text>
+  </string>
+  <string id="st_yantar_treasure_15_name">
+    <text>ガレージの近くにある丸太</text>
+  </string>
+  <string id="st_yantar_treasure_15_descr">
+    <text>俺はヤンターの工場の隣のガレージ近くの丸太に少し戦利品を隠した。そこはそのとき俺が見つけれる最高の場所だった。</text>
+  </string>
+  <string id="st_dark_valley_treasure_22_name">
+    <text>モミの若木の下にあるスタッシュ</text>
+  </string>
+  <string id="st_dark_valley_treasure_22_descr">
+    <text>沼知からそう遠くないところで、俺は若いモミの木の下のパイプのそばにバックパックを捨てた。</text>
+  </string>
+  <string id="st_esc_treasure_weapon_prisoner_descr">
+    <text>コンクリートパイプの中に小さな金庫が隠されている。その中にまさかの時のために取っておいたものがある。</text>
+  </string>
+  <string id="st_esc_treasure_weapon_prisoner_name">
+    <text>カレツキー少佐のスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_quest_bandit_base_name">
+    <text>古いスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_quest_bandit_base_descr">
+    <text>このスタッシュに略奪品を隠していた。</text>
+  </string>
+  <string id="st_gar_treasure_quest_old_pda_name">
+    <text>ツールボックス</text>
+  </string>
+  <string id="st_gar_treasure_quest_old_pda_descr">
+    <text>古いPDAはツールボックスの下部にある。</text>
+  </string>
+  <string id="st_gar_treasure_quest_reward_in_anomaly_name">
+    <text>アノマリーの中にあるスタッシュ</text>
+  </string>
+  <string id="st_gar_treasure_quest_reward_in_anomaly_descr">
+    <text>もしヨーガが嘘をついていなかったとすれば、アノマリーの中にあるスタッシュに特製銃がある。</text>
+  </string>
+  <string id="st_gar_treasure_quest_smuggler_weapons_name">
+    <text>車のトランク</text>
+  </string>
+  <string id="st_gar_treasure_quest_smuggler_weapons_descr">
+    <text>ストリンゴーによると、古い車のトランクには密輸業者の荷物が入っているらしい。</text>
+  </string>
+  <string id="st_mar_q_n_10_name">
+    <text>グレート スワンプの貯蔵庫</text>
+  </string>
+  <string id="st_mar_q_n_10_descr">
+    <text>グレート スワンプのリサイクル工場には非常に貴重な貯蔵庫がある。その中身が何であれ、今はあんたのものだ。</text>
+  </string>
+  <string id="st_mar_q_n_11_name">
+    <text>金庫の中の報酬</text>
+  </string>
+  <string id="st_mar_q_n_11_descr">
+    <text>よぅ、ちょっとばかし値打ちのありそうなブツが入ってる金庫の鍵があるぜ。俺がそういってるだけなんだけどな･･････。</text>
+  </string>
+  <string id="st_mar_q_n_12_name">
+    <text>報酬</text>
+  </string>
+  <string id="st_mar_q_n_12_descr">
+    <text>おまえらのお金のための俺たちの秘密のスタッシュ。すべて川に流して、おまえにだけ売ってやろう。</text>
+  </string>
+  <string id="st_mar_q_n_13_name">
+    <text>小さなケース</text>
+  </string>
+  <string id="st_mar_q_n_13_descr">
+    <text>そういうことなら、ここに戦利品の入ったケースの座標があるぜ。壁の近くにあるガラクタ箱の後ろで見つけられるだろう。</text>
+  </string>
+  <string id="st_mar_q_n_14_name">
+    <text>橋の下の金庫</text>
+  </string>
+  <string id="st_mar_q_n_14_descr">
+    <text>悪くない話だと思うぜ。あんたは橋の下の金庫にあるスタッシュを見つけるだろう。</text>
+  </string>
+  <string id="st_mar_q_n_6_name">
+    <text>支払いとしてのバックパック</text>
+  </string>
+  <string id="st_mar_q_n_6_descr">
+    <text>あんたのPDAにアップロードした座標にあるこのバックパックの中身は、あんたが俺に渡した金より価値があるぜ。</text>
+  </string>
+  <string id="st_mar_q_n_7_name">
+    <text>コードロックされた金庫</text>
+  </string>
+  <string id="st_mar_q_n_7_descr">
+    <text>あんたへの支払いは、グレート スワンプの金庫に隠された価値ある戦利品だ。</text>
+  </string>
+  <string id="st_mar_q_n_8_name">
+    <text>支払いとしての戦利品</text>
+  </string>
+  <string id="st_mar_q_n_8_descr">
+    <text>大きな岩の下にある黒いバックパックの戦利品はもうあんたのものだ。こいつで取引は成立だな。</text>
+  </string>
+  <string id="st_mar_q_n_9_name">
+    <text>塔の小さな木箱</text>
+  </string>
+  <string id="st_mar_q_n_9_descr">
+    <text>ある信頼できる情報筋が、塔の下に隠された無人の隠れ家にある略奪品について話してくれたことがある。</text>
+  </string>
+  <string id="st_mar_q_t_a_15_name">
+    <text>親愛なる兵士のバックパック</text>
+  </string>
+  <string id="st_mar_q_t_a_15_descr">
+    <text>アンタが払った金より相当いいモンが手に入れられるだろう。報酬は兵士の死体の近くにあるバックパックの中だ。</text>
+  </string>
+  <string id="st_mar_q_t_a_3_name">
+    <text>余分な手間</text>
+  </string>
+  <string id="st_mar_q_t_a_3_descr">
+    <text>死んだ兵士のバックパックを気合をいれて見つけな。オマケ付きで払った分の銭が取り戻せるだろうよ。</text>
+  </string>
+  <string id="st_mar_q_t_l_16_name">
+    <text>厳しい報酬</text>
+  </string>
+  <string id="st_mar_q_t_l_16_descr">
+    <text>貴重だが「タフな」戦利品についての情報を提供する。慎重に行けよ。以前の所有者は俺のアドバイスに耳を貸さなかった･･････。</text>
+  </string>
+  <string id="st_mar_q_t_l_1_name">
+    <text>死体のバックパック</text>
+  </string>
+  <string id="st_mar_q_t_l_1_descr">
+    <text>遺体の背中のバックパックに入っている。</text>
+  </string>
+  <string id="st_mar_q_t_l_2_name">
+    <text>空挺隊員</text>
+  </string>
+  <string id="st_mar_q_t_l_2_descr">
+    <text>彼のバックパックには、あんたが必要としているもの入っているだろう。</text>
+  </string>
+  <string id="st_mar_q_t_l_4_name">
+    <text>ファイターの死体</text>
+  </string>
+  <string id="st_mar_q_t_l_4_descr">
+    <text>情報は次のとおりだ。茂みの中に「休んで」いる若い戦士があんたのためにバックパックを守っている。</text>
+  </string>
+  <string id="st_mar_q_t_l_5_name">
+    <text>パイプラインの下のバックパック</text>
+  </string>
+  <string id="st_mar_q_t_l_5_descr">
+    <text>この座標は、パイプラインの下にあるストーカーの死体の横にあるバックパックを示している。</text>
+  </string>
+  <string id="st_esc_q10_n_name">
+    <text>有刺鉄線の近くにある木の切り株</text>
+  </string>
+  <string id="st_esc_q10_n_descr">
+    <text>相棒よ、有刺鉄線から遠くない切り株を探し、報酬を受け取ってくれ。</text>
+  </string>
+  <string id="st_esc_q1_n_name">
+    <text>緑の木枠</text>
+  </string>
+  <string id="st_esc_q1_n_descr">
+    <text>俺はこの戦利品をあんたのために特別に置いておいた。それはコードンの端の軍の箱の中にある。俺の心のかけらがそれに似合うだろう!</text>
+  </string>
+  <string id="st_esc_q2_n_name">
+    <text>小さい孤独なバックパック</text>
+  </string>
+  <string id="st_esc_q2_n_descr">
+    <text>あんたのそんな気前のよさはそれ相応の報酬を受けとるだろうよ！ヘヘヘ。これが俺のスタッシュだ。その場所とあんたの望むような中身だ。</text>
+  </string>
+  <string id="st_esc_q3_t_l_name">
+    <text>グレート スワンプへの道</text>
+  </string>
+  <string id="st_esc_q3_t_l_descr">
+    <text>俺はあんたの金をもらう、あんたは俺のスタッシュにあるものをもらう。あんたはそれをグレート スワンプへの道沿いの死体の隣で見つけるだろう。</text>
+  </string>
+  <string id="st_esc_q4_t_a_name">
+    <text>英雄への報酬</text>
+  </string>
+  <string id="st_esc_q4_t_a_descr">
+    <text>あんたの購入品は不幸なストーカーの死体の隣にあるバックパックの中であんたを待ってるぜ。古い電気機関車近くのそれを探せ。</text>
+  </string>
+  <string id="st_esc_q5_n_name">
+    <text>報酬</text>
+  </string>
+  <string id="st_esc_q5_n_descr">
+    <text>あんたはその座標の木の下のバックパックの中に隠したものを見つけるだろう。</text>
+  </string>
+  <string id="st_esc_q6_n_name">
+    <text>アクセス許可</text>
+  </string>
+  <string id="st_esc_q6_n_descr">
+    <text>エレベーターの電気パネル内に俺のブツがある。そこにいってみろ。電力はきていないが、アノマリーに関しては無いとは断言できない･･････。</text>
+  </string>
+  <string id="st_esc_q7_n_name">
+    <text>列車の下のケース</text>
+  </string>
+  <string id="st_esc_q7_n_descr">
+    <text>俺の「隠したもの」は列車の下のケースの中身だ。</text>
+  </string>
+  <string id="st_esc_q8_n_name">
+    <text>偽の墓
+</text>
+  </string>
+  <string id="st_esc_q8_n_descr">
+    <text>墓を掘り起こすのはよくないだろう。だが、俺の隠した物は偽の墓に隠されているから、あんたは他の死体の休息を邪魔しないだろう。</text>
+  </string>
+  <string id="st_esc_q9_t_a_name">
+    <text>廃品置き場の裏</text>
+  </string>
+  <string id="st_esc_q9_t_a_descr">
+    <text>コードンのガラクタ置き場の裏側のアノマリーの隣にあるケースの中身が報酬だ。その近くには若者がいるだろうが気にするな。そいつはもう行動できないからな。</text>
+  </string>
+  <string id="st_gar_q10_n_name">
+    <text>ガベージの端の切り株</text>
+  </string>
+  <string id="st_gar_q10_n_descr">
+    <text>よし、あんたにいいネタをやるよ。ガベージの端の切り株にそいつはあるぜ。</text>
+  </string>
+  <string id="st_gar_q1_n_name">
+    <text>残骸の中の黒いバックパック</text>
+  </string>
+  <string id="st_gar_q1_n_descr">
+    <text>借用書には、壊れた建設用クレーンの中に黒いバックパックの在り処が書かれている。</text>
+  </string>
+  <string id="st_gar_q2_n_name">
+    <text>切断されたパイプ</text>
+  </string>
+  <string id="st_gar_q2_n_descr">
+    <text>俺は金を手に入れたが、あんたのものにするためには切断されたパイプの中にあるスタッシュにあんたのケツを引っ張らなきゃならない。</text>
+  </string>
+  <string id="st_gar_q3_n_name">
+    <text>電気パネルボックスの残骸</text>
+  </string>
+  <string id="st_gar_q3_n_descr">
+    <text>数時間前俺は自分のためにスタッシュを作ったが、俺はもうそれをあんたに渡さなきゃならない。ああ、やれやれ。</text>
+  </string>
+  <string id="st_gar_q4_n_name">
+    <text>汚染されたゴミの中の小さな箱</text>
+  </string>
+  <string id="st_gar_q4_n_descr">
+    <text>俺は戦利品が入っている小さい箱の座標をあんたに渡すよ。ナットは投げなくても大丈夫だぞ。放射能は結構あるが。</text>
+  </string>
+  <string id="st_gar_q5_n_name">
+    <text>ブルドーザーの排土板の近くにある箱</text>
+  </string>
+  <string id="st_gar_q5_n_descr">
+    <text>ブルドーザーの排土板の土台に、あんたが買ったばかりのものがあるよ。</text>
+  </string>
+  <string id="st_gar_q6_t_l_name">
+    <text>死んだ男のバックパック</text>
+  </string>
+  <string id="st_gar_q6_t_l_descr">
+    <text>あんたは幽霊を恐れていない、だろ？それなら死体の隣にあるバックパックを探してくれ。</text>
+  </string>
+  <string id="st_gar_q7_t_l_name">
+    <text>掘削機の近くにある死体</text>
+  </string>
+  <string id="st_gar_q7_t_l_descr">
+    <text>パワーシャベル近くの死んだ若者はあんたに彼のバックパックの中身を与えてくれるだろうよ。</text>
+  </string>
+  <string id="st_gar_q8_t_a_name">
+    <text>ガベージの死体</text>
+  </string>
+  <string id="st_gar_q8_t_a_descr">
+    <text>あんたが俺から借用書を得るためには少し汗を流さなければならない。戦利品はこのアノマリー被害者のバックパックの中にある。</text>
+  </string>
+  <string id="st_gar_q9_n_name">
+    <text>アグロプロムへの途中</text>
+  </string>
+  <string id="st_gar_q9_n_descr">
+    <text>アグロプロムに向かう途中でUAZ車の中にある小さな箱を探せ。あんたはその中身に感謝するだろうよ。</text>
+  </string>
+  <string id="st_val_q10_n_name">
+    <text>格納庫内の金庫</text>
+  </string>
+  <string id="st_val_q10_n_descr">
+    <text>俺は嘘をつかない男だ。古工場の金庫で約束された隠したものがあんたを待っているぜ。</text>
+  </string>
+  <string id="st_val_q11_t_l_name">
+    <text>岩場の近くにある死体</text>
+  </string>
+  <string id="st_val_q11_t_l_descr">
+    <text>あんたはちょうど岩場の近くにある死体のバックパックの中身を買った。</text>
+  </string>
+  <string id="st_val_q1_n_name">
+    <text>貯水槽の下</text>
+  </string>
+  <string id="st_val_q1_n_descr">
+    <text>俺の戦利品、いや、今はあんたの戦利品。貯水槽の下のバックパックの中にある。</text>
+  </string>
+  <string id="st_val_q2_n_name">
+    <text>モミの木の近くにある低木</text>
+  </string>
+  <string id="st_val_q2_n_descr">
+    <text>幸運な旅から戻ってくるとき、俺は低木に戦利品を隠した。今お前がそれを利用できるぜ。</text>
+  </string>
+  <string id="st_val_q3_t_a_name">
+    <text>兵士の死体</text>
+  </string>
+  <string id="st_val_q3_t_a_descr">
+    <text>これを書き留めておけ :  とても価値のある略奪品、バックパック、不運なMilitaryの男、アノマリーのすぐ隣。</text>
+  </string>
+  <string id="st_val_q4_n_name">
+    <text>茂みの戦利品
+</text>
+  </string>
+  <string id="st_val_q4_n_descr">
+    <text>俺はいつもちゃんとツケを払ってきた。そして今、俺のツケは、あんたに俺の戦利品の座標を教えるようにと言っているよ。</text>
+  </string>
+  <string id="st_val_q5_n_name">
+    <text>Freedom基地の金庫</text>
+  </string>
+  <string id="st_val_q5_n_descr">
+    <text>Freedomの基地の三階には、戦利品探しをしている連中にって価値あるものを保持している金庫がある。</text>
+  </string>
+  <string id="st_val_q6_n_name">
+    <text>塔の頂上の木箱</text>
+  </string>
+  <string id="st_val_q6_n_descr">
+    <text>あんたの興味はわかったよ。Freedomの基地をちょうど過ぎた塔の頂上の青い箱の中身はあんたを満足させるだろうよ。</text>
+  </string>
+  <string id="st_val_q7_n_name">
+    <text>ストーカーの墓</text>
+  </string>
+  <string id="st_val_q7_n_descr">
+    <text>あんたはちょうど古木の隣のストーカーの墓の十字架の下のものを買った。</text>
+  </string>
+  <string id="st_val_q8_n_name">
+    <text>座席下の箱</text>
+  </string>
+  <string id="st_val_q8_n_descr">
+    <text>リヴィウ社製の赤い車、運転席の下に箱が見つかるだろう。調べるも調べないもあんた次第だ。</text>
+  </string>
+  <string id="st_val_q9_n_name">
+    <text>フェンスの近くにある木の切り株</text>
+  </string>
+  <string id="st_val_q9_n_descr">
+    <text>このような状況のために、俺はいくつかのガラクタをフェンスの近くにある安全な切り株の中に隠した。</text>
+  </string>
+  <string id="st_agr_q10_t_l_name">
+    <text>アノマリーの近くにある没収品</text>
+  </string>
+  <string id="st_agr_q10_t_l_descr">
+    <text>この兵士はアノマリーに遭遇してしまった。奴がストーカーから奪った戦利品入りのバックパックはまだそこにある。奴の横にな。運が良けりゃ、それをあんたのモノにできるぜ。</text>
+  </string>
+  <string id="st_agr_q1_n_name">
+    <text>有刺鉄線の近くにあるフェンス</text>
+  </string>
+  <string id="st_agr_q1_n_descr">
+    <text>よし、あんたにこの秘密のお宝をやろう。フェンスのそばにストーカーのバックパックがある。高圧電線の塔が目印だ。</text>
+  </string>
+  <string id="st_agr_q2_n_name">
+    <text>倒れたの木の下</text>
+  </string>
+  <string id="st_agr_q2_n_descr">
+    <text>俺たちはゾーンに保管場所を持っていないんだ、すまない！だから急いで他の誰かが取る前に倒れた木の下に隠したものを取れ。</text>
+  </string>
+  <string id="st_agr_q3_t_a_name">
+    <text>放射能汚染地域の死体</text>
+  </string>
+  <string id="st_agr_q3_t_a_descr">
+    <text>あんたは俺が手に入れたすごいお宝が欲しいだろ。あえて放射能汚染地域に行くならそれはあんたのものだ。ほうびは死体のそばに置かれてるぜ。</text>
+  </string>
+  <string id="st_agr_q4_n_name">
+    <text>墓の円柱</text>
+  </string>
+  <string id="st_agr_q4_n_descr">
+    <text>払った金より価値のあるもんだぜ。身元不明の墓の墓標に隠してあるから、ホラ、もって行きな。</text>
+  </string>
+  <string id="st_agr_q5_n_name">
+    <text>フェンスの角</text>
+  </string>
+  <string id="st_agr_q5_n_descr">
+    <text>前のブロウアウトの後、神のご加護を受けているヴァルカ スクインツはフェンスの角のこの古い切り株内に何か隠した。</text>
+  </string>
+  <string id="st_agr_q6_n_name">
+    <text>配電盤</text>
+  </string>
+  <string id="st_agr_q6_n_descr">
+    <text>俺の隠してあるブツ　ああ、悪い、アンタのな、そいつはDutyの基地の配電盤内部にあるぜ。</text>
+  </string>
+  <string id="st_agr_q7_n_name">
+    <text>木の近くにある丸太</text>
+  </string>
+  <string id="st_agr_q7_n_descr">
+    <text>先日、あるいい奴らが敵が所有しているスタッシュについて教えてくれた。そいつを空にしてきてくれるんだろ？</text>
+  </string>
+  <string id="st_agr_q8_t_a_name">
+    <text>バンの死体</text>
+  </string>
+  <string id="st_agr_q8_t_a_descr">
+    <text>この軍人たちはバスを飛ばしすぎていたため、ここらにあるアノマリーに真っ直ぐ突っ込んだ。彼らは全員死んじまった。んで、アンタはそいつらの戦利品を買ったって事だ。</text>
+  </string>
+  <string id="st_agr_q9_n_name">
+    <text>地表の金庫</text>
+  </string>
+  <string id="st_agr_q9_n_descr">
+    <text>俺は峡谷の底に戦利品の入った金庫を半分埋めた。それはアンタのものだったという事にしておこう。</text>
+  </string>
+  <string id="st_agru_q1_n_name">
+    <text>階下の横木</text>
+  </string>
+  <string id="st_agru_q1_n_descr">
+    <text>俺はこの不快な場所にスタッシュがあることを知っている。そこはまだ誰にも侵入されていないことは確かだ。階下の地下室でそれを探せ。</text>
+  </string>
+  <string id="st_agru_q2_n_name">
+    <text>地下のケース</text>
+  </string>
+  <string id="st_agru_q2_n_descr">
+    <text>螺旋階段の下でお前はブツ入りの紛失したケースを見つけるだろう。ただ地下の多くの住民を刺激しないよう気をつけろよ。</text>
+  </string>
+  <string id="st_agru_q3_t_a_name">
+    <text>地下</text>
+  </string>
+  <string id="st_agru_q3_t_a_descr">
+    <text>ここがその兵士のバックパックを拾える場所だ。そいつはアグロプロム地下でアノマリーに出くわした。ただお前は同じようになるなよ。</text>
+  </string>
+  <string id="st_agru_q4_n_name">
+    <text>集電装置のパイプ</text>
+  </string>
+  <string id="st_agru_q4_n_descr">
+    <text>あるストーカーのPDAによるとそいつはアグロプロム地下に自分の戦利品を隠したらしい。この座標を写しといてくれ。</text>
+  </string>
+  <string id="st_yan_q8_t_l_name">
+    <text>湖の死体</text>
+  </string>
+  <string id="st_yan_q8_t_l_descr">
+    <text>湖でゆっくりと泳いでいるこの兵士のバックパックを探せ。</text>
+  </string>
+  <string id="st_yan_q1_n_name">
+    <text>ボイラー室の屋根の箱</text>
+  </string>
+  <string id="st_yan_q1_n_descr">
+    <text>ボイラー室の屋根の青い箱の中に小さな隠れ家がある。その場所にはゾンビがうようよいるから、用心しろよ。</text>
+  </string>
+  <string id="st_yan_q2_n_name">
+    <text>列車の箱
+</text>
+  </string>
+  <string id="st_yan_q2_n_descr">
+    <text>すばらしい。さあ工場の列車の中の箱の座標を持って行け。そこに行けば、お前は何をしたらよいかわかるだろう。</text>
+  </string>
+  <string id="st_yan_q3_t_l_name">
+    <text>排水管のバックパック</text>
+  </string>
+  <string id="st_yan_q3_t_l_descr">
+    <text>排水パイプのそばのバックパックを見つけろ、それで俺たちの関係はチャラだ。近くに中立ストーカーの死体があるからその場所を簡単に見つけられるはずだ。</text>
+  </string>
+  <string id="st_yan_q4_n_name">
+    <text>科学者の基地のケース</text>
+  </string>
+  <string id="st_yan_q4_n_descr">
+    <text>素晴らしい！科学者の基地のジープのトランクの中にある箱を見つけたら、中身を全て取るんだ。</text>
+  </string>
+  <string id="st_yan_q5_n_name">
+    <text>配電盤がある仮小屋</text>
+  </string>
+  <string id="st_yan_q5_n_descr">
+    <text>工場近くの仮小屋にあるスタッシュの座標であんたに返済するよ。</text>
+  </string>
+  <string id="st_yan_q6_n_name">
+    <text>貯水タンクのベルマウス</text>
+  </string>
+  <string id="st_yan_q6_n_descr">
+    <text>何かが工場の貯水タンクのベルマウスに隠されている。俺は中身が何なのかは一度も調べなかった。</text>
+  </string>
+  <string id="st_yan_q7_n_name">
+    <text>ミンスク社製のトラックの運転席</text>
+  </string>
+  <string id="st_yan_q7_n_descr">
+    <text>あんたはミンスク社製のトラックの運転席にケースに入った物を見つけるだろうよ。</text>
+  </string>
+  <string id="st_yan_q9_n_name">
+    <text>科学者の野営地の真向かいにある木の切り株</text>
+  </string>
+  <string id="st_yan_q9_n_descr">
+    <text>科学者の野営地の真向かいにある、切り株の中のスタッシュを探せ。</text>
+  </string>
+  <string id="st_red_q10_n_name">
+    <text>鉱山のパイプ</text>
+  </string>
+  <string id="st_red_q10_n_descr">
+    <text>このレッド フォレストのスタッシュに何か価値のあるものがあるのは確かだ。</text>
+  </string>
+  <string id="st_red_q1_t_l_name">
+    <text>死んだストーカー</text>
+  </string>
+  <string id="st_red_q1_t_l_descr">
+    <text>死んだストーカーのPDAで見たんだけど彼のバックパックに何か興味深いものが入ってた。これがその座標だ。</text>
+  </string>
+  <string id="st_red_q2_t_a_name">
+    <text>危険なスタッシュ</text>
+  </string>
+  <string id="st_red_q2_t_a_descr">
+    <text>俺はある馬鹿にスタッシュを教えたが、奴が決してそれを手に入れられないと知っていた。奴はアノマリーの近くで死んでいた。</text>
+  </string>
+  <string id="st_red_q3_n_name">
+    <text>赤いバルブ</text>
+  </string>
+  <string id="st_red_q3_n_descr">
+    <text>スタッシュは鉱山パイプ装置の赤いバルブの裏側にある。ともかく俺はその中身に興味がない。</text>
+  </string>
+  <string id="st_red_q4_n_name">
+    <text>バス</text>
+  </string>
+  <string id="st_red_q4_n_descr">
+    <text>俺の仲間はこのバスの後部座席の下にスタッシュを作った。あいつはもはや俺たちとはいない、だからもしあんたが奴の小さなスタッシュを漁ろうが気にしないだろう。</text>
+  </string>
+  <string id="st_red_q5_n_name">
+    <text>瓦礫の中のパイプ</text>
+  </string>
+  <string id="st_red_q5_n_descr">
+    <text>俺は捕虜からこのスタッシュを聞いた。それは装甲車の裏側の瓦礫の中の一片のパイプにある。</text>
+  </string>
+  <string id="st_red_q6_n_name">
+    <text>バックパックと木枠</text>
+  </string>
+  <string id="st_red_q6_n_descr">
+    <text>あんたの宝はまったくすばらしい！報酬はバックパックの中にあり、バックパックは木枠の中にあり、木枠は橋のところにあり、橋はレッド フォレストの反対側にある。</text>
+  </string>
+  <string id="st_red_q7_t_a_name">
+    <text>哀れな男のバックパック</text>
+  </string>
+  <string id="st_red_q7_t_a_descr">
+    <text>この哀れな奴はレッド フォレストを通ってバックパックを持ってきていたが、それはできなかった。もしあんたがバックパックを見つけたら、そいつは全部あんたの物だ</text>
+  </string>
+  <string id="st_red_q8_n_name">
+    <text>路面電車の近くにある金庫</text>
+  </string>
+  <string id="st_red_q8_n_descr">
+    <text>俺の情報は全て本当でほらじゃないぞ。何人かの浮浪者がひっくり返った路面電車近くの金庫に何か貴重なものを隠したのを見たんだ。</text>
+  </string>
+  <string id="st_red_q9_n_name">
+    <text>平凡な老木の切り株</text>
+  </string>
+  <string id="st_red_q9_n_descr">
+    <text>くぼみのある切り株にスタッシュがある。特別な場所ではないが、ただあんたが座標なしでは見つけられないであろう目立たない所さ。だからあんたに教えてやったんだ。</text>
+  </string>
+  <string id="st_mil_q10_n_name">
+    <text>森の中にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_q10_n_descr">
+    <text>バックパックは森の岩に隠されている。俺はいいやつにその座標を渡している。</text>
+  </string>
+  <string id="st_mil_q1_t_l_name">
+    <text>死体の下のバックパック</text>
+  </string>
+  <string id="st_mil_q1_t_l_descr">
+    <text>それは本当のスタッシュじゃないかもしれないが、給水塔のそのバックパックには貴重な戦利品があるだろう。</text>
+  </string>
+  <string id="st_mil_q2_n_name">
+    <text>倒木の貯蔵庫</text>
+  </string>
+  <string id="st_mil_q2_n_descr">
+    <text>俺からそいつをもって行け。倒れた木の下にスタッシュがある。</text>
+  </string>
+  <string id="st_mil_q3_n_name">
+    <text>おばあちゃんの金庫</text>
+  </string>
+  <string id="st_mil_q3_n_descr">
+    <text>どうしてストーブに金庫が乗っているか知らないが、俺の情報によるとそいつは空じゃないといってるね。</text>
+  </string>
+  <string id="st_mil_q4_n_name">
+    <text>墓にあるスタッシュ</text>
+  </string>
+  <string id="st_mil_q4_n_descr">
+    <text>この座標で十字架の下を見ると金持ちになれるという言葉がある。</text>
+  </string>
+  <string id="st_mil_q5_n_name">
+    <text>Military基地のクレート</text>
+  </string>
+  <string id="st_mil_q5_n_descr">
+    <text>なんとかMilitary基地に忍び込むと、屋根裏の木箱の中に苦労の報いがある。</text>
+  </string>
+  <string id="st_mil_q6_n_a_name">
+    <text>クローゼットの中の金庫</text>
+  </string>
+  <string id="st_mil_q6_n_a_descr">
+    <text>俺の情報筋によると、Militaryの兵舎の金庫に何か保管されているようだ。</text>
+  </string>
+  <string id="st_mil_q7_n_a_name">
+    <text>小さな金庫</text>
+  </string>
+  <string id="st_mil_q7_n_a_descr">
+    <text>イェルティシェブ隊長は違う地域に転任するまで常にこの金庫を持っていた。それに何が入ってたか調べてみないか？</text>
+  </string>
+  <string id="st_mil_q8_n_a_name">
+    <text>ゴミの山</text>
+  </string>
+  <string id="st_mil_q8_n_a_descr">
+    <text>ジャバはわざと自分の物をゴミの山に突っ込んだよ、けどあいつはとっくにそのことを忘れてるだろうよ。もっとも俺はメモを作ったがね、今お前に渡してるのがそれさ。</text>
+  </string>
+  <string id="st_mil_q9_n_a_name">
+    <text>秘密の箱</text>
+  </string>
+  <string id="st_mil_q9_n_a_descr">
+    <text>ミンスク社製の軍用トラックの荷台の下に秘密の小さい箱がある。それがあんたに売る秘密さ。</text>
+  </string>
+  <string id="st_trc_inventory_box_descr">
+    <text>基地から遠くない所にある貨車の中の保管庫に全部入れておいた。計画通りにやるか、今は待つ必要がある。</text>
+  </string>
+  <string id="st_trc_inventory_box_name">
+    <text>皆で決めた秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0000_descr">
+    <text>目立たないバスの中に保管庫を置いた。</text>
+  </string>
+  <string id="st_trc_inventory_box_0000_name">
+    <text>バスにある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0001_descr">
+    <text>電気パネルに少量の弾薬を残した。</text>
+  </string>
+  <string id="st_trc_inventory_box_0001_name">
+    <text>電気パネルの中にあるスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0002_descr">
+    <text>モミの木の下に俺のバックパックを隠しておいた。</text>
+  </string>
+  <string id="st_trc_inventory_box_0002_name">
+    <text>木の下にあるスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0003_descr">
+    <text>ゴミの山に半分埋まっている金庫がある。全部金庫の中へ入れた。何を入れたか忘れなければいいが。</text>
+  </string>
+  <string id="st_trc_inventory_box_0003_name">
+    <text>南堆積の金庫
+</text>
+  </string>
+  <string id="st_trc_inventory_box_0004_descr">
+    <text>影の中に秘密のスタッシュがある。隠すのに良い場所だ。</text>
+  </string>
+  <string id="st_trc_inventory_box_0004_name">
+    <text>腐った切り株</text>
+  </string>
+  <string id="st_trc_inventory_box_0005_descr">
+    <text>アノマリーがそのエスカレーターで誰かを捕まえた。バックパックが見えるが、取るのは難しそうだ。</text>
+  </string>
+  <string id="st_trc_inventory_box_0005_name">
+    <text>北斗七星の下</text>
+  </string>
+  <string id="st_trc_inventory_box_0006_descr">
+    <text>放射能に冒された廃墟にバックパックを残したが、顔を出すのが怖かった。</text>
+  </string>
+  <string id="st_trc_inventory_box_0006_name">
+    <text>危険な秘密</text>
+  </string>
+  <string id="st_trc_inventory_box_0007_descr">
+    <text>そいつを車の中に隠した、ロング ワンはここを良い場所だと言っていたからな。</text>
+  </string>
+  <string id="st_trc_inventory_box_0007_name">
+    <text>車の中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0008_descr">
+    <text>車の下にバックパックを隠した。誰もわざわざここを調べたりしないだろう。</text>
+  </string>
+  <string id="st_trc_inventory_box_0008_name">
+    <text>隠されたバックパック</text>
+  </string>
+  <string id="st_trc_inventory_box_0009_descr">
+    <text>沼地のそばの車の中にチェストを入れておいてくれ</text>
+  </string>
+  <string id="st_trc_inventory_box_0009_name">
+    <text>秘密のスタッシュがある車</text>
+  </string>
+  <string id="st_trc_inventory_box_0011_descr">
+    <text>丘の上の車に俺のガラクタを隠した</text>
+  </string>
+  <string id="st_trc_inventory_box_0011_name">
+    <text>丘の上にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0012_descr">
+    <text>高飛びしなきゃならねえ。サハロフとクルーグロフは完全に狂ってやがる。あいつら、俺に他のストーカー何人かと一緒に放射能のど真ん中に行って欲しいとか言ってきたんだ。連中め、メチャクチャになってしまえ、マンホールに全部物資を集めたら、すぐに高飛びする。</text>
+  </string>
+  <string id="st_trc_inventory_box_0012_name">
+    <text>科学者の秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0013_descr">
+    <text>バックパックから離れなければならなかった</text>
+  </string>
+  <string id="st_trc_inventory_box_0013_name">
+    <text>残されたバックパック</text>
+  </string>
+  <string id="st_trc_inventory_box_0014_descr">
+    <text>その新入りは結局保管庫をBanditたちから盗むことにした。奴はそれを折り返し地点で壊れたニーヴァ（ロシアの小型車）の中に置いた。奴は、その様子から政府の保管庫ではないかと言った。俺たちはそれを取るため武装しなければならない。</text>
+  </string>
+  <string id="st_trc_inventory_box_0014_name">
+    <text>政府のチェスト</text>
+  </string>
+  <string id="st_trc_inventory_box_0015_descr">
+    <text>俺たちは見つけたものをすべて箱に入れておいた。戻ってくるときに取りに行こう。</text>
+  </string>
+  <string id="st_trc_inventory_box_0015_name">
+    <text>チェストの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0016_descr">
+    <text>誰かのリュックサックが谷に転がっていて、辺りにアノマリーがある。どうやって行ったんだろうか?</text>
+  </string>
+  <string id="st_trc_inventory_box_0016_name">
+    <text>誰の物でもないバックパック</text>
+  </string>
+  <string id="st_trc_inventory_box_0017_descr">
+    <text>俺のガラクタをパイプに放り込んだ。後で持って行こう。</text>
+  </string>
+  <string id="st_trc_inventory_box_0017_name">
+    <text>トラックの車体</text>
+  </string>
+  <string id="st_trc_inventory_box_0018_descr">
+    <text>丸太の中にブツをねじ込んだ。ここなら誰にも見つかることはないだろう。</text>
+  </string>
+  <string id="st_trc_inventory_box_0018_name">
+    <text>丸太の宝</text>
+  </string>
+  <string id="st_trc_inventory_box_0019_name">
+    <text>放棄された戸棚</text>
+  </string>
+  <string id="st_trc_inventory_box_0019_descr">
+    <text>俺はいつもその戸棚に物を蓄えていた。広々としていて。ミュータントが奴らの穴から押し寄せ始めたとき、俺たちは撤退しなければならなくなり、それを置いてきた。</text>
+  </string>
+  <string id="st_trc_inventory_box_0010_name">
+    <text>ザポロージェツ社製の白い車</text>
+  </string>
+  <string id="st_trc_inventory_box_0010_descr">
+    <text>いずれヨーガがガベージを支配する時代は終わるだろう。今のうちに白い車に置いてある荷物を持ってこないとな。</text>
+  </string>
+  <string id="st_trc_inventory_box_0020_descr">
+    <text>切り株の中に秘密のスタッシュがある。とても都合のいい場所だ</text>
+  </string>
+  <string id="st_trc_inventory_box_0020_name">
+    <text>切り株中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0021_descr">
+    <text>腐った丸太から物を取れ</text>
+  </string>
+  <string id="st_trc_inventory_box_0021_name">
+    <text>腐った丸太</text>
+  </string>
+  <string id="st_trc_inventory_box_0022_descr">
+    <text>Banditの野営地にある車の中に保管庫がある。俺たちは車に忍び寄り、それをチェックしなきゃならない。俺は中に何かあると感じている</text>
+  </string>
+  <string id="st_trc_inventory_box_0022_name">
+    <text>車の中の保管庫</text>
+  </string>
+  <string id="st_trc_inventory_box_0023_descr">
+    <text>余ったガラクタをしまっておくのにちょうど良い保管庫だ。
+</text>
+  </string>
+  <string id="st_trc_inventory_box_0023_name">
+    <text>ブツ入り保管庫</text>
+  </string>
+  <string id="st_trc_inventory_box_0024_descr">
+    <text>カマズ（トラック製造会社）の事務所にガラクタを隠した</text>
+  </string>
+  <string id="st_trc_inventory_box_0024_name">
+    <text>カマズ（トラック製造会社）の中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0025_descr">
+    <text>新入りのバックパックを隠した、奴は見つけられないだろう</text>
+  </string>
+  <string id="st_trc_inventory_box_0025_name">
+    <text>隠しされたバックパック</text>
+  </string>
+  <string id="st_trc_inventory_box_0026_descr">
+    <text>強盗は至る所にいる。連中は連中同士で盗みあってさえいる･･････しかし連中は俺の保管庫を決して見つけられないだろう</text>
+  </string>
+  <string id="st_trc_inventory_box_0026_name">
+    <text>保管庫</text>
+  </string>
+  <string id="st_trc_inventory_box_0027_descr">
+    <text>カプセルの中に俺のブツを隠しておいた</text>
+  </string>
+  <string id="st_trc_inventory_box_0027_name">
+    <text>ストーカーの秘密のスタッシュ</text>
+  </string>
+  <string id="st_trc_inventory_box_0028_descr">
+    <text>戦利品はパイプの中においておいた。後で取りに来よう。持っていけるなら持って行くんだが、そうもいかない。できれば誰にも横取りされてなければいいんだが。</text>
+  </string>
+  <string id="st_trc_inventory_box_0028_name">
+    <text>パイプの中のお宝</text>
+  </string>
+  <string id="st_trc_inventory_box_0029_descr">
+    <text>切り株の中に秘密のスタッシュがある。良い場所だ。</text>
+  </string>
+  <string id="st_trc_inventory_box_0029_name">
+    <text>秘密の切り株</text>
+  </string>
+  <string id="st_trc_inventory_box_0030_descr">
+    <text>木の下にバックパックを放り投げた。そうしなければ俺はBanditから逃げられなかった。</text>
+  </string>
+  <string id="st_trc_inventory_box_0030_name">
+    <text>ストーカーのバックパック</text>
+  </string>
+  <string id="st_trc_inventory_box_0031_descr">
+    <text>バンの中に保管庫を残した。回収する必要がある。</text>
+  </string>
+  <string id="st_trc_inventory_box_0031_name">
+    <text>忘れさられた保管庫</text>
+  </string>
+  <string id="st_trc_inventory_box_0032_descr">
+    <text>俺がボロフから盗んだ全ての物を、松の木の下の金庫に隠した。今は、忌々しい連中がそこから完全に去るまで待たないとならない。</text>
+  </string>
+  <string id="st_trc_inventory_box_0032_name">
+    <text>隠された金庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_6_4_box_descr">
+    <text>俺たちのお宝はトンネルの中だ。ここは良い。ここを知ってる奴は少ないし、アノマリーが盗っ人を邪魔してくれる。</text>
+  </string>
+  <string id="st_agr_smart_terrain_6_4_box_name">
+    <text>セリーにある秘密のスタッシュ</text>
+  </string>
+  <string id="st_agr_duty_bar_secret_4_descr">
+    <text>俺はそれをトンネル近くの切り株に隠したんだ。そこに良い感じの穴があいててね。</text>
+  </string>
+  <string id="st_agr_duty_bar_secret_4_name">
+    <text>穴のあいた切り株
+</text>
+  </string>
+  <string id="st_agr_smart_terrain_5_2_box_descr">
+    <text>俺はアイテムを茂みの側の十字架の下に埋めたんだ。</text>
+  </string>
+  <string id="st_agr_smart_terrain_5_2_box_name">
+    <text>印は十字の下</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_n_1_box_descr">
+    <text>奴らが撃って来た。俺はバックパックを列車の座席の下に置いて逃げなきゃならなかった。後で戻って回収しよう。</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_n_1_box_name">
+    <text>酔っ払いのバックパック</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_box_descr">
+    <text>秘密のスタッシュは、階段の下の保管庫だ。</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_box_name">
+    <text>吹抜けにある保管庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_n_2_box_descr">
+    <text>保管庫に隠しておいた。誰も見つけられないだろう。</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_n_2_box_name">
+    <text>工場の保管庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_2_2_box_descr">
+    <text>倒木の下に良い場所を見つけた。これからはここをスタッシュにしよう。</text>
+  </string>
+  <string id="st_agr_smart_terrain_2_2_box_name">
+    <text>木の下の貯蔵庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_2_3_box_descr">
+    <text>ソイツは古いパイプの上にある。俺は登れないから、奴らに知らせなきゃならない。</text>
+  </string>
+  <string id="st_agr_smart_terrain_2_3_box_name">
+    <text>汚染されたパイプ</text>
+  </string>
+  <string id="st_agr_smart_terrain_3_5_box_descr">
+    <text>茂みに半分埋もれた場所だ。俺はそこに何でも隠す。</text>
+  </string>
+  <string id="st_agr_smart_terrain_3_5_box_name">
+    <text>茂みの下の金庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_6_6_box_descr">
+    <text>奴らは梁の下で保管庫を見つけた。誰かが科学研究所からの道全部、そいつを引きずって歩いたようだ。風の便りでも待つか、それから拾いに来よう。</text>
+  </string>
+  <string id="st_agr_smart_terrain_6_6_box_name">
+    <text>アーカイブボックス</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_box_descr">
+    <text>余ったガラクタを集めるのに良い保管庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_box_name">
+    <text>研究所の保管庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_n_1_box_descr">
+    <text>金庫にそれを隠したが、その後兵士が来て物を取ることが出来なくなった。</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_n_1_box_name">
+    <text>Agro金庫</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_n_2_box_descr">
+    <text>余ったガラクタを集めるのに良い保管庫。研究所の装備一式がかつてそこにあった。</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_6_n_2_box_name">
+    <text>ザホーズのチェスト</text>
+  </string>
+  <string id="st_agr_duty_bar_secret_2_descr">
+    <text>ちょっとしたモノにいい保管庫。家で使っていたのと似たような保管庫に金物をしまっていた。</text>
+  </string>
+  <string id="st_agr_duty_bar_secret_2_name">
+    <text>金物のブツ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0002_descr">
+    <text>Dutyの基地にバックパックを隠しておいた。あとで取りに行こう</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0002_name">
+    <text>隠しバックパック</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0003_descr">
+    <text>犬の群れに追い回されたとき、バックパックを置いていかなかったら、ゲートに着くことは出来なかっただろう。</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0003_name">
+    <text>残されたバックパック</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0004_descr">
+    <text>彼らは十字架の下にあらゆる物を埋めた</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0004_name">
+    <text>十字架の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0005_descr">
+    <text>ここに俺のバックパックを下ろした。身軽なほうがいいからな</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0005_name">
+    <text>バックパック</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0006_descr">
+    <text>Duty警備検問所の弾薬は掩体壕に保管されているが、誰も保管庫を監視していないようだ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0006_name">
+    <text>掩体壕の中の物資</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0007_descr">
+    <text>俺はゲート側でDuty隊員が何かを据えるのを見た</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0007_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0008_descr">
+    <text>これは全部奴の所有物だ、しばらくの間ここに寝かせておいた方が良い</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0008_name">
+    <text>十字架の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0009_descr">
+    <text>バーに行く途中、格納庫にバックパックを残した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0009_name">
+    <text>バックパック</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0010_descr">
+    <text>連中は何か価値ある物がDutyの縄張りの配電盤内に隠されていると言った。</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0010_name">
+    <text>秘密のスタッシュを備えた配電盤</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0011_descr">
+    <text>俺は、Dutyの前の塔のてっぺんに保管庫を据えた。誰もここには気づかないだろう。</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0011_name">
+    <text>塔にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0012_descr">
+    <text>階段下のパイプ内にそいつを隠した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0012_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0013_descr">
+    <text>ブツをバーから離れていない、アノマリーの向こう側に隠した。誰もそこに行かないし、そして例えそこに入ったとしても、その開け方は分からないだろう。だがそれは非常に単純なんだ。少しドアの所で引き起こせ、そうすれば全て開く。</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0013_name">
+    <text>アーニーの秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0014_descr">
+    <text>バーからそう遠くない所にブツを埋めた。</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0014_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0015_descr">
+    <text>バーのそばの保管庫の中</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0015_name">
+    <text>保管庫</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0016_descr">
+    <text>バーへの脇道の途中に保管庫を隠した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0016_name">
+    <text>小さいな保管庫</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0017_descr">
+    <text>松の木の向こうにある十字架の下にそいつを埋めた</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0017_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0018_descr">
+    <text>ちょっとしたお宝を山の側の十字架の下に隠した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0018_name">
+    <text>十字架の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0019_descr">
+    <text>保管庫を対放射能剤と共にアリーナそばのパイプの中に隠した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0019_name">
+    <text>小さな保管庫</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0020_descr">
+    <text>塔の下のパイプに俺のガラクタを隠した</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0020_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0021_descr">
+    <text>十字架の下に秘密のスタッシュがある</text>
+  </string>
+  <string id="st_l05_bar_inventory_box_0021_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_esc_smart_terrain_6_8_box_descr">
+    <text>俺の同志達と一緒に犬を撃退する仕事中に、俺は橋の下にいくらかブツを埋めた。まだそこに残っていてくれているといいが。</text>
+  </string>
+  <string id="st_esc_smart_terrain_6_8_box_name">
+    <text>十字架の下</text>
+  </string>
+  <string id="st_esc_treasure_novice_stalker_descr">
+    <text>秘密のスタッシュが屋根裏にあるとリホイからわかった。奴はあまりに多くのことを喋りすぎたので、永久に黙って貰った。</text>
+  </string>
+  <string id="st_esc_treasure_novice_stalker_name">
+    <text>村の屋根裏</text>
+  </string>
+  <string id="st_esc_recover_item_4_corpse_descr">
+    <text>連中は、指揮官が事務所に巧妙な保管庫を持っているのを見た。そして貴重な物がそこに大量にある。</text>
+  </string>
+  <string id="st_esc_recover_item_4_corpse_name">
+    <text>司令官の貴重品</text>
+  </string>
+  <string id="st_esc_smart_terrain_7_11_box_descr">
+    <text>お宝がBanditたちの屋根裏に隠されている。連中は以前はそこにいなかったのだが、連中が居なくなる頃合いを期待しよう。</text>
+  </string>
+  <string id="st_esc_smart_terrain_7_11_box_name">
+    <text>強盗たちの屋根裏</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_5_box_descr">
+    <text>俺はBanditどもがブツを格納庫の保管場所に隠すのを見た。どうやってそいつをこっそり盗もうか？</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_5_box_name">
+    <text>Banditたちの貯蔵庫</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_7_box_descr">
+    <text>無線通信隊の上層部は俺たちに伝達した。撤退しろと。俺は保管庫を見つけ、手持ちの物を投げ込んで手ぶらで退いた。</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_7_box_name">
+    <text>保管庫の物資</text>
+  </string>
+  <string id="st_gar_smart_terrain_5_2_box_descr">
+    <text>Dutyの隊員が撃っている間に、俺は貨車の中に雑貨を隠した。何とか拾うために中に入らないといけない。Dutyにも感謝しなきゃ。</text>
+  </string>
+  <string id="st_gar_smart_terrain_5_2_box_name">
+    <text>重武装したMilitary検問の保管庫</text>
+  </string>
+  <string id="st_gar_smart_terrain_6_3_box_descr">
+    <text>辛うじて光は差してはいるが、それでもバックパックはキッチリ隠れている。誰もここを登ろうとしないはずだ。</text>
+  </string>
+  <string id="st_gar_smart_terrain_6_3_box_name">
+    <text>貯金がコンクリートブロック下にある</text>
+  </string>
+  <string id="st_mil_smart_terrain_4_2_box_descr">
+    <text>炉の中に俺のバックパックをねじ込んだ。そいつは後で何かと便利に使えるだろう。</text>
+  </string>
+  <string id="st_mil_smart_terrain_4_2_box_name">
+    <text>炉の中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l07_military_inventory_box_0020_descr">
+    <text>打ち棄てられた村にある車の中にお宝を隠した。</text>
+  </string>
+  <string id="st_l07_military_inventory_box_0020_name">
+    <text>自動車の中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_mil_smart_terrain_2_4_box_descr">
+    <text>都合の良い場所に装備を入れたバックパックを隠した。</text>
+  </string>
+  <string id="st_mil_smart_terrain_2_4_box_name">
+    <text>装備入りのバックパック
+</text>
+  </string>
+  <string id="st_mil_additional_quest_1_box_descr">
+    <text>ヘリコプターが確かに、棄てられたMilitary基地のそばに墜落し、そして保管庫は確かに、そのヘリコプターの下にある。だが1つ問題がある。そこにはアノマリーと放射線が至る所にある。</text>
+  </string>
+  <string id="st_mil_additional_quest_1_box_name">
+    <text>ヘリコプターの保管庫</text>
+  </string>
+  <string id="st_mil_smart_terrain_4_8_box_descr">
+    <text>バックパックをクレーンのキャビンに残した。後で取りに来よう。</text>
+  </string>
+  <string id="st_mil_smart_terrain_4_8_box_name">
+    <text>高所労働者の秘密のスタッシュ</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_8_box_descr">
+    <text>余ったガラクタをしまっておくのにちょうど良い保管庫だ。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_8_box_name">
+    <text>いい物資保管庫</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_box_descr">
+    <text>保管庫内にモノを投げ込んでおいた。後で取りに来よう。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_box_name">
+    <text>一時的な秘密のスタッシュ</text>
+  </string>
+  <string id="st_mil_smart_terrain_5_6_box_descr">
+    <text>Freedomの鼻先にある車の中にお宝をちょうど隠したところだ。これ以上いい場所を探すヒマがなかった。</text>
+  </string>
+  <string id="st_mil_smart_terrain_5_6_box_name">
+    <text>車内にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0000_descr">
+    <text>話によるとちょっと有名なストーカーがここでおっ死んだらしい、そしてまだ誰も彼のブツを拾ってはいないと</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0000_name">
+    <text>死んだストーカーの物</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_descr">
+    <text>いろんなお宝がゴッソリ詰まった保管庫がそのガレージにあるという話だ。</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_name">
+    <text>ガレージの宝物</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0001_descr">
+    <text>色々なお宝が大量に入った保管庫が、その幼稚園にあるらしい</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0001_name">
+    <text>古い秘密のスタッシュ</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0002_descr">
+    <text>連中は プリピャチ の記念碑の下にファングを埋葬した。連中は彼のお宝を全部そこに残した。死者から持ち去るのは正しいことではない。</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0002_name">
+    <text>ファングのお宝</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0006_descr">
+    <text>彼について知った最後の話は、彼はブレイン スコーチャーからのたったひとりの生存者であったと言うことだ。彼は全部の物資をとあるスーパーマーケットに残して外に出た。我々Freedom全ての歴史の中で最高のリーダーでさえ、計画通りには全てうまくいかなかったのだ。</text>
+  </string>
+  <string id="st_l11_pripyat_inventory_box_0006_name">
+    <text>Freedomのリーダーの物資</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0001_descr">
+    <text>ブレイン スコーチャーへの道の途中に十字架がある。それ以上先に進まなかったので、その下に全部の物を隠した。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0001_name">
+    <text>マークの宝</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0002_descr">
+    <text>あるストーカーがここで死んだ。そして、彼のお宝はまだ周りに散らばっているが、誰もそこにたどり着けない。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0002_name">
+    <text>死んだストーカーのお宝</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0003_descr">
+    <text>半分埋まった金庫が森にあるという話だ。中にお宝の山があるらしい。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0003_name">
+    <text>金庫内のお宝</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0000_descr">
+    <text>ブレイン スコーチャーの上は飛ぶなと言われている、飛んだらどうなるか。連中は森の真ん中に不時着したが、誰も生き残ってはいなさそうだ。俺たちは連中のブツを手に入れようと考えている。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0000_name">
+    <text>Dutyへの荷物</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_descr">
+    <text>ゾーン中央に向かっていたその派閥の物資は、いまだブレイン スコーチャーの放射体の下にある。連中の誰も戻ってこなかった、そしてその物資は誰かに拾われるのを今も待っている。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_name">
+    <text>無謀なグループの物資</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0005_descr">
+    <text>過去の派閥のリーダーがここでくたばったらしい。そして、価値あるお宝を彼は持っていたらしい。</text>
+  </string>
+  <string id="st_l10_radar_inventory_box_0005_name">
+    <text>過去の派閥のリーダーのお宝</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_descr">
+    <text>バックパックを鉄板の後ろに隠した</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_name">
+    <text>隠しバックパック</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0001_descr">
+    <text>十字架の下にいい物しまっておいた</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0001_name">
+    <text>十字架の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0002_descr">
+    <text>ちょっとした物を小さな家の下の保管庫に隠した。忘れないようにしないとな。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0002_name">
+    <text>小さな家の下の保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0003_descr">
+    <text>俺が階段の下にバックパックをねじ込もうとしていたとき、そいつらアホ共は現れた。なあ、どうやってそいつを取り戻そう？</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0003_name">
+    <text>ストーカーのバックパック</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0004_descr">
+    <text>半分埋まった金庫が、木の向こうの片隅にある。そこは今のとこ俺のガラクタを全部入れている場所だ。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0004_name">
+    <text>木の後ろにある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0005_descr">
+    <text>連中は、襲撃したガレージにある保管庫にあらゆる物を隠した。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0005_name">
+    <text>ガレージにある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0006_descr">
+    <text>小屋の向こうにある保管庫にいくつかの物を隠した。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0006_name">
+    <text>隠された保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0007_descr">
+    <text>穴の中にバックパックをねじ込んだ。上からは目立たないだろう</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0007_name">
+    <text>秘密のスタッシュにあるバックパック</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0008_descr">
+    <text>安全な場所に小さな保管庫を隠した</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0008_name">
+    <text>安全な場所の保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0024_descr">
+    <text>俺のバックパックは、まっすぐ上の屋根の下だ。雨の日を見越してそこにある。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0024_name">
+    <text>ストーカーの秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0009_descr">
+    <text>その小さい家の中に金庫があると言われている。その中に何かがあるらしい。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0009_name">
+    <text>家の金庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0010_descr">
+    <text>その家のパイプにそれを隠した。気をつけろ、そこの物は何でも壊れているぞ。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0010_name">
+    <text>パイプの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0011_descr">
+    <text>俺たちが話した保管庫から取ってこい。普段、誰もそこを覗かない。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0011_name">
+    <text>隠されたチェスト</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0012_descr">
+    <text>脇道にある十字架の下にそれを隠した。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0012_name">
+    <text>十字架の下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0013_descr">
+    <text>連中は建築現場のコンクリートの下に余った物資を隠した。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0013_name">
+    <text>コンクリートの下にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0014_descr">
+    <text>素早く逃げる場合に備え、俺たちは建築現場にある保管庫にハバーを入れておく。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0014_name">
+    <text>運がいい秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0015_descr">
+    <text>そいつを建設現場の脇道の1つに隠した</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0015_name">
+    <text>ニチカ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0016_descr">
+    <text>すべてをパイプに突っ込んで、後で拾いにいく</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0016_name">
+    <text>パイプの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0017_descr">
+    <text>建設現場からそれほど遠くない場所に薬を入れた</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0017_name">
+    <text>薬の入った保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0018_descr">
+    <text>クレーンのキャビンに保管庫を引っ張り込んだ。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0018_name">
+    <text>クレーン内の保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0019_descr">
+    <text>片隅にあるマンホールに物を隠した</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0019_name">
+    <text>マンホールの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0020_descr">
+    <text>アーティファクトを求め、アノマリーに入った。だが、辛うじて歩くことしか出来ず、隅にバックパックを落としてきた。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0020_name">
+    <text>落としたバックパック</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0021_descr">
+    <text>誰にも気づかれないよう、塔の側の屋根のすぐ下に保管庫をねじ込んだ。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0021_name">
+    <text>屋根の下の小さな保管庫</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0022_descr">
+    <text>俺たちは見つけた物を建築現場から遠くない所にあるパイプに隠した。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0022_name">
+    <text>パイプの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0025_descr">
+    <text>クレーン側にバックパックを置き去りにした。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0025_name">
+    <text>バックパック</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0023_descr">
+    <text>丸太の中にブツを全部ねじ込んだ。誰も見つけられないだろう。</text>
+  </string>
+  <string id="st_l06_rostok_inventory_box_0023_name">
+    <text>秘密のスタッシュ</text>
+  </string>
+  <string id="st_val_smatr_terrain_4_0_box_descr">
+    <text>パイプ内に俺の物を放り込んでおいた。後で拾おう。</text>
+  </string>
+  <string id="st_val_smatr_terrain_4_0_box_name">
+    <text>パイプ内にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0013_descr">
+    <text>箱を秘密のスタッシュに入れた。信頼できる場所だから。</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0013_name">
+    <text>チェストの中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0002_descr">
+    <text>棄てられたビルの中にバックパックを残した。いいぞ、誰も辺りにいない。</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0002_name">
+    <text>残されたバックパック</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0029_descr">
+    <text>何の変哲もない保管庫にお宝をねじ込んでおいた。後で持って行こう。</text>
+  </string>
+  <string id="st_l04_darkvalley_inventory_box_0029_name">
+    <text>変哲のない保管庫</text>
+  </string>
+  <string id="st_val_smatr_terrain_7_6_box_descr">
+    <text>Banditたちのすぐ前の車の中にお宝を隠した。もっといい場所は探しているヒマがなかったんだ。</text>
+  </string>
+  <string id="st_val_smatr_terrain_7_6_box_name">
+    <text>車の中にある秘密のスタッシュ</text>
+  </string>
+  <string id="st_yan_smart_terrain_3_4_box_descr">
+    <text>ガレージの向こうにお宝をしまって置いた</text>
+  </string>
+  <string id="st_yan_smart_terrain_3_4_box_name">
+    <text>ガレージの後ろのバックパック</text>
+  </string>
+  <string id="st_yan_smart_terrain_4_5_box_descr">
+    <text>鉄くずのすぐ裏にある仮小屋にバックパックを隠した</text>
+  </string>
+  <string id="st_yan_smart_terrain_4_5_box_name">
+    <text>戦利品付きバックパック</text>
+  </string>
+  <string id="st_yan_smart_terrain_3_6_box_descr">
+    <text>お宝をその領域から遠くない車の中に隠した。放射線はそれほど多くない。</text>
+  </string>
+  <string id="st_yan_smart_terrain_3_6_box_name">
+    <text>戦利品は車の中</text>
+  </string>
+  <string id="st_yan_smart_terrain_2_5_box_descr">
+    <text>連中はそこに誰かのお宝があると言ったが、放射能のためそこにたどり着けない。</text>
+  </string>
+  <string id="st_yan_smart_terrain_2_5_box_name">
+    <text>古いバックパック</text>
+  </string>
+  <string id="st_yan_smart_terrain_1_6_box_descr">
+    <text>ここに、とあるグループの秘密のスタッシュがあると言われている。不思議でならないのは、連中はこの放射能の中、そこにどうやって辿り着いたんだ？</text>
+  </string>
+  <string id="st_yan_smart_terrain_1_6_box_name">
+    <text>とあるグループの秘密のスタッシュ</text>
+  </string>
+  <string id="st_yan_recover_item_2_corpse_descr">
+    <text>とある志願者のストーカーがくたばった。その試作機が奴を放射線から防護しなかったから。奴はその領域の中央にたどり着いたが、そのままそこにとどまった。サハロフはもっと正確な測定をしたいようだが、俺は行かない。じゃなきゃ、俺もまたその領域から遠くない所で詰んで、そこにとどまることになりかねない。</text>
+  </string>
+  <string id="st_yan_recover_item_2_corpse_name">
+    <text>テスターのバックパック</text>
+  </string>
+  <string id="st_yan_smart_terrain_2_4_box_descr">
+    <text>連中はそこに誰かの隠れ場所があると言ったが、放射能のためそこにたどり着けない。</text>
+  </string>
+  <string id="st_yan_smart_terrain_2_4_box_name">
+    <text>古い秘密のスタッシュ</text>
+  </string>
+  <string id="st_yan_smart_terrain_6_4_box_descr">
+    <text>誰かの保管庫がここにあると言われているが、放射能のため辿り着くことが出来ない。</text>
+  </string>
+  <string id="st_yan_smart_terrain_6_4_box_name">
+    <text>ブツ入り保管庫</text>
+  </string>
+</string_table>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+    <text>ちょっといいか！いくつか売りもんがある、興味があれば多分いくつかの仕事もな。オレ？オレはまわりのガキどもがポケットの中身を売る時に会いに来るようなチンケな奴さ！</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+    <text>よぉ。何か必要なものはあるか？仕事を探してるのか？</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader_0">
+    <text>スタッシュに関する情報を探している。わかるか？</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader_1">
+    <text>クソッ、どうやって知った？他のヤツが知る前に情報を得たはずなのに。いずれにせよ、7,000ルーブルでそれは全部アンタのもんだ。</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader1_0">
+    <text>買うよ。%c[d_orange]［7,000ルーブル］</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader1_1">
+    <text>どうぞご自由に。</text>
+  </string>
+  <string id="bandit_trader_st_0">
+    <text>どうしてアンタのニックネームはそんなにひどいんだ？</text>
+  </string>
+  <string id="bandit_trader_st_1">
+    <text>偉そうな口をきくなよ！突っ張ってるだけのクソッたれの世間知らずが･･････。オマエの手に負えるわけねぇ、小便を垂れるときに、自分のチンコすらまっすぐに持ってられねぇような奴らだぞ。もしアンタが何かを聞こうとしたって、ヤツらはひどい馬鹿のように振る舞うだけさ。</text>
+  </string>
+  <string id="bandit_trader_st_2">
+    <text>ヘイ、ムキになんなって。なんて言えばいいかわからなかっただけで、たいした意味なんてないさ。</text>
+  </string>
+  <string id="bandit_trader_st_3">
+    <text>まあいい･･････。弁明を受け入れよう。年をとって神経過敏になると辛いもんだ。</text>
+  </string>
+  <string id="bandit_trader_st_4">
+    <text>わかった。どうやって名前をつけた？</text>
+  </string>
+  <string id="bandit_trader_st_5">
+    <text>教えてやろう。おしゃべりを終わらせるためにな。オレの物語は、刑務所に入る前のソビエト連邦から始まった。いい人生を送りたかった･･････。貿易の仕事をしてたんだが、ある日捕まった。刑期が終わった後、新しい関係を築いて、盗品を売るようになった。もう一度刑務所に入るまでの3年間ずっとそうしてた。出所したが、ソ連が崩壊してた･･････。何が一番悔しかったかオマエに分かるか？</text>
+  </string>
+  <string id="bandit_trader_st_6">
+    <text>いや。物心がつくまでにソ連を見たことがない。</text>
+  </string>
+  <string id="bandit_trader_st_7">
+    <text>最初に刑務所に入ったのは「ビジネス」･･････古いソ連の言葉で言うところの「儲け」だった。今では成功した者は誰であろうと、刑務所に入れられる。あそこは本当にイライラさせられる場所だよ。</text>
+  </string>
+  <string id="bandit_trader_st_8">
+    <text>［続ける･･････］</text>
+  </string>
+  <string id="bandit_trader_st_9">
+    <text>2回目の刑期を終えた時には、全てが崩壊しちまってた。収入は全く無くて、周りにはオレと同じような事をしてる奴が山ほどいたな。ゾーンが誕生した時、自分の目で見に行こうと思ったんだ。</text>
+  </string>
+  <string id="bandit_trader_st_10">
+    <text>［続ける･･････］</text>
+  </string>
+  <string id="bandit_trader_st_11">
+    <text>ちなみに、オレがオビリアスって呼ばれてんのは、誰かが持ってきたブツは自分で試してみたくなるからだ。品質と状態にはうるさいからな。</text>
+  </string>
+  <string id="bandit_trader_st_12">
+    <text>歴史の授業をありがとう。何度もすまない。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+    <text>今日は何が必要なんだ？直ぐ修理してやるよ。それと、暗号化された PDA を見つけたら買い取ってやるよ。</text>
+  </string>
+  <string id="bandit_mechanic_st_0">
+    <text>話を聞かせてくれ。</text>
+  </string>
+  <string id="bandit_mechanic_st_1">
+    <text>オレを起訴しようとしているのか？何でも良いから楽にしてくれ。</text>
+  </string>
+  <string id="bandit_mechanic_st_2">
+    <text>［続ける･･････］</text>
+  </string>
+  <string id="bandit_mechanic_st_3">
+    <text>常にオレが功労者名簿に載ってた時期もあったな･･････。オレは工場で機械技術者として働き、会社では最高のスペシャリストとして認められてた。賞品と賞状を授与してくれたよ。
+</text>
+  </string>
+  <string id="bandit_mechanic_st_4">
+    <text>何故全部失ったんだ？新しくやり直そうとはしなかったのか？</text>
+  </string>
+  <string id="bandit_mechanic_st_5">
+    <text>女の子とヨガのプライベートレッスンが恋しいよ、この意味が分かるか？だが、いや、それはオレがやったことじゃない。</text>
+  </string>
+  <string id="bandit_mechanic_st_6">
+    <text>何？急に足が不自由になったからリンピドって呼ばれ始めたのか？</text>
+  </string>
+  <string id="bandit_mechanic_st_7">
+    <text>本物のコメディアンだろ？とにかく、長いシフトの後、オレは本当は、男達と飲みに行きたかったんだ。ある日飲み過ぎて･･････。ボスに見つかって、負け犬のように首になっちまった。</text>
+  </string>
+  <string id="bandit_mechanic_st_8">
+    <text>人生は最悪だ。</text>
+  </string>
+  <string id="bandit_mechanic_st_9">
+    <text>実際に見たことがあるかどうかわからない腰抜けの話さ。普通の鍵屋に就職し、ヴィトカという名の新しいダチを見つけた。仕事の報酬はほとんどなかったが、ありがたいことに、たまには自分で酒を飲めるくらいの収入があった。ある時、オレらは酔っぱらって、やりまくった･･････。理由は覚えていない。とにかく、ドライバーで彼を刺してしまったんだが、その場で死ななくてよかった。何年か刑務所に入っていたが オレのビッチな妻は全てを売って出て行った。釈放された後は、酒に金を使いまくってスラム街に入り込んでしまって･･････。ここに来たのはゾーンができてからだ。ここでは、誰もが平等で、みんなはみ出し者なんだよ。ガベージで出会った人たちは、オレを技術屋として認めてくれて、そこに居候させてくれたんだ。人生で最高の時だったよ･･････。大量の銃とウォッカさ。</text>
+  </string>
+  <string id="bandit_mechanic_st_10">
+    <text>それはガベージではないな。</text>
+  </string>
+  <string id="bandit_mechanic_st_11">
+    <text>すごい観察力だな。今まで目が見えないと思っていたのに! まだその段階ではないんだ、馬鹿野郎。大規模なエミッションが起こり、オレらは少女のように隠れていました。その悪夢が終わった後、どこに行けばいいのか話し合った。ガベージは、その種のエミッションからの避難場所としては最悪だとわかった。オレらはそこを離れて、小グループに分かれて様々な道を通り、この場所ダーク バレーに移動しなければなかった。</text>
+  </string>
+  <string id="bandit_mechanic_st_12">
+    <text>それはすげえ話だ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_intro_0">
+    <text>覚えておけ。オレはスルタンだ。ここで行われているすべてのことは、オレの管理下にあるか、すぐにそうなる。良い人生を送りたいなら、オレのために働かなければならない。そうでなければ、クソな人生を送ることになる。それがオレらのやり方だ、友よ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_0">
+    <text>ここでオマエの人生について語れよ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1">
+    <text>それは公園を散歩するようなものではないことは確かだ。具体的には何を知りたいんだ？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1111">
+    <text>ここで何をするんだ？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11111">
+    <text>オレらはストーカーを見守る。奴らの中には、男というよりも子供のような野郎が結構いるんでね。愚かな夢を抱いてゾーンに来たり、ヒーローごっこをしに来たり、人生に疲れたからと言って来たり。ここには死神が待ち受けていることを知らない。オレらが世話をするのはその種の奴らだ。ガベージでひとり見つけたら、そいつの装備を奪って、コードンに送り返すんだ。中には賢くなって、国境を越えて真実を知る者もいる。脳みそよりも石ころが多い者はここに戻ってくる。そこでオレらはどうするか？彼らを保護し、課税する。MilitaryもMercenaryも、そしてミュータントも、誰もオレらの領域に入る勇気はない。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1112">
+    <text>ゾーンには何しに来たんだ？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11121">
+    <text>オレらの足。オレらはストーカーのために来たんだ。他には？オレらがいないと秩序が保たれず、全くの無秩序になってしまう。略奪して所有しても、誰が税金を払うんだ？つまり、平和と安全のための税金だ。オレらがミュータントを抑えて警戒している間に、オマエらのひとりがアノマリーから利益を搾り取るとする。彼が無事に帰ってきたら、オレらは分け前を取る･･････秩序を維持するためにね。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1113">
+    <text>このあたりでどうやって悪の親玉になったんだ？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11131">
+    <text>何から話そうか･･････。高校時代にさかのぼろうか。オレには良い仲間がいた。言ってみれば、親友だ。一緒に遊んだり、タバコを吸ったり、お酒を飲んだりしていた。ただ、あいつはもっともっとスリルを求めていた。最初はマリファナ、次にスマック、そして金を手に入れるとコークと、あいつはドラッグに手を出したんだ。オレはあいつに、「手遅れになる前に、トリヤン、こんなものやめろ」と言った。しかし、あいつは聞かなかった。ある日、あいつは凶悪なドラッグを手に入れ、そして終わっちまったのさ。オレはあいつの売人を見つけて仕返しをした。写真を撮られ、大混乱に陥った。刑務所、ギャングとの戦い、腹に刺さったナイフ･･････。出所して商売を始めて、また逮捕されて･･････。出所して事業を始めて、また逮捕されて･･････。再び出所したときに、すべてを投げ捨てて、ゾーンを目指したんだ。数ヶ月を耐え抜いた後、昇進した。今はここの責任者として、ここの決まりを守っている。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1114">
+    <text>ストーカーについてはどう思ってる？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11141">
+    <text>みんな違うんだ。例えば、1週間も持たないような不良もいれば、稼いでいる奴もいるし･･････さらには、コードンで両方の立場を転々とするような、まあまあの奴もいる。オレらは前者から金を巻き上げ、後者には税金を課す。最後の種類に関しては･･････まあ、お互いに邪魔をしないようにしているだけだ。すぐには見分けがつかないのが残念だが･･････。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1115">
+    <text>なぜオマエがそこに座っている･･････？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11151">
+    <text>オマエの売春婦の母親の顔は、1ヶ月待ちだった。もっとくだらない質問をしたいか？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1116">
+    <text>ああ気にするな。忘れろ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11161">
+    <text>お好きなように。</text>
+  </string>
+  <string id="sultan_st_0">
+    <text>オマエは誰だ？</text>
+  </string>
+  <string id="sultan_st_1">
+    <text>おめでとう。そんな記憶があれば、オマエは次のストレロックになるだろう。よく聞け。オレはここでは大物だから、オマエはオレの名前を知ることになるだろう。オレはしばらく前に仲間と一緒にザトンからここに来た。ダーク バレーの基地からミュータントを追い出して、復旧させたんだが、オビリアスはいまだにオレに命の借りがある。そもそもザトンから戻ってこなければならなかったのは、ダチのふりをしてオレらをすっぽかしたアホがいたと聞いたからだ。</text>
+  </string>
+  <string id="sultan_st_2">
+    <text>ああ、聞いたよ。あいつらはルールも知らないで、あんな風に作られた奴をコテンパンにしやがって。あの馬鹿野郎の名前が何であれ、オレはそいつを徹底的に叩きのめしてやるぜ。</text>
+  </string>
+  <string id="sultan_st_3">
+    <text>奴の名前はアレクサンダーとかだった。奴の尻には近づくな。オマエのアソコは小さく、奴の尻は金属の迷路みたいなもんだからな。</text>
+  </string>
+  <string id="sultan_st_4">
+    <text>了解。他にゾーンでのヒントはあるか？</text>
+  </string>
+  <string id="sultan_st_5">
+    <text>簡単だ。袖にしゃれこうべをつけたオレらの仲間以外は信用するな。他のほとんどの奴は敵対しているか、オレらを後ろから刺そうとしている。それは覚えておけ。自分で物事を把握するようにするだけだ。何か変だと思ったら、すぐにそこを離れろ。</text>
+  </string>
+  <string id="sultan_st_6">
+    <text>了解。オレが安全に滞在できるような場所は？</text>
+  </string>
+  <string id="sultan_st_7">
+    <text>ゾーンに安全な場所はないが、このアドバイスを無駄にするな。北側にはトラック墓地があり、そこの兵隊が旧検問所と陸軍倉庫への入り口を制圧している。夜間はその墓地をうろつかず、古い車にも近づかないようにしろ。そこの放射線レベルは、計測器がオマエのタマまで鳴らすほど高いし、化け物やアノマリーについても触れるな。西側にはガベージがあり、あそこは完全にカオスだ。北については、Dutyが管理する検問所があること以外、何も言えねえな。南にはダークスケープと呼ばれる巨大な森があり、相当危険な場所だ。かなり大きな迷路だ。あと、ダークスケープに向かう途中の農場には数人のストーカーがいるから、近づくなよ。あの森には大きな利点がある。コードンに続く道だ。そこにある車両基地ならオレらの仲間を見つけるのは簡単だ。</text>
+  </string>
+  <string id="sultan_st_8">
+    <text>そいつはちょっと怖いな。</text>
+  </string>
+  <string id="sultan_st_9">
+    <text>オマエは何を期待していたんだ？太陽の光も虹もない、これが現実の世界だ。雲の上から頭を出すか、ミュータントを抱きしめるか。一生懸命信じれば、あいつらはオマエのダチになってくれるかもな。</text>
+  </string>
+  <string id="sultan_st_10">
+    <text>わかった、もうどうでもいいよ。助けてくれてありがとな、ボス。</text>
+  </string>
+  <string id="meet_guid_dv_bandit_0">
+    <text>ここで何をするんだ？</text>
+  </string>
+  <string id="meet_guid_dv_bandit_1">
+    <text>オマエは盲目か何かなのか？オレはここのガイド役だ。トラック墓地の前哨基地か、ジュピターのコンテナ倉庫に案内するぜ。費用はかかるがな。</text>
+  </string>
+  <string id="travel_guid_dv_bandit_0">
+    <text>行こう。</text>
+  </string>
+  <string id="travel_guid_dv_bandit_1">
+    <text>どこへ行くんだ？</text>
+  </string>
+  <string id="travel_guid_dv_bandit_2">
+    <text>トラック墓地。[1,500ルーブル］</text>
+  </string>
+  <string id="travel_guid_dv_bandit_3">
+    <text>ジュピターのコンテナ倉庫。[8,000ルーブル］</text>
+  </string>
+  <string id="travel_guid_dv_bandit_4">
+    <text>気が変わった</text>
+  </string>
+</string_table>

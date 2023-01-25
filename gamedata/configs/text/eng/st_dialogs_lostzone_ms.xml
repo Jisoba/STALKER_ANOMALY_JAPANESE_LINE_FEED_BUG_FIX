@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="mortal_sin_start_text_0">
+    <text>「ダーク ストーカー」と 呼ばれる派閥がゾーンについて演説してるらしい。聞いたことはあるか？</text>
+  </string>
+  <string id="voronin_mortal_sin_0">
+    <text>将軍、新しい指令はありますか？</text>
+  </string>
+  <string id="voronin_mortal_sin_1">
+    <text>自発性か、いいね。100ラズ バーは、多彩な連中で知られている。しかし、新しい客が来て、トラブルを起こしているようだ。今のところ暴力沙汰はないが、ゾーンの素晴らしさを積極的にアピールしている。本部基地から離れていれば無視されると思っているのだろう。それは間違いだ。奴を見つけて、奴の戯言に興味を持ったふりをしてみろ。有益な情報を少しでも引き出せ。十分な情報が得られたら、俺の許可を得て奴を抹殺しろ。</text>
+  </string>
+  <string id="voronin_mortal_sin_2">
+    <text>分かりました。我々の縄張りにいるゾーンの狂信者を許すわけにはいきません。</text>
+  </string>
+  <string id="voronin_mortal_sin_21">
+    <text>将軍、申し訳ありません。尋問の準備をする時間が必要です。</text>
+  </string>
+  <string id="voronin_mortal_sin_3">
+    <text>聞けてよかったよ。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_0">
+    <text>任務を完了しました、将軍。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_1">
+    <text>狂信者を見逃したのか。なぜだ？</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_11">
+    <text>狂信者を抹殺したようだな、素晴らしい。では報告を。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_2">
+    <text>彼を捕らえた方が価値があるかもしれません。彼はSinと呼ばれる派閥の諜報員のようです。彼の派閥がゾーンの真の守護者だと主張していて、大規模な作戦に備え、他の仲間を集めていると言っていました。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_21">
+    <text>彼はSinと呼ばれる派閥の諜報員のようです。彼の派閥がゾーンの真の守護者だと主張していて、大規模な作戦に備え、他の仲間を集めていると言っていました。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_3">
+    <text>よくやってくれたが、これは厄介な展開だな。未確認のストーカー集団との衝突が報告されている。非常に敵対的で、他のストーカー集団に無差別にゲリラ攻撃を繰り返しており、最後の報告はレッド フォレストからだ。フォレスターに会いに行ってほしい。彼は誰よりもその場所を知っているからな。その後、脅威の程度とその襲撃者が噂の 「Sin」なのかどうかを確認してくれ。それまでの間、俺は歓迎されていない客人のために「宿」を手配する。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_31">
+    <text>よくやってくれたが、これは厄介な展開だな。未確認のストーカー集団との衝突が報告されている。非常に敵対的で、他のストーカー集団に無差別にゲリラ攻撃を繰り返しており、最後の報告はレッド フォレストからだ。フォレスターに会いに行ってほしい。彼は誰よりもその場所を知っているからね。その後、脅威の程度とその襲撃者が噂の「Sin」なのかどうかを確認してくれ。</text>
+  </string>
+  <string id="voronin_mortal_sin_envoy_4">
+    <text>了解しました！</text>
+  </string>
+  <string id="voronin_mortal_sin_report_0">
+    <text>将軍、レッド フォレストの状況を調査してきました。</text>
+  </string>
+  <string id="voronin_mortal_sin_report_1">
+    <text>よろしい。何か見つけたか？</text>
+  </string>
+  <string id="voronin_mortal_sin_report_2">
+    <text>Sinはストレロックの仲間、スティッチを追っていました。奴らの分隊を阻止して殲滅し、彼に接触しました。彼の話では、Sinはゾーンの南側に大規模な侵攻を開始する準備をしているとのことです。それと、これが分隊長の死体から入手したPDAです。確認してください。</text>
+  </string>
+  <string id="voronin_mortal_sin_report_3">
+    <text>それは確かに厳しいニュースだ。ゾーンの方が頑固なんじゃないかと思うことがあるな。洗脳されたカルト教団ではなく、別の教団なのか。我々は･･････待て。西側が攻撃を受けている、敵を撃退しろ！</text>
+  </string>
+  <string id="voronin_mortal_sin_report_4">
+    <text>了解です！</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_0">
+    <text>敵を撃退しました。</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_1">
+    <text>よくやった。Sinは非常に大胆な動きをした。それは深刻な結果をもたらすだろう。報告書によると、敵部隊は現在2つの「精神波の放射設備」を再起動させるために動いている可能性が最も高い。だがそんな事は許されない。我々は彼らを阻止し、強力な防御を再構築するのに全力を尽くす必要がある。</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_2">
+    <text>将軍、どの施設を守ればいいですか？</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_3">
+    <text>好きな方でいい、お前の経験を信頼している。俺はもう片方を守るために部隊を集める。急げ、もうあまり時間がない。</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_4">
+    <text>ミラクル マシンは俺が守ります。ここは離れた場所だから助けが必要でしょう。</text>
+  </string>
+  <string id="voronin_mortal_sin_ambush_41">
+    <text>ブレイン スコーチャーは俺が守ります。敵に、このような強大な拠点を奪還させるわけにはいきません。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_0">
+    <text>敵のリーダーは死に、部隊は壊滅しました。危機は回避できました、将軍。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_1">
+    <text>素晴らしい働きだ、素晴らしい！君を誇りに思う。君はDutyの模範となった。ゾーンはこの世界にまだ残っているが、おかげで封じ込められたままだ。外の世界は守られた。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_2">
+    <text>ストレロックと彼の仲間は、我々の部隊の努力は言うまでもなく、大きな助けになりました。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_3">
+    <text>そうだな。Duty全体としては、まれな同盟者の助けを借りて、罪のない人々を守るという使命を果たしたのだ。同盟といえば、元捕虜が到着した際に君の事を尋ねてきた。暇があれば連絡してやってくれ。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_31">
+    <text>そうだな。Duty全体としては、まれな同盟者の助けを借りて、罪のない人々を守るという使命を果たしたのだ。</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_4">
+    <text>他に何か指示はありますか、将軍？</text>
+  </string>
+  <string id="voronin_mortal_sin_zone_hero_5">
+    <text>もう通常の職務に戻っていい。解散だ。</text>
+  </string>
+  <string id="dushman_mortal_sin_0">
+    <text>ダッシュマン、ピリピリしているな。何かあったのか？</text>
+  </string>
+  <string id="dushman_mortal_sin_1">
+    <text>奇妙なことがあってな、お前に対処して欲しいんだ。数日前、不気味な男がこの街のゴミ捨て場で野営していた。敵対的でも何でもなかったから当分の間はここに居させて、念のために注意して見張っていたんだ。だがあいつは最近、ここらのMercenaryたちを困らせている。浄化だとか救いやら呪いやらの話を延々としているもんだから、周りはあいつを変装したmonolithの野郎だと思い始めている。まずはあいつと話をしに行け、どういう腹なのかを探ってから対処するんだ。</text>
+  </string>
+  <string id="dushman_mortal_sin_2">
+    <text>分かった、調べてみるよ。終わった後の片付けは俺がやるのか？</text>
+  </string>
+  <string id="dushman_mortal_sin_21">
+    <text>急ぎの用事ではなさそうだ。準備ができたらまた話そう。</text>
+  </string>
+  <string id="dushman_mortal_sin_3">
+    <text>ああ、プロの仕事だからな。さあ、行け。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_0">
+    <text>あのキモい奴と話した。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_1">
+    <text>ちょっとした世間話だけか？軟弱になったもんだな？</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_11">
+    <text>そして、あいつを始末した。いいぞ、俺たちはあの変態にうんざりしてたんだ。で、何を見つけた？</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_2">
+    <text>後々報復されると面倒だろう。あいつは 「Sin」とかいう派閥の諜報員だ。誰よりもゾーンのことを知っていて、世界を征服すると言ってやがる。それで、今はそのための募集中らしい。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_21">
+    <text>あいつは 「Sin」とかいう派閥の諜報員だ。誰よりもゾーンのことを知っていて、世界を征服するとか言ってやがる。それで、仲間になる新兵を探していた。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_3">
+    <text>Sinだと言ったな、ピンときたぞ。ストーカーに関するいくつかの報告を受けている。謎の派閥のストーカーが他のストーカーにゲリラ的な攻撃をしているという報告があった。OK、この客人を叩きのめす価値はあるかもしれないな。それまでの間に、レッド フォレストでの最近の状況を調査してほしい。謎のストーカーがたむろしていると言われている場所のひとつだ。おそらくお前が今知ったこの「Sin」だろう。まずはフォレスターと話すことから始めてくれ。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_31">
+    <text>Sinだと言ったな、ピンときたぞ。ストーカーに関するいくつかの報告を受けている。謎の派閥のストーカーが他のストーカーにゲリラ的な攻撃をしているという報告があった。いいだろう、客人の死体は俺が処理するとしよう。それまでの間に、レッド フォレストでの最近の状況を調査してほしい。謎のストーカーがたむろしていると言われている場所のひとつだ。おそらくお前が今知ったこの「Sin」だろう。まずはフォレスターと話すことから始めてくれ。</text>
+  </string>
+  <string id="dushman_mortal_sin_envoy_4">
+    <text>悪人に平穏なし。分かった、何が起こっているのか見てくる。</text>
+  </string>
+  <string id="dushman_mortal_sin_report_0">
+    <text>レッド フォレストに行ってきたぞ、ダッシュマン。</text>
+  </string>
+  <string id="dushman_mortal_sin_report_1">
+    <text>報告する価値のあるものを見つけたんだろ？</text>
+  </string>
+  <string id="dushman_mortal_sin_report_2">
+    <text>そうだな、Sinはストレロックの仲間を追っていた。俺が前の任務で会った人物だ。俺はSinの分隊を迎撃して撃破した後、そのストーカーに接触した。彼の話ではSinはゾーンの南地区に大規模な侵攻の準備をしているそうだ。彼は信頼できる人物で、今までのところすべてが彼の主張を裏付けている。分隊長のPDAを持ってきたから確認してみてくれ。</text>
+  </string>
+  <string id="dushman_mortal_sin_report_3">
+    <text>クソッ、少なくともmonolithはまだ自分たちのテリトリーを守ることに集中する傾向があったのにな。今の俺たちは狂信者どもに対処する必要がある。俺は派閥争いに興味はないが、現状を維持するにはここが必要だ。よし、俺たちは･･････いや、ちょっと待て･･････俺の部下が近くで敵対勢力を目撃した！畜生、攻撃を受けている！敵を迎撃しに行け ！俺はここに防衛線の準備をする！</text>
+  </string>
+  <string id="dushman_mortal_sin_report_4">
+    <text>分かった、行こう！</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_0">
+    <text>奴らを片付けてきた。</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_1">
+    <text>悪くない、成果は上々だ。しかし、奴らに好き勝手させるわけにはいかない。偵察班からの報告で、この襲撃は陽動作戦であることが判明した。Sinの本隊は俺たちの前をすり抜けてブレイン スコーチャーとミラクル マシンに接近している。おそらく、「精神波の放射設備」を復活させたいのだろうな。もちろん、そうはさせないが。</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_2">
+    <text>Sinの狂信者はいくらでも殺すが、俺はひとりしかいないぞ。</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_3">
+    <text>ひとりで十分だ。俺は施設の1つを守るために部隊を編成する。お前は自分が守りたい場所を選んでくれ。急いだ方がいい、なかなかタイトなスケジュールだぞ。</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_4">
+    <text>ここから近いミラクル マシンにしよう。このあたりの安全を確保した方がいいかもしれない。</text>
+  </string>
+  <string id="dushman_mortal_sin_ambush_41">
+    <text>ブレイン スコーチャーだ。敵にこの強大な拠点を取り戻させるわけにはいかない。</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_0">
+    <text>Sinどもを片付けた。あいつらが今すぐ世界を征服することはないだろう。</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_1">
+    <text>ここまでプロフェッショナルなワンマン アーミーは初めて見るぞ！よくやったな！</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_2">
+    <text>ストレロックと愉快な仲間たちに助けてもらったよ。</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_3">
+    <text>確かにそうだが、最終的に金を貰うのはお前の方だ。ようやくいつも通りに戻れるな。そういえば、ストレロックのグループは俺に捕虜を送ってきた。あいつはお前に会いたがっていたぞ。この辺りのどこかにいるから、話をしに行ってみたらどうだ。</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_31">
+    <text>確かにそうだが、最終的に金を貰うのはお前の方だ。ようやくいつも通りに戻れるな。</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_4">
+    <text>変わりないか？</text>
+  </string>
+  <string id="dushman_mortal_sin_zone_hero_5">
+    <text>ああ、いつも通りだ。日常を楽しもうぜ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_0">
+    <text>やあ、シドロヴィッチ。何か特別な仕事はないか?
+</text>
+  </string>
+  <string id="sidorovich_mortal_sin_1">
+    <text>ああ、あるぞ。お前さんが考えていたこととは違うかもしれないがな。村の周りをうろついている変人がいて、キャンプファイヤーの辺りでゾーンの偉大さを説いて宗教勧誘をしている。ほとんどのストーカーは奴に出て行けと言ったが、一部の馬鹿は奴の一員になりやがった。これ以上、新人りがカルト宗教の一員になって跡形もなく消えていくと商売あがったりだ、この男を始末してくれないか？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_2">
+    <text>まずは探りを入れる方がいいか？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_21">
+    <text>大した問題ではなさそうだな。後で確認してみよう。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_3">
+    <text>ああ、あいつの派閥についてもっと調べてみてくれ。その後なら･･････奴のために不慮の事故を手配できる。ここから遠くないところに重力的アノマリーがある。空腹のミュータントも常に徘徊しているしな･･････</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_0">
+    <text>シド、あの変な奴と話したぞ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_1">
+    <text>その呼び方はやめろ。何か面白いことはわかったか？それと、なんで始末しなかったんだ？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_11">
+    <text>その呼び方はやめろ。それで、何か面白いことはわかったか？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_2">
+    <text>あいつらがルーキー村に目を付けると面倒だろ。奴は「Sin」と呼ばれる派閥の諜報員だ。ゾーンのことを誰よりも知っていて、世界を浄化するとか言っていた。目的は仲間を増やすことにあるようだ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_21">
+    <text>奴は「Sin」と呼ばれる派閥の諜報員だ。ゾーンのことを誰よりも知っていて、世界を浄化するとか言っていた。目的は仲間を増やすことにあるようだ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_3">
+    <text>Sin･･････ああ。そういうグループの噂は昔から聞いていたが、実際に見たことがある奴は誰もいなかった。そういえば最近、特にレッド フォレストで色々な派閥と「無名」の集団との小競り合いが続いていたな。よし、パズルのピースをいくつか用意したぞ。お前さんはレッド フォレストに行って何が起こっているのか、フォレスターに話を聞いて確認してくれ。俺はあの変人を静かに追い出す方法を考える。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_31">
+    <text>Sin･･････ああ。そういうグループの噂は昔から聞いていたが、実際に見たことがある奴は誰もいなかった。そういえば最近、特にレッド フォレストで色々な派閥と「無名」の集団との小競り合いが続いていたな。よし、パズルのピースをいくつか用意したぞ。お前さんはレッド フォレストに行って何が起こっているのか、フォレスターに話を聞いて確認してくれ。俺はあの変人の死体を、アノマリーにでも放り込むよう手配しないとな。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_envoy_4">
+    <text>レッド フォレストかよ･･････。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_report_0">
+    <text>戻ってきた。まだ生きてるぞ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_report_1">
+    <text>お前さんがレッド フォレストへの旅だけで死ぬとは思ってないぞ。それで、何かわかったことは？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_report_2">
+    <text>いつものように悪いニュースだ。Sinはスティッチを追っていた、ストレロックの仲間のひとりだ。俺はSinの分隊を始末した後、そのストーカーに接触した。彼の話では、Sinはゾーンの南側に大規模な侵攻を開始する準備をしているらしい。彼は信頼できる、これまでのすべてが彼の言葉を裏付けている。このPDAは分隊長のものだ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_report_3">
+    <text>うーん、ヤバそうだな。たまにmonolithの話で新人を怖がらせることがあるが、あの連中は遠い脅威だ。狂信者どもはここまで銃を乱射しながら訪問してくる訳か。俺の商売が成り立たなくなる。とにかく、手に負えなくなる前に何とかしないとな･･････。今度は何だ？新人のひとりから大規模な分隊が村に近づいているとメッセージがきた、Sinの狂信者のようだ。お前さんも他の連中と一緒に、予期せぬ客どもを歓迎したらどうだ？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_report_4">
+    <text>喜んで。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_0">
+    <text>俺たちで皆殺しにした。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_1">
+    <text>さすがだな！お前さんがここにいたのはツイてたよ･･････しかしマズい状況になってきた、ゾーン内のストーカーからの報告によるとSinの主力部隊が2つの「精神波の放射設備」に向かっているらしい。再起動してゾーンの中心部を遮断する魂胆だろう。もちろん、そんなことはさせられない。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_2">
+    <text>そうだな、またあれを停止しに行くのはうんざりだ。だが、俺は一度に一箇所にしかいられないぞ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_3">
+    <text>問題ない、俺のコネでチームを編成する。もうひとつの防衛はお前さんに任せる。とにかく、どちらかを選んで急いで行け。あまり時間は残っていない。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_4">
+    <text>ミラクル マシンに行こう。ここは遠いから俺が行った方がいいだろう。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_ambush_41">
+    <text>ブレイン スコーチャーに行く。敵にこのような強大な拠点を取り戻させるわけにはいかない。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_0">
+    <text>片付けてきた。これ以上Sinが俺たちに迷惑をかけることは無いだろう。彼らの勢力は壊滅してリーダーは死んだ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_1">
+    <text>よくやった、ストーカー。お前さんを見ていると、時々マークド ワンを思い出すよ。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_2">
+    <text>ストレロック、彼の力抜きでは勝てなかった。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_3">
+    <text>彼がまだどこかにいると分かって嬉しいよ。それにしても、なぜ彼はここに来ないんだ？彼に興味を持つ連中も多いし、彼が俺に売りつけた古いガラクタは、伝説のストーカーが持っていたという理由でよく売れたんだがな。そういえば、ルーキー村にはお前さんを待っているファンがいるぞ。挨拶でもしてきたらどうだ？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_31">
+    <text>彼がまだどこかにいると分かって嬉しいよ。それにしても、なぜ彼はここに来ないんだ？彼に興味を持つ連中も多いし、彼が俺に売りつけた古いガラクタは、伝説のストーカーが持っていたという理由でよく売れたんだがな。</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_4">
+    <text>それは･･････いいことだな。もう特別な仕事はないのか？</text>
+  </string>
+  <string id="sidorovich_mortal_sin_zone_hero_5">
+    <text>当面はいつも通りだ。</text>
+  </string>
+  <string id="cold_mortal_sin_0">
+    <text>最近少し変な感じだな。どうしたんだ？</text>
+  </string>
+  <string id="cold_mortal_sin_1">
+    <text>トレンチコートを着た変な奴が、数日前に他のストーカーと一緒に基地に来たんだ。最初は問題にならなかったから、基地にいさせたんだが、今では、ゾーンの偉大さを説教してる。世界が罪から浄化されるとか、奇跡のようなものだとか言ってる。俺が直接聞いた。あいつは我々の仲間を勧誘しようとしてた。無害な狂人は我慢できるが、怪しい商売は駄目だな。会いに行って話を聞き、目的が何なのか探ってみてくれ。それから･･････多くの連中が沼地に消えていったんだ。哀れな魂たちさ。</text>
+  </string>
+  <string id="cold_mortal_sin_2">
+    <text>ああ、ゾーンを崇拝する狂信者はもうたくさんだ。俺が相手をしてくる</text>
+  </string>
+  <string id="cold_mortal_sin_21">
+    <text>悪いが今はまだ準備ができてないんだ</text>
+  </string>
+  <string id="cold_mortal_sin_3">
+    <text>ありがとう。彼はその辺にいる、目立つ格好だから、見つけるのは苦労しないはずだ。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_0">
+    <text>その狂人と少し話をした。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_1">
+    <text>どうだった？何故まだ基地を彷徨いてるんだ？</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_11">
+    <text>どうだった？死の前に 何か有益なことを話してくれたか？</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_2">
+    <text>訳の分からないものだった。奴は、「Sin」という派閥の諜報員だ。誰よりもゾーンを知っていて、自分たちがゾーンの番人だと主張している。「世界を浄化する 」とか言いながら、勧誘してくる。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_21">
+    <text>奴は、「Sin」という派閥の諜報員だ。誰よりもゾーンを知っていて、自分たちがゾーンの番人だと主張してる。「世界を浄化する 」とか言いながら、勧誘してくる。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_3">
+    <text>またか･･････。ああ、Sinのことは聞いたことがある、前はただの伝説だと思っていたが。どこからともなく現れて皆を襲う、恐ろしい野郎どもだ。終わった後は跡形もなく消えてしまう。実際、何人かのストーカーが言っていたが、今レッド フォレストでも似たようなことが起きているらしい。気に入らないな。何が起こってるのか知るために、行ってみるべきだ。フォレスターが少しは助けてくれるはずだ。その間に客人のために、パーティを開く予定だ。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_31">
+    <text>またか･･････。ああ、Sinのことは聞いたことがある、前はただの伝説だと思っていたが。どこからともなく現れて皆を襲う、恐ろしい野郎どもだ。終わった後は跡形もなく消えてしまう。実際、何人かのストーカーが言っていたが、今レッド フォレストでも似たようなことが起きているらしい。気に入らないな。何が起こってるのか知るために、行ってみるべきだ。フォレスターが少しは助けてくれるはずだ。その間に客人の遺体を、沼に捨ててもらおう。</text>
+  </string>
+  <string id="cold_mortal_sin_envoy_4">
+    <text>怖いところに怖い野郎ども･･････楽しそうだな。</text>
+  </string>
+  <string id="cold_mortal_sin_report_0">
+    <text>レッド フォレストに行ってきた。</text>
+  </string>
+  <string id="cold_mortal_sin_report_1">
+    <text>どうだった？何か話があるか？</text>
+  </string>
+  <string id="cold_mortal_sin_report_2">
+    <text>ひとつだけだ。ストレロックの仲間であるスティッチをSinが追っていた。Sinの分隊を始末した後、スティッチに連絡を取ったときのことだ。彼の話によると、Sinはゾーンの南側に大規模な侵攻を開始する準備をしているらしい。倒したSinの分隊から奪ったこのPDAを見れば、彼が信頼できることがわかるだろう。</text>
+  </string>
+  <string id="cold_mortal_sin_report_3">
+    <text>ああ、クソが。いい話ではないな。Renegadeの血で手を洗った後は、もっと平和的な方法であの沼地を解決できると思っていた。暴力には飽き飽きしているが、精神異常者の集団にすべてを奪われるわけにはいかないのだ。避けては通れないと思う。よし、それでは･･････なんだ？釣り堀集落からメッセージが届いた。敵の大規模な分隊がこちらに向かっているとのこと。畜生。すぐに助けに行ってくれ、俺はここで仲間を集める。</text>
+  </string>
+  <string id="cold_mortal_sin_report_4">
+    <text>オーケー、行くぞ！</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_0">
+    <text>敵を撃退した。今のところ安全だ。</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_1">
+    <text>久しぶりに大規模な敵部隊が目の前に現れた。君が奴らに勝利したことは良いニュースだ。しかし、残念ながら俺にとっては良いニュースではなくなったようだ。俺の知る限りでは、今回の襲撃は単なる囮に過ぎない。Sinの真の目的は、北側の「精神波の放射設備」を再起動させることだ。それを阻止するための部隊を整えておけば、最初からやり直す必要はなくなるだろ？</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_2">
+    <text>良いアイデアだと思う。俺はどこに向かうべきか？</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_3">
+    <text>おまえは以前に両方を解除したから、選択は任せる。おまえは選んだ方を守るんだ。俺は任務部隊を組織してもう一方を守る。君の判断を信頼しているが、議論している時間はあまりない。準備ができたらすぐに行くんだ。</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_4">
+    <text>ミラクル マシンを守る。遠隔地だから、俺の助けがもっと必要だ。</text>
+  </string>
+  <string id="cold_mortal_sin_ambush_41">
+    <text>ブレイン スコーチャーを守る。敵にこのような強大な拠点を取り戻させるわけにはいかない。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_0">
+    <text>なあ、コールド、やったぜ。Sinは、リーダーも含めて終わりだ。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_1">
+    <text>それは素晴らしいニュースだ、ストーカー！ついに、Clear Skyは当初の任務に成功した。そして、俺たちはその時点で大多数の部下を犠牲にすることなく何とか成功したんだ。よくやったな。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_2">
+    <text>そして、皮肉なことに、ストレロックと彼の仲間は、ゾーンを再び落ち着かせるのに大いに役立った。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_3">
+    <text>ああ、誰がそんなことを考えただろうか。運命ってのは時に歪んだユーモアのセンスを持っているものだ。さて、邪悪な聖戦が終わったことだし、我々は退屈で目立たない存在に戻ることができる。ところで、少し前に君に会いたいと言ってここに来た男がいる。彼を訪ねてみろ、基地のどこかにいるはずだ。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_31">
+    <text>ああ、誰がそんなことを考えただろうか。運命ってのは時に歪んだユーモアのセンスを持っているものだ。さて、邪悪な聖戦が終わったことだし、我々は退屈で目立たない存在に戻ることができる。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_4">
+    <text>やっと少し休めたというのが正直な感想だ。</text>
+  </string>
+  <string id="cold_mortal_sin_zone_hero_5">
+    <text>確かに、今のところは自分で楽しむといい。君にはその価値がある。</text>
+  </string>
+  <string id="lukash_mortal_sin_0">
+    <text>ルーカッシュ、どうした？何か面白いことがあったのか？</text>
+  </string>
+  <string id="lukash_mortal_sin_1">
+    <text>Freedomはいろんなものが好きなんだよな？ある日、その男が基地にやってきて、とてもフレンドリーに話しかけてきたんだ。ゾーンを尊敬していると言っていた。すると彼は、「全世界を罪から清める必要がある」と言って、部下を困らせ始めた。「ゾーンの本当の姿を理解していない」とか、宗教的なことを言い出したんだ。要するに、彼はちょっとおかしい。彼のせいで、みんな困っているんだ。彼と話をしてみないか？説得してくれないか？彼を追い出してくれたらボーナスをあげよう。</text>
+  </string>
+  <string id="lukash_mortal_sin_2">
+    <text>そうか。もっと説得してほしいってことか？</text>
+  </string>
+  <string id="lukash_mortal_sin_21">
+    <text>申し訳ないが、今の俺にそんな準備はできていない。</text>
+  </string>
+  <string id="lukash_mortal_sin_3">
+    <text>俺はあんたに自由裁量権を与える。もし彼が危険な存在だとわかったら、あんたが適切に対処してくれると信じているぞ。</text>
+  </string>
+  <string id="lukash_mortal_sin_4">
+    <text>了解だ。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_0">
+    <text>俺は狂人と話をしてきた。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_1">
+    <text>彼はまだ本当にあのあたりにいるのか？残念だ。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_11">
+    <text>彼もやっちまうか？清々するぞ。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_2">
+    <text>彼はSinと呼ばれる派閥のある種の諜報員だという。彼はあんたがすでに聞いたことのある多くのことを話してくれたが、他の人を自分の派閥に勧誘したいとも言っていた。何か大きなことを計画しているようだ。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_21">
+    <text>彼はSinと呼ばれる派閥のある種の諜報員だという。彼はあんたがすでに聞いたことのある多くのことを話してくれたが、他の人を自分の派閥に勧誘したいとも言っていた。何か大きなことを計画しているようだ。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_3">
+    <text>Sin？それは新しい話だな。それとも、そうなのか？レッド フォレストで正体不明のストーカーたちがプレデターのふりをして人を狩っていたらしい。彼らが噂のSinなのかもしれない。うーん、この展開は気に入らないな。Monolithは友達がいないとダメなんだ。フォレスターを訪ねて、この謎の集団について聞いてみてはどうだろうか。そして、俺たちのゲストとして彼に長居をさせたと誰かに伝えさせよう。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_31">
+    <text>Sin？それは新しい話だな。それとも、そうなのか？レッド フォレストで正体不明のストーカーたちが捕食動物のふりをして人を狩っていたらしい。彼らが噂のSinなのかもしれない。うーん、この展開は気に入らないな。Monolithは友達がいないとダメなんだ。フォレスターを訪ねて、この謎の集団について聞いてみてはどうだろうか。そして、あんたが置いていった堅物を誰かに片付けさせよう。</text>
+  </string>
+  <string id="lukash_mortal_sin_envoy_4">
+    <text>さてさて、新たな冒険の時がやってきたな。</text>
+  </string>
+  <string id="lukash_mortal_sin_report_0">
+    <text>ボス、レッド フォレストのお仕事から帰ってきたぜ。</text>
+  </string>
+  <string id="lukash_mortal_sin_report_1">
+    <text>おお、よお。旅はどうだった？何か面白い人に出会ったか？</text>
+  </string>
+  <string id="lukash_mortal_sin_report_2">
+    <text>そのうちのいくつかを紹介しよう。Sinに追われていたスティッチとの再会。あんたの言うとおりだったよ。とにかく、狩りをしてた分隊は死んでしまったが、スティッチによると、シンはゾーンの南側に大規模な侵攻を仕掛ける準備をしていたらしい。彼は信頼できるし、とにかくそう思える。捕食者どものリーダーのPDAを見てくれ。</text>
+  </string>
+  <string id="lukash_mortal_sin_report_3">
+    <text>やれやれ、大きな戦争が始まったぞ。まあ、とにかくMonolithの攻撃の連続にはうんざりしていたからね。これはいい気分転換になる。別の派閥争いのために仲間を集めるよ。ちょっと･･････待って･･････。うーん。メインゲートの警備隊が報告したところによると、大規模な部隊が我々の基地に接近しているとのことだ。銃撃戦･･････しかし、Monolithではない！くそっ。彼らを助けに行ってくれないか？俺はここで何か用意してみる。</text>
+  </string>
+  <string id="lukash_mortal_sin_report_4">
+    <text>もちろん、行くよ。</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_0">
+    <text>狂信者たちを倒したのは誰だと思う？</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_1">
+    <text>俺はすべての金をおまえに賭けている。とにかく、おまえは素晴らしい仕事をしたが、それだけでは終わらない。我々の仲間によると、敵部隊は今頃、2つの「精神波の放射設備」に近づいている。奴らは再び起動させたいようだ。俺はゾーンが誰にでも開かれたものであることを望んでいる。だから、今の状態を維持しようではないか？</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_2">
+    <text>やれやれ、しかし、よほど優れたスナイパーライフルでもない限り、2つを同時に守ることはできないだろうよ。</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_3">
+    <text>ああ、その必要はない。俺がチームを派遣して施設のひとつを守ることができるから、今回はおまえがすべての栄光を独占することはない。あとは、おまえが守りたいほうを個人的に選べ。それと、部隊に遅れるのは失礼だから、急いだ方がいいぞ。</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_4">
+    <text>ミラクル マシンだな。遠隔地だから、俺の助けがもっと必要だ。</text>
+  </string>
+  <string id="lukash_mortal_sin_ambush_41">
+    <text>ブレイン スコーチャーだ。近いし、かなり重要だ。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_0">
+    <text>ここにいる俺が、Sinを壊滅させてきたぜ。奴らのリーダーを石棺の中にいい感じで埋葬してきた。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_1">
+    <text>おお、本当によくやったな！絶好調だな。予測不能で命がけだけど、居心地のいい、そんなゾーンをこれからも大切にしていこう。何も変える必要はない。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_2">
+    <text>俺もそう思うが、不思議なことに、ストレロックたちがその状態を維持するためにたくさん助けてくれた。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_3">
+    <text>彼の肝っ玉が据わっているのはもちろんだが、それ以上に彼がゾーンを破壊したいと思わなくなったことが大きい。そう願いたいもんだ。とにかく、ここに来たんだから、最近入った新人をチェックしてみろ。今頃は基地の中をうろついているかもしれないぞ。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_31">
+    <text>彼の肝っ玉が据わっているのはもちろんだが、それ以上に彼がゾーンを破壊したいと思わなくなったことが大きい。そう願いたいね。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_4">
+    <text>しばらくの間、冷静になっても構わないだろうか？ちょっと疲れているんだ。</text>
+  </string>
+  <string id="lukash_mortal_sin_zone_hero_5">
+    <text>好きなだけ休め。でも、勝利のお祝いパーティーには忘れずに来るんだぞ！</text>
+  </string>
+  <string id="sakharov_mortal_sin_0">
+    <text>教授、ここは大丈夫か？護衛たちはいつも以上に緊張しているようだ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_1">
+    <text>時々、冗談かどうかわからなくなることがあるぞ、若者よ。少なくとも、状況はかなり安定していると思う。そういえば、最近ここでひとつ不安な出来事があった。数日前、新しいストーカーたちがヤンターにやってきたのだが、その中にこのフードをかぶった男がいた。このフードを被った男は、護衛たちを助けるどころか、ゾーンの素晴らしさを説いたそうだ。私も彼の話を聞いたが、あの男は頭がおかしいのではないかと思う。今のところ直接的な危害は加えられていないが、護衛たちは彼の存在にうんざりしている。我々のことは放っておくよう、どうか彼を説得してくれ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_2">
+    <text>ゾーンについてのお説教だと？不思議な響きだ。まずは彼に質問してみて、それから考えよう。</text>
+  </string>
+  <string id="sakharov_mortal_sin_21">
+    <text>教授、申し訳ないが、今はこれ以上の狂信者たちを相手にしている場合ではない。</text>
+  </string>
+  <string id="sakharov_mortal_sin_3">
+    <text>とても感謝している。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_0">
+    <text>俺は自分の仕事をやり遂げたぞ、教授。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_1">
+    <text>うむ。何か発見したのか？</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_11">
+    <text>そうか、殺したのか。思い切った解決策を･･････。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_2">
+    <text>彼はSinと呼ばれる派閥の諜報員のようだ。彼は、彼らがゾーンのことを誰よりも知っていると主張していて、世界を「浄化」することを計画しているそうだ。また、彼は彼らの大義に加わる新兵を探している。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_21">
+    <text>これ以上、彼をここにとどめておくことはできなかった。彼はSinと呼ばれる派閥の諜報員だった。彼は、彼らがゾーンのことを誰よりも知っていると主張した。そして彼らは世界を「浄化」することを計画しているようだ。また、彼は彼らの大義に加わる新兵を探していた。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_3">
+    <text>それは気になる。私の護衛たちは最近、謎の派閥からの敵対的なストーカーに遭遇している。彼はまさにその派閥のメンバーだろう。私の知る限り、彼らは狩りのためにレッド フォレストを頻繁に訪れる。しかし、そこにはフォレスターと呼ばれる伝説の男が住んでいる。どうか、彼にこの状況を話してみてくれ。我々は理解できれば、何が起こっても良いように準備することができる。その間に、私は護衛たちにこの「安全に対する侵害」について話しておこう。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_31">
+    <text>それは気になる。私の護衛たちは最近、謎の派閥からの敵対的なストーカーに遭遇している。彼はまさにその派閥のメンバーだろう。私の知る限り、彼らは狩りのためにレッド フォレストを頻繁に訪れる。しかし、そこにはフォレスターと呼ばれる伝説の男が住んでいる。どうか、彼にこの状況を話してみてくれ。我々は理解できれば、何が起こっても良いように準備することができる。諜報員の遺体は護衛たちに処分させる。</text>
+  </string>
+  <string id="sakharov_mortal_sin_envoy_4">
+    <text>何とかしてみる。</text>
+  </string>
+  <string id="sakharov_mortal_sin_report_0">
+    <text>俺はレッド フォレストの状況を調査してきた、教授。</text>
+  </string>
+  <string id="sakharov_mortal_sin_report_1">
+    <text>そうか。何か価値のある物を君が発見したならいいんだが。</text>
+  </string>
+  <string id="sakharov_mortal_sin_report_2">
+    <text>Sinは、俺の前回の任務で出会ったストレロックの仲間を追っていた。俺は奴らの分隊を阻止して壊滅させた後、そのストーカーに連絡を取った。彼の話によると、Sinはゾーンの南側に大規模な侵攻を行う準備をしているという。彼は信頼できる人物であり、これまでの経緯から彼の主張を裏付けるものと思われる。分隊長の遺体から取り出したPDAを受け取ってくれ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_report_3">
+    <text>なんだと･･････！これは大変なニュースだ。Monolithは少なくともほとんどが現在の支配地域に収まってる。しかし、我々はどのみち手強い敵に対処しなければならない･･････どうしよう･･････しまった。どうやら攻撃されているようだ。護衛たちが研究所（移動式掩体壕）に接近する敵対勢力を発見した。どうか、敵の撃退に協力してくれ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_report_4">
+    <text>やったぜ!</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_0">
+    <text>敵を倒し、この場所を制圧した。</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_1">
+    <text>素晴らしい仕事ぶりだ、若者よ。君を頼りにしていたよ。残念ながら、これは単なる始まりに過ぎまない。Militaryの武装ヘリの大部隊が両方の「精神波の放射設備」に向かっているのを確認した 現在の知識からすると、奴らは再起動させるつもりだと考えてよいだろう。最善の行動は、今すぐ奴らの計画を阻止することだ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_2">
+    <text>そうだね、教授。しかし、そのための人員がない。どうやったら一度に両方の場所を十分に守ることができるだろうか？</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_3">
+    <text>私はクズネツォフ大佐と話す。彼はSinが出てこないようにゾーンの境界を強化しているだろうが、少なくとも1つの施設を守るのに適した部隊を編成できると思う。しかし、もう一つの施設を守るためには、君が早く組織しなければならない。敵はそれほど長くは待ってくれそうにないだろうからな。頼む、急げ！</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_4">
+    <text>俺はミラクル マシンを守る。我々のすぐ隣にあるから、一番の脅威となる。</text>
+  </string>
+  <string id="sakharov_mortal_sin_ambush_41">
+    <text>俺はブレイン スコーチャーを守る。敵にこのような強大な拠点を取り戻させるわけにはいかない。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_0">
+    <text>成功したぞ、教授。Sinの部隊は壊滅し、リーダーも死んだ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_1">
+    <text>なんて恐ろしい争いなんだろう、終わってよかった。君はよくやってくれた、若者よ。いざという時には頼りになると思っていた。最後に、ゾーンが均衡状態になることを切に願うよ。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_2">
+    <text>ストレロックとその仲間たちがいなければ、勝利は得られなかっただろう。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_3">
+    <text>マークド ワン、すなわちストレロックは、その伝説的な地位を守り続けている。危険な狂信者がいたとしても、そのバランスを保とうとする機知に富んだ合理的なストーカーがいることを知って、私は安心することができる。実際、私たちの中にもそのようなストーカーがいるかもしれない。私が最後に見たとき、彼は研究所（掩体壕）の外をうろうろしていた。挨拶に行ってみてはどうかな。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_31">
+    <text>マークド ワン、すなわちストレロックは、その伝説的な地位を守り続けている。危険な狂信者がいたとしても、そのバランスを保とうとする機知に富んだ合理的なストーカーがいることを知って、私は安心することができる。</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_4">
+    <text>教授、それだけか？</text>
+  </string>
+  <string id="sakharov_mortal_sin_zone_hero_5">
+    <text>そうだ、今から自由にいつもの活動に戻っていただいて結構だ。</text>
+  </string>
+  <string id="greh_envoy_greeting_0">
+    <text>よう、ストーカー。悟りを求めるか？</text>
+  </string>
+  <string id="greh_envoy_greeting_killer_0">
+    <text>こんにちは、Mercenaryさん。悟りを求めているのか？</text>
+  </string>
+  <string id="greh_envoy_dialog_0">
+    <text>やあ。</text>
+  </string>
+  <string id="greh_envoy_dialog_1">
+    <text>どうした？</text>
+  </string>
+  <string id="greh_envoy_dialog_2">
+    <text>話がしたいんだ。</text>
+  </string>
+  <string id="greh_envoy_dialog_21">
+    <text>ちょっと聞きたいことがあるんだ、このキモい野郎。</text>
+  </string>
+  <string id="greh_envoy_dialog_3">
+    <text>よろしい、利己的な利益だけを追求している者たちの中にも、もっと大きなことを考える者がいて幸いだ。何が知りたい？</text>
+  </string>
+  <string id="greh_envoy_dialog_31">
+    <text>早合点してはいけない。噂や印象は人を惑わす。私の望みは、あなたやあなたの友人と私の知識を共有したいだけだ。聞けば答える、これはとても素晴らしいことだ。</text>
+  </string>
+  <string id="greh_envoy_dialog_4">
+    <text>何者なんだ？</text>
+  </string>
+  <string id="greh_envoy_dialog_5">
+    <text>私は「私たちの父」の卑しい使者に過ぎない。昔は普通のストーカーだったが、ゾーンの真実を知って生まれ変わった。私個人はもう重要ではない。重要なのは私の言葉だ。</text>
+  </string>
+  <string id="greh_envoy_dialog_41">
+    <text>誰の指示で来た？</text>
+  </string>
+  <string id="greh_envoy_dialog_51">
+    <text>私が所属するコミュニティだ。是正したいと願う人間性の欠陥にちなんで「Sin」と名乗っている。様々な派閥が、様々な目的を持っている。ある者はゾーンを破壊したい、ある者は豊かさを利用したい。またある者はその多くの驚異に驚嘆する。しかし、真実を知っているのは私たちだけだ。ゾーンの真の守護者は私たちだ。私たちだけが、ゾーンから与えられたあらゆる知識と力を持っているのだ。</text>
+  </string>
+  <string id="greh_envoy_dialog_511">
+    <text>Sin？初めて聞く組織だな。</text>
+  </string>
+  <string id="greh_envoy_dialog_5111">
+    <text>「ダーク ストーカー」についても聞いたが、具体的には何もなかった。</text>
+  </string>
+  <string id="greh_envoy_dialog_512">
+    <text>ゾーンが存在してから、私たちは目立たないように活動していた。縄張り争いや富の追求よりも、私たちは黙々と知識を収集する。より強くなるために。「二人が戦えば三人目が勝つ」だが、もうすぐ影の中から･･････ヴィーラージの光の中へと足を踏み出す準備が整った。あなたにも共に踏み込んでほしい。</text>
+  </string>
+  <string id="greh_envoy_dialog_42">
+    <text>何が目的なんだ？</text>
+  </string>
+  <string id="greh_envoy_dialog_52">
+    <text>私の願いは言葉を広めること。ゾーンとは何かを人々に知ってもらうこと。奇跡なのだ、人類を自己破壊的な状態から救うことができる。私は他のストーカーも参加し、ゾーンの秘密を共有することを願う。そうすれば、私たちが罪の世界を浄化するときに、彼らも一緒に立ち上がることができるだろう。</text>
+  </string>
+  <string id="greh_envoy_dialog_6">
+    <text>なかなか面白そうだな。</text>
+  </string>
+  <string id="greh_envoy_dialog_61">
+    <text>こんなくだらないものは信じない。</text>
+  </string>
+  <string id="greh_envoy_dialog_7">
+    <text>あなたは興味を持ってくれると思っていた。あなたは非常に特別な存在だと分かった。悲しいことに、誰もが私たちの仲間入りをする準備ができているわけではない。だが、私はあなたに期待している。</text>
+  </string>
+  <string id="greh_envoy_dialog_71">
+    <text>ああ、私の言葉を考えるのに時間がかかるかもしれない。私も古い考えを手放すのがどれだけ大変だったか覚えている。熟考するといい。</text>
+  </string>
+  <string id="greh_envoy_dialog_8">
+    <text>悟りを開くことが出来た･･････ありがとう。俺はもう行かなければならない。</text>
+  </string>
+  <string id="greh_envoy_dialog_81">
+    <text>もういい加減にしてくれ。お前を終わらせる時だ。</text>
+  </string>
+  <string id="greh_envoy_dialog_9">
+    <text>よろしい。我々の同志になることを検討するといい。では。</text>
+  </string>
+  <string id="greh_envoy_dialog_91">
+    <text>愚か者、Sinに終わりはない。終わるのはお前だけだ。</text>
+  </string>
+  <string id="greh_envoy_dialog_92">
+    <text>頼むから黙って死んでくれ。</text>
+  </string>
+  <string id="red_forester_mortal_sin_0">
+    <text>フォレスター、この森をうろついてる謎のストーカーを探しているんだ。手を貸してくれないか？</text>
+  </string>
+  <string id="red_forester_mortal_sin_1">
+    <text>若者よ、レッド フォレストには多くの奇妙な現象や出来事があるのだ。その全てを説明するのはだな･･････。</text>
+  </string>
+  <string id="red_forester_mortal_sin_2">
+    <text>知らないのか？</text>
+  </string>
+  <string id="red_forester_mortal_sin_3">
+    <text>若者よ、我慢してくれ、ワシは思い出そうとしているのだから ああ、そうだな･･････。誰のことを言っているのか、わかった気がする。2、3日前に突然現れたんだ。北から来た。何か不吉な雰囲気が漂ってたのう。彼らは密集して静かに歩いていた･･････他のストーカーはすぐに道を空けたがな。そして、あやつらは普通の公園のように、ただ森の中に入っていきおった。それ以来、何度も遠くから銃声が聞こえてくるようになったんじゃ。</text>
+  </string>
+  <string id="red_forester_mortal_sin_4">
+    <text>まだあそこにいるのか？</text>
+  </string>
+  <string id="red_forester_mortal_sin_5">
+    <text>うむ。何かを探していたと思うが、具体的に何を探していたのかは分からんのう。煙から判断して、あやつらはレッド フォレストの東側で野営地を設け、捜索を続けているようだ。</text>
+  </string>
+  <string id="red_forester_mortal_sin_6">
+    <text>東部って言ったか？</text>
+  </string>
+  <string id="red_forester_mortal_sin_7">
+    <text>あそこには廃坑を通ってアクセスすることができる空き地がある。用があるならそこにいる可能性が高い。ワシのいるこの塔、リマンスクに続く橋、西の鉱山を除けば、この辺りにはその規模の部隊を隠せる場所はないはずじゃ。</text>
+  </string>
+  <string id="red_forester_mortal_sin_8">
+    <text>情報ありがとう。これから行ってくる。</text>
+  </string>
+  <string id="red_forester_mortal_sin_9">
+    <text>若者よ、気をつけろ。そこは敵対的なストーカー以外のものにも遭遇する可能性がある。警戒を怠らないようにな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_0">
+    <text>思いがけない再会だな。どうしたんだ？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_1">
+    <text>久しぶりだな！長くてややこしい話だが、今は時間がないんだ、簡潔に言う。面倒な奴らに追われている。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_2">
+    <text>奴らは死んだ。見舞いに来る前にな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_3">
+    <text>おお･･････助かったよ！とにかく、行動は早ければ早いほどいいんだ。「Monolithの欠片」を覚えているか？ストレロックの探し物だったアレだ。あいつがゾーンのことを尋ねると幻覚か何かが見えたらしい。それで発電所の北西にとある地域を発見した。ヤバそうな場所だ。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_4">
+    <text>それで？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_5">
+    <text>俺たちはそこへ行ったんだが、その時にとんでもないことになった。狂信者の集団がいることが判明したんだ･･････だがあれはmonolithじゃなかった！俺たちはクソ野郎どもに迎撃され、何日も追い回されて散り散りになった。俺はここへ、ローグは西へ、ストレロックは引き返したと思う。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_6">
+    <text>そこからレッド フォレストまで追い回されてるのか？怖ろしい執念だな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_7">
+    <text>お前が来たのがあいつらの運の尽きだったな。ストレロックはあそこがエミッションの発生地点で、ゾーンの生まれた場所だと言っていた。で、そこはキチガイどもの住処になっている。嫌な感じだろ？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_8">
+    <text>ああ、同感だ。何か考えはあるのか？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_9">
+    <text>あそこでやってる事を止めないとな。ただ、あー･･････デコーダーをスタッシュに置いてきた。それを取り戻したかったんだが、ここから頭を出した瞬間に見つかるのが怖くてな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_10">
+    <text>連中はもう片付けたぞ。まだ何か問題が？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_11">
+    <text>あいつらはまた別の部隊を送ってくるだろうし、俺の顔もバレてる。だがお前のことはまだ知らないだろ？部隊全員を皆殺しにしたからな。ストレロックかローグが俺に連絡してきた時のために、ここにいなければ。デコーダーを頼んでもいいか？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_12">
+    <text>ああ、そうだな、また探し物か。どこにあるんだ？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_13">
+    <text>トラック墓地の真ん中付近、オレンジ色のバスの残骸の後ろに隠した。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_14">
+    <text>どれだ？もういいから座標を送ってくれ。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_15">
+    <text>実は座標はどこにも保存されていない。要は秘密のスタッシュなんだ。お前ならきっと見つけられると思うよ。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_16">
+    <text>正気か？何十台のバスが転がってると思ってるんだ･･････。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_17">
+    <text>さて･･････。デコーダーには信号を送受信するためのRFモジュールがある。俺はその場所を忘れた場合に備えて、周波数を171［MHz］に設定したんだ。RF受信機があれば、この周波数を使って信号を追いかけることができる。その場所に十分に近づくと、機器がビープ音を鳴らし始めるってことだ。見つけるのは簡単さ、まあデコーダーの中の電池が生きていればの話だが･･････。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_18">
+    <text>わかった、やるよ。やりがいのある仕事だ。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_19">
+    <text>お前がそれを手に入れれば、狂信者がエミッションを手当たり次第に発動させることを防げるかもしれない。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_20">
+    <text>いいだろう。行ってくる。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_0">
+    <text>お前のデコーダーを手に入れたぞ、スティッチ</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_1">
+    <text>ありがとう、お前ならやれると思ってたよ。いや実際は不安だったんだが。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_2">
+    <text>何か情報は？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_3">
+    <text>そうだな、ローグと連絡が取れた。あいつはまだ西のどこかにいて、敵の動きを監視している。Sinが多くの兵を動員して南に移動していると言っていた。いくつかの分隊に分かれているそうだ、いい状況ではない。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_4">
+    <text>確かにマズいな。考えてみると奴らの使者は、全世界を罪から浄化するとか言っていた。連中はそれを試みようとしているかもしれない。奴らを止めるのなら、迅速に行動しなくては。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_5">
+    <text>俺はデコーダーを手に入れたから北に戻る。ストレロックを見つけて、基地の妨害工作を手伝わなければな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_6">
+    <text>俺は状況をヴォロニン将軍に報告する。幸運を！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_61">
+    <text>俺は状況をダッシュマンに報告する。幸運を！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_62">
+    <text>俺は状況をシドロヴィッチに報告する。幸運を！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_63">
+    <text>そうしてくれれば、コールドに状況を伝えるよ。いくぞ！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_64">
+    <text>そうしてくれたら、ルーカッシュに状況を伝えるよ。行くぞ！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_decoder_65">
+    <text>そうしてくれたら、サハロフ教授に状況を伝えるよ。行くぞ！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_0">
+    <text>おお、来たか！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_1">
+    <text>先に来てたんだな。ストレロックは？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_2">
+    <text>そのことだ！これ以上待てないと言って、敵の基地への裏口を見つけた。昇降機をハックした後、ストレロックはひとりで敵の装置を停止しに行ったよ。俺はあいつを援護するためにここにいるんだ。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_3">
+    <text>くそっ、もう少し待てばよかったのに･･････。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_4">
+    <text>聞いただろ？急がないと！しかし、しかし、しかし、俺たちはSinが正面玄関の近くに部隊を集めているのを見た。奴らがストレロックに気付いてあいつを止めるために下に降りたら、俺たちはさよならのキスをする羽目になる！敵部隊の注意をそらさなければ！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_generators_5">
+    <text>そうだな、くそっ！奴らの部隊を攻撃する！行こう！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_0">
+    <text>やったぞ、もうひとりの狂信者が死んだ。これが最後だといいな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_1">
+    <text>ああ。ゾーンの中も好きだが、外では普通の生活が続いていると思うと落ち着くんだ。冒険が終わったら安全な場所に戻りたいしな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_2">
+    <text>ああ、ゾーンがこれ以上大きくなる必要はない。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_3">
+    <text>これで一段落だな。ローグと俺はストレロックと合流する。お前は？願い事でもしていくか？</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_4">
+    <text>願い事？俺はあの忌々しいものを私利私欲のために使うことは絶対に無い。ヴォロニン将軍に任務の成功を報告しに行く。お疲れ様、Dutyはこの貢献を忘れないだろう。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_41">
+    <text>いや、もっと信頼できるものがいい。現金のようにな。願望機のやるビジネスは胡散臭いんだ。ダッシュマンにはSinのケツを蹴っ飛ばしたと言っておくよ。また会おう。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_42">
+    <text>願望機を見つけるためにゾーンに来るルーキーは多いが･･････あいにく俺はウブなルーキーでも無い。稼げればそれでいい。シドロヴィッチに成功の報告をしに行くよ。またな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_43">
+    <text>俺の知る限り、願望機はダークなユーモアセンスを持っているからな。「猿の手」の再来は危険だ。今回はClear Skyが成功したとコールドに伝えておくよ。お疲れ様！</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_44">
+    <text>いや、俺は遠慮しておくよ。ゾーンでの人生は今のままで十分クールだし、ハッピーエンドはまだいらない。俺は何を望んでいるんだろうな？ルーカッシュとみんなには今回の冒険の話をしておくよ。ありがとう、またな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_45">
+    <text>願望機を研究してみたくはあるが･･････リスクが大きすぎるな。あれは科学者の無謀な行動の産物だ。俺はその流れを断ち切って、できるだけ早く教授に報告する。協力に感謝するよ、さようなら。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_46">
+    <text>世界を救うために苦労してきたんだから、究極の報酬は当然だろうな。</text>
+  </string>
+  <string id="stalker_stitch_mortal_sin_choice_5">
+    <text>ああ、そうか、そう言われればそうだな。念のため、何が起こるか見るために同行しよう。</text>
+  </string>
+  <string id="stalker_rogue_dialog_ms_0">
+    <text>よお、タフガイ。</text>
+  </string>
+  <string id="stalker_rogue_repair_0">
+    <text>やあ、ローグ。修理してくれるか？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_0">
+    <text>ローグ、ここの状況はどうなってるんだ？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_1">
+    <text>良くない。お前がSinを止めた時、連中は「精神波の放射設備」の再起動から撤退し、リマンスクで部隊を再編成すると決めたようだ。俺は何とか数人のストーカーを勧誘することができたが、まだまだ十分ではないな。悪い事にSinがMonolithと同盟を結んだ。俺は彼らが肩を並べて戦っているのを見たよ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_2">
+    <text>それは素晴らしいことだな。洗脳されたカルトどもが寂しくなってきたんじゃないかと心配だったんだ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_3">
+    <text>クソ笑えるよ。Sinは現在、懲戒者という強化外骨格の戦士達によって率いられる大部隊を編成している。奴らは強靭な戦士であり、並以上の戦術家でもある。かろうじてひとりは殺すことができたが、奴らは一貫して俺たちを押し返してきた。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_4">
+    <text>凄いな。で、どうする？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_5">
+    <text>反攻はいくつかの段階を経て実行する。まず、彼らのリーダーを排除しなければな。奴らのペースを大幅に低下させるぞ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_6">
+    <text>なかなか難しそうだな。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_7">
+    <text>それは分かっている。ヴォロニン将軍が志願兵たちを送ってくれた。ゾーンとゾーン狂いに深い恨みを持つベテランのストーカーたちだ。行って、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_71">
+    <text>確かに難しい。だが、ダッシュマンがお前を助けるために有志のチームを送ってきた。彼らはベテランのMercenaryでそのプロ意識には定評がある。さあ、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_72">
+    <text>ああ。だが俺たちも有志のチームを集めた。彼らは経験豊富なストーカーで、俺が訓練した者もいる。行って、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_73">
+    <text>確かにそうだろうな。ところで、コールドはおまえを助けるために有志のチームを送った。彼らは皆、ベテランのストーカーで、中には派閥争いのベテランもいる。行って、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_74">
+    <text>確かにそうでだろうな。ところで、ルーカッシュはおまえを助けるために有志のチームを送ってきた。彼らは熟練したストーカーであり、あの狂人たちがゾーンを支配しようとすることを望んでいない。行って、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_75">
+    <text>確かにそうだろうな。ところで、サハロフ教授が有志のアチームを派遣してくれた。彼らは皆、ベテランのストーカーだが、今回の出来事のために身支度してきてくれたことを願うよ。行って、敵の首をはねてこい。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_warfare_0">
+    <text>懲戒者たちは死んだ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_warfare_1">
+    <text>お疲れ様。やっと一息つけるようになったな。お前のボスが報酬を送ってきたから渡しておこう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_warfare_2">
+    <text>ありがとう。まだ何かあるのか？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_warfare_3">
+    <text>数人のストーカーと俺でSinのパトロールを待ち伏せすることができた。ほとんどは殺したが、ひとりは気絶させた。新兵のようで、比較的会話が成立しそうではある。俺は尋問が苦手で、すぐに殴っちまうから、お前があいつから有益な情報を引き出せるか試してくれ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_warfare_4">
+    <text>そうだな、試してみるよ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_0">
+    <text>OK もういいぞ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_1">
+    <text>よくやった。殴り合いもせずに口を割るとは思っていなかったぞ。奴らはまだ攻撃する準備ができていないようだな。計画を妨害するために不意の反撃を準備しよう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_11">
+    <text>思った通りだ、問題無い。俺のアプローチが功を奏するかもしれない。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_12">
+    <text>無駄な時間だったか。これ以上生け捕りにするのは無理だぞ。自分たちでなんとかするしかないな。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_2">
+    <text>で、これからどうする？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_3">
+    <text>お前が懲戒者どもを排除しに行った後すぐに偵察チームを送った。彼らはこの機会を利用して、街の奥深くで敵の作戦を観察することになっていた。うまくやっていたよ、待ち伏せされて連絡が取れなくなるまではな。ひとまず生存者がいるかどうか確認して、彼らを救助できるか確認してくれ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_4">
+    <text>最後に通信したのはどこだ？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_interrogation_5">
+    <text>座標をPDAにアップしよう。要塞化された敵陣に近いから注意してくれ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_0">
+    <text>戻ったぞ。偵察チームの最後の生存者に会った。残念ながら長くは持たなかったが･･････。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_1">
+    <text>畜生、彼らは信頼できる連中だった･･････。それで、彼らの任務内容は？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_2">
+    <text>生存者とあまり話せなかったが、チームリーダーのPDAを回収している。有益なデータが記録されているだろう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_3">
+    <text>よし、少なくとも彼らの犠牲は無駄ではなかった。見せてくれ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_4">
+    <text>どうだ？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_5">
+    <text>彼らは素晴らしい仕事をしてくれたぞ、このレポートは捕虜の話の裏付けになる。Sinは大規模な進軍の準備に入っている、リマンスクを通過するつもりだが、まだ準備は完了していないようだ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_51">
+    <text>彼らは素晴らしい仕事をしてくれたぞ、結局捕虜は必要なくなった。Sinは大規模な進軍の準備に入っている、リマンスクを通過するつもりだが、まだ準備は完了していないようだ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_6">
+    <text>早急に動いて、不意を突かれないようにしなければ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_7">
+    <text>そうだな。だが、これは簡単じゃないぞ。進む前に完全に準備ができているか確認しておけ。これからは後戻りも休憩もできないだろう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_contact_lost_8">
+    <text>分かった、準備が終わったら声をかける。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_ready_0">
+    <text>準備はできている。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_ready_1">
+    <text>時間だ。まず廃墟と化した建設現場の前哨基地を攻撃する。そうすれば彼らのテリトリーへの道が開けるだろう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_ready_2">
+    <text>要塞化していると言っていたな？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_ready_3">
+    <text>狭い入り口にバリケードがあって、高台から周囲を見渡せるし、狙撃手もたくさんいる。ああ、全体がライトで照らされてもいるな。それだけだ、簡単だろ？さあ行こう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_ready_4">
+    <text>･･････ああ、そうだな、楽しみだよ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_destruction_0">
+    <text>ああ、お互いまだ生きてるな</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_destruction_1">
+    <text>よし、増援が来る前に主要なポイントは占拠できた。この勢いを維持するぞ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_destruction_2">
+    <text>さらに北に行くのか？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_destruction_3">
+    <text>そうだ。放棄された病院への経路がある、数年前まではMonolithの巣穴だった場所だ。そこに居心地の良さを感じられると面倒だろうな。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_destruction_4">
+    <text>時間がないようだな。行こう。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_assault_0">
+    <text>クソッ！奴は消えてしまった。大丈夫か？</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_assault_1">
+    <text>ゾーンの中でも特に･･････ああ、大丈夫だ。お前の背中を撃てと聞こえた。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_assault_2">
+    <text>ああ、そんな事をしないでくれて助かるよ。どうやって抵抗したんだ？ギリギリだったぞ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_assault_3">
+    <text>銃を分解して、掃除して、少しずつ組み立てていく景色が見えた･･････とにかく、行かなくては。ゾーンの拡大を目論んでいるようだが、エミッションを発生させる場所を占拠されてしまった。要はお手上げだ。</text>
+  </string>
+  <string id="stalker_rogue_mortal_sin_assault_4">
+    <text>そうだな。急がないと。途中のSinのパトロールも排除する。チェルノボグが心理的奇術を仕掛けている間に、武装した狂信者に囲まれてしまうことだけは避けたい。</text>
+  </string>
+  <string id="greh_prisoner_greeting_0">
+    <text>私を破ることが出来ても、お前がSinを壊すことは不可能だ！我々は勝利を得るだろう！</text>
+  </string>
+  <string id="greh_prisoner_dialog_0">
+    <text>こんにちは。</text>
+  </string>
+  <string id="greh_prisoner_dialog_1">
+    <text>Duty！お前たちにゾーンを破壊する権利があると思うか？そんなことが可能だと思うのか？この愚か者どもめ！</text>
+  </string>
+  <string id="greh_prisoner_dialog_111">
+    <text>Mercenary！俗物が我々の大義に口を挟むな！金なら他の場所で稼げ！</text>
+  </string>
+  <string id="greh_prisoner_dialog_112">
+    <text>ストーカーたち！お前たちは誰もが強欲で自分の利益しか頭に無い！今すぐ出て行くか、ここで滅びるか選べ！</text>
+  </string>
+  <string id="greh_prisoner_dialog_113">
+    <text>Clear Sky！我々はおまえたちの秘密を知っているが、おまえたちは我々の秘密を知らない！ゾーンを全世界に広めよう！我々を止めることはできない。</text>
+  </string>
+  <string id="greh_prisoner_dialog_114">
+    <text>自由人？ゾーンという奇跡を理解していても、自分の罪の大きさは受け入れられない。死にたいのか？</text>
+  </string>
+  <string id="greh_prisoner_dialog_115">
+    <text>愚かな科学者たちよ･･････なぜ我々と戦うのか？ゾーンの研究をしたいのなら、そのまま待て！我々は、君たちの研究のために、より良いものを作ろう。</text>
+  </string>
+  <string id="greh_prisoner_dialog_2">
+    <text>落ち着けよ、少し話がしたいだけだ。</text>
+  </string>
+  <string id="greh_prisoner_dialog_221">
+    <text>いくつか質問があるんだが。</text>
+  </string>
+  <string id="greh_prisoner_dialog_222">
+    <text>黙ってろよ、狂信者め。</text>
+  </string>
+  <string id="greh_prisoner_dialog_3">
+    <text>お前は･･････分かった。何について話したいんだ？</text>
+  </string>
+  <string id="greh_prisoner_dialog_331">
+    <text>質問？お前が悟りを求めない限り、不潔な浪費家の質問に答えなければならない理由など･･････。</text>
+  </string>
+  <string id="greh_prisoner_dialog_332">
+    <text>ゾーンの声を止めることはできない!</text>
+  </string>
+  <string id="greh_prisoner_dialog_4">
+    <text>お前は良い戦いをしたよ。だが明らかに新兵だ、Sinの狂人に支配されるなよ。彼らの計画の次のステップを教えてくれれば、お前を生かしておく。</text>
+  </string>
+  <string id="greh_prisoner_dialog_441">
+    <text>計画の次のステップについて教えてくれ。協力してくれればいい取引ができるぞ。</text>
+  </string>
+  <string id="greh_prisoner_dialog_442">
+    <text>いいか、お前は頭の弱いクズだ。お前の部隊が何をするのか吐けば、すぐに解決する。そうしないと、お前は俺にゆっくりと切り刻まれる羽目になる･･････。</text>
+  </string>
+  <string id="greh_prisoner_dialog_5">
+    <text>Sinは私を支配などしない！彼らは･･････私を目覚めさせた！ひとりで苦労しても何の意味があるのか･･････彼らと一緒になって･･････世界をより良くすることができるなら！私は･･････。</text>
+  </string>
+  <string id="greh_prisoner_dialog_551">
+    <text>協力だと？ノーではどうだ？お前のような異教徒とは取引しない。</text>
+  </string>
+  <string id="greh_prisoner_dialog_552">
+    <text>私はお前を恐れない！私たちは、この惑星のために究極の犠牲を払う準備ができていなければならない！覚悟はできている！</text>
+  </string>
+  <string id="greh_prisoner_dialog_6">
+    <text>まだあいつらの戯言を完全に信じてはいないようだな。あの野郎どもを信用するな、お前の命は情報の一部より価値がある。Sinはそれを捨てても構わないだろうが、俺は違う。</text>
+  </string>
+  <string id="greh_prisoner_dialog_661">
+    <text>現状を見つめ直せ。俺の提案は必ず検討に値するぞ。</text>
+  </string>
+  <string id="greh_prisoner_dialog_662">
+    <text>お前にはうんざりだ。死ぬ時が来た。</text>
+  </string>
+  <string id="greh_prisoner_dialog_7">
+    <text>私は･･････頭が･･････チェルノボグ･･････我らの父･･････あの方はとても説得力があった･･････でも考えれば考えるほど確信が持てない。知っていることを話しても殺さないと約束してくれないか？</text>
+  </string>
+  <string id="greh_prisoner_dialog_771">
+    <text>検討だと？現状を再認識するのは、お前自身だ! お前は偉大な進歩への道程を阻んでいる！お前達こそが降伏すべきだ！</text>
+  </string>
+  <string id="greh_prisoner_dialog_8">
+    <text>約束しよう。お前は捕虜となるが俺たちが戦いに勝った後、態度を改めれば解放されるだろうな。</text>
+  </string>
+  <string id="greh_prisoner_dialog_881">
+    <text>さっさと終わらせよう。</text>
+  </string>
+  <string id="greh_prisoner_dialog_9">
+    <text>分かった、話そう。今はゾーンの西側に部隊を集結させているんだ。この地域は「防衛線」よりも劣っている。南方に注力し、派閥をひとつずつ潰していくつもりだ。</text>
+  </string>
+  <string id="greh_prisoner_dialog_991">
+    <text>お前には言わない！任務を果たす！私は、我々の大義を裏切らない！</text>
+  </string>
+  <string id="greh_prisoner_dialog_10">
+    <text>こんなところか。協力感謝する、早く頭の調子が良くなるといいな。</text>
+  </string>
+  <string id="greh_prisoner_dialog_1001">
+    <text>まあ、それは無意味だったな。</text>
+  </string>
+  <string id="lazarus_greeting_0">
+    <text>どうした、兄弟？</text>
+  </string>
+  <string id="lazarus_story_0">
+    <text>ローグがリマンスクで捕らえた男か。お前の名前は？</text>
+  </string>
+  <string id="lazarus_story_1">
+    <text>ああ 俺の名前は･･････。本名は覚えてないけど、Sinは俺をプソグラフと呼んでた。だからそれを使い続けると思う。</text>
+  </string>
+  <string id="lazarus_story_2">
+    <text>覚えてないのか？とにかく、なぜDutyに入った？</text>
+  </string>
+  <string id="lazarus_story_21">
+    <text>覚えてないのか？とにかく、なぜMercenaryになった？</text>
+  </string>
+  <string id="lazarus_story_22">
+    <text>覚えてないのか？今はフリーのストーカーを選んだったな。</text>
+  </string>
+  <string id="lazarus_story_23">
+    <text>覚えてないのか？とにかく、なぜClear Skyに入った？</text>
+  </string>
+  <string id="lazarus_story_24">
+    <text>覚えてないのか？とにかく、なぜFreedomに入った？</text>
+  </string>
+  <string id="lazarus_story_25">
+    <text>覚えてないのか？とにかく、なぜEcologistに入った？</text>
+  </string>
+  <string id="lazarus_story_3">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたので、俺はその礼としてDutyに参加することにした。技術屋だったかどうかは覚えていないが、修理の仕方は知っている。へへへ。</text>
+  </string>
+  <string id="lazarus_story_31">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたので、Mercenaryとして再開することにした。技術屋だったかどうかは覚えていないが、修理の仕方は知っているな。へへへ。</text>
+  </string>
+  <string id="lazarus_story_32">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたおかげで俺は普通のストーカーとして生きていくことができる。技術屋だったかどうかは覚えていないが、修理の仕方は知っているな。へへへ。</text>
+  </string>
+  <string id="lazarus_story_33">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたお返しにClear Skyに加入することにした。技術屋だったかどうかは覚えていないが、修理の仕方は知っているな。へへへ。</text>
+  </string>
+  <string id="lazarus_story_34">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたお返しにFreedomとして生きることにした。技術屋だったかどうかは覚えていないが、修理の仕方は知っているな。へへへ。</text>
+  </string>
+  <string id="lazarus_story_35">
+    <text>あんたのおかげでチェルノボグの洗脳を振り払うことができたが、記憶はまだぼんやりとしている。ローグは俺を解放してくれたし、あんたが親切にしてくれたお返しにEcologistに加入することにした。技術屋だったかどうかは覚えていないが、修理の仕方は知っているな。へへへ。</text>
+  </string>
+  <string id="lazarus_story_4">
+    <text>考えておくよ･･････待て、ピストルだけでわざわざ来たのか？</text>
+  </string>
+  <string id="lazarus_story_5">
+    <text>どうにかしてな。俺がSinに加わった時、あいつらはいくつかの「処置」をした･･････だから常人と比べて少しは強いと思う。</text>
+  </string>
+  <string id="lazarus_story_6">
+    <text>悪くないな。お前の申し出は心に留めておくよ。</text>
+  </string>
+  <string id="lazarus_repair_0">
+    <text>よお、俺の装備を修理してくれないか？</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_0">
+    <text>ああ･･････くそ･･････。</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_1">
+    <text>偵察班か、何があった？</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_2">
+    <text>ああ･･････ブラッドサッカーどもにやられた･･････早く･･････見つけてくれ･･････落としたPDAを･･････近くで･･････。</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_3">
+    <text>待て、いま助ける。</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_4">
+    <text>遅すぎる･･････PDAを見つけてくれ･･････気を付けろ･･････。</text>
+  </string>
+  <string id="lim_stalker_scout_dialog_5">
+    <text>分かった。</text>
+  </string>
+  <string id="greh_sabaoth_start_0">
+    <text>待っていた。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_0">
+    <text>遠くから来たんだな。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_1">
+    <text>素晴らしい歓迎会だったな。撃たれないだけマシと思えよ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_111">
+    <text>ただちに何者か話せ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_121">
+    <text>お前は誰だ？</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_2">
+    <text>私の信徒たちは、私を「チェルノボグ」と呼ぶようになった。私はヴィーラージの光を見た･･････。そして誓う･･････この暴力的な世界に その光を届けよう。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_3">
+    <text>･･････？</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_4">
+    <text>ああ･･････。ゾーンについて考えてみよう。ノウアスフィアとバイオスフィアの統合だ。自然界がいかに破壊的で、いかに飢えているかを考えてみよ。それは人間の本性を反映したものである。しかし、ゾーンは･･････ゾーンは、我々の脱線を解決する手段になるかもしれない。それが世界中に広がれば、誰もが自分の本当の姿を知ることができる。誤魔化すこともなく、妄想もない。そして、癒しが始まる。私の子供たちを殺すのをやめてほしい。この落ち着かない世界に平和をもたらすために必要なのだ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_5">
+    <text>邪魔をしてすまないが、お前らの仲間が先に俺たちを殺し始めたんだ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_551">
+    <text>共同意識体はすでに同様の極端な方法で人類を癒そうとしていた。その代わりに、彼らは災厄を放った。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_561">
+    <text>ゾーンで「平和」？銃とアノマリーとその他諸々の忌々しい物でか？悪いが、エセ預言者のくだらない戯言はどうでもいい。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_6">
+    <text>ゾーンを知り尽くしているあなたに、この壮大なビジョンを理解してもらえるとは思えない。私はかつて不正をした者に自分で罰を与えていたが、その努力は誤解されてしまった。死刑を宣告されたこともあった。しかし、指導者たちは私を無理解な人々から救い、私を強くしてくれた。新たな目的を与えてくれたのだ。それなのに、自分たちは無力なまま、理解できない人から死刑を宣告されたのである。わからないか？ストーカーは、完璧な世界の到来を脅かす存在なのだ。恐怖や欲が常に彼らを支配している。彼らの邪魔をするわけにはいかない。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_7">
+    <text>壊滅的な敗北を喫しそうになっている割には、驚くほど冷静だな。もう運命を受け入れたのか？</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_8">
+    <text>私は10年以上前に運命を受け入れた。指導者たちに命じられた時である。私は世界を浄化するために強化されたのだ。私の宿命は･･････成功することだ。失敗は許されない。だがあなたは･･････。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_9">
+    <text>ああ、そろそろ終わりにしよう。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_10">
+    <text>･･････ここで止めておこう。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_11">
+    <text>うっ･･････なんだ･･････これは･･････！？</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_12">
+    <text>あなたが被っている哀れな「精神波の防護ヘルメット」はあなたを守ってはくれない。私の言葉に真実を見出すか･･････あなたたち全員がここで死ぬかだ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_13">
+    <text>させるか･･････！</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_14">
+    <text>望むだけ奮闘するがいい。あなたの前に来た何十億もの魂のように。変革が始まる。頑固な者･･････死にかけている者･･････それはもう彼ら次第ではない。あなたが決めることではない。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_15">
+    <text>変革だと、クソ野郎が！</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_1551">
+    <text>こんなこと･･････。ならない･･････。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_1552">
+    <text>うっ･･････頭が･･････あぁぁぁぁ！</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_16">
+    <text>ふむ。感動した。強い決意だ。私はあなたに仲間になってほしいと思っている。我々が敵であるという事実は、私にとって･･････とても悲しいことだ。</text>
+  </string>
+  <string id="kat_greh_sabaoth_mortal_sin_17">
+    <text>すぐにでもお前を撃つぞ、そこで待ってろ！</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_0">
+    <text>あなたの居場所はない･･････この平和な世界には。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_1">
+    <text>お前の部下は死んだ。お前はもう、ひとりだ。ストレロックは共同意識体を破壊し、お前の計画を潰した。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_2">
+    <text>何を･･････？</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_3">
+    <text>エミッションを利用しようとした機械は壊れている。今もうゾーンを拡大することはできない。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_4">
+    <text>何年も準備してきたが･･････消えてしまった。私の子供たちは死んだ。彼らの犠牲を無駄にするわけにはいかない。私は･･････世界を破滅させたくない。私は諦めない。代替案は･･････受け入れられない。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_5">
+    <text>もう十分だ、お前は失敗した。別れの言葉があるなら聞こう。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_6">
+    <text>失敗は許されない。まだ選択肢はひとつ残ってる。願望機。それが私の命を吸い、世界は平和になるだろう･･････。ヴィーラージは指導者たちが望んだように顕在化する･･････。さらばだ。</text>
+  </string>
+  <string id="gen_greh_sabaoth_mortal_sin_generators_7">
+    <text>平和なんて無理だ、チェルノボグ。近いうちにまた会おう。</text>
+  </string>
+</string_table>

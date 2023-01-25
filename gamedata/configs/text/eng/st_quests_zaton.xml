@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="drx_sl_zat_a2_stalker_barmen_default_task_name">
+    <text>次のクエストに進め</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_default_task_text">
+    <text>次のクエストを受けろ。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_default_task_about">
+    <text>ハッハー！いてくれて助かったよストーカー。お前の手を借りたいって奴がいるぜ。会って確かめてきな。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_default_task_finish">
+    <text>幸運を祈る。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_1_name">
+    <text>ベアードのPDAを取得しろ</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_1_text">
+    <text>ベアードはオウェルに関するきな臭いPDAを隠しているようだ</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_1_about">
+    <text>ハッハー！誰かと思えばわが友じゃないか。あんたのためにいい取引があるぜ。オウェルのやつめ俺を黙らせられると思ってるようだがこっちには情報があるんだ。奴の立場を危うくする情報の入ったPDAをこっそり隠してある。ストーカー、あんたにはそいつを回収して来てほしい。報酬は弾むぜ。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_1_finish">
+    <text>ハッ！手に入れたようだな！お前はいい奴だよストーカー。さあ祝杯といこうぜ！</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_2_name">
+    <text>ストーカーの捜索と救助</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_2_text">
+    <text>monolithに捕らえられたストーカーを見つけて救助しろ。</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_2_about">
+    <text>なあストーカー、Monolithのビッチどもに仲間のひとりが捕まっちまった。奴らはあっちへ向かって行った。あいつを救い出してくれ！</text>
+  </string>
+  <string id="drx_sl_zat_a2_stalker_barmen_task_2_finish">
+    <text>ハッハー！お前の連れてるやつを見てみろよ。どっちが戦いに勝った方かわかりゃしねえほどボロボロだ！ほらほらウォッカをたっぷり飲みな！痛みを感じなくさせてやるぜ！</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_default_task_name">
+    <text>次のクエストに進め</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_default_task_text">
+    <text>次のクエストを受けろ。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_default_task_about">
+    <text>ミュータントの死体を持ってこられないなら話すことは何もない。ここにいない方がいいと思うぞ。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_default_task_finish">
+    <text>幸運を祈るよストーカー。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_1_name">
+    <text>ノアの犬のために%sを探せ</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_1_text">
+    <text>ノアのペットのミュータントは%sを食べたがっている。気が狂ってしまう前に見つけ出そう。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_1_about">
+    <text>今までどこいやがった？俺はドッグフードを切らしちまってな！このチビのビッチは俺を食う気だ！しかしこいつは強そうだな。主人に似たのかな。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_1_fetch_about">
+    <text>何ボケっと突っ立ってるんだ！早くその%sをよこせ。俺の犬に食わせるんだよ！</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_1_fetch_finish">
+    <text>まったくなんて日だ。ほらお食べ。ああこいつはほんとにかわいいなあ。口いっぱいに頬張って･･････。ああ？まだいたのか？ほら、こいつを持ってさっさとどっかに行きな。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_2_name">
+    <text>ノアの家に侵入するミュータントを抹殺しろ</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_2_text">
+    <text>気が狂ったノアはこの一帯のミュータントから身を守るのに苦労している。じいさんを助けてやろう。</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_2_about">
+    <text>来るのが遅いぞ！どこもかしこもミュータントだらけだ！お前は俺があいつら全員を殺し続けられると思っているのか？奴らをここからたたき出すんだ！</text>
+  </string>
+  <string id="drx_sl_zat_b18_noah_task_2_finish">
+    <text>あの忌々しいミュータントどもを殺すのに丸一日かかるとは！早くその報酬を持って私の船から消え失せろ。時に私がなぜこの犬を飼っているか知っているか？こいつは警戒することとストーカーの指を食べることが大好きだからだよ！</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_default_task_name">
+    <text>次のクエストに進む</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_default_task_text">
+    <text>次のクエストを受けろ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_default_task_about">
+    <text>俺にはあんたの帰りを待つお客様がいるんだ。あんたの地図にそいつの位置を記しておいたよ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_default_task_finish">
+    <text>幸運を祈る。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_name">
+    <text>緊急信号の追跡（$freq［MHz］）</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text">
+    <text>ベクターはMercenaryたちのグループによって送られた緊急信号の追跡をしてほしいという。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text_0">
+    <text>ベクターはMercenaryたちが発信した緊急信号を追跡してほしいというが、捜索には$item_1が必要だ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text_1">
+    <text>ベクターは、Mercenaryたちのグループが発信した緊急信号を追跡してほしいという。$mapに向かえ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text_2">
+    <text>ベクターは、Mercenaryたちのグループが発信した緊急信号を追跡してほしいという。$item_1を使って、周波数を$freq MHzに設定しろ。よい周波数帯がないか探せ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text_3">
+    <text>見つけた$item_2を取り出して、ベクターに見せなければならない。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_text_4">
+    <text>調査結果をベクターに報告しろ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_about">
+    <text>ちょっと遅くなったが、来てくれて嬉しい。前回、仕事を終えようとしていたところに、南の方から緊急信号が入った。昨日、ゾーンの反対側にある基地に送った部下のPDAからのもので間違いない。何かうまくいなかったようなので、RF受信機を使ってその信号を追跡し、何が起こったのかを突き止めてほしい。このPDAには機密情報が含まれているから、必ず持ち帰るように。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_1_finish">
+    <text>みんな死んだのか？残念だな･･････。せめてPDAだけでも持ち帰ってくれたのか。これが報酬だ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_2_name">
+    <text>プリピャチ郊外への通路確保</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_2_text">
+    <text>ベクターは、ジュピター地下に隠れているmonolith部隊を排除することを望んでいる。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_2_about">
+    <text>悪い知らせだ。今度はMonolithが原因だ。ジュピターとプリピャチ郊外の間の地下通路は、我々の分隊が以前から使用している。狂信者たちとの接触を避けながら、プリピャチ郊外での活動を行うためだ。しかし、ビジネスがうまくいっていると思っていた矢先に、最後に行ったMercenaryたちがどこからともなくMonolith部隊に待ち伏せされてしまったのだ。君のような勇敢な男に、奴らを追い払い、通路を確保してもらいたい。奴らをそこで待ち伏せさせるわけにはいかないのだ。</text>
+  </string>
+  <string id="drx_sl_zat_stancia_trader_merc_task_2_finish">
+    <text>見事な出来栄えだ！仕事に戻るよ。これはお礼だ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_1_name">
+    <text>ミュータントがいる場所を一掃しろ</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_1_text">
+    <text>ミュータントに関する仕事だ。奴らを狩り、その場所を一掃しろ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_1_about">
+    <text>シーッ･･････聞け、聞こえたか？数匹のミュータントが吠えたな。こいつを聞くと俺はどうにも悪寒がするんだよ。お前はどうだ？狩ってくれれば報酬は弾むぞ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_1_finish">
+    <text>ハッハー！ストーカーよ、よくやってくれた。さあビールで乾杯といこう！</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_2_name">
+    <text>ベアードのために%sを探せ</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_2_text">
+    <text>ベアードが%sを欲しがっている。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_2_about">
+    <text>俺はアーティファクトの取引も扱ってる。普段はそこらのストーカーから買ったりはしないんだが、今日は特別に手に入れてきてほしいやつがある。俺のために取って来てくれねえか？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_2_fetch_about">
+    <text>探してるのは%sだ。見たことはあるか？もし見つけてくれたらそれ相応の価格で買い取らせてもらうと約束するぜ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_2_fetch_finish">
+    <text>グッドハンティング、ストーカー！うちに来て飲んで行きな。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_3_name">
+    <text>兄弟の番人</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_3_text">
+    <text>Militaryのストーカーを殺せ</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_3_about">
+    <text>この船の他の連中と同じように、昔は普通のストーカーだった男が居た。ある日Militaryが何人かやってきて、奴に任務を与えた。挙句の果てには、かつての兄弟を冷酷に殺害しているところを発見されてしまった！？そんなことが許されるはずがない！この裏切り者を見つけ出し、後ろから撃たれた仲間の仇を討て。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_task_3_finish">
+    <text>ああ、殺したのか？飲み物をどうぞ。みんなで、一杯やりたい気分だな･･････。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_name">
+    <text>標的排除</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_text">
+    <text>ターゲットを見つけて排除し、スルタンのところに戻り報酬を受け取る。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_about">
+    <text>ゾーンには、俺を怒らせたり、無礼な態度をとったりする野郎が大勢いる。その中には、俺に金を貸した奴や、取引を失敗した奴なんかもいる。そいつらはただのネズミのようなもので、踏み潰す必要がある。もしおまえにその気があれば、奴らの情報を渡すから、GPSで追跡してみろ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_finish">
+    <text>よくやった。で、さらなる用件だ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_1_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_1_text">
+    <text>カーダンは基本的な装備の改造のため、%sを必要としている。見つけて彼に渡そう。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_1_about">
+    <text>俺には酒以外にも必要なものがあってな。そいつは上等なツールキットだ、ストーカーよ。もし力になってくれるなら、そいつの特徴をもっと教えてやれるぞ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+    <text>必要なのはベーシック ツールだ。その中に俺が使いたい道具も入っているだろう。もし持ってきてくれたらお礼はするし、おまけに今後の取引は割引価格でやらせてもらうぜ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
+    <text>すげえなストーカーよ。俺の要求通りの物を持ってきてくれたぜ。ありがとよ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_2_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_2_text">
+    <text>カーダンは高度な装備の改造のため、%sを必要としている。見つけて彼に渡そう。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_2_about">
+    <text>俺は今までたくさんの道具を使ってきた。それとウォッカも。まあウォッカは簡単に見つかる。だが道具はそうはいかねえ。俺が探してほしいのはもっと上等な道具だ。俺のために探して来てくれないか？</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_2_fetch_about">
+    <text>必要なのはアドバンスド ツールだ。その中に俺が必要としてる道具も含まれているはずだ。探してくれたらお礼はする。取引価格はさらに割引だ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
+    <text>ファンタスティック！酒が欲しくなったり装備を見てほしくなったらいつでも寄ってくれよな。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_3_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_3_text">
+    <text>カーダンはさらに高度な装備の改造のため、%sを必要としている。見つけて彼に渡そう。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_3_about">
+    <text>俺は今までたくさんの道具を使ってきた。それとウォッカも。まあウォッカは簡単に見つかる。だが道具はそうはいかねえ。俺が探してほしいのはもっと上等な道具だ。俺のために探して来てくれないか？</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_3_fetch_about">
+    <text>必要なのはエキスパート ツールだ。その中に俺が必要としてる道具も含まれているはずだ。探してくれたらお礼はする。取引価格はさらに割引だ。</text>
+  </string>
+  <string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
+    <text>ファンタスティック！酒が欲しくなったり装備を見てほしくなったらいつでも寄ってくれよな。</text>
+  </string>
+  <string id="task_noah_2_1">
+    <text>恩人 : 丘のテレポーター アノマリーに乗り込む</text>
+  </string>
+  <string id="task_noah_2_2">
+    <text>恩人 : ミュータントの巣を掃討する。</text>
+  </string>
+  <string id="task_noah_2_3">
+    <text>恩人 : 任務は成功したとノアに伝える。</text>
+  </string>
+  <string id="task_noah_2_descr">
+    <text>スノークたちがここ最近ノアを脅かしているようだ。彼は南部の高地に巣食うやつらを片付けてほしいと考えている。</text>
+  </string>
+  <string id="task_noah_1_1">
+    <text>恩人 : ノアの新しいライフルの調達を手伝う</text>
+  </string>
+  <string id="task_noah_1_2">
+    <text>恩人 : ノアにアームセル プロテクタを持っていく</text>
+  </string>
+  <string id="task_noah_1_descr">
+    <text>ノアは安眠のため、私にアームセル プロテクタを手に入れるのを手伝ってほしいようだ。</text>
+  </string>
+  <string id="zat_stancia_trader_merc_task_1_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="zat_stancia_trader_merc_task_1_text">
+    <text>Mercenaryのひとりから%sを集めてくるように頼まれた。</text>
+  </string>
+  <string id="zat_stancia_trader_merc_task_1_about">
+    <text>人間狩りをやってみないか？お前は奴らを狩って、そいつらが身に着けているパッチを持ってきてくれ。派閥の力を知らしめられる。</text>
+  </string>
+  <string id="zat_stancia_trader_merc_task_1_fetch_about">
+    <text>人間狩りをやってみないか？お前は奴らを狩って、%sを持ってきてくれ。派閥の力を知らしめられる。</text>
+  </string>
+  <string id="zat_stancia_trader_merc_task_1_fetch_finish">
+    <text>それが例の物か。報酬を受け取ってくれ。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_1_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_1_text">
+    <text>Mercenaryの技術屋が%sを欲しがっている。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_1_about">
+    <text>なあ、手入れの行き届いたカスタム装備を持ってないなんて、そんなMercenaryがいるか？知っての通り、俺はなんにでも使える素晴らしいツールを持っていたが、どっかのバカどもが変電所の作業所から盗んでいきやがった。だから道具が必要なんだ。見つけてきてくれないか？</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_1_fetch_about">
+    <text>なあ、手入れの行き届いたカスタム装備を持ってないなんて、そんなMercenaryがいるか？知っての通り、俺はなんにでも使える素晴らしいツールを持っていたが、どっかのバカどもが変電所の作業所から盗んでいきやがった。だから道具が必要なんだ。見つけてきてくれないか？</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_1_fetch_finish">
+    <text>畜生め。これからはお前に割引してやらにゃならんな。ありがとよ！</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_2_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_2_text">
+    <text>Mercenaryの技術屋が%sを欲しがっている。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_2_about">
+    <text>信頼できる武器に勝るものはない。だが今ある道具では十分な改造を施すことができないでいる。俺のためにもっといい道具を探して来てくれないか？</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_2_fetch_about">
+    <text>信頼できる武器に勝るものはない。だが今ある道具では十分な改造を施すことができないでいる。俺のためにもっといい道具を探して来てくれないか？</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_2_fetch_finish">
+    <text>ありがとう。これでお前らをもっと助けられるよ。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_3_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_3_text">
+    <text>Mercenaryの技術屋が%sを欲しがっている。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_3_about">
+    <text>なあ聞いてくれ。そろそろ終わりにしよう。あのクソ野郎どもを確実に始末するためには、もっといいツールが必要だ。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_3_fetch_about">
+    <text>なあ聞いてくれ。そろそろ終わりにしよう。あのクソ野郎どもを確実に始末するためには、もっといいツールが必要だ。</text>
+  </string>
+  <string id="zat_stancia_mech_merc_task_3_fetch_finish">
+    <text>なんてこった。お前はすべての技術屋にとって英雄的存在になったぞ。本当によくやったもんだ･･････。次の取引からはさらに割引をしよう。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_task_1_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="zat_b22_stalker_medic_task_1_text">
+    <text>%sは、アクセルが医薬品に取り組むために必要なものだ。見つけた場合は、彼に渡す必要がある。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_task_1_about">
+    <text>毎日これだけの数の負傷者を治療しなければならないから、医薬品倉庫に残っているものを維持できるか心配だ。そのうち包帯や医療キットが足りなくなりそうだ。お古の薬品製造ツールを探してくれないかな。きっと役に立つはずだ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_task_1_fetch_about">
+    <text>ある。俺は%sを探しまくっていた。医療品の作業をするのに必要な錠剤やアンプルが入っているはずだ。このキットを全部持ってきてくれたら、1個分の報酬を払おう。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_task_1_fetch_finish">
+    <text>よくやってくれた！本当にありがとう。</text>
+  </string>
+</string_table>

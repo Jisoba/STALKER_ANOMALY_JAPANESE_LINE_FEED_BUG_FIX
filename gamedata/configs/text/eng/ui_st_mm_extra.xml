@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="ui_mm_f1_opt_extra">
+    <text>F1を押して追加の設定</text>
+  </string>
+  <string id="ui_mm_cap_opt_extra">
+    <text>追加の設定</text>
+  </string>
+  <string id="ui_mm_cap_settings">
+    <text>ゲーム設定</text>
+  </string>
+  <string id="ui_mm_opt_extra_warfare">
+    <text>戦争</text>
+  </string>
+  <string id="ui_mm_opt_extra_news">
+    <text>ダイナミックニュース</text>
+  </string>
+  <string id="ui_mm_opt_extra_radio">
+    <text>ラジオ ゾーンFM</text>
+  </string>
+  <string id="ui_mm_opt_extra_gameplay">
+    <text>ゲームプレイ難易度</text>
+  </string>
+  <string id="ui_mm_opt_extra_economy">
+    <text>ゲーム進行難易度</text>
+  </string>
+  <string id="ui_mm_opt_extra_disguise">
+    <text>変装システム</text>
+  </string>
+  <string id="ui_mm_opt_extra_travel">
+    <text>ファストトラベル バックアップトラベル</text>
+  </string>
+  <string id="ui_mm_opt_extra_fx">
+    <text>ビジュアルとサウンドエフェクト</text>
+  </string>
+  <string id="ui_mm_st_gameplay_warning">
+    <text>注意 : ゲームプレイ難易度の係数はプレイ中のゲームごとに設定される。</text>
+  </string>
+  <string id="ui_mm_opt_extra_gameplay_warning">
+    <text>ゲーム進行難易度の係数は、データロード後にのみ利用可能。</text>
+  </string>
+  <string id="ui_mm_st_gameplay_actor_immunities">
+    <text>プレイヤーの防御力</text>
+  </string>
+  <string id="ui_mm_st_gameplay_hit_power">
+    <text>弾丸命中率係数</text>
+  </string>
+  <string id="ui_mm_st_gameplay_power_loss_bias">
+    <text>消費スタミナ係数</text>
+  </string>
+  <string id="ui_mm_st_gameplay_max_weight">
+    <text>最大可搬重量</text>
+  </string>
+  <string id="ui_mm_st_gameplay_thirst">
+    <text>喉の乾きを有効化</text>
+  </string>
+  <string id="ui_mm_st_gameplay_sleep">
+    <text>睡眠不足を有効化</text>
+  </string>
+  <string id="ui_mm_st_gameplay_radiation_day">
+    <text>昼間の放射線を有効にする</text>
+  </string>
+  <string id="ui_mm_st_gameplay_notify_geiger">
+    <text>ガイガーカウンター使用時のみ放射線の音を再生</text>
+  </string>
+  <string id="ui_mm_st_gameplay_notify_anomaly">
+    <text>アノマリー探知機を有効化</text>
+  </string>
+  <string id="ui_mm_st_list_great">
+    <text>素晴しい</text>
+  </string>
+  <string id="ui_mm_st_list_good">
+    <text>良い</text>
+  </string>
+  <string id="ui_mm_st_list_average">
+    <text>標準</text>
+  </string>
+  <string id="ui_mm_st_list_poor">
+    <text>貧弱</text>
+  </string>
+  <string id="ui_mm_st_economy_warning">
+    <text>注意 : ゲーム進行難易度の係数はプレイ中のゲームごとに設定される。</text>
+  </string>
+  <string id="ui_mm_opt_extra_economy_warning">
+    <text>ゲーム進行難易度の係数は、データロード後にのみ利用可能</text>
+  </string>
+  <string id="ui_mm_st_economy_goodwill">
+    <text>獲得友好度係数</text>
+  </string>
+  <string id="ui_mm_st_economy_rewards">
+    <text>報酬金額係数</text>
+  </string>
+  <string id="ui_mm_st_economy_repair">
+    <text>修理費用係数</text>
+  </string>
+  <string id="ui_mm_st_economy_upgrade">
+    <text>アップグレード費用係数</text>
+  </string>
+  <string id="ui_mm_st_economy_buy">
+    <text>取引価格（買）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_sell">
+    <text>取引価格（売）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_loots">
+    <text>戦利品（アイテム）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_money_loots">
+    <text>戦利品（現金）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_wpn_condition">
+    <text>略奪された武器の平均状態</text>
+  </string>
+  <string id="ui_mm_st_economy_stash_chance">
+    <text>スタッシュを発見するチャンス</text>
+  </string>
+  <string id="ui_mm_st_economy_max_medkit_uses">
+    <text>使用された医療キットの最大使用量</text>
+  </string>
+  <string id="ui_mm_st_economy_weapon_degradation">
+    <text>武器劣化係数</text>
+  </string>
+  <string id="ui_mm_st_economy_battery_consumption">
+    <text>バッテリー消費電力係数</text>
+  </string>
+  <string id="ui_mm_st_economy_limited_bolts">
+    <text>限られたボルト所持数を有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_arty_degradation">
+    <text>アーティファクトの劣化を有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_bkpk_degradation">
+    <text>バックパックの劣化を有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_percentage_parts">
+    <text>部品のフル パーセンテージ システムを有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_restock">
+    <text>トレーダーの補充サイクル（時間）</text>
+  </string>
+  <string id="ui_mm_st_economy_arty_chance">
+    <text>アーティファクトの出現確率</text>
+  </string>
+  <string id="ui_mm_fx_spacing_1">
+    <text>ビジュアル、サウンドエフェクト</text>
+  </string>
+  <string id="ui_mm_st_fx_animations">
+    <text>アイテム使用アニメーション</text>
+  </string>
+  <string id="ui_mm_st_fx_shoot_effects">
+    <text>射撃エフェクトを強化</text>
+  </string>
+  <string id="ui_mm_st_fx_mask_hud">
+    <text>マスクオーバーレイ</text>
+  </string>
+  <string id="ui_mm_st_fx_breathing_sound">
+    <text>呼吸音</text>
+  </string>
+  <string id="ui_mm_st_fx_breathing_fog">
+    <text>呼吸時の曇り</text>
+  </string>
+  <string id="ui_mm_st_fx_radiation_effect">
+    <text>放射線エフェクト</text>
+  </string>
+  <string id="ui_mm_st_fx_blood_splash">
+    <text>出血エフェクト</text>
+  </string>
+  <string id="ui_mm_st_fx_bleed_effect">
+    <text>低ヘルス時のぼやけ</text>
+  </string>
+  <string id="ui_mm_st_fx_item_swap_animation">
+    <text>アイテム交換アニメーション</text>
+  </string>
+  <string id="ui_mm_st_fx_hit_impact_effect">
+    <text>ヒットインパクト効果</text>
+  </string>
+  <string id="ui_mm_st_fx_tiny_pfx">
+    <text>ダスト粒子</text>
+  </string>
+  <string id="ui_mm_st_fx_fog_pfx">
+    <text>ダイナミックフォグ</text>
+  </string>
+  <string id="ui_mm_st_fx_wind_sound">
+    <text>ダイナミックな風の音</text>
+  </string>
+  <string id="ui_mm_st_fx_helmet_rain_sound">
+    <text>ヘルメットに当たる雨の音</text>
+  </string>
+  <string id="ui_mm_st_fx_rain_droplets">
+    <text>ガスマスクの滴</text>
+  </string>
+  <string id="ui_mm_st_fx_visor_reflection">
+    <text>ガスマスクのガラス反射</text>
+  </string>
+  <string id="ui_mm_st_warfare_options">
+    <text>派閥戦争の設定</text>
+  </string>
+  <string id="ui_mm_st_warfare_preset">
+    <text>プリセット</text>
+  </string>
+  <string id="ui_mm_st_warfare_general_settings">
+    <text>一般設定</text>
+  </string>
+  <string id="ui_mm_st_warfare_azazel_settings">
+    <text>アザゼル設定</text>
+  </string>
+  <string id="ui_mm_st_warfare_all_out_war">
+    <text>全面戦争</text>
+  </string>
+  <string id="ui_mm_st_warfare_all_out_war_desc">
+    <text>有効にするとすべての派閥は他のすべての派閥に敵対的になる。DrXのダイナミック リレーションは、新しいゲームの開始時にのみ適用される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_locations">
+    <text>ランダムな場所からゲーム開始</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_locations_desc">
+    <text>これを有効にすると、プレイヤーはゾーン内のランダムな基地で出現する。それ以外の基地は random_stakker_chanceとrandom_mutant_chanceを使用して生成される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_character">
+    <text>ランダムなキャラクターでゲーム開始</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_character_desc">
+    <text>これを有効にすると、新しいゲームを開始した後にプレイヤーの名前と派閥をランダムにする。random_starting_locationsと一緒に使用するのが最適である。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_stalker_chance">
+    <text>ランダムなストーカーの発生確率</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_stalker_chance_desc">
+    <text>random_starting_locationsを有効にしたときに、基地や資源対象地点にストーカーの分隊が出現する確率（0 ~ 100）。これは、1つの分隊が生まれる確率。基地の最大人口が2人で、random_stalker_chanceが50に設定されている場合、1つ目の分隊が生まれる確率は50％、2つ目の分隊が生まれる確率は50％となる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_monster_chance">
+    <text>ランダムなミュータントの発生確率</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_monster_chance_desc">
+    <text>random_starting_locationsを有効にしたときに、支配対象地点でミュータントの分隊が発生する確率を0 ~ 100の間で設定する。1つの地点につき、1つのミュータントのみが出現する。</text>
+  </string>
+  <string id="ui_mm_st_warfare_show_unfriendly_squads">
+    <text>味方以外の分隊を表示する</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_smarts">
+    <text>名称のある地点を隠す</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_smarts_desc">
+    <text>有効にすると、名称のある地点のアイコンはPDAにレンダリングされない。プレイヤーの派閥のターゲットは引き続きPDAに表示される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_new_game_bonus">
+    <text>敵の分隊数を増やす</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_new_game_bonus_desc">
+    <text>有効にすると、敵の分隊の初期分隊がわずかに多くなり、中立で友好的な派閥の初期分隊がわずかに少なくなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_base_boost">
+    <text>敵の基地をブーストする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_base_boost_desc">
+    <text>プレイヤーの所属する派閥のすべての敵は、実際に所有しているものに加えて、指定された数の基地を所有しているものとして扱われる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_resource_boost">
+    <text>敵の資源をブーストする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_resource_boost_desc">
+    <text>プレイヤー派閥の全ての敵は、実際に所有している資源に加えて、指定された数の資源を所有しているものとして扱われる。資源は防衛 攻撃 パトロール分隊のリ出現時間と、生成される分隊のスキルに影響する。資源数が多いほど、より良い分隊でリスポーン時間が短くなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_faction_respawn">
+    <text>リスポーン時間の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_faction_respawn_desc">
+    <text>基地が防衛隊を生み出すために必要な時間の最小値。この値と基地の利用可能な資源によって、基地の防衛隊のリスポーン時間が決まる。基地の利用可能な資源は次のように決定される : total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)。基地のリスポーン時間は、派閥のリスポーン時間の最小値と最大値の間で、次のような係数で選択して決定するresource_count / warfare.resource_count。リスポーン時間 = (100% - owned_resource_percentage) 。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_faction_respawn">
+    <text>リスポーン時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_faction_respawn_desc">
+    <text>基地が防衛隊を生み出すために必要な時間の最大値。この値と基地の利用可能な資源によって、基地の防衛隊のリスポーン時間が決まる。基地の利用可能な資源は次のように決定される : total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)。基地のリスポーン時間は、派閥のリスポーン時間の最小値と最大値の間で、次のような係数で選択して決定するresource_count / warfare.resource_count。リスポーン時間 = (100% - owned_resource_percentage) 。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_size">
+    <text>侵攻人口係数の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_size_desc">
+    <text>侵攻サイズの倍率の最小値。これは、max_invasion_sizeと派閥が所有する基地の数とともに、最終的な侵攻サイズを計算するために使用される。これは名称のある地点の最大人口に対する倍率なので、ゲーム設定にある「ストーカー人口の倍率」が最終的な侵攻サイズに影響する。現在の侵攻サイズ = (100% - owned_base_percentage) * min_invasion_size + (own_base_percentage * max_invasion_size)。現在の侵攻人口 = min(1, target.max_population * 現在の侵攻サイズ)</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_size">
+    <text>侵攻人口係数の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_size_desc">
+    <text>侵攻サイズの倍率の最大値。これは、max_invasion_sizeと派閥が所有する基地の数とともに、最終的な侵攻サイズを計算するために使用される。これは名称のある地点の最大人口に対する倍率なので、ゲーム設定にある「ストーカー人口の倍率」が最終的な侵攻サイズに影響する。現在の侵攻サイズ = (100% - owned_base_percentage) * min_invasion_size + (own_base_percentage * max_invasion_size)。現在の侵攻人口 = min(1, target.max_population * 現在の侵攻サイズ)</text>
+  </string>
+  <string id="ui_mm_st_warfare_invasion_departure_chance">
+    <text>侵略出発の確率</text>
+  </string>
+  <string id="ui_mm_st_warfare_invasion_departure_chance_desc">
+    <text>現在のprocess_targetsの更新中に、侵略者が出発する確率。これはゲーム内で1分から5分ごとに呼び出される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_squads">
+    <text>パトロール人口係数の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_squads_desc">
+    <text>パトロール隊の人口係数の最小値。派閥が基地を所有していない場合、各基地は（所有していないので理論的には）min_patrol_squads * max_populationのパトロール分隊を持つことになる。現在のパトロール隊係数 = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads)。現在の許可されているパトロール分隊 = base.max_population * 現在のパトロール分隊のファクター。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_squads">
+    <text>パトロール人口係数の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_squads_desc">
+    <text>パトロール隊の人口係数の最大値。派閥が基地を所有していない場合、各基地は（所有していないので理論的には）min_patrol_squads * max_populationのパトロール分隊を持つことになる。現在のパトロール隊係数 = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads)。現在の許可されているパトロール分隊 = base.max_population * 現在のパトロール分隊のファクター。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_time">
+    <text>パトロール時間の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_time_desc">
+    <text>基地がパトロール隊を生成するために必要な時間の最小値。これと、基地の利用可能な資源によって、基地のパトロール隊のリスポーン時間が決まる。基地の利用可能な資源は次のように決定される : total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)。基地のパトロールのリスポーン時間は、min_patrol_timeとmax_patrol_timeの間で、resource_count / warfare.resource_countの係数で決定される。 リスポーン時間 = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_time">
+    <text>パトロール時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_time_desc">
+    <text>基地がパトロール隊を生成するために必要な時間の最大値。これと、基地の利用可能な資源によって、基地のパトロール隊のリスポーン時間が決まる。基地の利用可能な資源は次のように決定される : total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)。基地のパトロールのリスポーン時間は、min_patrol_timeとmax_patrol_timeの間で、resource_count / warfare.resource_countの係数で決定される。 リスポーン時間 = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_rest_time">
+    <text>パトロールの休憩時間の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_rest_time_desc">
+    <text>パトロール隊が支配対象地点で待機する時間の最小値。夜間活動の確率は、新しい支配対象地点に派遣されるかどうかにも影響する。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_rest_time">
+    <text>最大パトロール休憩時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_rest_time_desc">
+    <text>パトロール隊が支配対象地点で待機する時間の最大値。夜間活動の確率は、新しい支配対象地点に派遣されるかどうかにも影響する。</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_power_multiplier">
+    <text>オフラインパワー倍率</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_power_multiplier_desc">
+    <text>分隊がオフライン戦闘でダメージを与えると、この値が乗算される。たとえば、これが2に設定されている場合、派閥の分隊は、オフライン戦闘における通常の分隊の2倍のダメージを与える。</text>
+  </string>
+  <string id="ui_mm_st_warfare_expansion_aggression">
+    <text>拡張攻撃</text>
+  </string>
+  <string id="ui_mm_st_warfare_expansion_aggression_desc">
+    <text>基地のターゲット数が許容値以下で、process_targetsが呼ばれるたびに、0 ~ 100の間の乱数が生成される。この数値がexpansion_aggression以下の場合、派閥は新しいターゲットを選択する。それ以外の場合、派閥は新しいターゲットを選択しない。</text>
+  </string>
+  <string id="ui_mm_st_warfare_night_activity_chance">
+    <text>夜間パトロールの確率</text>
+  </string>
+  <string id="ui_mm_st_warfare_night_activity_chance_desc">
+    <text>ある派閥が、夜間に侵入分隊やパトロール隊を派遣する確率。夜間は、午後8:00から午前6:00、または20:00から6:00の間とみなされる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_priority">
+    <text>基地の優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_priority_desc">
+    <text>派閥がどれだけ基地を優先するか。典型的な優先度の数値は0 ~ 10。</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_priority">
+    <text>資源の優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_priority_desc">
+    <text>派閥が資源対象地点をどれだけ優先するか。典型的な優先度の数値は0 ~ 10。</text>
+  </string>
+  <string id="ui_mm_st_warfare_territory_priority">
+    <text>領地の優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_territory_priority_desc">
+    <text>派閥がどれだけ支配対象地点を優先するか。典型的な優先度の数値は0 ~ 10。</text>
+  </string>
+  <string id="ui_mm_st_warfare_flag_priority">
+    <text>派閥フラッグの優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_flag_priority_desc">
+    <text>gamedata/configs/misc/simulation_objects_props.ltxファイルで、所属派閥の旗印が立っている地点を基地がどれだけ優先するか。例えば、Clear Skyが支配対象地点を見ている場合、ファイルで地点にcsky=1が定義されていれば、その地点の優先順位を2上げることになる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_is_being_targeted_priority">
+    <text>狙われている場合の優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_is_being_targeted_priority_desc">
+    <text>ある基地が他の基地に狙われている場合、その基地にこれだけの優先度を加えて侵攻に対抗しようとする。</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_weaker_priority">
+    <text>ターゲットの優先度が低い場合</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_weaker_priority_desc">
+    <text>強力ではない分隊が存在する地点をどれだけ優先するか。</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_stronger_priority">
+    <text>ターゲットの優先度が高い場合</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_stronger_priority_desc">
+    <text>強力な分隊が存在する地点をどれだけ優先するか。</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_on_same_level_priority">
+    <text>ターゲットが同一マップの場合</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_on_same_level_priority_desc">
+    <text>基地と同一マップの地点を基地がどの程度優先するか。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_smart_targets_per_base">
+    <text>基地あたりの目標地点の最大数</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_smart_targets_per_base_desc">
+    <text>基地が一度に狙える目標地点の数。</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_count_modifier">
+    <text>資源数の調整値</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_count_modifier_desc">
+    <text>各基地の利用可能な資源対象地点に追加される資源対象地点の数。これはマイナスになることもある。数字が大きいほどリスポーン時間が短くなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_count_modifier">
+    <text>基地数の調整値</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_count_modifier_desc">
+    <text>各派閥の所有基地数に追加される基地の数。これはマイナスになることもある。数字が大きいほど、パトロールが多くなり、侵攻分隊も大きくなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_squad_count">
+    <text>ランダムな分隊数</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_squad_count_desc">
+    <text>有効にすると、派閥の各分隊には、min_random_squad_countとmax_random_squad_countの間のランダムな数のNPCが配置される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_squad_count">
+    <text>ランダムな分隊数の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_squad_count_desc">
+    <text>random_squad_countが有効なとき、派閥の分隊が有するNPC数の最小値。</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_squad_count">
+    <text>ランダムな分隊数の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_squad_count_desc">
+    <text>random_squad_countが有効なとき、派閥の分隊が有するNPC数の最大値。</text>
+  </string>
+  <string id="ui_mm_st_warfare_patrol_hunt_chance">
+    <text>パトロール分隊が狩りをする確率</text>
+  </string>
+  <string id="ui_mm_st_warfare_patrol_hunt_chance_desc">
+    <text>基地のパトロール分隊が新しいターゲットを探しているとき、かつ、現在のマップまたは隣のマップに敵パトロール分隊が存在しているとき、基地のパトロール分隊が敵パトロール分隊をターゲットとして割り当てる確率。敵パトロール分隊を目標にしない場合は、基地近くの支配対象地点を割り当てられ、通常通りパトロールを行う。</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war">
+    <text>戦場の霧を有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_desc">
+    <text>有効にすると、fog_of_war_distanceの範囲外にある、プレイヤーや同じ派閥の分隊が見えなくなる。 show_unfriendly_squadsやhide_smartsは、対象がPDAに表示されるかどうかに影響を与える。</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_distance">
+    <text>戦場の霧の距離</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_distance_desc">
+    <text>fog_of_warが有効になっているとき、この範囲外のプレイヤーや同じ派閥の分隊がPDAに表示されなくなる。 show_unfriendly_squadsとhide_smartsは、対象がPDAに表示されるかどうかに影響を与える。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_faster_respawn">
+    <text>敵の高速リスポーンを有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_auto_capture">
+    <text>自動占領を有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_auto_capture_desc">
+    <text>有効にすると、プレイヤーはauto_capture_distanceで指定された距離内に、auto_capture_timeで指定された時間だけ立つことで、地点を占領できるようになる。複数個所に近接している場合は、最も近い基地が選択され、次に残りの基地、そして資源対象地点が選択される。支配対象地点は自動占領できない。</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_max_distance">
+    <text>自動占領の最大距離</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_max_distance_desc">
+    <text>プレイヤーからこの距離内にある地点は自動占領される。</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_wait_time">
+    <text>自動占領の待機時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_wait_time_desc">
+    <text>手動で地点を占領するのにかかる時間をゲーム内の分数で表したもの。</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_unfriendly_squads">
+    <text>非友好的な分隊を隠す</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_unfriendly_squads_desc">
+    <text>有効にすると、中立分隊と敵分隊がPDAに表示されなくなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_undergraund_smarts">
+    <text>地下において、名称のある地点をPDAに表示しない</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_undergraund_smarts_desc">
+    <text>有効にすると、地下において、名称のある地点がPDAに表示されなくなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombies_act_as_faction">
+    <text>ゾンビは派閥として振る舞う</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombies_act_as_faction_desc">
+    <text>有効にすると、ゾンビ化したストーカーたちが派閥争いに参加するようになる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_manual_capture_wait_time">
+    <text>手動占領の待機時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_combat_distance">
+    <text>オフライン戦闘距離</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_influence_weight">
+    <text>影響力ポイントの優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_influence_weight_desc">
+    <text>影響力ポイントを標的に加える優先度。典型的な優先度の数値は1 ~ 10。この値が大きいほど、影響力ポイントを標的に加える可能性が高くなる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_novice_squad_price">
+    <text>下級分隊の価格</text>
+  </string>
+  <string id="ui_mm_st_warfare_novice_squad_price_desc">
+    <text>この金額以上の資金を所持した状態で、自派閥の基地を右クリックすると、下級分隊を購入するメニューが表示される。選択するとすぐにその基地に出現し、同行NPCとして扱われる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_advanced_squad_price">
+    <text>中級分隊の価格</text>
+  </string>
+  <string id="ui_mm_st_warfare_advanced_squad_price_desc">
+    <text>この金額以上の資金を所持した状態で、自派閥の基地を右クリックすると、中級分隊を購入するメニューが表示される。選択するとすぐにその基地に出現し、同行NPCとして扱われる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_veteran_squad_price">
+    <text>上級分隊の価格</text>
+  </string>
+  <string id="ui_mm_st_warfare_veteran_squad_price_desc">
+    <text>この金額以上の資金を所持した状態で、自派閥の基地を右クリックすると、上級分隊を購入するメニューが表示される。選択するとすぐにその基地に出現し、同行NPCとして扱われる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_heli_price">
+    <text>ヘリコプターの値段</text>
+  </string>
+  <string id="ui_mm_st_warfare_heli_price_desc">
+    <text>この金額以上の資金を所持した状態で、自派閥の基地を右クリックすると、ヘリコプターを購入するメニューが表示される。ヘリコプターは同一マップの派閥ごとに1つだけ所有できる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_enemy_rank_weight">
+    <text>サポート報酬（敵ランクの重み）</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_enemy_rank_weight_desc">
+    <text>敵を殺すとactor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)の報酬が与えられる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_money">
+    <text>サポート報酬（現金）</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_money_desc">
+    <text>敵を殺すとactor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)の報酬が与えられる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_influence">
+    <text>サポート報酬（影響力ポイント）</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_influence_desc">
+    <text>敵を殺すたびに、影響力ポイントの報酬が与えられる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_offline_combat">
+    <text>オフライン戦闘を無効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_offline_combat_desc">
+    <text>有効にすると、分隊はオフライン戦闘に参加しない。これにより、派閥戦争はあなたが実際に近づくと展開されるようになる。派閥戦争は減速し、あなたとあなたの周りの分隊を中心に展開されるようになる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_simulate_offline_combat_at_smarts">
+    <text>名称のある地点においてオフライン戦闘をシミュレートする</text>
+  </string>
+  <string id="ui_mm_st_warfare_simulate_offline_combat_at_smarts_desc">
+    <text>有効にすると、分隊は目標地点を防御しているときにのみオフライン戦闘をシミュレートする。2つの分隊が近くにいるが、別の名称のある地点で待機している場合、オフライン戦闘は行われない。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_mutant_offline_combat">
+    <text>ミュータントのオフライン戦闘を有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_mutant_offline_combat_desc">
+    <text>有効にすると、ミュータントがオフライン戦闘に参加するようになる。無効にすると、ミュータントはゾーンでより顕著な存在感を示すようになる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_offline_news">
+    <text>オフラインニュースを有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_offline_news_desc">
+    <text>有効にすると、味方の分隊がオフライン戦闘に参加したり、味方分隊が基地を奪ったり、失ったりしたときに、オフラインで最新のニュースを受け取ることができる。</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_news_display_percentage">
+    <text>オフラインニュースの表示割合</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_news_display_percentage_desc">
+    <text>0 ~ 100の間の数値。派閥戦争では、オフラインニュースのメッセージをこの割合で表示する。</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_squads_per_level">
+    <text>マップごとのミュータント分隊数の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_squads_per_level_desc">
+    <text>ミュータントの分隊数がこの数に満たない場合、そのマップは他のミュータントの分隊に狙われる可能性がある。monster_min_faction_respawnとmonster_max_faction_respawnに基づいて、ミュータントは占領されていない地点やミュータントの巣でする。</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_min_faction_respawn">
+    <text>ミュータントのリスポーンの最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_min_faction_respawn_desc">
+    <text>マップ内のミュータントの分隊数がmonster_max_squads_per_level以下の場合に、ミュータントの巣、もしくは無人の基地、あるいは無人の資源対象地点がミュータントの分隊をするまでに要する最小の時間。</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_faction_respawn">
+    <text>ミュータントのリスポーンの最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_faction_respawn_desc">
+    <text>マップ内のミュータントの分隊数がmonster_max_squads_per_level以下の場合に、ミュータントの巣、もしくは無人の基地、あるいは無人の資源対象地点がミュータントの分隊をするまでに要する最大の時間。</text>
+  </string>
+  <string id="ui_mm_st_warfare_randomize_squad_count">
+    <text>分隊メンバー数をランダム化する</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_squad_count">
+    <text>分隊メンバー数の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_squad_count">
+    <text>分隊メンバー数の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_smart_pop_cap">
+    <text>名称のある地点の人口上限を無効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_smart_pop_cap_desc">
+    <text>有効にすると、名称のある地点では人口上限を超えた分隊を自動削除しない。</text>
+  </string>
+  <string id="ui_mm_st_warfare_factions_keep_last_base">
+    <text>派閥は最後の基地を守る</text>
+  </string>
+  <string id="ui_mm_st_warfare_purge_zone_on_emission">
+    <text>エミッションにおける「ゾーン」の粛清</text>
+  </string>
+  <string id="ui_mm_st_warfare_purge_zone_percentage">
+    <text>粛清する「ゾーン」の割合</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombie_mode">
+    <text>ゾンビモード</text>
+  </string>
+  <string id="ui_mm_st_warfare_participate_in_warfare">
+    <text>派閥戦争に参加する</text>
+  </string>
+  <string id="ui_mm_st_warfare_spawn_on_new_game">
+    <text>新しいゲームでする</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_spawn_entries">
+    <text>ランダムな出現加入</text>
+  </string>
+  <string id="ui_mm_st_warfare_linked_level_targeting">
+    <text>隣接マップのターゲティング</text>
+  </string>
+  <string id="ui_mm_st_warfare_ignore_empty_targets">
+    <text>空のターゲットを無視</text>
+  </string>
+  <string id="ui_mm_st_warfare_keep_last_base">
+    <text>最後の基地を守る</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_depart_time">
+    <text>侵攻離脱時間の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_depart_time">
+    <text>侵攻離脱時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_patrols">
+    <text>ランダムなパトロール</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_faction_stronger_priority">
+    <text>ターゲットとする派閥の優先度を高くする</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_faction_weaker_priority">
+    <text>ターゲットとする派閥の優先度を低くする</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_resource_priority">
+    <text>ターゲットとする派閥の資源の優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_resurgence_wait_time">
+    <text>リスポーン時間の最小値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_resurgence_wait_time">
+    <text>リスポーン時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_patrols">
+    <text>ランダムなパトロールの最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_patrol_time">
+    <text>ランダムなパトロール時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_patrol_time">
+    <text>ランダムなパトロール時間の最大値</text>
+  </string>
+  <string id="ui_mm_st_warfare_debug_logging">
+    <text>デバッグログ（ログファイルを膨張させる）</text>
+  </string>
+  <string id="ui_mm_st_warfare_debug_logging_desc">
+    <text>有効にすると、派閥戦争はデバッグログを使用する。デバッグログは、派閥戦争のほとんどの機能の開始と終了を記録するため、ログサイズがかなり大きくなる。</text>
+  </string>
+  <string id="st_cap_check_azazel_mode">
+    <text>アザゼル モード</text>
+  </string>
+  <string id="azazel_respawn_as_companions">
+    <text>同行NPCとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_actor_faction">
+    <text>派閥のメンバーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_allies">
+    <text>味方のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_neutrals">
+    <text>中立のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_enemies">
+    <text>敵のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_nearest">
+    <text>最も近いストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_companion_dist_mult">
+    <text>同行NPCのリスポーン距離係数</text>
+  </string>
+  <string id="azazel_actor_faction_dist_mult">
+    <text>派閥メンバーのリスポーン距離係数</text>
+  </string>
+  <string id="azazel_friend_dist_mult">
+    <text>仲間のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_ally_dist_mult">
+    <text>味方のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_neutral_dist_mult">
+    <text>中立のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_enemy_dist_mult">
+    <text>敵のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_companion_min_respawn_dist">
+    <text>同行NPCのリスポーン距離の最小値</text>
+  </string>
+  <string id="azazel_companion_max_respawn_dist">
+    <text>同行NPCのリスポーン距離の最大値</text>
+  </string>
+  <string id="azazel_actor_faction_min_respawn_dist">
+    <text>派閥メンバーのリスポーン距離の最小値</text>
+  </string>
+  <string id="azazel_actor_faction_max_respawn_dist">
+    <text>派閥メンバーのリスポーン距離の最大値</text>
+  </string>
+  <string id="azazel_ally_min_respawn_dist">
+    <text>味方のリスポーン距離の最小値</text>
+  </string>
+  <string id="azazel_ally_max_respawn_dist">
+    <text>味方のリスポーン距離の最大値</text>
+  </string>
+  <string id="azazel_neutral_respawn_min_dist">
+    <text>中立のリスポーン距離の最小値</text>
+  </string>
+  <string id="azazel_neutral_respawn_max_dist">
+    <text>中立のリスポーン距離の最大値</text>
+  </string>
+  <string id="azazel_enemy_respawn_min_dist">
+    <text>敵のリスポーン距離の最小値</text>
+  </string>
+  <string id="azazel_enemy_respawn_max_dist">
+    <text>敵のリスポーン距離の最大値</text>
+  </string>
+  <string id="ui_st_dyn_news_death_stalker_news">
+    <text>ストーカーによるストーカーの死の報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_death_mutant_news">
+    <text>ストーカーによるミュータントの死の報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_generic_death_news">
+    <text>死亡報告を表示する（旧）</text>
+  </string>
+  <string id="ui_st_dyn_news_death_report_news">
+    <text>死亡報告を表示する（死亡者）</text>
+  </string>
+  <string id="ui_st_dyn_news_tips_news">
+    <text>ヒントのニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_kill_wounded_news">
+    <text>負傷したストーカーもしくは人質を脅迫する</text>
+  </string>
+  <string id="ui_st_dyn_news_found_artifact_news">
+    <text>アーティファクトの発見を発表するストーカーを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_heli_call_news">
+    <text>ヘリコプター要請を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_loot_news">
+    <text>略奪報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_stash_news">
+    <text>怒っているスタッシュ所有者の反応を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_reaction_news">
+    <text>あらゆる種類の事柄についての反応を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_weather_news">
+    <text>天気ニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_time_news">
+    <text>タイムニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_nearby_activity_news">
+    <text>近くの活動報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_dumb_zombie_news">
+    <text>ゾンビとの通信試行を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_bounty_news">
+    <text>賞金首の噂話を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_random_msg_news">
+    <text>ランダムなメッセージを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_factions_report_news">
+    <text>派閥のニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_zone_activity_news">
+    <text>ゾーン全体での派閥報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_found_dead_news">
+    <text>遺体発見報告を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_surge_news">
+    <text>予想されるサージレポートを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_companions_news">
+    <text>同行NPCのニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_companions_news">
+    <text>同行NPCのおしゃべりの周期（秒）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_task_news">
+    <text>クエストニュースの周期（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_random_news">
+    <text>ランダムニュースの周期（秒）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_special_news">
+    <text>特別ニュースの周期（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_message_duration">
+    <text>HUD上のメッセージの期間（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_event">
+    <text>ーー（報告）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_reaction">
+    <text>ーー（反応）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_special">
+    <text>ーー（特別なニュース）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_task">
+    <text>ーー（クエストのニュース）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_random">
+    <text>ーー（ランダムなニュース）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_companion">
+    <text>ーー（同行NPCの雑談）ーー</text>
+  </string>
+  <string id="ui_st_dyn_news_btn_access">
+    <text>ゲーム設定にアクセスするためのボタン</text>
+  </string>
+  <string id="ui_st_dyn_news_btn_call">
+    <text>ニュースsettings.txtメニューを呼び出すボタン</text>
+  </string>
+  <string id="ui_mm_radio_access">
+    <text>ラジオ設定にアクセスするためのボタン</text>
+  </string>
+  <string id="ui_mm_radio_access_call">
+    <text>ラジオsettings.txtメニューを呼び出すボタン</text>
+  </string>
+  <string id="ui_mm_radio_1_play">
+    <text>ラジオの再生／停止</text>
+  </string>
+  <string id="ui_mm_radio_2_play">
+    <text>音楽プレイヤーの再生／停止</text>
+  </string>
+  <string id="ui_mm_radio_vol_up">
+    <text>音量を上げるボタン</text>
+  </string>
+  <string id="ui_mm_radio_vol_down">
+    <text>音量を下げるボタン</text>
+  </string>
+  <string id="ui_mm_radio_next">
+    <text>次のトラック</text>
+  </string>
+  <string id="ui_mm_radio_previous">
+    <text>前のトラック</text>
+  </string>
+  <string id="ui_mm_radio_playlist">
+    <text>次のチャンネル／プレイリスト</text>
+  </string>
+  <string id="ui_mm_radio_lost_emission">
+    <text>エミッション中の電波障害</text>
+  </string>
+  <string id="ui_mm_radio_lost_lab">
+    <text>地下での電波障害</text>
+  </string>
+  <string id="ui_mm_radio_display_names">
+    <text>音楽プレイヤーのトラックをHUDに表示する</text>
+  </string>
+  <string id="ui_mm_radio_spacing_1">
+    <text>ー（操作キー）ー</text>
+  </string>
+  <string id="ui_mm_radio_spacing_2">
+    <text>ー（イマージョン）ー</text>
+  </string>
+  <string id="ui_mm_radio_spacing_3">
+    <text>ー（プレイリスト名）ー</text>
+  </string>
+  <string id="ui_mm_radio_playlist_name">
+    <text>プレイリストの名前</text>
+  </string>
+  <string id="ui_mm_disguise_spacing_1">
+    <text>ーー（変装係数）ーー</text>
+  </string>
+  <string id="ui_mm_disguise_spacing_2">
+    <text>---------------------</text>
+  </string>
+  <string id="ui_mm_st_disguise_feature">
+    <text>変装システムを有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_active_item">
+    <text>プレイヤーのアクティブアイテムに対するNPCの疑念を有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_active_item_factor">
+    <text>プレイヤーのアクティブアイテムに対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_weapon">
+    <text>プレイヤーの武器に対するNPCの疑念を有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_weapon_factor">
+    <text>プレイヤーの武器に対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_outfit">
+    <text>プレイヤーの衣装に対するNPCの疑念を有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_outfit_factor">
+    <text>プレイヤーの服装に対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_helmet">
+    <text>プレイヤーのヘルメットに対するNPCの疑念を有効にする。</text>
+  </string>
+  <string id="ui_mm_st_disguise_helmet_factor">
+    <text>プレイヤーのヘルメットに対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_backpack">
+    <text>プレイヤーのバックパックに対するNPCの疑念を有効にする。</text>
+  </string>
+  <string id="ui_mm_st_disguise_backpack_factor">
+    <text>プレイヤーのバックパックに対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_inventory">
+    <text>プレイヤーのインベントリーに対するNPCの疑念を有効にする。</text>
+  </string>
+  <string id="ui_mm_st_disguise_inventory_factor">
+    <text>プレイヤーのインベントリーにおけるNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_speed">
+    <text>プレイヤーの行動に対するNPCの疑念を有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_speed_factor">
+    <text>プレイヤーの行動に対するNPCの疑念の係数</text>
+  </string>
+  <string id="ui_mm_st_disguise_distance">
+    <text>プレイヤーとNPCとの距離による不信感の蓄積を可能にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_distance_factor">
+    <text>不信感が蓄積され始める最短距離［メートル］</text>
+  </string>
+  <string id="ui_mm_st_disguise_stay_time">
+    <text>プレイヤーの滞在時間による不信感の蓄積を有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_stay_time_factor">
+    <text>不信感が生じ始めたときの最大滞在時間［秒］</text>
+  </string>
+  <string id="ui_mm_opt_extra_travel_warning">
+    <text>ファストトラベルのゲーム設定は、プレイ中のゲームでのみ変更できる</text>
+  </string>
+  <string id="ui_mm_travel_list_1">
+    <text>無効</text>
+  </string>
+  <string id="ui_mm_travel_list_2">
+    <text>訪問のみ</text>
+  </string>
+  <string id="ui_mm_travel_list_3">
+    <text>すべて表示する</text>
+  </string>
+  <string id="ui_mm_fast_travel_space">
+    <text>ーー（ファストトラベル）ーー</text>
+  </string>
+  <string id="ui_mm_fast_travel">
+    <text>ファストトラベル</text>
+  </string>
+  <string id="ui_mm_combat_travel">
+    <text>戦闘中のファストトラベル</text>
+  </string>
+  <string id="ui_mm_weight_travel">
+    <text>重量超過中のファストトラベル</text>
+  </string>
+  <string id="ui_mm_damage_travel">
+    <text>出血中のファストトラベル</text>
+  </string>
+  <string id="ui_mm_storm_travel">
+    <text>エミッション中のファストトラベル</text>
+  </string>
+  <string id="ui_mm_long_names">
+    <text>長い名前を使ったファストトラベル</text>
+  </string>
+  <string id="ui_mm_visited_message">
+    <text>ファストトラベルで訪れた旨のメッセージ</text>
+  </string>
+  <string id="ui_mm_no_time_travel">
+    <text>時間経過の無いファストトラベル</text>
+  </string>
+  <string id="ui_mm_disable_travel">
+    <text>無効</text>
+  </string>
+  <string id="ui_mm_visited_only_travel">
+    <text>訪れた場所のみ</text>
+  </string>
+  <string id="ui_mm_show_all_travel">
+    <text>すべて表示する</text>
+  </string>
+  <string id="ui_mm_bp_travel_space">
+    <text>ーー（バックパックトラベル）ーー</text>
+  </string>
+  <string id="ui_mm_bp_travel">
+    <text>バックパックに移動</text>
+  </string>
+  <string id="ui_mm_bp_combat">
+    <text>バックパックに移動（戦闘中）</text>
+  </string>
+  <string id="ui_mm_bp_damage">
+    <text>バックパックに移動（負傷中）</text>
+  </string>
+  <string id="ui_mm_bp_notime">
+    <text>バックパックに移動（すぐに）</text>
+  </string>
+  <string id="ui_mm_bp_storm">
+    <text>バックパックに移動（エミッション中）</text>
+  </string>
+  <string id="ui_mm_bp_weight">
+    <text>バックパックに移動（重量超過）</text>
+  </string>
+  <string id="st_ui_weather_editor_about">
+    <text>                        %c[ui_gray_1]
+                        アノマリー天気エディター
+
+                        \n%c[pda_green]情報%c[ui_gray_2]
+                        天気エディターでは、リアルタイムに天気の値を変更することができる。
+                        \nGUIはインタラクティブで使いやすく、天気ファイルをその場で修正 作成することができる。
+                        \n変更した値は、作業していた天候や時間に合わせて一時的にキャッシュされる。
+                        \nエディターをオフにした場合でも、元に戻すことができる（未保存の値がある場合は、終了や再読み込みを避けること）。
+
+                        \n%c[pda_blue]キーボード操作
+                        %c[d_purple] ・ 矢印キー : パラメーターの選択。
+                        %c[d_purple]・ テンキーの8と2 : 選択された値を増加／減少させる。
+                        %c[d_purple] ・ テンキーの9と3 : 選択されたすべてのパラメーターを増加／減少させる。
+                        %c[d_purple] ・ 左側のシフトキー（ホールド） : 10倍ステップサイズ／ジャンプ2パラメーター。
+                        %c[d_purple] ・ 左側のAltキー（ホールド） : 50倍ステップサイズ／ジャンプ3パラメーター。
+                        %c[d_purple] ・ テンキーのマイナス : 前の時間を選択する。
+                        %c[d_purple] ・ テンキーのプラス : 次の時間を選択する。
+                        %c[d_purple] ・ テンキーの5 : 現在の時間設定をコピーする。
+                        %c[d_purple] ・ テンキーの6 : 現在の時間設定を貼り付ける。
+                        %c[d_purple] ・ テンキーのDel : キャッシュを削除する。
+                        %c[d_purple] ・ H : ヒントウィンドウを切り替える。
+                        %c[d_purple] ・ EscまたはHome : エディターを終了する。</text>
+  </string>
+  <string id="st_ui_weather_editor_title">
+    <text>天気エディター（Anomaly 1.5）</text>
+  </string>
+  <string id="st_ui_weather_editor_file">
+    <text>天気ファイルを選択</text>
+  </string>
+  <string id="st_ui_weather_editor_hour">
+    <text>時間を選択</text>
+  </string>
+  <string id="st_ui_weather_editor_hour_copy">
+    <text>時間の設定のコピー</text>
+  </string>
+  <string id="st_ui_weather_editor_hour_paste">
+    <text>時間の設定を適用する</text>
+  </string>
+  <string id="st_ui_weather_editor_new_file">
+    <text>新しいファイルに保存</text>
+  </string>
+  <string id="st_ui_weather_editor_current_file">
+    <text>現在のファイルに保存</text>
+  </string>
+  <string id="st_ui_weather_editor_reload">
+    <text>天気を再開</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_title">
+    <text>武器HUDエディター（Anomaly 1.5）</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_copy">
+    <text>武器の設定をコピーする</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_paste">
+    <text>武器の設定を適用する</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_current_file">
+    <text>現在のファイルに保存</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_resume">
+    <text>再開</text>
+  </string>
+  <string id="st_ui_debug_launcher_console">
+    <text>コンソール</text>
+  </string>
+  <string id="st_ui_debug_launcher_target">
+    <text>ターゲットに実行</text>
+  </string>
+  <string id="st_ui_debug_launcher_action">
+    <text>アクションを実行</text>
+  </string>
+  <string id="st_ui_debug_launcher_toggle">
+    <text>トグル コマンド</text>
+  </string>
+  <string id="st_ui_debug_launcher_editor">
+    <text>編集者リスト</text>
+  </string>
+  <string id="st_ui_debug_item_type">
+    <text>アイテムの種類</text>
+  </string>
+  <string id="st_ui_debug_item_list">
+    <text>リスト別</text>
+  </string>
+  <string id="st_ui_debug_item_icon">
+    <text>アイコン別</text>
+  </string>
+</string_table>

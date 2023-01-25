@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_hb_isg_dushman_intel_name">
+    <text>ダッシュマンの機密情報</text>
+  </string>
+  <string id="st_hb_isg_dushman_intel_desc">
+    <text>ダッシュマンが約束を守ってるなら、このケースにはマップとノートが入っていて、UNISGにとって有益なものとなるだろう。</text>
+  </string>
+  <string id="lttz_hb_task_1_1_dushman_intel_name">
+    <text>中空の境界線 : 機密情報</text>
+  </string>
+  <string id="lttz_hb_task_1_1_dushman_intel_desc">
+    <text>ヘルナンデス少佐は「ダッシュマン」という男を探し出し、国連が彼に渡した重要な情報を回収するよう命じた。</text>
+  </string>
+  <string id="lttz_hb_task_1_2_recruit_name">
+    <text>中空の境界線 : 待ち合わせ</text>
+  </string>
+  <string id="lttz_hb_task_1_2_recruit_desc">
+    <text>ヘルナンデス少佐と、その分隊は「ジュピター」という場所にいる。指定された場所に情報を持っていく。</text>
+  </string>
+  <string id="lttz_hb_task_2_1_guarded_secrets_name_1">
+    <text>中空の境界線 : ジュピター工場を調査</text>
+  </string>
+  <string id="lttz_hb_task_2_1_guarded_secrets_name_2">
+    <text>中空の境界線 : ヘルナンデスの元へ戻る</text>
+  </string>
+  <string id="lttz_hb_task_2_1_guarded_secrets_desc_1">
+    <text>ジュピター大規模工場でブリーフケースを探す必要がある。目撃者は排除しなければならない。</text>
+  </string>
+  <string id="lttz_hb_task_2_1_guarded_secrets_desc_2">
+    <text>安全を確認した後、ヘルナンデス少佐にこのブリーフケースを持っていかなければならない。</text>
+  </string>
+  <string id="lttz_hb_task_2_2_breakthrough_name_1">
+    <text>中空の境界線 : 突破</text>
+  </string>
+  <string id="lttz_hb_task_2_2_breakthrough_name_2">
+    <text>中空の境界線 : ヘルナンデスと話す</text>
+  </string>
+  <string id="lttz_hb_task_2_2_breakthrough_desc_1">
+    <text>俺はジュピター地下での指揮を任されている。少佐は残りの隊員と一緒についてくる。命令は、前進して、まだここにあるかもしれない書類に目を光らせることだ。</text>
+  </string>
+  <string id="lttz_hb_task_2_2_breakthrough_desc_2">
+    <text>いくつかの文書を見つけた。ヘルナンデス少佐に見せなければならない。</text>
+  </string>
+  <string id="st_lttz_hb_task_3_1_search_agr_ug_name">
+    <text>アグロプロム地下を調査</text>
+  </string>
+  <string id="st_lttz_hb_task_3_1_search_agr_ug_text">
+    <text>アグロプロム地下を調査し、陰謀の証拠を探せ。</text>
+  </string>
+  <string id="st_lttz_hb_task_3_2_search_labx18_name">
+    <text>X-18研究所を調査しろ</text>
+  </string>
+  <string id="st_lttz_hb_task_3_2_search_labx18_text">
+    <text>X-18研究所を調査し、陰謀の確固たる証拠を探すように命じられた。</text>
+  </string>
+  <string id="st_lttz_hb_task_3_3_search_labx16_name">
+    <text>X-16研究所を調査しろ</text>
+  </string>
+  <string id="st_lttz_hb_task_3_3_search_labx16_text">
+    <text>X-16研究所を調査し、陰謀の確固たる証拠を探すように命じられた。</text>
+  </string>
+  <string id="st_lttz_hb_task_3_4_search_labx10_name">
+    <text>X-19研究所を調査しろ</text>
+  </string>
+  <string id="st_lttz_hb_task_3_4_search_labx10_text">
+    <text>X-19研究所を調査し、陰謀の確固たる証拠を探すように命じられた。</text>
+  </string>
+  <string id="st_lttz_hb_task_3_5_search_labx8_name">
+    <text>X-8研究所を調査しろ</text>
+  </string>
+  <string id="st_lttz_hb_task_3_5_search_labx8_text">
+    <text>X-8研究所を調査し、陰謀の確固たる証拠を探すように命じられた。</text>
+  </string>
+  <string id="lttz_hb_task_3_8_handle_docs_name">
+    <text>暴かれた謎</text>
+  </string>
+  <string id="lttz_hb_task_3_8_handle_docs_text">
+    <text>大規模な陰謀の十分な証拠を見つけた。調査結果を少佐に報告しなければならない。発見したものを見て彼は喜ぶだろう。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_1_name">
+    <text>十字砲火 : Military部隊を殲滅しろ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_2_name">
+    <text>十字砲火 : ストレロックと取引しろ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_3_name">
+    <text>十字砲火 : ストレロックを護衛しろ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_4_name">
+    <text>十字砲火 : ストレロックと話せ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_5_name">
+    <text>十字砲火 : ストレロックを殺害しろ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_6_name">
+    <text>十字砲火 : ストレロックの死体を調査しろ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_7_name">
+    <text>十字砲火 : ヘルナンデス少佐の所へ戻れ</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_1_desc">
+    <text>ヘルナンデス少佐からは、ストレロックから情報を引き出すことを任されているが、まずはプリピャチ郊外でストレロックを追っているMilitaryの部隊を排除しなければならない。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_2_desc">
+    <text>Militaryの部隊は排除された。ストレロックの秘密を手に入れる時が来たのだ。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_3_desc">
+    <text>ストレロックをレッド フォレストに連れて行くことで、彼を助けることができる。あるいは、ジュピター地下にあるUNISGの基地に誘い込んで、彼を捕らえることもできる。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_4_desc">
+    <text>約束通り、ストレロックと共に無事、赤い森にたどり着いた。彼は今、話す気になっているのかもしれない。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_5_desc">
+    <text>ストレロックはもう逃げられない。彼を倒す時が来たのだ。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_6_desc">
+    <text>ストレロックは死んだ。彼が持っていたかもしれない有用な情報を探すために、彼の体を調べなければならない。</text>
+  </string>
+  <string id="lttz_hb_task_4_1_crossfire_7_desc">
+    <text>ストレロックの持ち物の中にフラッシュドライブを見つけた。ヘルナンデス少佐になるべく早く見せなければならない。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_1_name">
+    <text>「マウス」のために%sを探せ</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_1_text">
+    <text>「マウス」は装備の基本的な改造を施すために、%sを求めている。何か見つけたら持っていこう。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_1_about">
+    <text>提案があるんだが。新しいツールを持ってきてくれれば、報酬を渡そう。どうだ？</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_1_fetch_about">
+    <text>%sをあちこち探し回ってるんだがな。銃の修理に必要なもので、中にはオイルと工具が入ってるはずだ。持ってきてくれたら、金を払おう。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_1_fetch_finish">
+    <text>素晴らしい！これこそ俺が探してたものだ。ありがとう！</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_2_name">
+    <text>「マウス」のために%sを探せ</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_2_text">
+    <text>「マウス」は装備の高度な改造を施すために、%sを求めている。何か見つけたら持っていこう。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_2_about">
+    <text>もうひとつ提案があるんだが。持ってきてくれたツールのおかげでうまくいってるんだが、必要なものが全て揃ってるわけじゃない。もっと良い物を持ってこれるか？</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_2_fetch_about">
+    <text>%sが必要だ。どこで手に入るか分からない。だが、もし手に入るなら、喉から手が出るほど欲しい。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_2_fetch_finish">
+    <text>必要なものは全部入ってる。ありがとう。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_3_name">
+    <text>「マウス」のために%sを探せ</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_3_text">
+    <text>「マウス」は装備の専門的な改造を施すために、%sを求めている。何か見つけたら持っていこう。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_3_about">
+    <text>もうひとつ提案があるんだが。持ってきてくれたツールのおかげでうまくいってるんだが、必要なものが全て揃ってるわけじゃない。もっと良い物を持ってこれるか？</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_3_fetch_about">
+    <text>%sが必要だ。どこで手に入るか分からない。だが、もし手に入るなら、喉から手が出るほど欲しい。</text>
+  </string>
+  <string id="jup_depo_isg_tech_task_3_fetch_finish">
+    <text>必要なものは全部入ってる。ありがとう。</text>
+  </string>
+</string_table>

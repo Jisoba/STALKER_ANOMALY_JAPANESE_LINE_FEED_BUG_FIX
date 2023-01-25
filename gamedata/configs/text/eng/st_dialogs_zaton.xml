@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="meet_zaton_killer_guide_station_0">
+    <text>誰だ？</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_1">
+    <text>俺はお前に質問できる。お前は何者だ？でもそんなこと聞きたくないだろう？俺はトレーダーとして働いているし、ガイド役としても働いている。こことデッド シティーの主要な前哨基地の間でな。</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_list_0">
+    <text>どこに案内できるのか教えてくれ。</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_list_1">
+    <text>お前はブレイン スコーチャーの中を歩いてきたのか？案内先はひとつしかない。デッド シティーへ行くには、8,000ルーブルだ。</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_0">
+    <text>俺はデッド シティーに行きたい。</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_1">
+    <text>いいね。長い下水道の旅に備えて いつかまともな人工呼吸器を買うために十分な金を貯めとくよ。準備はいいか？</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_2">
+    <text>準備完了だ。%c[d_orange]［8,000ルーブル］</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_3">
+    <text>気が変わった</text>
+  </string>
+  <string id="meet_guid_zat_0">
+    <text>あんた、面白いキャラしてるな。</text>
+  </string>
+  <string id="meet_guid_zat_1">
+    <text>先駆者である俺が案内するぜ。案内できる場所は限られているが、より早く、より安全に案内できる。プリピャチとその近郊へは、ガイド役の仲間、ギャリーを介してサービスを提供している。ジュピターへは俺が案内できるぜ。</text>
+  </string>
+  <string id="meet_guid_zat_list_0">
+    <text>行き先リストをもう一度くれないか？</text>
+  </string>
+  <string id="meet_guid_zat_list_1">
+    <text>ギャリーに相談して、プリピャチへの案内なら4000ルーブルで、プリピャチ郊外への案内なら5000ルーブルだ。ジュピターのヤノフ駅までなら、俺一人で2000ルーブルで案内できるぜ。</text>
+  </string>
+  <string id="travel_guid_zat_0">
+    <text>俺を連れてってくれ。</text>
+  </string>
+  <string id="travel_guid_zat_1">
+    <text>どこへだ？</text>
+  </string>
+  <string id="travel_guid_zat_2">
+    <text>Pripyatへ %c[d_orange]［4000ルーブル］</text>
+  </string>
+  <string id="travel_guid_zat_3">
+    <text>プリピャチ郊外へ %c[d_orange]［5000ルーブル］</text>
+  </string>
+  <string id="travel_guid_zat_4">
+    <text>ジュピターへ %c[d_orange]［2000ルーブル］</text>
+  </string>
+  <string id="travel_guid_zat_5">
+    <text>気が変わった。</text>
+  </string>
+  <string id="stalker_guide_about_himself_0">
+    <text>お前のことを教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_himself_1">
+    <text>訳あってな、「パイロット」と呼ばれてる。俺は安全な道しか使わん。俺にはアーティファクトを集めたり、Bundit共と戦う力は無い。が･･････皆、それぞれの才能を使って、日々の糧を得るものだと思っている。どんな才能にも価値はあるのさ、勿論な。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1116">
+    <text>まあ、忘れてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1111">
+    <text>ヒート アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11111">
+    <text>もし、暑い夏の日に舗装の上を空気が蒸しているようなキラキラしたものが見えたら、それがヒート アノマリーだ。何かがそこに入ったとき、その場所からはとんでもなく熱い炎が噴き出す。初めは、皆はそれが天然ガスの噴出口だと思ってたが、その理論は、最近じゃ聞かなくなったな。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1112">
+    <text>ガス アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11121">
+    <text>このタイプのアノマリーは、いつまでも終わらない奇妙な化学反応とあだ名された。これらは、瞬間的にあんたの皮膚を浸食する酸や、瞬時にあんたの肺を蝕む有毒ガスを発生させるんだ･･････。幸い、ガス アノマリーは屋外では識別しやすい。あんたがどっかの暗い洞窟に入ったら、見えなくて困るだろうな。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1113">
+    <text>電気的アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11131">
+    <text>かなりの量の静電気を蓄積する非常におもしろいタイプのアノマリーだ。通常、ストーカーたちはどんな金属類でも電気アノマリーを検出できるという事実を利用する。彼らはボルトを投げ入れる、そして、放電が終って再び充電している隙にスプリントで走り抜ける。俺ならまわり道をするのを選ぶかな。コイツの再充電はあまりにも迅速過ぎる。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1114">
+    <text>重力的アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11141">
+    <text>通常、静止している。特定の場所を見て、その背後にある物体が歪んでみえたら、そいつだ。距離を置いたほうがいいだろう。既知の3種類は、何かが触れた瞬間に瞬時に反応する。踏み切り板アノマリーは、その下からすべてのものを投げ出し、しばしば遠くに飛ばす。渦巻アノマリーはその逆で、対象物を吸い込み、ものすごい圧力で押しつぶし、数秒後に破片を飛ばす。回転木馬アノマリーは、被害者を空中に持ち上げ、回転させ、ズタズタに引き裂く･･････。いずれにしても不愉快な結末だ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1">
+    <text>あんたがアノマリーに接触するつもりなら、覚えておけ。それらはとんでも無く熱いか、有毒ガスで一杯になっているか、放射能汚染かのいずれかであることを念頭に置いておけ。精神の崩壊が起こることもあるが、それについては今は触れない。熱、ガス、電気･･････あるいは重力など、アノマリーの性質にもよるが、それらに悩まされることがないように願ってるぜ。まぁ、移動するアノマリーもあるんだが、それはまた別の話だ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_0">
+    <text>アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1115">
+    <text>ムービング アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11151">
+    <text>俺は彗星アノマーとテスラ アノマリーをたまたま見つけただけだった。前者は直径3フィートくらいの火の玉だ。だが、保証しても良いが、あんたは遥か遠くからでもコイツの熱を感じるだろうな･･････。後者は良い表現が思いつかないが、稲妻のボールだ。ソイツは確実にボールで、そして、「確実」に「現実」に電気的だぜ。しかし、普通はどっちのアノマリーも、同じ経路をループし続けてるだけだ。注意深いストーカーはカンタンにこいつらを回避出来なきゃダメだ･･････。ただ見失わないだけで良い。</text>
+  </string>
+  <string id="gonta_about_himself_0">
+    <text>あんたのことを教えてくれ。</text>
+  </string>
+  <string id="gonta_about_himself_1">
+    <text>俺はゴンタ、ハンターのチームリーダーをやってる。金と引き替えにミュータント共の駆除を請け負ってるのさ。無論、生け捕りだって出来る。科学実験用や、ゲテモノをペットに欲しがる連中のためにな。トラッパーがよく言ってたぜ、「タマ喰らわせるミュータントも好き好き」ってな。</text>
+  </string>
+  <string id="gonta_about_mutants_0">
+    <text>ミュータント狩りの事を教えてくれ。</text>
+  </string>
+  <string id="gonta_about_mutants_1">
+    <text>そうだな、俺はそこまで年季の入ったハンターって訳じゃないが、そこらの連中よりは的確にアドバイスできるぜ。「フレッシュ」に「ボア」、ブラインド ドッグ、スードウドッグ、スノーク、ついでにハムスターの事もな･･････。ブラッドサッカーのことだって、少しは知ってるぜ。</text>
+  </string>
+  <string id="gonta_about_mutants_1111">
+    <text>「ボア」と「フレッシュ」について教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11111">
+    <text>いいぜ、「フレッシュ」はミュータントの中でも一番無害な奴だ。奴らはストーカーと距離を置こうとするが、手を出すと反撃してくる。もし、群れの中に「ボア」がいたら、そいつはちょいと厄介だな。怒り狂った300kgの塊だぜ、戯れで手を出すようなモノじゃない。突っ込んできたら、正面に立たないようにしろよ･･････。逆に、勢いを利用してやるんだ。あんな巨体で、急に曲がれやしないだろ？横に避けて、ありったけの弾をぶち込んでやれ。</text>
+  </string>
+  <string id="gonta_about_mutants_1112">
+    <text>ブラインド ドッグとスードウドッグについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11121">
+    <text>イヌ共は一匹じゃあ大してヤバくもないんだが、群れになると尻に噛み付かれるぜ。腹の減っている時にしか襲い掛かってこないんだが･･････最悪な事に、ほぼいつも腹ペコでな。もし大群に出くわしたら、高所に上がって狙い撃ちしてやれ。じきに逃げ出すぜ。群れの中に、成長しきったスードウドッグが紛れてたら気を付けろ。ブラインド ドッグと比べて特に頑丈って訳でもねえがな、ずっとズル賢くてヤバいんだ･･････。もしも一匹がいきなり群れに増えやがったら、これから言う事を思い出せ。お前に襲い掛かってくるのは幻だ。本物のスードウドッグはほとんど前へ出ようとせず、偶に噛み付いてもすぐに後方へ下がっていく･･････。そいつを見分けろ。本物が死ねば、幻はすぐに消え失せる。</text>
+  </string>
+  <string id="gonta_about_mutants_1113">
+    <text>スノークについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11131">
+    <text>ヒトだったモノの残骸さ･･････。スノークが一体いたところで、経験を積んだハンターには大した問題じゃない。飛び掛かってくるのを待って、空中にいる内に撃ちまくれ。ただ、近くに何体かいるなら･･････。飛び掛かってくる前に、出来るだけ早く撃ち殺していけ。奴らもそれを分かっていてな、一斉に攻撃を仕掛けてくる筈だ。</text>
+  </string>
+  <string id="gonta_about_mutants_1114">
+    <text>トゥシュカノについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11141">
+    <text>ハンターにとっての悪夢みたいなもんだ･･････。理由は色々あるが、中でも最悪なのは、サイズが小さいからと油断することだな。奴らは信じられねえほど速く、機敏な上、常に群れて行動してる。油断するのをやめて撃ち始めるのは、あの小さい牙で何十箇所も引き裂かれ始めてからだ。本当に震え上がるのはそれからだぜ･･････。奴らを撃つのは無茶苦茶に難しいんだ。だからストーカーたちには常に言い聞かせてる。装填済みのショットガンを持ち歩けとな。</text>
+  </string>
+  <string id="gonta_about_mutants_1115">
+    <text>ブラッドサッカーについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11151">
+    <text>奴ら自身が生粋のハンターな上、最高の擬態能力まで持っていやがる。擬態されちまったら、辛うじて見えるかどうかってところだ。ブラッドサッカーを狩ろうとするなら、不意を突くんだな。動いてる最中なら、もっとよく見えるんだが･･････。覚えとけ、ブラッドサッカーどもは背後に忍び寄って、首筋に触覚を突き立てようとしてくる。ゾッとしねえクソッタレだな、まったくよ･･････。もし運悪く数匹のブラッドサッカーに出くわしたら、背後に気を付けながら一目散に逃げるこった。</text>
+  </string>
+  <string id="gonta_about_mutants_1116">
+    <text>いや、今のは忘れてくれ。</text>
+  </string>
+  <string id="owl_story_0">
+    <text>この静かな港について教えてくれ。</text>
+  </string>
+  <string id="owl_story_1">
+    <text>俺に情報を要求するのは誰だ？他のみんなが知っていることを教えてやろう。奇妙なストーカーがいたんだが、そいつはSSU（ウクライナの情報機関）の少佐だったことが判明した。あいつにはお世話になっていたが、かなりの数の危険にも対応していた。最近になってすべてが悪化した･･････。ヤンターの「精神波の放射装置」とブレイン スコーチャーが再び起動したのだ。チェルノブイリ原子力発電所では 明らかに活動が活発化していて、そいつらの手の届く範囲にある。経験豊富なストーカー部隊が行方不明になり、その後、別の部隊が製材所近くのMonolithに出くわしたらしい。ミュータントはそれを利用して繁殖している。ここは新人の居場所ではないな。</text>
+  </string>
+  <string id="owl_story_2">
+    <text>全てが失われたわけではないようだ。他に覚えておくべきことは？</text>
+  </string>
+  <string id="owl_story_3">
+    <text>ああ、俺は情報ブローカーだ。一攫千金を狙ってここに来る連中もいる。しかし、ここには多くの危険がある。カルト主義者、ミュータント、ゾンビ、何でもありだ。ストーカーが沼地で死ぬのは簡単だ。だから、もし、お前が死体を見つけたら･･････そいつらのPDAの代金を払う、何も聞かずにな。気に入ったか？</text>
+  </string>
+  <string id="owl_story_4">
+    <text>死んだストーカーからPDAを集めろというのか･･････ストーカーがここまで北上して死ぬのは色々あるんだな。わかった気がするよ。</text>
+  </string>
+  <string id="information_about_stash_owl_zat_0">
+    <text>スタッシュの情報は？</text>
+  </string>
+  <string id="information_about_stash_owl_zat_1">
+    <text>何でも持っているし、それ以上のものもある。金さえあれば。いろんな情報源から予備の情報がたくさんある。これだけでも8000ルーブルだ。</text>
+  </string>
+  <string id="information_about_stash_owl_zat1_0">
+    <text>ここにある。%c[d_orange]［8000ルーブル］</text>
+  </string>
+  <string id="information_about_stash_owl_zat1_1">
+    <text>良いだろう。これが座標だ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_owl_0">
+    <text>フライトレコーダーのデータに興味ないか？</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_owl_1">
+    <text>おお、もちろんだ！こっちによこしてくれ。</text>
+  </string>
+  <string id="boroda_story_0">
+    <text>あんたがベアードか。</text>
+  </string>
+  <string id="boroda_story_1">
+    <text>そのとおり。スカドフスクへようこそ。</text>
+  </string>
+  <string id="boroda_story_2">
+    <text>ここでは何ができる？</text>
+  </string>
+  <string id="boroda_story_3">
+    <text>お前の好きなようにやればいいさ。スルタンがザトンから離れて以来、この辺りのアーティファクトの捜索はこれまで以上に簡単になっているからな。だが、変電所の作業場や廃棄物処理場の方面に向かう場合は注意しろよ。シンジケートどもがその支配地を占領していて、かなりの危険だからな。もし何かアーティファクトを見つけたら、ここに持ってきな。喜んで適正価格で買い取ってやるよ。</text>
+  </string>
+  <string id="boroda_story_4">
+    <text>ありがとう。</text>
+  </string>
+  <string id="devushka_boroda_help_0">
+    <text>よお、ベアード！まだ間に合うよな？プレゼントがあるんだ。</text>
+  </string>
+  <string id="devushka_boroda_help_1">
+    <text>ちょうどいいタイミングだ。ここに二人とも苦労した分の報酬がある。</text>
+  </string>
+  <string id="noah_start_dialog_0">
+    <text>おいお前、何を撃つつもりだったんだ？危うく俺を殺すところだったぞ！</text>
+  </string>
+  <string id="noah_start_dialog_1">
+    <text>何しにここへ来た？俺の時間を無駄にするんじゃない。</text>
+  </string>
+  <string id="noah_start_dialog_2">
+    <text>オーケイ、ただの通りすがりだ。何か助けがいるか？いくつか質問に答えられるか？</text>
+  </string>
+  <string id="noah_start_dialog_3">
+    <text>答えてやるが、ふざけないで聞けよ。</text>
+  </string>
+  <string id="noah_start_dialog1_0">
+    <text>いくつか質問がある。</text>
+  </string>
+  <string id="noah_start_dialog1_1">
+    <text>･･････。</text>
+  </string>
+  <string id="noah_start_dialog1_2">
+    <text>あんたはどこでこの犬を手にいれたんだ？</text>
+  </string>
+  <string id="noah_start_dialog1_7">
+    <text>そいつはラッシーだ。いとしいちっちゃな雌犬･･････。もしこの子が居なかったら、とっくに俺は眠りながらむさぼり食われていただろうな。呪われたミュータントどもめ･･････。俺はアイツらが大嫌いだ! あんたが目を閉じたらすぐにでも、ヤツらは不快なカギ爪や牙や触手を伸ばしてくるだろうよ。</text>
+  </string>
+  <string id="noah_start_dialog1_8">
+    <text>そうかい。</text>
+  </string>
+  <string id="noah_start_dialog1_9">
+    <text>それとその子犬･･････彼女がお前から離れないなら、旦那はどこから来るんだ？うん？</text>
+  </string>
+  <string id="noah_start_dialog1_3">
+    <text>お前はどうしてこんなゴミ箱で暮らしてるんだ？</text>
+  </string>
+  <string id="noah_start_dialog1_10">
+    <text>これは箱舟だ！覚えておけ･･････もしも生き残りたいならな！「波」が始まったら近くに居ろ。ここには生き残るチャンスがある。ミュータントは絶対に侵入できない。</text>
+  </string>
+  <string id="noah_start_dialog1_11">
+    <text>波とは何だ？お前は何を言っているんだ?</text>
+  </string>
+  <string id="noah_start_dialog1_12">
+    <text>昼も夜も見張られている。南部の台地から来たスノークが箱舟まで追いかけてきた！俺は経験豊富なハンターだ。犠牲者を追わずに済んだはずだが何かがはっきりしない･･････奴らには一種の心があるはずだ。この考えは最近の「はしけ」への攻撃で確認された恐しい奴らのせいだ。</text>
+  </string>
+  <string id="noah_start_dialog1_13">
+    <text>ゾーンでは何が起きてもおかしくないが、お前の予想が正しければ大変なことになっている。</text>
+  </string>
+  <string id="noah_start_dialog1_4">
+    <text>なぜ人が信用できないんだ？</text>
+  </string>
+  <string id="noah_start_dialog1_14">
+    <text>それは俺があまりにも多くのことを経験してきたからだ。</text>
+  </string>
+  <string id="noah_start_dialog1_5">
+    <text>俺が行こう。</text>
+  </string>
+  <string id="tasks_noah_dialog_0">
+    <text>何か助けがいるか？</text>
+  </string>
+  <string id="tasks_noah_dialog_1">
+    <text>そうだな･･････いくつか頼みたいことがあるんだ。</text>
+  </string>
+  <string id="tasks_noah_dialog_2">
+    <text>新しい散弾銃を見つけろ</text>
+  </string>
+  <string id="tasks_noah_dialog_5">
+    <text>俺の今使っている銃はガラクタ同然だ。サイガのようなもっと良いものを持ってきてほしい･･････。がゾーンでそんな良い武器が都合よく手に入るわけはないな。だが、俺は先日アームセル プロテカを持っているBanditどもを何人か見かけたんだ。そいつをひとつ手に入れてきてくれ。</text>
+  </string>
+  <string id="tasks_noah_dialog_3">
+    <text>南部の台地でスノークに対処する</text>
+  </string>
+  <string id="tasks_noah_dialog_6">
+    <text>あの恐ろしい生き物たちに終止符を打つ時だ。毎晩、奴らがはしけの周りを這い回り、待ちぶせをし、息を潜め、鼻をすすっているのが聞こえてくる。南部の台地に行くには、テレポートを使わなければならない。地図に印をつけておいた。場所は焼けた農場からそう遠くないところにある。</text>
+  </string>
+  <string id="tasks_noah_dialog_4">
+    <text>気が変わった。</text>
+  </string>
+  <string id="task_1_noah_done_0">
+    <text>ほらよ、アームセル プロテカだ。</text>
+  </string>
+  <string id="task_1_noah_done_1">
+    <text>･･････感心したよ。助けてくれてありがとう。これで獣たちは、この辺りを嗅ぎ回る前に、3回は考えるだろう。</text>
+  </string>
+  <string id="task_2_noah_done_0">
+    <text>スノークを見つけたが、結構な数がいた。何に狙われていたんだ？</text>
+  </string>
+  <string id="task_2_noah_done_1">
+    <text>どうかな 以前はたまに行って掃除してたんだが、今はもう時間がなくてな･･････子犬たちの様子を見ていないといけないし。というわけで、世話になったな。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_0">
+    <text>ここでの生活はどうだ？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1">
+    <text>漠然としてるな。具体的に聞いてくれれば答えられるが。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1111">
+    <text>ストーカーたちはどんな感じだ？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11111">
+    <text>大将、そりゃ自分でよく分かってるだろう。スカドフスクの外ではその辺を探索し、アーティファクトを探し･･････キレた野郎どもから撃たれる。スカドフスクの中ではほとんど飲んだくれて、くっちゃべって･･････次のお出かけまではくだを巻いてる。確かに楽しい時もあるが、エミッションが来た時は、みんなここで身じろぎもせず、避難が間に合わなかった奴らのことを考えてるのさ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1112">
+    <text>何がストーカーたちをゾーンの中心へ駆り立てるんだろう？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11121">
+    <text>面白い質問だ･･････。ひとりは貴重なアーティファクトを求め、ひとりは「オアシス」の噂に引かれ、ひとりは願いを叶えるために。あぁ、単なる好奇心って奴もいるな･･････。みんな理由があるし、あんたにもあるだろう。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1113">
+    <text>あんたはどうやってここに来たんだ？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11131">
+    <text>ブレイン スコーチャーが止まった後、グラウスと一緒にやって来たんだ。つまらん話だろう？俺のお目当てはアーティファクトだ。こいつのいい所は、ゾーンの外では珍しい商品に興味津々な金持ちどもがいくらでもいるってことだ。俺はストーカーたちのために拠点を組織して、他じゃ手に入らないものを扱うことにした。ストーカーたちがここに帰ってきて必要とするのは何だ？飲むことと話すことだ。どちらもここ、スカドフスクにある。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1114">
+    <text>Banditたちについてどう思う？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11141">
+    <text>なんと言ったもんか。俺は、原則的にスカドフスクの中をうろつく分にはどうもしない。人間らしく振舞っている間はな。結局、根っからのクソ野郎なんてそう居ないだろう。元はストーカーだった奴もいるわけだし。誰かが鉛弾を食らう前に裏稼業に手を出す奴もいるかもしれない･･････。ありえないことじゃないさ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1115">
+    <text>あぁ、分かった。忘れてくれ。</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11151">
+    <text>そうしよう。</text>
+  </string>
+  <string id="zat_b7_stalkers_victims_dialog_11">
+    <text>よお、ストーカー。俺は今忙しいんだ、すまんな。後で話そう</text>
+  </string>
+  <string id="zat_b22_stalker_medic_start_1">
+    <text>何を持ってきたんだ？</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_21">
+    <text>ああ、聞いてるぜ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_22">
+    <text>よお、助けが必要か？</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_23">
+    <text>よお。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_0">
+    <text>医療措置を頼む。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1">
+    <text>傷を見せてくれ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_2">
+    <text>さて･･････。ふむ･･････。具合はいい様に見える。君に病気や傷の兆候が見られない。さあ、行っていいぞ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_111">
+    <text>君に率直に伝えよう。君は2種類の治療を受けることが出来る。もちろん、すべてうまくいく。私は君の問題を1,850ルーブルでほとんど解決することができる。すぐに調子の戻るいい血清を持っているからね。しかし、君の身体の中を流れている放射性粒子は血清で治せないよ。もう1つの治療は1480ルーブルで、君から放射性粒子を取り除く。それで、どちらか決めたかな？</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11">
+    <text>何？そんなに悪いのか？</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1111">
+    <text>さて、お金を受け取って仕事に移ろう。健康はお金よりも重要だからね。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1112">
+    <text>分かった、放射線だけを治療してくれ。傷口は自分で包帯を巻くよ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1113">
+    <text>何を言ってるか分かってるのか、お医者さんよ？テメエ自身を治せよ！</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11111">
+    <text>ちょっと待てよ･･････。よし、すべてうまく行った。行っていいぞ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11112">
+    <text>まあ、この程度の弱い放射線では死ぬことはないよ。少なくとも今のところはね。でも君が出血して死んだら私は責任を取れないからね。では、幸運を相棒！</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11113">
+    <text>お望み通りに同志よ。突然君が死に到っても、私を責めないでくれ。</text>
+  </string>
+  <string id="zat_b18_noah_start_11">
+    <text>お前は誰だ？</text>
+  </string>
+  <string id="zat_b18_noah_start_111">
+    <text>ストーカーだ、以前にも会っただろう。</text>
+  </string>
+  <string id="zat_b18_noah_start_1111">
+    <text>思い出せん･･････。それはそうとして、何か必要なのか？</text>
+  </string>
+  <string id="zat_b18_noah_start_112">
+    <text>ストーカー、ただのストーカーだ。</text>
+  </string>
+  <string id="zat_b18_noah_start_1121">
+    <text>ほう。避難場所を求めて我が「方舟」にやってきたのか？自分の家だと思ってくつろいでくれ。</text>
+  </string>
+  <string id="zat_b18_noah_start_113">
+    <text>あんたには関係無いだろう。</text>
+  </string>
+  <string id="zat_b18_noah_start_21">
+    <text>ああ、あんたか。何か用か？</text>
+  </string>
+  <string id="zat_b3_stalker_tech_start_15">
+    <text>賢明な選択だ。銃の状態を維持するために･･････もしお前が一本か二本持っているなら、俺はここで色々とアップグレードさせることができる。ショットガンにパラシュートを縫い付けるってのはどうだ？俺はそれができるぞ、へへへ。</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_1_0">
+    <text>酒があるんだが、飲むか？</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_1_2">
+    <text>いや、俺は酒をやめたんだよ。「アイテム62」を見た時思ったんだ「そうだ、俺はトンでるんだ」って･･････。酒は体を壊す、健康的な食事とは違う。俺がいなくなったら、誰がお前のガウス ライフルのバッテリーを作るんだ？</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_2_0">
+    <text>もう1本あるぞ。</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_3_0">
+    <text>3本目を持ってきた。お前が飲むってのならな。</text>
+  </string>
+</string_table>

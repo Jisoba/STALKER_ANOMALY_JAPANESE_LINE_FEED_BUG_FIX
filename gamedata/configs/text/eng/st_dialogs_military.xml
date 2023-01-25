@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="about_freedom_lider_miklyha_0">
+    <text>あんたがブレイン スコーチャーを突破してそこで半年間住んでいたっていうストーカーかい？</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_1">
+    <text>まぁ、そのうちのひとり言った方が正しいかな。それと半年前ではなく、それよりも数ヶ月多いがな。まぁ、もうそれはいいさ、俺はルーカッシュ、よろしくな。</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_2">
+    <text>どうだった？</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_3">
+    <text>ほら、相棒。あの場所のすべてがとても興味深いことは間違いないがね、だができればあまり思い出したくはないな。一番重要なことは、俺が五体満足だったことだな。</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_4">
+    <text>そうか。とにかく、ありがとうな。</text>
+  </string>
+  <string id="monolith_eidolon_start_0">
+    <text>同士よ、Monolithを讃えるのだ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_freedom_0">
+    <text>フライトレコーダーを見つけたよ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_freedom_1">
+    <text>おぉ、本当か？持ってきてくれ。こいつが何を意味するのか見てみよう。</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_0">
+    <text>俺はレシーを探しているのだが、彼はあんたと一緒じゃなかったのか？</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_1">
+    <text>ああ、そのとおりさ。一階に向かってくれ、一番奥にいるはずだ。</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_2">
+    <text>ありがとう。</text>
+  </string>
+  <string id="devushka_5_help_0">
+    <text>やあ、ルーカッシュ。俺の友達があんたに会いに来たがっている。あんたは彼女のことを知っていると思う。</text>
+  </string>
+  <string id="devushka_5_help_1">
+    <text>ああ、知ってる。入ってくれ！ハッパでもやってくれ、この先の旅に必要だからな。ここに来て正解だったな。ロキの仕事はMonolithの第二波から大変になった 薬を持っていけば多くの人を救える。</text>
+  </string>
+  <string id="devushka_help1_0">
+    <text>ヒップは今まで一度も「防衛線」を越えたことがないらしい。本当なのか？</text>
+  </string>
+  <string id="devushka_help1_1">
+    <text>そうだな。彼女を責めることはできません。友達が目の前でゾンビ化するのを見たら、その場から逃げ出したくなるのも無理はない。それに加えて、Dutyと戦わなければならないとなると･･････ね。しかし、彼女は旅に出る決意をしたようだ。2人でジュピターのヤノフ駅に行ってくれ。到着したら薬をロキに渡してくれ。</text>
+  </string>
+  <string id="devushka_help1_2">
+    <text>いいだろう 早ければ早いほどいい。</text>
+  </string>
+  <string id="devushka_help1_3">
+    <text>待っててくれ、ルーカッシュ。少し時間が必要なんだ。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+    <text>Freedomの生き方をもっと知りたい。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+    <text>ボウズたちは、ボブ マーリーの誕生日が来るたびに祝うのが好きなのさ。ハムが再び出てくる前に、俺たち全員がハムを買いだめしていることを確認する必要があるな。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+    <text>Militaryが開発したのは、治癒力のある防弾チョッキ。当然、我々はそれを手に入れなければならなかった。それを自分たちのスーツに適応させようとしたんですが うまくいかなかったので データを公開して 他の人が試したいと思った時のためにね。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+    <text>近くのいわゆるブラッドサッカー村を歩くのが好きな人は誰もいない。確かに、誰もいないように見えるが、誰も人間がいない場所になんて行きたくないよな？</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+    <text>俺たちはかなり冷静だが 密告者は許せないぞ。部下のひとりが我々の秘密をMercenaryたちに売ったのを見つけたんだ！今では密告者とその連絡先の両方が縫い目で埋められている。あんたは俺の意図を理解してくれるか。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+    <text>なぜ我々がDutyを軽蔑するのか不思議に思うかもしれない。思想的な違いはさておき、奴らは基準を満たさない人を撃つのが好きだし、検問所を通過していわゆる「密輸」を運ぶ人から強奪するのも好きだ。奴らは秩序をもたらすふりをしている詐欺師だ。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+    <text>我々はMercenaryと理解し合っている。彼らは我々をスパイしたり、メンバーを買収しようとはしないし、我々は彼らをハメたりはしない。これまでのところ、うまくいっているシステムだと思う。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+    <text>俺たちはできるだけMilitaryと戦うようにしている。もし彼らが支配したら、この楽園を血塗られた動物園に変えてしまうだろう。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+    <text>ゾーンは法律が適用されない場所であり、自分のモラルのもとで正しく自由に生きることができる場所だと認識している人を、俺たちは喜んで受け入れる。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+    <text>俺たちはゾーンの中で最も陽気な集団だ。ゾーンは本当に奇跡のようなものだ。アノマリー、アーティファクト、ミュータントまで、すべてが揃っている。まあ、ほとんどがそうなんだけどね。とにかく、みんながここに来て、その素晴らしさを楽しむことができるべきなんだ。24時間365日、誰でもアクセスできるように。共有は思いやりだろ？そうしているうちに、何か楽しくなってこないか？掟も規律もないけれど、何かあったときには頼れる仲間がいる。友達とビールを飲みたい？そうだな。Monolilthどもを叩きのめす？もちろんだ。Dutyのケツを蹴りたい？自分自身をノックアウトしやがれ！充実した経験を積むチャンスがたくさんあるぜ。</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+    <text>また別の機会に、な？俺にすぐ会いたいって野郎がいるんでな。</text>
+  </string>
+  <string id="mil_freedom_guid_meet_0">
+    <text>やあ、ここで何やってるんだ？</text>
+  </string>
+  <string id="mil_freedom_guid_meet_1">
+    <text>特に何も。俺はレシー。初めまして。ここらでガイド役と斥候をやってる。</text>
+  </string>
+  <string id="mil_freedom_guid_meet_2">
+    <text>すると、ここらへんの情報を持ってるのか？いろんな場所に行ってるようだが。</text>
+  </string>
+  <string id="mil_freedom_guid_meet_3">
+    <text>その通り。アノマリーにも行ったことがある。まだMercenaryだった時の話だが
+分隊の奴らと一緒にバブル アノマリーの中へ入っちまったのさ。長い話になるぜ。とにかく、俺はコードン、ヤンターそしてジュピターのヤノフ駅までガイド役を引き受ける。それぞれ4500、5000と6000ルーブルだ。</text>
+  </string>
+  <string id="mil_freedom_guid_meet_4">
+    <text>覚えておこう。</text>
+  </string>
+  <string id="mil_freedom_guid_go_0">
+    <text>連れて行ってほしいところがある。</text>
+  </string>
+  <string id="mil_freedom_guid_go_1">
+    <text>もちろんだ。どこに行きたい？</text>
+  </string>
+  <string id="mil_freedom_guid_go_2">
+    <text>ヤノフまで %c[d_orange]［6000ルーブル］</text>
+  </string>
+  <string id="mil_freedom_guid_go_5">
+    <text>金が先だぜ、相棒。</text>
+  </string>
+  <string id="mil_freedom_guid_go_8">
+    <text>ほらよ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_3">
+    <text>コードンまで。%c[d_orange]［4500ルーブル］</text>
+  </string>
+  <string id="mil_freedom_guid_go_6">
+    <text>金は持っているのか？</text>
+  </string>
+  <string id="mil_freedom_guid_go_9">
+    <text>ほら受け取れ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_4">
+    <text>ヤンターまで。%c[d_orange]［5000ルーブル］</text>
+  </string>
+  <string id="mil_freedom_guid_go_7">
+    <text>金は持ってきたか?</text>
+  </string>
+  <string id="mil_freedom_guid_go_10">
+    <text>もちろんだ。ほらよ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_11">
+    <text>忘れた。</text>
+  </string>
+  <string id="mil_freedom_guid_go_12">
+    <text>気が変わった。</text>
+  </string>
+</string_table>

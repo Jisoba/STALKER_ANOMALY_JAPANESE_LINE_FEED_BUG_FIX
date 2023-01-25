@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_name">
+    <text>次のクエストに進め</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_text">
+    <text>次のクエストを受けろ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_about">
+    <text>ある人物と会うんだ。彼はお前のために仕事を用意できる。その仕事をやってきてくれ、質問は無しだ。わかったな？</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_finish">
+    <text>幸運を祈る、ストーカー</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_name">
+    <text>鍵の掛かったスルタンの箱を回収する</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_text">
+    <text>鍵の掛かったスルタンの箱を彼に返す必要がある。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_about">
+    <text>俺のためにある箱を回収してきてくれ。そいつはある場所に隠してある物だ。その隠し場に入っている中身はお前にくれてやるが、箱は俺の物だ。報酬か？お前が箱を持って帰ってきたら残りの分の報酬を支払ってやろう。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_finish">
+    <text>上出来だ！よくやったぞ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_name">
+    <text>スルタンの敵</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_text">
+    <text>スルタンは、彼をだましたストーカーへの報復を望んでいる。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_about">
+    <text>ネズミ野郎のストーカーが俺を裏切りやがった。俺を差し置いて、そいつが次の日の出を見るまでに生かしちゃおけねえ。クソ野郎を殺せ。お前にとってもやりがいがあるはずだ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_finish">
+    <text>良いぞ。ヤツの頭を槍に刺して残すように言っておくべきだったな。どいつも、こいつもスルタンに舐めた真似は出来んと知ったわけだ。こいつが報酬だ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_name">
+    <text>「ネズミ」を殺せ</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_text">
+    <text>仲間のBanditが裏切った。スルタンは「ネズミ」を排除することを望んでいる。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_about">
+    <text>俺たちの中に裏切り者がいる。ウチのメンバーのひとりが裏切ったが、そいつはこの俺がこの事に気づいているとはまだ知らねえ。奴を捕まえるのは簡単な事だ。ピストルを野郎の顔に向けて引き金を引けばいいだけだからな。おそらく、野郎と一緒にいる仲間も含めて殺らないといけねえだろうな。ヤツがミミズと一緒におねんねした頃にもう一度来い。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_finish">
+    <text>いいぞ、くそ野郎を始末したな！これが約束していた報酬だ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_name">
+    <text>X-16研究所を探索しろ</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_text">
+    <text>スルタンにはヤンターのX-16研究所内にあるいくつかの文書の買い手がいる。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_about">
+    <text>俺はヤンターの上の奇妙な研究室の中にある書類のために金を払ってくれる顧客を持っている。そいつらはそこを幽霊屋敷だと思ってるのか、そこに入りたくないんだとよ。お前がこれらの書類を持ってくることができれば、売り上げの半分を報酬にやるよ。どうだ？まさかお前さんも幽霊が恐いってクチか？</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_finish">
+    <text>よくやった。これがお前の取り分だ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_name">
+    <text>次のクエストに進め</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_text">
+    <text>次のクエストを受けろ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_about">
+    <text>すまんが、あんたは話す相手を間違ってるぞ。何か買いたいってんなら、先に進めよ。まぁ、他の誰かからかっぱらうってのも悪くねえな。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_default_task_finish">
+    <text>幸運を祈る、ストーカー。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+    <text>%s 密輸業者</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+    <text>オビリアスはMilitaryに密輸された%sを必要としている。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+    <text>俺の取引相手のMilitaryを知っているか？俺が検問所に武器を持ち込んだ時に見て見ぬふりをしている奴のことだ。あのクソ野郎が俺に分け前を要求してやがる。信じられるか？くそったれ。あの野郎を犯す必要があるな。お前は次の積荷を手に入れるために、奴の所に忍び込んで来い。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_about">
+    <text>%sを取りに行け。このクソみてえな小さい真似事も終われば金になるぜ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_finish">
+    <text>よし、よくやった。こいつはお前の取り分だ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+    <text>「裏切り者」を殺せ</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+    <text>オビリアスのためにMilitaryの裏切り者を始末しろ。</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+    <text>俺らのダチのMilitaryを知っているか？タバコをカートンで渡したら検問所を通して武器を持たせてくれた奴のことだ。そのクソ野郎がみかじめ料払え、さもないと俺たちを突き出すと毎度言ってきやがる。あの野郎、一体誰を相手にしてるのかわかってるのか？奴には死んでもらう必要があるな。おい、聞いてるか？死だ！野郎の首を取って来い！</text>
+  </string>
+  <string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+    <text>いいぞ。あのクソ野郎め。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_name">
+    <text>スルタンへの忠誠</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_text">
+    <text>Banditとして信頼されたいなら、スルタンに会費を支払う必要がある。彼は上納金として5,000ルーブルを要求している。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_about">
+    <text>ならず者のロマンチックな人生を送りたいってのか？いいか、うちはな豆鉄砲を持ったどんな変人でも好きなように、チンピラのように歩き回れるんだ。溝の中で死んでも構わないか？男になりたいか？楽しく生きたいか？それなら、5,000ルーブルの貢ぎ物を持ってこい。そしてボスであるこの俺に忠誠を誓え。そうすれば、お前を仲間に加えてやってもいいぞ。</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_finish">
+    <text>よし、いいぞ。ここにいる奴らはお前を尊敬しているに違いないだろうぜ。まずは挨拶してこいよ。偉大なろくでなし共によ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_name">
+    <text>ギャングの殺し屋</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_text">
+    <text>ターゲットを見つけて排除し、スルタンから報酬を貰う。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_about">
+    <text>ゾーンには俺の神経を逆撫でし、無礼だったりする輩がごまんといる。このゲス野郎共は大方俺に金を借りてたり、そいつらに取引を台無しにされてことだってあるんだ。だからこいつらは踏み潰すのに等しいネズミってわけだ。もしお前が仕事を引き受けてくれるってんなら、GPSで追跡できるように詳細を教えるぞ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_1_finish">
+    <text>素晴らしい働きぶりだ！こいつはお前のために用意したちょっとしたブツだ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_2_name">
+    <text>駐留するMilitaryを排除せよ</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_2_text">
+    <text>スルタンは、その場所の軍人たちを排除することを望んでる。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_2_about">
+    <text>またMilitaryどもが忍び寄ってきたぞ。始末してこい。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_2_finish">
+    <text>素晴らしい。よくやったぞ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_3_name">
+    <text>ストーカー排除作戦</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_3_text">
+    <text>仲間のBanditを攻撃したストーカーを排除する。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_3_about">
+    <text>あるストーカーのグループがうちの仲間を撃った。野郎共を連れて、教訓を刷り込んでやれ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_3_finish">
+    <text>終わったか？よし。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_4_name">
+    <text>%sを集めろ</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_4_text">
+    <text>スルタンは%sを集めるように頼んできた。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_4_about">
+    <text>Banditの恐ろしさを思い知らせる時が来たぞ。奴らのパッチを引きちぎって持ってこい。もちろん金は払ってやるよ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_4_fetch_about">
+    <text>Banditの恐ろしさを思い知らせる時が来たぞ。奴らのパッチを引きちぎって持ってこい。もちろん金は払ってやるよ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_4_fetch_finish">
+    <text>終ったか？よし、こいつが報酬だ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_5_name">
+    <text>歓迎されざる者</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_5_text">
+    <text>スルタンは、農場からストーカーを排除したいと考えている。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_5_about">
+    <text>仕事だ。ストーカーが近くの農場で野営地を設置しているが、俺たちの縄張りには入れたくねえ。お前達はそこに行って、奴らを丁寧にエスコートして来るんだ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_5_finish">
+    <text>悪くなかったぞ、ランボーよ。こいつがご褒美だ。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_6_name">
+    <text>夜の恐怖</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_6_text">
+    <text>スルタンは危険なモンスターを退治したいと考えている。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_6_about">
+    <text>ミュータントってのは厄介だな。少し前に黒いブラッドサッカーが仲間を惨殺しやがった。そいつが居た場所を教えてやる。お前はそこに行って野郎のケツを蹴り上げて来い。</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_task_6_finish">
+    <text>これで奴らは俺たちに手を出すとどうなるかわかったことだろうよ。まあとにかく、これが褒美だ。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+    <text>ダーク バレーでのミュータントを排除せよ</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+    <text>この場所の近くでミュータントが発見されており、危険視されている。地域内のミュータントを排除し、オビリアスに報告する。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+    <text>俺たちはミュータントを一掃できる度胸のある者を探している。ストーカーたちが怖がってここに来やしないんだ。このままだと商品を借りる奴がいなくなって、俺はこの縄張りから出て行くしかなくなっちまうんだ･･････。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+    <text>素晴らしい！これが報酬だ。アンタの活躍をちゃんとボスに報告しといてやるよ。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+    <text>縄張り内の脅威の排除</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+    <text>縄張り内の脅威を排除するように命じられた。仕事が終わり次第、オビリアスに報告する。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+    <text>クソ共が俺たちの縄張りに侵入してきた。ボスは俺に陣営を取り戻せるだけの度胸のある手下を雇うように命令したんだが、どうだ？お前の胸毛は十分か？</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+    <text>素晴らしい！これが報酬だ。アンタの活躍をちゃんとボスに報告しといてやるよ。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+    <text>チキ ブリキ対ダムケ</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+    <text>陽気な連中が満足するように、地元のストーカーに有益を与えて優位に立て。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+    <text>ここ最近、仲間を探してるやつが何人かいる。彼等は、主要ターゲットを連れ出してくれるやつをスカウトしてる。仕事が完了したら、金を払ってくれるだろう。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+    <text>楽しめたか？こいつが取り分だ。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+    <text>殺し屋</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
+    <text>オビリアスはあなたに殺しを命じた。ターゲットを見つけて排除し、彼の元に戻り報酬を得よ。</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
+    <text>俺の神経を逆撫でするヤツらのリストをまとめてある。お前にそいつらの神経を撫で返してきてもらいたい。どうだ？</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+    <text>いいぞ、あのクソ野朗を始末したな！こいつが約束の報酬だ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+    <text>リンピドのために%sを探せ</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+    <text>リンピドは装備に基本的なアップグレードをするために%sを必要としている。見つけ出し、彼に持っていこう。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+    <text>俺は新しいツールが欲しいんだ。今俺が持っている錆びたクソじゃあ何も出来ないし、ガンオイルも切らしてる。もし手助けしてくれるのなら、何が必要か教えるよ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+    <text>ベーシック ツールが必要なんだ。そこに必要なものが入っているはずだ。もし持ってきてくれたら、感謝の印に割引でサービスを提供するぜ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+    <text>完璧だ！こいつが欲しかったんだよ。これで装備のアップグレードができるようになるぜ！</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+    <text>リンピドのために%sを探せ</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+    <text>リンピドは装備に高度なアップグレードをするために%sを必要としている。見つけ出し、彼に持っていこう。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+    <text>アンタが持ってきてくれたツールキットは素晴らしいのだったが、まだ足りないものがあるんだ。もっと良いツールキットを探してきてくれないかい？</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+    <text>俺は%sが必要だ。こいつがどこで手に入るかはわからないけど、もしどこかで見つけたら持ってきてくれ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+    <text>またやり遂げたな！いい取引だったぜ、こいつが金だ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
+    <text>リンピドのために%sを探せ</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
+    <text>リンピドは装備に専門的なアップグレードをするために%sを必要としている。見つけ出し、彼に持っていこう。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
+    <text>アンタが持ってきてくれたツールキットは素晴らしいのだったが、まだ足りないものがあるんだ。もっと良いツールキットを探してきてくれないかい？</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
+    <text>俺は%sが必要だ。こいつがどこで手に入るかはわからないけど、もしどこかで見つけたら持ってきてくれ。</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+    <text>またやり遂げたな！いい取引だったぜ、こいつが金だ。</text>
+  </string>
+  <string id="bandit_companion_task_1_start_dialog_1">
+    <text>アンタが道を先導した後ろに、俺たちは続く。アンタが怪我したら終わりだからな。俺たちが略奪をしてる間、背中を守っていてくれよ。</text>
+  </string>
+  <string id="bandit_companion_task_1_start_dialog_2">
+    <text>よし、そろそろ帰ろう。引き金の指がうずくぜ。いいか、俺たちは戦利品を手に入れたんだからな！</text>
+  </string>
+  <string id="bandit_companion_task_1_complete">
+    <text>よくやった。これがアンタの取り分だ。</text>
+  </string>
+  <string id="bandit_companion_task_1_actor_reply">
+    <text>わかった。</text>
+  </string>
+  <string id="bandit_main_base_medic_mlr_task_1_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="bandit_main_base_medic_mlr_task_1_text">
+    <text>Banditの医療従事者は医療物資を作成するために%sを必要としている。見つけ出し、彼に持っていこう。</text>
+  </string>
+  <string id="bandit_main_base_medic_mlr_task_1_about">
+    <text>今ある医療品の在庫で、日々出てくる怪我人を治療していけるか心配だ。いずれ包帯と医療キットが無くなっちまう。薬品製造ツールを探してきてくれよ。必ず役に立つだろうからな。</text>
+  </string>
+  <string id="bandit_main_base_medic_mlr_task_1_fetch_about">
+    <text>%sをそこら中探し回ってんだ。中には治療するための、錠剤やアンプルが入ってるはずだ。持ってきてくれるなら、金を払うぜ。</text>
+  </string>
+  <string id="bandit_main_base_medic_mlr_task_1_fetch_finish">
+    <text>いいぞ！デカイ借りができたな。</text>
+  </string>
+</string_table>

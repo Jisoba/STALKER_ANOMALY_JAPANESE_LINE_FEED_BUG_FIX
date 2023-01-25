@@ -1,0 +1,2212 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_upgr_required_materials">
+    <text>必要な材料</text>
+  </string>
+  <string id="st_upgr_enough_materials">
+    <text>材料不足</text>
+  </string>
+  <string id="st_prop_bullet_speed">
+    <text>低伸性</text>
+  </string>
+  <string id="st_prop_calibre">
+    <text>口径</text>
+  </string>
+  <string id="st_prop_recoil">
+    <text>反動</text>
+  </string>
+  <string id="st_prop_reliability">
+    <text>信頼性</text>
+  </string>
+  <string id="st_prop_scope_1.6x">
+    <text>1.6 倍率ハイコントラストサイト</text>
+  </string>
+  <string id="st_prop_scope_4x">
+    <text>4 倍率スコープ</text>
+  </string>
+  <string id="st_prop_silencer">
+    <text>サプレッサー</text>
+  </string>
+  <string id="st_prop_underbarrel_slot">
+    <text>グレネードランチャーマウンタ</text>
+  </string>
+  <string id="st_prop_weight">
+    <text>軽量化</text>
+  </string>
+  <string id="st_up_add_a1_descr">
+    <text>サプレッサーを装着可能にするため、銃身先端にネジを切る。</text>
+  </string>
+  <string id="st_up_add_a1_name">
+    <text>銃身にネジを追加</text>
+  </string>
+  <string id="st_up_add_a2_descr">
+    <text>光学照準器を装着するドーブテイルマウントを追加する。</text>
+  </string>
+  <string id="st_up_add_a2_name">
+    <text>スコープマウント追加</text>
+  </string>
+  <string id="st_up_add_a3_descr">
+    <text>グレネードランチャーのマウントを追加する。</text>
+  </string>
+  <string id="st_up_add_a3_name">
+    <text>グレネードランチャーのマウント追加</text>
+  </string>
+  <string id="st_up_add_a4_descr">
+    <text>弾倉を大容量のものに変更する。</text>
+  </string>
+  <string id="st_up_add_a4_name">
+    <text>装弾数向上</text>
+  </string>
+  <string id="st_up_add_b1_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b1_name">
+    <text>口径を5.45x39mmに変更</text>
+  </string>
+  <string id="st_up_add_b2_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b2_name">
+    <text>口径を5.56x45mmに変更</text>
+  </string>
+  <string id="st_up_add_b3_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b3_name">
+    <text>口径を9x18mmに変更</text>
+  </string>
+  <string id="st_up_add_b4_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b4_name">
+    <text>口径を9x19mmに変更</text>
+  </string>
+  <string id="st_up_add_b5_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b5_name">
+    <text>口径を7.62x39mmに変更</text>
+  </string>
+  <string id="st_up_add_b6_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b6_name">
+    <text>口径を7.62x51mmに変更</text>
+  </string>
+  <string id="st_up_add_b7_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_add_b7_name">
+    <text>口径を7.62x54mmに変更</text>
+  </string>
+  <string id="st_up_addd_a1_descr">
+    <text>重量を変えることなく装弾数を増加させる。</text>
+  </string>
+  <string id="st_up_addd_a1_name">
+    <text>装弾数増加</text>
+  </string>
+  <string id="st_up_addh_a1_descr">
+    <text>大型のポリカーボネイトボックス。軽量な素材で武器の重量の増加を相殺できる。</text>
+  </string>
+  <string id="st_up_addh_a1_name">
+    <text>弾帯収納ケース容量増加</text>
+  </string>
+  <string id="st_up_arm_a1_descr">
+    <text>チタン製装甲板の数を増やし、アーマーの耐久性を大幅に上昇させる。</text>
+  </string>
+  <string id="st_up_autd_a1_descr">
+    <text>武器の部品全体に修正をかけ、根本的な弾詰まり要因を排除する。</text>
+  </string>
+  <string id="st_up_autd_a1_name">
+    <text>部品の修正</text>
+  </string>
+  <string id="st_up_autd_a2_descr">
+    <text>ポリマー素材の使用は有効な分、最もポピュラーな強化方法のひとつである。</text>
+  </string>
+  <string id="st_up_autd_a2_name">
+    <text>ポリマー化</text>
+  </string>
+  <string id="st_up_autd_b1_descr">
+    <text>従来の物に代わり、反動による衝撃をより抑えた発射機構に取り替える。</text>
+  </string>
+  <string id="st_up_autd_b1_name">
+    <text>低衝撃発射機構</text>
+  </string>
+  <string id="st_up_autd_b2_descr">
+    <text>撃発時の弾薬の位置をより正確に調整することで、より直線に近い弾道を保持することができる。</text>
+  </string>
+  <string id="st_up_autd_b2_name">
+    <text>弾薬保持機構の導入</text>
+  </string>
+  <string id="st_up_autd_b3_descr">
+    <text>ローラーロッキングシステムは反動を減らし、高い集弾性を生み出す機構として多くの兵器で用いられている。</text>
+  </string>
+  <string id="st_up_autd_b3_name">
+    <text>ローラーロッキングシステムとセミフリー遊底の導入</text>
+  </string>
+  <string id="st_up_autd_b4_descr">
+    <text>追加ガスシリンダーを取り付けることで、連射速度を大きく向上させる。</text>
+  </string>
+  <string id="st_up_autd_b4_name">
+    <text>ガスシリンダーの変更</text>
+  </string>
+  <string id="st_up_autd_b5_descr">
+    <text>ガスオペレーションシステムをポンプアクションショットガンに導入し、セミオート化にする。</text>
+  </string>
+  <string id="st_up_autd_b5_name">
+    <text>ガスオペレーションシステムの導入</text>
+  </string>
+  <string id="st_up_autd_c1_descr">
+    <text>部品表面を硬質加工で保護し、動作不良による不発を無くす。</text>
+  </string>
+  <string id="st_up_autd_c1_name">
+    <text>部品のスパッタリング</text>
+  </string>
+  <string id="st_up_autd_c2_descr">
+    <text>弾薬が発射されると、フォアグリップをスライドすることにより給弾口が開閉する様になる。</text>
+  </string>
+  <string id="st_up_autd_c2_name">
+    <text>閉式弾薬装填システム</text>
+  </string>
+  <string id="st_up_autd_c3_descr">
+    <text>内部機構にセルフコッキング機構を導入することにより、ショットガンのポンプアクション動作を自動化させる。</text>
+  </string>
+  <string id="st_up_autd_c3_name">
+    <text>内部セルフコッキング機構の導入</text>
+  </string>
+  <string id="st_up_autd_c4_descr">
+    <text>統合化されたブローバックモジュールを導入することは、現技術で最も効率的に反動を軽減させることが出来る。</text>
+  </string>
+  <string id="st_up_autd_c4_name">
+    <text>統合化ブローバックモジュールの導入</text>
+  </string>
+  <string id="st_up_autd_c5_descr">
+    <text>自動化された駆動軸を用いて武器の精度を向上させる。</text>
+  </string>
+  <string id="st_up_autd_c5_name">
+    <text>自動駆動軸の導入</text>
+  </string>
+  <string id="st_up_auth_a1_descr">
+    <text>遊底動作に対応して動く錘を導入し、反動の一部を相殺する。</text>
+  </string>
+  <string id="st_up_auth_a1_name">
+    <text>カウンターウェイトの導入</text>
+  </string>
+  <string id="st_up_auth_b1_descr">
+    <text>改良型のローラー部品を用いてリコイルの反動を減少させる。</text>
+  </string>
+  <string id="st_up_auth_b1_name">
+    <text>ブローバックシステムのローラー部品の導入</text>
+  </string>
+  <string id="st_up_auth_c1_descr">
+    <text>より連射に適した設計の遊底機構と取り替える。</text>
+  </string>
+  <string id="st_up_auth_c1_name">
+    <text>オープンボルトシステム</text>
+  </string>
+  <string id="st_up_auth_c2_descr">
+    <text>射撃時に遊底に連動した錘が遊底が動く方向とは逆に運動することが、反動を減少させる。</text>
+  </string>
+  <string id="st_up_auth_c2_name">
+    <text>自己制御式ウェイトの導入</text>
+  </string>
+  <string id="st_up_auto_a1_descr">
+    <text>レシーバー内に反動を相殺するための錘を取り付ける。</text>
+  </string>
+  <string id="st_up_auto_a1_name">
+    <text>駆動式カウンターウェイトの導入</text>
+  </string>
+  <string id="st_up_auto_a2_descr">
+    <text>ポリマー素材の使用は有効な分、最もポピュラーな強化方法のひとつである。</text>
+  </string>
+  <string id="st_up_auto_a2_name">
+    <text>装填機構の樹脂製緩衝材の導入</text>
+  </string>
+  <string id="st_up_auto_b1_descr">
+    <text>武器を汚れから守る特殊な機構を導入する。</text>
+  </string>
+  <string id="st_up_auto_b1_name">
+    <text>2 点式ガスレギュレーター</text>
+  </string>
+  <string id="st_up_auto_b2_descr">
+    <text>射撃時の銃身内圧力を高めるため、気密を保持する機構を導入する。</text>
+  </string>
+  <string id="st_up_auto_b2_name">
+    <text>銃身の閉鎖機構の導入</text>
+  </string>
+  <string id="st_up_auto_b3_descr">
+    <text>ギアを導入し動作の同期を取ることにより、弾道の低伸性が向上する。</text>
+  </string>
+  <string id="st_up_auto_b3_name">
+    <text>ロッド動作の同期</text>
+  </string>
+  <string id="st_up_auto_b4_descr">
+    <text>遊底の動作速度を低下させる部品をレシーバー後部に組み込む事で、より精密な射撃を行うことが出来る。</text>
+  </string>
+  <string id="st_up_auto_b4_name">
+    <text>レイト リデューサー</text>
+  </string>
+  <string id="st_up_auto_c1_descr">
+    <text>遊底機構に特別な部品を追加し、動きを和らげることで反動を減らす。</text>
+  </string>
+  <string id="st_up_auto_c1_name">
+    <text>ブローバック遅延部品の導入</text>
+  </string>
+  <string id="st_up_auto_c2_descr">
+    <text>通常は狙撃銃に行われるような、総合的な改善を行う。その分、重量は増加する。</text>
+  </string>
+  <string id="st_up_auto_c2_name">
+    <text>反動相殺システムの導入</text>
+  </string>
+  <string id="st_up_auto_c3_descr">
+    <text>射撃時の給弾速度を上昇させる機構を導入する。</text>
+  </string>
+  <string id="st_up_auto_c3_name">
+    <text>改良型弾薬装填機構の導入</text>
+  </string>
+  <string id="st_up_auto_c4_descr">
+    <text>銃の自動機構を構成する数点の部品を置き換え、改良することで精度を向上させる。</text>
+  </string>
+  <string id="st_up_auto_c4_name">
+    <text>衝撃緩和機構の調整</text>
+  </string>
+  <string id="st_up_auto_c5_descr">
+    <text>遊底の前進位置に合成素材の部品を組み込み、遊底の衝突を和らげる事で射撃精度を向上させる。</text>
+  </string>
+  <string id="st_up_auto_c5_name">
+    <text>ショックアブソーバー追加</text>
+  </string>
+  <string id="st_up_auto_c6_descr">
+    <text>この結合部品は銃身の位置を補正し、銃身が動作した場合には穴が開き、その動作を阻害しないように設計されている。</text>
+  </string>
+  <string id="st_up_auto_c6_name">
+    <text>「効率的補強」部品の導入</text>
+  </string>
+  <string id="st_up_auts_a1_descr">
+    <text>最新型トリガー機構を導入することによりその動作をよりスムーズなものにする。これは狙撃時の重要なポイントである。</text>
+  </string>
+  <string id="st_up_auts_a1_name">
+    <text>トリガー動作制御機構の導入</text>
+  </string>
+  <string id="st_up_auts_a2_descr">
+    <text>この機構を導入することにより撃発の瞬間をより体感出来る様になり、射撃の精度を向上する。</text>
+  </string>
+  <string id="st_up_auts_a2_name">
+    <text>改良型トリガーの導入</text>
+  </string>
+  <string id="st_up_auts_b1_descr">
+    <text>西側の武器によく使われているローラーロッキング機構は、反動を減らし集弾性を上昇させる。</text>
+  </string>
+  <string id="st_up_auts_b1_name">
+    <text>セミフリー遊底とローラーシステムの導入</text>
+  </string>
+  <string id="st_up_auts_b2_descr">
+    <text>発砲時の振動にかかわるこの機構は、射撃をより快適にすることができる。</text>
+  </string>
+  <string id="st_up_auts_b2_name">
+    <text>順列発射機構</text>
+  </string>
+  <string id="st_up_auts_b3_descr">
+    <text>狙撃銃のような武器は通常武器よりもより頻繁な整備を行う必要があり、その問題を 3 点式ガスレギューレーターで改良する。</text>
+  </string>
+  <string id="st_up_auts_b3_name">
+    <text>3 点式ガスレギュレーターの導入</text>
+  </string>
+  <string id="st_up_auts_c1_descr">
+    <text>表面加工でエネルギーの分散を防ぎ、銃弾の初速を高める。</text>
+  </string>
+  <string id="st_up_auts_c1_name">
+    <text>内部機構のスパッタリング</text>
+  </string>
+  <string id="st_up_auts_c2_descr">
+    <text>延長された機関ロッドの導入より、スナイパーライフルでのフルオート射撃が可能になる。</text>
+  </string>
+  <string id="st_up_auts_c2_name">
+    <text>延長機関ロッドの導入</text>
+  </string>
+  <string id="st_up_auts_c3_descr">
+    <text>ショックアブソーバーの追加によりブローバックの反動を抑え、射撃精度を向上させる。</text>
+  </string>
+  <string id="st_up_auts_c3_name">
+    <text>ショックアブソーバー追加</text>
+  </string>
+  <string id="st_up_bar_a1_descr">
+    <text>銃身を通常より長いものに変更することにより、精度と低伸性を向上させる。</text>
+  </string>
+  <string id="st_up_bar_a1_name">
+    <text>ロングバレル</text>
+  </string>
+  <string id="st_up_bar_a2_descr">
+    <text>大型のガスチェンバーを撤廃し、フォアグリップにバレルを乗せないようにすることで命中率を向上させることが出来る。</text>
+  </string>
+  <string id="st_up_bar_a2_name">
+    <text>「浮遊式」バレルの導入</text>
+  </string>
+  <string id="st_up_bar_a3_descr">
+    <text>この改造を施すことにより、過剰な連射速度改造による事故を防ぐことが出来る。</text>
+  </string>
+  <string id="st_up_bar_a3_name">
+    <text>冷却フィン付きバレルの導入</text>
+  </string>
+  <string id="st_up_bar_b1_descr">
+    <text>時代遅れの部品を現代のものと交換し、反動を軽減する。</text>
+  </string>
+  <string id="st_up_bar_b1_name">
+    <text>最適なマズルブレーキ</text>
+  </string>
+  <string id="st_up_bar_b2_descr">
+    <text>多くの溝を切ったライフリングを持つバレルを導入する。リコイルによる反動が増すが、代わりに弾速および精度が向上する。</text>
+  </string>
+  <string id="st_up_bar_b2_name">
+    <text>多溝ライフリングバレルの導入</text>
+  </string>
+  <string id="st_up_bar_b3_descr">
+    <text>このバレルは接近戦での殺傷範囲を高めるために開発されたものであり、正確さには欠けるがライフリングの軽略化により連射速度が向上する。</text>
+  </string>
+  <string id="st_up_bar_b3_name">
+    <text>軽略ライフリングバレルの導入</text>
+  </string>
+  <string id="st_up_bar_c1_descr">
+    <text>銃身をポリゴナルライフリングのものに交換し、精度を向上させる。</text>
+  </string>
+  <string id="st_up_bar_c1_name">
+    <text>ポリゴナルライフリング</text>
+  </string>
+  <string id="st_up_bar_c2_descr">
+    <text>銃身の放熱性を高めることにより連射速度を向上する。</text>
+  </string>
+  <string id="st_up_bar_c2_name">
+    <text>類洞型ライフリング</text>
+  </string>
+  <string id="st_up_bar_c3_descr">
+    <text>優れた低伸性を持つ銃のバレルを特殊なものに交換することにより精密性を高める。</text>
+  </string>
+  <string id="st_up_bar_c3_name">
+    <text>スナイパーライフルのライフリング追加</text>
+  </string>
+  <string id="st_up_bard_a1_descr">
+    <text>高耐久素材を使用することにより銃身の摩耗を減少させることが出来る。</text>
+  </string>
+  <string id="st_up_bard_a1_name">
+    <text>高耐久性合金バレル</text>
+  </string>
+  <string id="st_up_bard_b1_descr">
+    <text>バレルの内側に加工を施すことにより、損傷から守る事が出来る。</text>
+  </string>
+  <string id="st_up_bard_b1_name">
+    <text>バレルの加工</text>
+  </string>
+  <string id="st_up_bard_b2_descr">
+    <text>合金製によりバレルの溝を加工することにより集団性が向上する。</text>
+  </string>
+  <string id="st_up_bard_b2_name">
+    <text>合金製バレル溝</text>
+  </string>
+  <string id="st_up_bard_b3_descr">
+    <text>銃身を通常より長いものに変更することにより、精度と低伸性を向上させる。</text>
+  </string>
+  <string id="st_up_bard_b3_name">
+    <text>ロングバレル</text>
+  </string>
+  <string id="st_up_bard_b4_descr">
+    <text>バレルに排気口を取り付けることにより異物の混入を防ぐだけでなく、射撃時の反動の一部を銃身へ送り返すことが出来る。</text>
+  </string>
+  <string id="st_up_bard_b4_name">
+    <text>水平ガス排気口</text>
+  </string>
+  <string id="st_up_bard_b5_descr">
+    <text>銃身を通常より長いものに変更することにより、精度と低伸性を向上させる。</text>
+  </string>
+  <string id="st_up_bard_b5_name">
+    <text>ロングバレル</text>
+  </string>
+  <string id="st_up_bard_b6_descr">
+    <text>スパッタの追加によりバレルの過熱を防ぎ、製造上の欠陥を除去することで耐久性を大きく向上させる。</text>
+  </string>
+  <string id="st_up_bard_b6_name">
+    <text>バレル内部の保護スパッタ追加</text>
+  </string>
+  <string id="st_up_bard_c1_descr">
+    <text>複数のピストンを持つ安定装置を取り付けることにより、運用時の安定性を向上させる。</text>
+  </string>
+  <string id="st_up_bard_c1_name">
+    <text>バレル安定装置</text>
+  </string>
+  <string id="st_up_bard_c2_descr">
+    <text>ライフリングの追加により散弾の発射は不可能になるが、精度を大きく向上させることが出来る。</text>
+  </string>
+  <string id="st_up_bard_c2_name">
+    <text>ライフリングの追加</text>
+  </string>
+  <string id="st_up_bard_c3_descr">
+    <text>ポリマーでの加工を施すことにより銃身内により圧力をかけることができ、弾速を向上させる事が出来る。</text>
+  </string>
+  <string id="st_up_bard_c3_name">
+    <text>バレルの過密処理</text>
+  </string>
+  <string id="st_up_bard_c4_descr">
+    <text>円柱型の穴を銃身に開ける事で、精度を下げることなく連射速度を向上させることができる。</text>
+  </string>
+  <string id="st_up_bard_c4_name">
+    <text>バレルの空洞処理</text>
+  </string>
+  <string id="st_up_bard_c5_descr">
+    <text>射撃時にマズルへ移動する可動式の錘を取り付けることにより、反動の衝撃を一部相殺する。</text>
+  </string>
+  <string id="st_up_bard_c5_name">
+    <text>バレル外部への可動式錘の取り付け</text>
+  </string>
+  <string id="st_up_bard_c6_descr">
+    <text>武器の機械部品と自動部品の複雑で統合された変更により、信頼性を犠牲にして口径を変更できる。</text>
+  </string>
+  <string id="st_up_bard_c6_name">
+    <text>口径を7.62x54に変更</text>
+  </string>
+  <string id="st_up_barp_a1_descr">
+    <text>通常より長いバレルを導入することにより精度と低伸性を向上させるが、連射速度は低下する。</text>
+  </string>
+  <string id="st_up_barp_a1_name">
+    <text>ロングバレル</text>
+  </string>
+  <string id="st_up_barp_a2_descr">
+    <text>発射ガスを上方へ逃がす事で反動を軽減させる穴を銃身に開ける。</text>
+  </string>
+  <string id="st_up_barp_a2_name">
+    <text>マグナポート追加</text>
+  </string>
+  <string id="st_up_barp_a3_descr">
+    <text>より高度な技術で銃身を短縮し低伸性と精度を下げることなく、連射速度を向上させる。</text>
+  </string>
+  <string id="st_up_barp_a3_name">
+    <text>ショートバレル</text>
+  </string>
+  <string id="st_up_barp_b1_descr">
+    <text>クロムメッキ処理により、銃身の耐久性を向上させる</text>
+  </string>
+  <string id="st_up_barp_b1_name">
+    <text>バレル内部のクロムメッキ処理</text>
+  </string>
+  <string id="st_up_barp_b2_descr">
+    <text>セパレーターは反動をいくらか低減させる。</text>
+  </string>
+  <string id="st_up_barp_b2_name">
+    <text>ラバー セパレーターの追加</text>
+  </string>
+  <string id="st_up_barp_b3_descr">
+    <text>精度よりも連射速度が重要な屋内戦で有用な、ライフリングを簡略化したバレルに交換する。</text>
+  </string>
+  <string id="st_up_barp_b3_name">
+    <text>バレルのライフリング簡素化</text>
+  </string>
+  <string id="st_up_barp_b4_descr">
+    <text>ライフリングを増やしたバレルに交換して、反動を増加させる代わりに初速と精度を向上させる。</text>
+  </string>
+  <string id="st_up_barp_b4_name">
+    <text>ライフリング追加</text>
+  </string>
+  <string id="st_up_barp_b5_descr">
+    <text>バレルの負荷を低くすることで反動を大幅に低減させる。</text>
+  </string>
+  <string id="st_up_barp_b5_name">
+    <text>コンペンセイター / 消炎器をバレルからフレームに移す</text>
+  </string>
+  <string id="st_up_barp_c1_descr">
+    <text>銃身の発熱を抑え、低伸性を損なうことなく連射速度を上げる。</text>
+  </string>
+  <string id="st_up_barp_c1_name">
+    <text>シヌソイダルライフリング（正弦曲線施条）</text>
+  </string>
+  <string id="st_up_barp_c2_descr">
+    <text>ポリゴナルライフリングは多くの場合狙撃銃の精度を高めるために用いられる。</text>
+  </string>
+  <string id="st_up_barp_c2_name">
+    <text>ポリゴナルライフリング部を有する銃身の導入</text>
+  </string>
+  <string id="st_up_barp_c3_descr">
+    <text>ニューマチックブースターは反動の一部を利用して銃身内の圧力を高め、銃口速度を増加させる。</text>
+  </string>
+  <string id="st_up_barp_c3_name">
+    <text>ニューマチックブースターの導入</text>
+  </string>
+  <string id="st_up_opt_a1_descr">
+    <text>近距離戦用の強襲型スコープを搭載。</text>
+  </string>
+  <string id="st_up_opt_a1_name">
+    <text>1.6 倍率リフレックスサイト</text>
+  </string>
+  <string id="st_up_opt_a2_descr">
+    <text>中 遠距離戦用の光学スコープを搭載。</text>
+  </string>
+  <string id="st_up_opt_a2_name">
+    <text>4 倍率スコープ</text>
+  </string>
+  <string id="st_up_opt_a3_descr">
+    <text>遠距離戦用の POSP 8x42 W スコープを搭載。</text>
+  </string>
+  <string id="st_up_opt_a3_name">
+    <text>8 倍率 POSP 8x42 W スコープ</text>
+  </string>
+  <string id="st_up_opt_a4_descr">
+    <text>遠距離戦用の光学スコープを改良。</text>
+  </string>
+  <string id="st_up_opt_a4_name">
+    <text>12 倍率スコープ</text>
+  </string>
+  <string id="st_up_opt_b1_descr">
+    <text>光学スコープを搭載した小銃の照準明度を調節し、光量の少ない場所も見やすくする。この改造は薄暗い夕暮れ時や建物の中での戦闘で大いに効果を発揮する。</text>
+  </string>
+  <string id="st_up_opt_b1_name">
+    <text>サイトコントラストの改造</text>
+  </string>
+  <string id="st_up_opt_c1_descr">
+    <text>人体等が発する熱を補足するサーマルセンサーを組み込むことにより、居場所を探知できるようになる。</text>
+  </string>
+  <string id="st_up_opt_c1_name">
+    <text>サーマルセンサー</text>
+  </string>
+  <string id="st_up_opt_c2_descr">
+    <text>夜間戦闘用のナイトビジョンを組み込むことにより、暗所における良好な視界を確保する。さらに、0.27kg の軽量化を施す。</text>
+  </string>
+  <string id="st_up_opt_c2_name">
+    <text>ナイトビジョン搭載</text>
+  </string>
+  <string id="st_up_opt_c3_descr">
+    <text>より射撃の有効性を高めるため、光学スコープの倍率調整が可能となる。</text>
+  </string>
+  <string id="st_up_opt_c3_name">
+    <text>アジャスタブルサイト</text>
+  </string>
+  <string id="st_up_opt_binoc1_descr">
+    <text>コントラスト強化フィルタを双眼鏡のレンズに組み込む。都市部や低い光量の状況下での視認性を向上させる。</text>
+  </string>
+  <string id="st_up_opt_binoc1_name">
+    <text>光学サイトのコントラスト強化</text>
+  </string>
+  <string id="st_up_opt_binoc2_descr">
+    <text>より良いズーミングのために双眼鏡レンズの交換。視力倍率が 5 倍に向上。</text>
+  </string>
+  <string id="st_up_opt_binoc2_name">
+    <text>5 倍率にズーム強化</text>
+  </string>
+  <string id="st_up_opt_binoc3_descr">
+    <text>調整可能なズームを可能にするため、双眼鏡の光学装置を交換する。複雑な機構を組み込むため、重量がわずかに増加する。</text>
+  </string>
+  <string id="st_up_opt_binoc3_name">
+    <text>調節可能なズームレンズ</text>
+  </string>
+  <string id="st_up_stk_binoc1_descr">
+    <text>金属化されたグリップを対応するポリマーと交換することにより、重量が大幅に減少する。</text>
+  </string>
+  <string id="st_up_stk_binoc1_name">
+    <text>ポリマーグリップ</text>
+  </string>
+  <string id="st_up_stk_binoc2_descr">
+    <text>双眼鏡のフレームをアルミ製に交換。より軽量化し、利便性が向上する。</text>
+  </string>
+  <string id="st_up_stk_binoc2_name">
+    <text>アルミニウムフレーム</text>
+  </string>
+  <string id="st_up_stk_binoc3_descr">
+    <text>可動部品をチタン製の部品に交換。より軽量化し、機能を向上させる。</text>
+  </string>
+  <string id="st_up_stk_binoc3_name">
+    <text>チタン素材の機械部品</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand3_name">
+    <text>追加マグネット</text>
+  </string>
+  <string id="st_up_pri_a1_descr">
+    <text>ニューマチック ストックはバースト射撃時の反動を低減するために用いられる。</text>
+  </string>
+  <string id="st_up_pri_a1_name">
+    <text>ニューマチック ストック</text>
+  </string>
+  <string id="st_up_pri_b1_descr">
+    <text>可動式の肩当てで反動による体への衝撃を大幅に低減する。</text>
+  </string>
+  <string id="st_up_pri_b1_name">
+    <text>アモーティゼーション ショルダーレストの導入</text>
+  </string>
+  <string id="st_up_pri_b2_descr">
+    <text>より近代的なストックで、人間の生理機能の特性を考慮に入れたものである。</text>
+  </string>
+  <string id="st_up_pri_b2_name">
+    <text>人間工学的ストック</text>
+  </string>
+  <string id="st_up_pri_c1_descr">
+    <text>銃を発射した際に、火薬のガスの一部を銃身から遊底の背後の空洞に移動させることによって後退する遊底を滑らかに停止させる。</text>
+  </string>
+  <string id="st_up_pri_c1_name">
+    <text>遊底内組込式ガス緩衝器の導入</text>
+  </string>
+  <string id="st_up_pri_c2_descr">
+    <text>遊底フレームの一部をストック内にまで延長することで、反動が増加する代わりに低伸性を増すことができる。</text>
+  </string>
+  <string id="st_up_pri_c2_name">
+    <text>遊底フレームの緩衝部を延長</text>
+  </string>
+  <string id="st_up_pri_c3_descr">
+    <text>ストック内部に可動部を設けることで、銃を発射した際にカウンター効果を生じさせる。</text>
+  </string>
+  <string id="st_up_pri_c3_name">
+    <text>可動式カウンターウェイト</text>
+  </string>
+  <string id="st_up_prih_a1_descr">
+    <text>より大きな銃床を取り付けることにより安定性が向上する。</text>
+  </string>
+  <string id="st_up_prih_a1_name">
+    <text>銃床サイズの変更</text>
+  </string>
+  <string id="st_up_prih_b1_descr">
+    <text>反動吸収用スプリングを内蔵することにより、手持ちで軽機関銃を発射する際のやりづらさを改善する。</text>
+  </string>
+  <string id="st_up_prih_b1_name">
+    <text>スプリング式内蔵リコイルバッファ</text>
+  </string>
+  <string id="st_up_prih_c1_descr">
+    <text>ストック内の遊底式バッファを装着により、反動の大部分を吸収することが出来る。</text>
+  </string>
+  <string id="st_up_prih_c1_name">
+    <text>ガス遊底バッファの追加</text>
+  </string>
+  <string id="st_up_pris_a1_descr">
+    <text>大口径スナイパーライフルの純正ストックには、リコイルを和らげるゴム製の部品がよく使われる。</text>
+  </string>
+  <string id="st_up_pris_a1_name">
+    <text>衝撃緩和ストック部品</text>
+  </string>
+  <string id="st_up_pris_b1_descr">
+    <text>顎当て付き伸縮可能ストックはどの様な体制で射撃をする際にも大いに役立つ。</text>
+  </string>
+  <string id="st_up_pris_b1_name">
+    <text>顎当て付きアジャスト式ストック</text>
+  </string>
+  <string id="st_up_pris_c1_descr">
+    <text>強い反動を和らげるための大口径火器用のストック。</text>
+  </string>
+  <string id="st_up_pris_c1_name">
+    <text>油圧式ストックバッファ</text>
+  </string>
+  <string id="st_up_ret_a1_descr">
+    <text>補強されたスプリングにより、より早い弾速が得られる。</text>
+  </string>
+  <string id="st_up_ret_a1_name">
+    <text>補強スプリング</text>
+  </string>
+  <string id="st_up_ret_a2_descr">
+    <text>可動部分の部品に衝撃緩和加工を施すことにより、射撃時の銃身の跳ね上がりを抑える。</text>
+  </string>
+  <string id="st_up_ret_a2_name">
+    <text>反動メカの衝撃緩和処理</text>
+  </string>
+  <string id="st_up_ret_a3_descr">
+    <text>標準のものとは巻き方向が逆になっている補助リコイルスプリングを追加することにより、低伸性を損なうことなく反動を軽減出来る。</text>
+  </string>
+  <string id="st_up_ret_a3_name">
+    <text>追加リコイルスプリング</text>
+  </string>
+  <string id="st_up_ret_b1_descr">
+    <text>保護スパッタリングを施すことにより信頼性の向上が図れるのは勿論の事、更に重要なのは気密性を高め、ガス圧の低下を防ぎ装弾を確実にする点である。</text>
+  </string>
+  <string id="st_up_ret_b1_name">
+    <text>機関部への保護スパッタリング</text>
+  </string>
+  <string id="st_up_ret_b2_descr">
+    <text>チタン製ロッドを導入することにより通常のものより高い連射速度を得ることが出来る。</text>
+  </string>
+  <string id="st_up_ret_b2_name">
+    <text>チタン製ロッド</text>
+  </string>
+  <string id="st_up_ret_b3_descr">
+    <text>合成素材の部品をロッドに追加することが、動作中のブレを無くし精度が向上する。</text>
+  </string>
+  <string id="st_up_ret_b3_name">
+    <text>ガイド部品の追加</text>
+  </string>
+  <string id="st_up_ret_c1_descr">
+    <text>スリーブ部分に加工を施し、銃身内の圧力を向上。より早い弾速を得ることが出来る。</text>
+  </string>
+  <string id="st_up_ret_c1_name">
+    <text>反動スリーブ加工</text>
+  </string>
+  <string id="st_up_ret_c2_descr">
+    <text>発砲時生ずるガスにより可動する分配型リンクを設置する。</text>
+  </string>
+  <string id="st_up_ret_c2_name">
+    <text>分配型リンクの設置</text>
+  </string>
+  <string id="st_up_ret_c3_descr">
+    <text>２つの補助ロッドとスプリングを持つ従来より強力な機構に変更し、連射速度を強化する。</text>
+  </string>
+  <string id="st_up_ret_c3_name">
+    <text>２ロッドシステムへの変更</text>
+  </string>
+  <string id="st_up_roun_a1_descr">
+    <text>特殊な排気経路を銃のドラム部に設置し、リコイルを軽減する。</text>
+  </string>
+  <string id="st_up_roun_a1_name">
+    <text>ガスエネルギーの利用</text>
+  </string>
+  <string id="st_up_roun_a2_descr">
+    <text>斜めカムスロットをドラムに入れ、ガス機関の挙動をより早いものにする。</text>
+  </string>
+  <string id="st_up_roun_a2_name">
+    <text>ドラム部への斜めカムスロットの追加</text>
+  </string>
+  <string id="st_up_stk_a1_descr">
+    <text>装備を軽量化しつつ、信頼性を損なわないこの改造はヨーロッパ方面でよく見られている。</text>
+  </string>
+  <string id="st_up_stk_a1_name">
+    <text>衝撃緩和ポリマー製ストック</text>
+  </string>
+  <string id="st_up_stk_a2_descr">
+    <text>高耐久レシーバはアサルトライフルをより良い状態で保つ助けとなる。</text>
+  </string>
+  <string id="st_up_stk_a2_name">
+    <text>高耐久合金製レシーバ</text>
+  </string>
+  <string id="st_up_stk_a3_descr">
+    <text>リコイルを抑えるため、レシーバ部の先端にウェイトを取り付ける簡単な改造を施す。</text>
+  </string>
+  <string id="st_up_stk_a3_name">
+    <text>カウンターウェイトの取り付け</text>
+  </string>
+  <string id="st_up_stk_b1_descr">
+    <text>放熱効果を高めるバレルジャケットを追加することが連射速度を向上させる助けになる。</text>
+  </string>
+  <string id="st_up_stk_b1_name">
+    <text>バレルジャケットの追加</text>
+  </string>
+  <string id="st_up_stk_b2_descr">
+    <text>より運用に適したグリップを取り付けることにより、射撃時の取回しを向上させる。</text>
+  </string>
+  <string id="st_up_stk_b2_name">
+    <text>人間工学的レシーバー</text>
+  </string>
+  <string id="st_up_stk_c1_descr">
+    <text>ブルパップ式レシーバを持つ銃身にのみ施される改造で、銃器のメンテナンスをより容易なものにする。</text>
+  </string>
+  <string id="st_up_stk_c1_name">
+    <text>モジュール化レシーバ</text>
+  </string>
+  <string id="st_up_stk_c2_descr">
+    <text>このスパッタリングは銃身の過熱を防ぎ、誤作動の要因を取り除くことにより銃身の耐久度を大きく向上させる。</text>
+  </string>
+  <string id="st_up_stk_c2_name">
+    <text>レシーバ部の調整およびスパッタリング</text>
+  </string>
+  <string id="st_up_stk_c3_descr">
+    <text>軽量可動部品を傾斜のついたグリップ部に取り付け、射撃時の衝撃を反発させることにより安定性を向上させる。</text>
+  </string>
+  <string id="st_up_stk_c3_name">
+    <text>傾斜グリップ</text>
+  </string>
+  <string id="st_up_stvd_a1_descr">
+    <text>グリップ部を空洞にすることにより、装備の軽量化を図る。</text>
+  </string>
+  <string id="st_up_stvd_a1_name">
+    <text>傾斜グリップ</text>
+  </string>
+  <string id="st_up_stvd_a2_descr">
+    <text>より軽量なストックを使用する。</text>
+  </string>
+  <string id="st_up_stvd_a2_name">
+    <text>軽量ストック</text>
+  </string>
+  <string id="st_up_stvd_a3_descr">
+    <text>ポリマー製部品を使うことにより、装備の軽量化を図る。</text>
+  </string>
+  <string id="st_up_stvd_a3_name">
+    <text>耐衝撃ポリマー製ストック</text>
+  </string>
+  <string id="st_up_stvd_b1_descr">
+    <text>重量のある部品を取り付け、リコイルを削減する。</text>
+  </string>
+  <string id="st_up_stvd_b1_name">
+    <text>カウンターウェイトの追加</text>
+  </string>
+  <string id="st_up_stvd_b2_descr">
+    <text>装備を取り回しやすいよう、近代的で持ちやすいグリップを取り付ける。</text>
+  </string>
+  <string id="st_up_stvd_b2_name">
+    <text>人間工学的グリップ</text>
+  </string>
+  <string id="st_up_stvd_b3_descr">
+    <text>耐衝撃グリップを取り付ける事によりリコイルを削減する</text>
+  </string>
+  <string id="st_up_stvd_b3_name">
+    <text>耐衝撃グリップ</text>
+  </string>
+  <string id="st_up_stvd_b4_descr">
+    <text>装備を取り回しやすいよう、近代的で持ちやすいストックを取り付ける。</text>
+  </string>
+  <string id="st_up_stvd_b4_name">
+    <text>人間工学的ストック</text>
+  </string>
+  <string id="st_up_stvd_b5_descr">
+    <text>特殊なコーティングを施すことにより、武器を劣化から守る。</text>
+  </string>
+  <string id="st_up_stvd_b5_name">
+    <text>耐劣化コーティング</text>
+  </string>
+  <string id="st_up_stvd_c1_descr">
+    <text>ストック部に接続される「水星」リコイル吸収剤は、射撃時の衝撃を一部緩和する。</text>
+  </string>
+  <string id="st_up_stvd_c1_name">
+    <text>「水星」リコイル吸収剤</text>
+  </string>
+  <string id="st_up_stvd_c2_descr">
+    <text>遊底部を移動する自由可動式カウンターウェイトにより射撃時のリコイルを軽減する。</text>
+  </string>
+  <string id="st_up_stvd_c2_name">
+    <text>推進カウンターウェイトの追加</text>
+  </string>
+  <string id="st_up_stvh_a1_descr">
+    <text>使用素材の変更により、銃身が発砲時に受けるダメージを軽減し、連射速度が向上する。</text>
+  </string>
+  <string id="st_up_stvh_a1_name">
+    <text>高耐久耐熱性合金</text>
+  </string>
+  <string id="st_up_stvh_b1_descr">
+    <text>武器を射撃時の高温化から守る、非常に重要な改造を施す。</text>
+  </string>
+  <string id="st_up_stvh_b1_name">
+    <text>耐熱ジャケットの追加</text>
+  </string>
+  <string id="st_up_stvh_b2_descr">
+    <text>技術面での向上により、困難を極める銃身へのフィン追加が可能になった。</text>
+  </string>
+  <string id="st_up_stvh_b2_name">
+    <text>バレル部のフィン追加</text>
+  </string>
+  <string id="st_up_stvh_c1_descr">
+    <text>新型のバレルに交換することにより、精度を向上させることが出来る。</text>
+  </string>
+  <string id="st_up_stvh_c1_name">
+    <text>バレル交換</text>
+  </string>
+  <string id="st_up_stvp_a1_descr">
+    <text>より高級なフレームを使用することにより、耐久度を向上させる。</text>
+  </string>
+  <string id="st_up_stvp_a1_name">
+    <text>チタン製フレーム</text>
+  </string>
+  <string id="st_up_stvp_a2_descr">
+    <text>この場合、鋼鉄製フレームの方がコンポジット型のものより信頼がおける。</text>
+  </string>
+  <string id="st_up_stvp_a2_name">
+    <text>鋼鉄製フレーム</text>
+  </string>
+  <string id="st_up_stvp_b1_descr">
+    <text>信頼性を損なうことなくピストルのフレームを軽量のものと取り替える。</text>
+  </string>
+  <string id="st_up_stvp_b1_name">
+    <text>ポリマー製ピストルフレーム</text>
+  </string>
+  <string id="st_up_stvp_b2_descr">
+    <text>装備を取り回しやすいよう、近代的で持ちやすいグリップを取り付ける。</text>
+  </string>
+  <string id="st_up_stvp_b2_name">
+    <text>人間工学的グリップ</text>
+  </string>
+  <string id="st_up_stvp_b3_descr">
+    <text>耐衝撃グリップを取り付ける事により反動を削減する。</text>
+  </string>
+  <string id="st_up_stvp_b3_name">
+    <text>耐衝撃グリップ</text>
+  </string>
+  <string id="st_up_stvp_b4_descr">
+    <text>保護フラップを取り付けることにより装備を汚れや衝撃から守る。</text>
+  </string>
+  <string id="st_up_stvp_b4_name">
+    <text>ボディの保護加工</text>
+  </string>
+  <string id="st_up_stvp_b5_descr">
+    <text>グリップ後部をより人間工学に基づいたデザインのものに変える。</text>
+  </string>
+  <string id="st_up_stvp_b5_name">
+    <text>ストレートバックストラップ化</text>
+  </string>
+  <string id="st_up_stvp_b6_descr">
+    <text>グリップの長さを調整可能にすることにより、より人間工学に基づいた運用が可能になる。</text>
+  </string>
+  <string id="st_up_stvp_b6_name">
+    <text>アジャスタブルグリップ</text>
+  </string>
+  <string id="st_up_stvp_c1_descr">
+    <text>この改造はリコイルスプリングがグリップ内に組み込まれている銃にのみ行うことが出来る。</text>
+  </string>
+  <string id="st_up_stvp_c1_name">
+    <text>リコイルスプリング緩衝材追加</text>
+  </string>
+  <string id="st_up_stvp_c2_descr">
+    <text>より適したグリップ装甲板に交換することが、より人間工学的なグリップ形状になる。</text>
+  </string>
+  <string id="st_up_stvp_c2_name">
+    <text>グリップ装甲板交換</text>
+  </string>
+  <string id="st_up_stvs_a1_descr">
+    <text>頻繁に使用される武器に行う改造で、ジャケットの劣化を緩和する処理を施す。</text>
+  </string>
+  <string id="st_up_stvs_a1_name">
+    <text>鋼鉄網ジャケットの導入</text>
+  </string>
+  <string id="st_up_stvs_b1_descr">
+    <text>従来の自動小銃で使われた物に比べ、より効果が高くより反動を軽減できる。</text>
+  </string>
+  <string id="st_up_stvs_b1_name">
+    <text>効果的なマズルブレーキ</text>
+  </string>
+  <string id="st_up_stvs_b2_descr">
+    <text>より近代的で長距離狙撃に適した銃身に換装する。</text>
+  </string>
+  <string id="st_up_stvs_b2_name">
+    <text>ポリゴナルライフリング付き大型バレルの装着</text>
+  </string>
+  <string id="st_up_stvs_b3_descr">
+    <text>バレル部水平に密閉材を取り付け、銃身の過熱および異物の混入を防ぐ。</text>
+  </string>
+  <string id="st_up_stvs_b3_name">
+    <text>バレル密閉剤の取り付け</text>
+  </string>
+  <string id="st_up_stvs_c1_descr">
+    <text>内蔵式サプレッサーとフラッシュハイダーは隠密射撃において必需である。</text>
+  </string>
+  <string id="st_up_stvs_c1_name">
+    <text>内蔵サプレッサーの取り付け</text>
+  </string>
+  <string id="st_up_stvs_c2_descr">
+    <text>バレルチェンバー部の弧型ライフリングは通常アサルトライフルの連射速度を向上させるために使われることが多い</text>
+  </string>
+  <string id="st_up_stvs_c2_name">
+    <text>チェンバー部のライフリング</text>
+  </string>
+  <string id="st_up_usm_a1_descr">
+    <text>遊底ハンマー部に取り付けるタイプの制退器は反動の吸収とバースト射撃時の集弾性を向上させるために取り付ける。</text>
+  </string>
+  <string id="st_up_usm_a1_name">
+    <text>遊底ハンマー制退器</text>
+  </string>
+  <string id="st_up_usm_a2_descr">
+    <text>数ある人気な改造の中でもシンプルなもので、トリガープルを軽くする。シンプルかつ効果的である。</text>
+  </string>
+  <string id="st_up_usm_a2_name">
+    <text>トリガープル軽量化</text>
+  </string>
+  <string id="st_up_usm_b1_descr">
+    <text>様々な材質で構成された特注品の部品を組み込む。その分値は張るが、銃器の耐久度を向上させる。</text>
+  </string>
+  <string id="st_up_usm_b1_name">
+    <text>発射装置部品のコンポジット化</text>
+  </string>
+  <string id="st_up_usm_b2_descr">
+    <text>耐久性と命中率を犠牲に連射速度を向上させる。</text>
+  </string>
+  <string id="st_up_usm_b2_name">
+    <text>トリガーディレイ機器の装着</text>
+  </string>
+  <string id="st_up_usm_b3_descr">
+    <text>リリース部のスプリングを取り外すことにより、初弾の発射を0.5秒早くすることが出来る。あまり効率的ではないと思うかもしれないが、その0.5秒が生と死の境になる。</text>
+  </string>
+  <string id="st_up_usm_b3_name">
+    <text>バネ無しリリース</text>
+  </string>
+  <string id="st_up_usm_c1_descr">
+    <text>部品表面を硬質加工で保護し、動作不良による不発を無くす。</text>
+  </string>
+  <string id="st_up_usm_c1_name">
+    <text>部品のスパッタリング</text>
+  </string>
+  <string id="st_up_usm_c2_descr">
+    <text>取り付けにネジを使用しない発射機構を使うことで、自動装填の効率化により連射速度が向上する。</text>
+  </string>
+  <string id="st_up_usm_c2_name">
+    <text>ネジ無し発射機構の使用</text>
+  </string>
+  <string id="st_up_usm_c3_descr">
+    <text>この低衝撃システムは弾丸を叩くのでなく、特殊なハンマーを用いる事で弾丸を貫き、射撃時の衝撃を緩和している。</text>
+  </string>
+  <string id="st_up_usm_c3_name">
+    <text>低衝撃発射機構の導入</text>
+  </string>
+  <string id="st_up_usmp_a1_descr">
+    <text>初弾が発射されるとトリガー部が通常位置から撃発位置まで後退し、そのまま順じて撃発を行う仕組みになっている。</text>
+  </string>
+  <string id="st_up_usmp_a1_name">
+    <text>ダブルトリガー発射機構</text>
+  </string>
+  <string id="st_up_usmp_b1_descr">
+    <text>数ある人気な改造の中でもシンプルなもので、トリガープルを軽くする。シンプルかつ効果的である。</text>
+  </string>
+  <string id="st_up_usmp_b1_name">
+    <text>トリガープル軽量化</text>
+  </string>
+  <string id="st_up_usmp_b2_descr">
+    <text>初弾発射後、次弾発射の予備動作を行うことにより余分な機会動作を無くし、射撃精度が向上する。</text>
+  </string>
+  <string id="st_up_usmp_b2_name">
+    <text>事前可動発射機構</text>
+  </string>
+  <string id="st_up_usmp_b3_descr">
+    <text>トリガーの引き具合のばらつきを無くし、取り回しに好影響を及ぼす。</text>
+  </string>
+  <string id="st_up_usmp_b3_name">
+    <text>セーフリリース装置</text>
+  </string>
+  <string id="st_up_usmp_b4_descr">
+    <text>銃器の遊底をより近代化されたものと取り換え、動作中の欠除などを防ぐ。</text>
+  </string>
+  <string id="st_up_usmp_b4_name">
+    <text>トリガー遊底部の大型化</text>
+  </string>
+  <string id="st_up_usmp_b5_descr">
+    <text>モジュール化された発射機構により部品交換やメンテナンスをより容易なものにし、取回しも向上させる。</text>
+  </string>
+  <string id="st_up_usmp_b5_name">
+    <text>モジュール式発射機構</text>
+  </string>
+  <string id="st_up_usmp_c1_descr">
+    <text>発射動作機構を取り付ることにより、トリガー部の動作をより円滑にすることで射撃の精度を上げる。</text>
+  </string>
+  <string id="st_up_usmp_c1_name">
+    <text>発射動作機構の設置</text>
+  </string>
+  <string id="st_up_usmp_c2_descr">
+    <text>新開発技術により、ワンタッチで射撃モードの切り替えを行うことが可能になる。</text>
+  </string>
+  <string id="st_up_usmp_c2_name">
+    <text>「ダブル」射撃モード</text>
+  </string>
+  <string id="st_up_usmp_c3_descr">
+    <text>初弾発射後、次弾を発射するまでに必要なトリガーの動きを半分にする。</text>
+  </string>
+  <string id="st_up_usmp_c3_name">
+    <text>短距離動作発射機構</text>
+  </string>
+  <string id="st_up_zat_a1_descr">
+    <text>このかなり高価な改良は実のところ新世代の銃器ではありふれたものである。</text>
+  </string>
+  <string id="st_up_zat_a1_name">
+    <text>一体式遊底の導入</text>
+  </string>
+  <string id="st_up_zat_a2_descr">
+    <text>遊底の肉厚化はエネルギーの散逸を防ぎ、低伸性を改善する。</text>
+  </string>
+  <string id="st_up_zat_a2_name">
+    <text>合成物質内挿による遊底部の肉厚化</text>
+  </string>
+  <string id="st_up_zat_a3_descr">
+    <text>名称とは異なり、交換されるのは遊底である。連射速度の向上による悪影響に耐える必要があるためである。</text>
+  </string>
+  <string id="st_up_zat_a3_name">
+    <text>高速オートマチックリリース</text>
+  </string>
+  <string id="st_up_zat_b1_descr">
+    <text>等速運動するブロックを搭載した排気孔は反動の一部を受け止める。</text>
+  </string>
+  <string id="st_up_zat_b1_name">
+    <text>可動ブロック付き排気孔の導入</text>
+  </string>
+  <string id="st_up_zat_b2_descr">
+    <text>二つ目のピストンがカウンターウェイトを動かし、遊底機構の作動による衝撃を和らげる。</text>
+  </string>
+  <string id="st_up_zat_b2_name">
+    <text>ガスピストンの追加</text>
+  </string>
+  <string id="st_up_zat_b3_descr">
+    <text>保護スパッタリングは信頼性を高めるが、より重要なのは気密性を確保することでエネルギーの過度の散逸を防ぐことである。</text>
+  </string>
+  <string id="st_up_zat_b3_name">
+    <text>遊底部保護スパッタリング</text>
+  </string>
+  <string id="st_up_zat_b4_descr">
+    <text>このような溝をレシーバーに刻む目的は、摩擦を低減するとともに小さな塵を捕らえることで遊底部分の汚れを防ぐことにある。</text>
+  </string>
+  <string id="st_up_zat_b4_name">
+    <text>異物排出溝の追加</text>
+  </string>
+  <string id="st_up_zat_b5_descr">
+    <text>合成物質を用いてガス チャンバーの直径を小さくすることによって弾丸の速度を大幅に増加させる。</text>
+  </string>
+  <string id="st_up_zat_b5_name">
+    <text>ガスエネルギーの指向化</text>
+  </string>
+  <string id="st_up_zat_b6_descr">
+    <text>遊底が閉鎖位置に戻る際に銃身内を通る空気の流れを生み出し、銃身を冷却する。</text>
+  </string>
+  <string id="st_up_zat_b6_name">
+    <text>強制冷却</text>
+  </string>
+  <string id="st_up_zat_c1_descr">
+    <text>銃の遊底が銃身に平行にスライドすることで銃身が上に跳ね上がるのを防ぐ。</text>
+  </string>
+  <string id="st_up_zat_c1_name">
+    <text>クリーピング ボルトの導入</text>
+  </string>
+  <string id="st_up_zat_c2_descr">
+    <text>ガスピストンの導入によりレシーバーに発射ガスが入らなくなり、銃の汚れが大きく軽減される。</text>
+  </string>
+  <string id="st_up_zat_c2_name">
+    <text>ガスピストンの導入</text>
+  </string>
+  <string id="st_up_zat_c3_descr">
+    <text>このシステムは発射ガスの一部を利用し、遊底の動きを改善するのに用いる。</text>
+  </string>
+  <string id="st_up_zat_c3_name">
+    <text>ガス圧作動方式</text>
+  </string>
+  <string id="st_up_zat_c4_descr">
+    <text>機関部の交換はガスピストンの改良よりも効果的である。銃の連射速度を大幅に向上させる。</text>
+  </string>
+  <string id="st_up_zat_c4_name">
+    <text>ショートストロークガスピストン</text>
+  </string>
+  <string id="st_up_zat_c5_descr">
+    <text>ローラーロッキング機構は現代の銃器によく用いられており、反動を軽減し集弾性を高める。</text>
+  </string>
+  <string id="st_up_zat_c5_name">
+    <text>ローラーロッキング式ディレードブローバックへの変更</text>
+  </string>
+  <string id="st_up_zath_a1_descr">
+    <text>熱の一部を吸収することにより、射撃時の銃の温度変化を低減する。</text>
+  </string>
+  <string id="st_up_zath_a1_name">
+    <text>熱吸収部品　</text>
+  </string>
+  <string id="st_up_zath_b1_descr">
+    <text>ガスピストンの稼動範囲を長くすると銃の全長が若干伸びるが、低伸性を極めて大きく向上させることができる。</text>
+  </string>
+  <string id="st_up_zath_b1_name">
+    <text>ガスピストンストローク延長</text>
+  </string>
+  <string id="st_up_zath_b2_descr">
+    <text>可動式の緩衝器は発砲時の反動を銃全体に等しく分散させ、その強さを弱める。</text>
+  </string>
+  <string id="st_up_zath_b2_name">
+    <text>特殊な可動緩衝部品の導入</text>
+  </string>
+  <string id="st_up_zath_c1_descr">
+    <text>エジェクターの働きによって銃身の一部を対称に強制冷却することで過熱を防ぐ。</text>
+  </string>
+  <string id="st_up_zath_c1_name">
+    <text>等量強制冷却システム</text>
+  </string>
+  <string id="st_up_zatp_a1_descr">
+    <text>これ導入することにで余分な反動による他部品を損傷を防ぎつつ、連射速度を向上することが出来る。</text>
+  </string>
+  <string id="st_up_zatp_a1_name">
+    <text>可動式遊底部</text>
+  </string>
+  <string id="st_up_zatp_b1_descr">
+    <text>弾丸への運動エネルギーより効率的に送り込める事により、低伸性が増す。</text>
+  </string>
+  <string id="st_up_zatp_b1_name">
+    <text>遊底部による薬室閉鎖システム</text>
+  </string>
+  <string id="st_up_zatp_b2_descr">
+    <text>遊底の後退を延滞させることで反動を軽減する。</text>
+  </string>
+  <string id="st_up_zatp_b2_name">
+    <text>ディレードブローバック</text>
+  </string>
+  <string id="st_up_zatp_b3_descr">
+    <text>スパッタリングにより銃の劣化を防ぐ。</text>
+  </string>
+  <string id="st_up_zatp_b3_name">
+    <text>遊底にスパッタリングを施す</text>
+  </string>
+  <string id="st_up_zatp_b4_descr">
+    <text>弾丸への運動エネルギーより効率的に送り込める事により、低伸性が増す。</text>
+  </string>
+  <string id="st_up_zatp_b4_name">
+    <text>ティルトバレルショートリコイル</text>
+  </string>
+  <string id="st_up_zatp_b5_descr">
+    <text>より重量のあるクローズドボルトを使用することで、遊底部の誤作動を防ぐ事が出来る。</text>
+  </string>
+  <string id="st_up_zatp_b5_name">
+    <text>強化クローズドボルト</text>
+  </string>
+  <string id="st_up_zatp_b6_descr">
+    <text>小型の緩衝材により反動の一部を吸収する。</text>
+  </string>
+  <string id="st_up_zatp_b6_name">
+    <text>ポリマー製反動緩衝材</text>
+  </string>
+  <string id="st_up_zatp_b7_descr">
+    <text>スチール製部品を取り付けることで反動を軽減させる事ができる。</text>
+  </string>
+  <string id="st_up_zatp_b7_name">
+    <text>ネジ込み式スチールインサート装着</text>
+  </string>
+  <string id="st_up_zatp_b8_descr">
+    <text>遊底の動作範囲を広げ、内部構造をより丈夫なものに変えることにより低伸性を向上させる。</text>
+  </string>
+  <string id="st_up_zatp_b8_name">
+    <text>ボルトストローク拡大</text>
+  </string>
+  <string id="st_up_zatp_c1_descr">
+    <text>遊底部の動作範囲が短いほど、銃の低伸性を損なうことなく連射速度を上げられる。</text>
+  </string>
+  <string id="st_up_zatp_c1_name">
+    <text>ボルトストローク短縮</text>
+  </string>
+  <string id="st_up_zatp_c2_descr">
+    <text>遊底の動作範囲が長いほど、銃弾の持つ運動エネルギーも大きくなる。</text>
+  </string>
+  <string id="st_up_zatp_c2_name">
+    <text>バレルストローク拡大</text>
+  </string>
+  <string id="st_up_zatp_c3_descr">
+    <text>機関部の交換はガスピストンの改良より効果的だ。これにより連射速度が向上する。</text>
+  </string>
+  <string id="st_up_zatp_c3_name">
+    <text>短動作リコイル流用装置の導入</text>
+  </string>
+  <string id="st_up_zatp_c4_descr">
+    <text>この部品を取り付けることで射撃速度を犠牲にすることなく、集弾性を向上させる事が出来る。</text>
+  </string>
+  <string id="st_up_zatp_c4_name">
+    <text>二重リコイルスプリング</text>
+  </string>
+  <string id="st_up_zatp_c5_descr">
+    <text>追加の噴出口開けることで、反動を大きく軽減出来る。</text>
+  </string>
+  <string id="st_up_zatp_c5_name">
+    <text>銃身一体式コンペンセイター</text>
+  </string>
+  <string id="st_up_zatp_c6_descr">
+    <text>より近代化された機関部に換装し、フルオート射撃を可能にする。</text>
+  </string>
+  <string id="st_up_zatp_c6_name">
+    <text>フルオートモード</text>
+  </string>
+  <string id="st_up_zatp_c7_descr">
+    <text>機関部を 3 点バーストモード用の物に換装する。</text>
+  </string>
+  <string id="st_up_zatp_c7_name">
+    <text>3 点バーストモード</text>
+  </string>
+  <string id="st_upgr_cost">
+    <text>費用</text>
+  </string>
+  <string id="st_upgr_disable">
+    <text>改造することができない</text>
+  </string>
+  <string id="st_upgr_installed">
+    <text>改造済み</text>
+  </string>
+  <string id="st_upgrade_install">
+    <text>本当に改造していいのか？</text>
+  </string>
+  <string id="st_prop_autolock">
+    <text>目標捕捉機能</text>
+  </string>
+  <string id="st_prop_autolockscope">
+    <text>目標捕捉機能</text>
+  </string>
+  <string id="st_prop_scope_5x">
+    <text>5 倍率スコープ　</text>
+  </string>
+  <string id="st_prop_scope_6x">
+    <text>6 倍率スコープ　</text>
+  </string>
+  <string id="st_prop_scope_12x">
+    <text>12 倍率スコープ　</text>
+  </string>
+  <string id="st_prop_scope_15x">
+    <text>15 倍率スコープ　</text>
+  </string>
+  <string id="st_prop_scanner">
+    <text>サーマルセンサー</text>
+  </string>
+  <string id="st_prop_weightoutfit">
+    <text>ボディアーマーの重量</text>
+  </string>
+  <string id="st_prop_night_vision_2">
+    <text>PN21KL暗視装置</text>
+  </string>
+  <string id="st_prop_night_vision_3">
+    <text>アップデートされたPN21KL暗視装置</text>
+  </string>
+  <string id="st_prop_night_vision_10">
+    <text>アップデートされたPN21KL暗視装置</text>
+  </string>
+  <string id="st_prop_scope_attach">
+    <text>スコープマウント</text>
+  </string>
+  <string id="st_int_silencer">
+    <text>統合型サイレンサー</text>
+  </string>
+  <string id="st_prop_grenade_launcher">
+    <text>アンダーバレル グレネードランチャー</text>
+  </string>
+  <string id="st_prop_restore_bleeding">
+    <text>出血回復</text>
+  </string>
+  <string id="st_prop_restore_health">
+    <text>ヘルス回復</text>
+  </string>
+  <string id="st_prop_night_vision">
+    <text>1PN93-1暗視装置</text>
+  </string>
+  <string id="st_prop_scope">
+    <text>アジャスタブルサイト</text>
+  </string>
+  <string id="st_prop_contrast">
+    <text>ハイコントラストサイト</text>
+  </string>
+  <string id="st_prop_sprint">
+    <text>駆動モーター強化</text>
+  </string>
+  <string id="st_prop_durability">
+    <text>スーツの耐久性</text>
+  </string>
+  <string id="st_prop_not_available">
+    <text>必要な武器の段階 : </text>
+  </string>
+  <string id="st_prop_not_available_no_reason">
+    <text>この武器は改造に対応していない</text>
+  </string>
+  <string id="st_gauss_cannot_be_repaired">
+    <text>この武器の動作方式は特殊な物である。この銃の構造に関する更なる情報が無ければ修理はできない。</text>
+  </string>
+  <string id="st_upgr_cant_do">
+    <text>この技術屋には改造することができない</text>
+  </string>
+  <string id="st_upgr_group">
+    <text>この部分は既に改造されている</text>
+  </string>
+  <string id="st_upgr_enough_money">
+    <text>所持金が足りない</text>
+  </string>
+  <string id="st_no_buck">
+    <text>散弾は撃てない</text>
+  </string>
+  <string id="st_auto_fire">
+    <text>フルオート</text>
+  </string>
+  <string id="st_semi_auto_fire">
+    <text>3 点バースト</text>
+  </string>
+  <string id="st_prop_artefact">
+    <text>装甲に取り付け可能なモジュールの数</text>
+  </string>
+  <string id="st_upgr_vodka">
+    <text>技術屋はウォッカを必要としている</text>
+  </string>
+  <string id="st_upgr_toolkit_1">
+    <text>技術屋はベーシック ツールを必要としている</text>
+  </string>
+  <string id="st_upgr_toolkit_2">
+    <text>技術屋はアドバンス ツールを必要としている</text>
+  </string>
+  <string id="st_upgr_toolkit_3">
+    <text>技術屋はエキスパート ツールを必要としている</text>
+  </string>
+  <string id="st_upgr_condlist">
+    <text>技術屋は追加のツールを必要としている</text>
+  </string>
+  <string id="st_upgr_parents">
+    <text>前段階の改造が必要</text>
+  </string>
+  <string id="st_upgr_rusty_profile">
+    <text>武器が錆びているため、機械的な加工は不可能</text>
+  </string>
+  <string id="st_upgr_worn_profile">
+    <text>基準となるレベル以上に腐食しているため、改造は不可能</text>
+  </string>
+  <string id="st_upgr_standard_profile">
+    <text>改造を実行するには、武器をより近代化させなければならない</text>
+  </string>
+  <string id="st_upgr_no_reason">
+    <text>このアイテムは改造不可能だ</text>
+  </string>
+  <string id="st_up_arm_c9_name">
+    <text>アルマジロ人工サファイヤ製防護コーティング</text>
+  </string>
+  <string id="st_up_arm_c5_name">
+    <text>強化チタン、ベリリウム使用基板</text>
+  </string>
+  <string id="st_up_arm_c7_name">
+    <text>超炭素繊維コーティング</text>
+  </string>
+  <string id="st_up_kom_a5_name">
+    <text>ゴム製アンダーウェア</text>
+  </string>
+  <string id="st_up_upgrade_not_available_name">
+    <text>改造は適用できない</text>
+  </string>
+  <string id="st_up_upgrade_not_available_descr">
+    <text>このアイテムでは、この改造項目は選択できない。</text>
+  </string>
+  <string id="st_up_arm_a1_descr">
+    <text>チタン製装甲板の数が増加すると、スーツの耐久性が大幅に向上する。</text>
+  </string>
+  <string id="st_up_arm_a1_name">
+    <text>追加のアルミニウム/チタン製装甲板</text>
+  </string>
+  <string id="st_up_arm_a2_descr">
+    <text>補強装甲板はより長持ちするが、その分防御面に欠ける。</text>
+  </string>
+  <string id="st_up_arm_a2_name">
+    <text>ケブラー製装甲板</text>
+  </string>
+  <string id="st_up_arm_a3_descr">
+    <text>アルミニウム チタン合金は、個人用の防護装備に使用されるチタンの軽量化を可能にする。</text>
+  </string>
+  <string id="st_up_arm_a3_name">
+    <text>アルミニウム チタン製装甲板追加</text>
+  </string>
+  <string id="st_up_arm_a4_descr">
+    <text>チタンは通常、個人用装備に使用するには重過ぎるが外強化骨格では適用可能である。</text>
+  </string>
+  <string id="st_up_arm_a4_name">
+    <text>チタン化</text>
+  </string>
+  <string id="st_up_arm_a5_descr">
+    <text>金属を炭素繊維に置き換えることで、信頼性を犠牲にすることなく、防護服の重量を減らすことができる。</text>
+  </string>
+  <string id="st_up_arm_a5_name">
+    <text>金属製のボディアーマーコンポーネントをカーボンファイバーに交換する</text>
+  </string>
+  <string id="st_up_arm_a6_descr">
+    <text>ケブラーは防弾チョッキの中で最も一般的に使用される材料のひとつである。</text>
+  </string>
+  <string id="st_up_arm_a6_name">
+    <text>ケブラー製装甲板追加</text>
+  </string>
+  <string id="st_up_arm_a7_descr">
+    <text>ポリカーボネイトは通常のプラスチックのような質量だが拳銃弾をストップさせられる。</text>
+  </string>
+  <string id="st_up_arm_a7_name">
+    <text>ポリカーボネイト製装甲板追加</text>
+  </string>
+  <string id="st_up_arm_a8_descr">
+    <text>セラミック製装甲板は長持ちしないが、弾丸の衝撃を無効化する機能が改善しているため、ケブラー製よりも信頼性が高くなる。</text>
+  </string>
+  <string id="st_up_arm_a8_name">
+    <text>セラミック製装甲板追加</text>
+  </string>
+  <string id="st_up_arm_a9_descr">
+    <text>スーツに鋼鉄製装甲板を取り付ける。</text>
+  </string>
+  <string id="st_up_arm_a9_name">
+    <text>鋼鉄製装甲板の追加</text>
+  </string>
+  <string id="st_up_arm_b1_descr">
+    <text>セラミックの外層は、斜めから衝突する徹甲弾をそらすことができ、真っ直ぐ衝突する徹甲弾を細かな塵に砕くことができる。</text>
+  </string>
+  <string id="st_up_arm_b1_name">
+    <text>セラミック製ボディアーマー外層</text>
+  </string>
+  <string id="st_up_arm_b2_descr">
+    <text>外層が損傷した場合の追加の内部装甲層。</text>
+  </string>
+  <string id="st_up_arm_b2_name">
+    <text>予備防護装甲板を追加する</text>
+  </string>
+  <string id="st_up_arm_b3_descr">
+    <text>衝撃をより広範囲に分散させるインナーレイヤーを持つアーマー。</text>
+  </string>
+  <string id="st_up_arm_b3_name">
+    <text>緩衝材の追加</text>
+  </string>
+  <string id="st_up_arm_b4_descr">
+    <text>本体の装甲が損傷しても、フレームはピストルの弾を止めることができる。</text>
+  </string>
+  <string id="st_up_arm_b4_name">
+    <text>追加の装甲フレーム</text>
+  </string>
+  <string id="st_up_arm_b5_descr">
+    <text>より薄いアーマーを重ねることで、耐摩耗性を高める。</text>
+  </string>
+  <string id="st_up_arm_b5_name">
+    <text>多層化装甲</text>
+  </string>
+  <string id="st_up_arm_b6_descr">
+    <text>装甲板を追加するだけで防護性能が向上する訳では無いが、安全性は向上する。</text>
+  </string>
+  <string id="st_up_arm_b6_name">
+    <text>予備の二重レイヤー</text>
+  </string>
+  <string id="st_up_arm_b7_descr">
+    <text>可動式装甲板が関節部への銃撃による負傷を防ぐ。</text>
+  </string>
+  <string id="st_up_arm_b7_name">
+    <text>関節部防護用可動式装甲板の追加</text>
+  </string>
+  <string id="st_up_arm_b8_descr">
+    <text>鋼鉄製のフレームに代わり、より軽量なアルミ製フレームを装甲板に採用する。</text>
+  </string>
+  <string id="st_up_arm_b8_name">
+    <text>軽量化されたアルミフレーム</text>
+  </string>
+  <string id="st_up_arm_b9_descr">
+    <text>ボディアーマーから受ける弾丸の衝撃を軽減するために、内層を厚くする。</text>
+  </string>
+  <string id="st_up_arm_b9_name">
+    <text>厚手のレザーシート</text>
+  </string>
+  <string id="st_up_arm_c10_descr">
+    <text>シリコン補強を施したセラミックレイヤーを追加。</text>
+  </string>
+  <string id="st_up_arm_c10_name">
+    <text>補強セラミック装甲板</text>
+  </string>
+  <string id="st_up_arm_c11_descr">
+    <text>ボディアーマーの軽量化のために軽量素材を使用する。</text>
+  </string>
+  <string id="st_up_arm_c11_name">
+    <text>軽量合成物質とプラスチック製部品への換装</text>
+  </string>
+  <string id="st_up_arm_c12_descr">
+    <text>本来、チタン製装甲板は歩兵用装備向けとしてはあまりにも重たいのだが、強化外骨格の運動補助機能により装着が可能になった。</text>
+  </string>
+  <string id="st_up_arm_c12_name">
+    <text>胸甲チタンアーマー</text>
+  </string>
+  <string id="st_up_arm_c13_descr">
+    <text>SBK-RKhZ.m.II は「特殊対放射性物質防護戦闘用ボディスーツ 2 型」の略称である。</text>
+  </string>
+  <string id="st_up_arm_c13_name">
+    <text>SBK-RKhZ.m.II　対放射線気密式防護ボディースーツ　</text>
+  </string>
+  <string id="st_up_arm_c1_descr">
+    <text>この労力と時間のかかるアップグレードはあまり人気がないが、命拾いできる事は皆知っている。</text>
+  </string>
+  <string id="st_up_arm_c1_name">
+    <text>チェーンメイル付きアンダーシャツ</text>
+  </string>
+  <string id="st_up_arm_c2_descr">
+    <text>このスケールは、セラミック製装甲板を重ね合わせているため、同じ場所を2回連続して被弾することを防ぐことができる。</text>
+  </string>
+  <string id="st_up_arm_c2_name">
+    <text>偏向セラミックスケイルの装着</text>
+  </string>
+  <string id="st_up_arm_c3_descr">
+    <text>一度ソブリン特殊溶剤で加工されれば、ボディスーツは布地の破損や物理的衝撃によるダメージをほぼ完全に防ぐことが出来る。</text>
+  </string>
+  <string id="st_up_arm_c3_name">
+    <text>ソブリン溶液加工</text>
+  </string>
+  <string id="st_up_arm_c4_descr">
+    <text>着弾時に剥がれるセラミックを装甲板に加工することにより、被弾時の衝撃を和らげることが出来る。</text>
+  </string>
+  <string id="st_up_arm_c4_name">
+    <text>装甲板のセラミック加工</text>
+  </string>
+  <string id="st_up_arm_c5_descr">
+    <text>アルミニウムの代わりにベリリウムを使用する強化マトリックスは、歩兵を守るのに最も信頼できる方法の1つ。</text>
+  </string>
+  <string id="st_up_arm_c6_descr">
+    <text>着弾時に剥がれるセラミックを加工することにより弾丸の衝撃を和らげることが出来る。</text>
+  </string>
+  <string id="st_up_arm_c6_name">
+    <text>装甲板のセラミック加工</text>
+  </string>
+  <string id="st_up_arm_c7_descr">
+    <text>カーボン繊維は、最も耐久性 耐摩耗性のある材料の1つであり、航空機材にも使用されている。</text>
+  </string>
+  <string id="st_up_arm_c8_descr">
+    <text>合成複層式ポリマーとセラミックによるコーティング。</text>
+  </string>
+  <string id="st_up_arm_c8_name">
+    <text>スクリーニング付き装甲板コーティング</text>
+  </string>
+  <string id="st_up_arm_c9_descr">
+    <text>国内の最新テクノロジーを駆使した最新鋭の防御手段は人工サファイヤによる加工である。</text>
+  </string>
+  <string id="st_up_exo_a1_descr">
+    <text>運動装置を追加することによって最大積載加重を増加させる。</text>
+  </string>
+  <string id="st_up_exo_a1_name">
+    <text>サーボモータの追加</text>
+  </string>
+  <string id="st_up_exo_b1_descr">
+    <text>Freedomの技術屋は、強化外骨格の巨大な重量を考慮して、金属をカーボン繊維に置き換える最初の技術を開発した。</text>
+  </string>
+  <string id="st_up_exo_b1_name">
+    <text>金属部品をカーボン繊維で置き換える</text>
+  </string>
+  <string id="st_up_exo_b2_descr">
+    <text>装甲は、強化外骨格の重要な部品を正確な射撃による損傷から防護する。</text>
+  </string>
+  <string id="st_up_exo_b2_name">
+    <text>駆動装置のアーマー化</text>
+  </string>
+  <string id="st_up_exo_c1_descr">
+    <text>スプリングと関節部を強化し、強化外骨格装着者の自重を駆動装置に利用する。</text>
+  </string>
+  <string id="st_up_exo_c1_name">
+    <text>シャゴホッド簡易駆動システム</text>
+  </string>
+  <string id="st_up_exo_c2_descr">
+    <text>第三世代モデルと違い第四世代強化外骨格には高油圧式ブースターが導入されており、これにより強化外骨格でのスプリントが可能になる。</text>
+  </string>
+  <string id="st_up_exo_c2_name">
+    <text>駆動装置に油圧式ブースター導入</text>
+  </string>
+  <string id="st_up_kom_a1_descr">
+    <text>柔らかい布製のレイヤーを挿入することにより、装甲板に衝撃を食らった際に人体が受ける損傷を軽減する。</text>
+  </string>
+  <string id="st_up_kom_a1_name">
+    <text>クッションレイヤー</text>
+  </string>
+  <string id="st_up_kom_a2_descr">
+    <text>ゴムに代わり、シリコン製のレイヤーを取り付けることにより一層効率的に着用者を衝撃から守る。</text>
+  </string>
+  <string id="st_up_kom_a2_name">
+    <text>シリコンレイヤー</text>
+  </string>
+  <string id="st_up_kom_a3_descr">
+    <text>生地、クリップ、および増粘剤は、より軽い合成材料に置き換えられ、装甲重量が削減される。</text>
+  </string>
+  <string id="st_up_kom_a3_name">
+    <text>軽量素材の使用</text>
+  </string>
+  <string id="st_up_kom_a4_descr">
+    <text>ゴム加工を施すことにより、装甲板に衝撃が加わる際に人体が受ける損傷を軽減する。</text>
+  </string>
+  <string id="st_up_kom_a4_name">
+    <text>ゴム製レイヤー</text>
+  </string>
+  <string id="st_up_kom_a5_descr">
+    <text>生地が破れた時に備えて、下生地を取り付ける。</text>
+  </string>
+  <string id="st_up_kom_a6_descr">
+    <text>メインアーマーが貫通した場合に備えて、ポリカーボネート、シリコン、カーボンファイバーの多層構造の内層を採用する。</text>
+  </string>
+  <string id="st_up_kom_a6_name">
+    <text>防護ポリマーレイヤーの導入</text>
+  </string>
+  <string id="st_up_kom_a7_descr">
+    <text>Freedom製の気密性に優れたスーツは、アノマリー地帯でのアーティファクト探索で重宝される。</text>
+  </string>
+  <string id="st_up_kom_a7_name">
+    <text>閉鎖式対アノマリー防護スーツ　</text>
+  </string>
+  <string id="st_up_kom_a8_descr">
+    <text>外部層が損傷した時のための合成物質性気密層。</text>
+  </string>
+  <string id="st_up_kom_a8_name">
+    <text>合成物質層</text>
+  </string>
+  <string id="st_up_kom_b10_descr">
+    <text>ラバー構造を採用した人間工学に基づいた数々の調整により、かさばるアーマーを装着していても可動性を維持することができる。</text>
+  </string>
+  <string id="st_up_kom_b10_name">
+    <text>ゴム利用高機動ボディスーツ　</text>
+  </string>
+  <string id="st_up_kom_b11_descr">
+    <text>コンスタンタンは電気絶縁性を持ち、融点が非常に高い。</text>
+  </string>
+  <string id="st_up_kom_b11_name">
+    <text>コンスタンタン製熱的分離内挿</text>
+  </string>
+  <string id="st_up_kom_b12_descr">
+    <text>鉛は3つのタイプの放射線をすべて吸収するので、放射線に対する確実な防御となる。</text>
+  </string>
+  <string id="st_up_kom_b12_name">
+    <text>ボディスーツに鉛を追加</text>
+  </string>
+  <string id="st_up_kom_b1_descr">
+    <text>雨や腐食性の物質が肌に触れないようにするための基本的な防御。</text>
+  </string>
+  <string id="st_up_kom_b1_name">
+    <text>キャンバス地のボディスーツ　</text>
+  </string>
+  <string id="st_up_kom_b2_descr">
+    <text>耐火性物質で処理した生地は炎系のアーティファクトを探すストーカーの間で好まれている。</text>
+  </string>
+  <string id="st_up_kom_b2_name">
+    <text>耐火性物質で処理した生地</text>
+  </string>
+  <string id="st_up_kom_b3_descr">
+    <text>マグネシウムの内挿は着用者を熱的危険から守る。</text>
+  </string>
+  <string id="st_up_kom_b3_name">
+    <text>マグネシウム装甲板の挿入</text>
+  </string>
+  <string id="st_up_kom_b4_descr">
+    <text>単純なプラスチックの内部層があるだけでも化学的 電気的危険から着用者を守ることができる。</text>
+  </string>
+  <string id="st_up_kom_b4_name">
+    <text>気密型プラスチック製内部層</text>
+  </string>
+  <string id="st_up_kom_b5_descr">
+    <text>布地、クリップ、増粘剤をより軽い合成素材に変更し、装甲重量を低減。</text>
+  </string>
+  <string id="st_up_kom_b5_name">
+    <text>生地を合成物質に変更</text>
+  </string>
+  <string id="st_up_kom_b6_descr">
+    <text>プレキシグラスは鉛よりもずっと軽量であるが、二つの種類の放射線を吸収する。</text>
+  </string>
+  <string id="st_up_kom_b6_name">
+    <text>放射線防御用プレキシグラス製内部層</text>
+  </string>
+  <string id="st_up_kom_b7_descr">
+    <text>化学的 電気的危険に対する信頼性の高い防護である。</text>
+  </string>
+  <string id="st_up_kom_b7_name">
+    <text>気密型弾性プラスチック製内部層</text>
+  </string>
+  <string id="st_up_kom_b8_descr">
+    <text>コンスタンタンの薄い膜は電気を絶縁する能力を有する。</text>
+  </string>
+  <string id="st_up_kom_b8_name">
+    <text>絶縁用コンスタンタン製内部層</text>
+  </string>
+  <string id="st_up_kom_b9_descr">
+    <text>ファイバーグラスは自然災害対応チームが着用するボディースーツに使用されている。</text>
+  </string>
+  <string id="st_up_kom_b9_name">
+    <text>熱伝導性ファイバーグラスによる防護 </text>
+  </string>
+  <string id="st_up_kom_c1_descr">
+    <text>含浸布は化学物質による中毒を防ぐ。</text>
+  </string>
+  <string id="st_up_kom_c1_name">
+    <text>含浸布製ボディスーツ　</text>
+  </string>
+  <string id="st_up_kom_c2_descr">
+    <text>ゴムは短時間の放射線曝露に対する基本的な防御方法である。</text>
+  </string>
+  <string id="st_up_kom_c2_name">
+    <text>ゴム引き布製ボディスーツ　</text>
+  </string>
+  <string id="st_up_kom_c3_descr">
+    <text>ストーカースーツの耐久性を高めるために用いられる。</text>
+  </string>
+  <string id="st_up_kom_c3_name">
+    <text>遮蔽式高耐久性防護フレーム</text>
+  </string>
+  <string id="st_up_kom_c4_descr">
+    <text>ボディアーマーの内層に使用されるほどの耐火性を持つニッケル</text>
+  </string>
+  <string id="st_up_kom_c4_name">
+    <text>ニッケル内挿型耐火ボディスーツ　</text>
+  </string>
+  <string id="st_up_kom_c5_descr">
+    <text>このニッケルとマグネシウムの合金は、感電を防ぐためアーマーに使用される。</text>
+  </string>
+  <string id="st_up_kom_c5_name">
+    <text>マンガニン内挿型絶縁ボティスーツ　</text>
+  </string>
+  <string id="st_up_kom_c6_descr">
+    <text>防サビ層とケブラー装甲を備えた気密ボディスーツ。</text>
+  </string>
+  <string id="st_up_kom_c6_name">
+    <text>「第2の皮膚」一体型装甲ボディスーツ</text>
+  </string>
+  <string id="st_up_kom_c7_descr">
+    <text>かつてキエフ研究所で Ecologist用スーツを開発する際に使用されていた、詳細不明の新型ポリマー製のビスマスを詰めた空孔を有するボディスーツ。</text>
+  </string>
+  <string id="st_up_kom_c7_name">
+    <text>Ecologistポリマー製ボディスーツ（ビスマス内挿使用）</text>
+  </string>
+  <string id="st_up_kom_c8_descr">
+    <text>鉛のメッシュは機動性を損なうことなく放射線と化学物質に対する完全な防護を生み出す。</text>
+  </string>
+  <string id="st_up_kom_c8_name">
+    <text>「救命」プレキシグラス製ボディスーツ（鉛製フレキシブルメッシュ使用）</text>
+  </string>
+  <string id="st_up_kom_c9_descr">
+    <text>チェルノブイリの大事故の後に出現した国内開発品。強化外骨格の電子的な動作不良を防ぐ。</text>
+  </string>
+  <string id="st_up_kom_c9_name">
+    <text>「吸引」ボディスーツ（鉛内挿使用）</text>
+  </string>
+  <string id="st_up_res_a1_name">
+    <text>アクティブフィルター</text>
+  </string>
+  <string id="st_up_res_a1_descr">
+    <text>アクティブフィルターは如何なる有害化学物質からも使用者を守ることが出来る。</text>
+  </string>
+  <string id="st_up_res_a2_descr">
+    <text>この特殊なバンドを着用すると「精神波の放射」に対する耐性を少し得ることが出来る。</text>
+  </string>
+  <string id="st_up_res_a2_name">
+    <text>スチール網製「精神波の防護」バンド</text>
+  </string>
+  <string id="st_up_res_a3_descr">
+    <text>この防護マスクは空気の汚染された地帯や、呼吸するには高温又は低温すぎる地帯での使用向けに設計されている。</text>
+  </string>
+  <string id="st_up_res_b1_descr">
+    <text>遮蔽用コーティングの適用</text>
+  </string>
+  <string id="st_up_res_b1_name">
+    <text>遮蔽用コーティングの適用</text>
+  </string>
+  <string id="st_up_res_b2_descr">
+    <text>毒物除去用の防御層を追加し、耐腐食性コーティングを強化したフィルター。</text>
+  </string>
+  <string id="st_up_res_b2_name">
+    <text>汚染領域内作業用フィルター</text>
+  </string>
+  <string id="st_up_res_b3_descr">
+    <text>プレキシグラスの防護マスクは放射線に対する部分的な防御となる</text>
+  </string>
+  <string id="st_up_res_b3_name">
+    <text>プレキシグラスコーティング</text>
+  </string>
+  <string id="st_up_res_b4_descr">
+    <text>プレキシグラスの防護マスクは放射線に対する部分的な防御となる</text>
+  </string>
+  <string id="st_up_res_b4_name">
+    <text>プレキシグラス製呼吸マスク</text>
+  </string>
+  <string id="st_up_res_b5_descr">
+    <text>毒物を完全に遮断する呼吸装置</text>
+  </string>
+  <string id="st_up_res_b5_name">
+    <text>含浸布製呼吸マスク</text>
+  </string>
+  <string id="st_up_res_c1_descr">
+    <text>このベリリウム アルミニウム複合物質は、ヘルメットの重量を大幅に増加させることなく、優れた防護性能を発揮する。</text>
+  </string>
+  <string id="st_up_res_c1_name">
+    <text>ベリリウム アルミニウム装甲板</text>
+  </string>
+  <string id="st_up_res_c2_descr">
+    <text>ベリリウム チタン複合物質は大きな重量増加無しでさらに効果的な防御力を保障する。</text>
+  </string>
+  <string id="st_up_res_c2_name">
+    <text>ベリリウム チタン装甲板</text>
+  </string>
+  <string id="st_up_res_c3_descr">
+    <text>この改良型フィルターは周囲がどれほど汚染されているかに関わらず、常に同じレベルの酸素を供給する。</text>
+  </string>
+  <string id="st_up_res_c3_name">
+    <text>科学作業用改良型フィルターの導入</text>
+  </string>
+  <string id="st_up_res_c4_descr">
+    <text>サハロフという科学者が発明したとされる、ハイテクな「精神波の防護」。</text>
+  </string>
+  <string id="st_up_res_c4_name">
+    <text>「精神波ドーム」バンドの導入</text>
+  </string>
+  <string id="st_up_res_c5_descr">
+    <text>熱 電気によるダメージを防ぐ合金製防御フレーム。</text>
+  </string>
+  <string id="st_up_res_c5_name">
+    <text>サンダーバード コンスタンタン フェイスアーマー</text>
+  </string>
+  <string id="st_up_res_c6_descr">
+    <text>ヘルメットの耐久性を向上させるための追加装甲。</text>
+  </string>
+  <string id="st_up_res_c6_name">
+    <text>強化された装甲のヘルメット本体</text>
+  </string>
+  <string id="st_up_res_c7_descr">
+    <text>清浄化コーティングを追加したフィルターと毒性物質除去システム。</text>
+  </string>
+  <string id="st_up_res_c7_name">
+    <text>極限状態用強化型呼吸装置</text>
+  </string>
+  <string id="st_up_resp_a1_descr">
+    <text>ロシア軍の標準装備である1PN93-1型暗視装置。この改良版は戦闘ヘルメットに装着することができる。第2世代の映像強化を搭載しており、夜間や光量の少ない場所での活動に威力を発揮する。バッテリー区画を取り外し、UPD入力に変更した結果、総重量は約1.5kgになった。また、将来的にはより多くの機器を取り付けることができるように、取り付け用のインターフェースも備えている。UPDの消費量が多いのが特徴である。
+
+\n%c[d_cyan] ・ 高い電力消費量</text>
+  </string>
+  <string id="st_up_resp_a1_name">
+    <text>1PN93-1暗視装置</text>
+  </string>
+  <string id="st_up_resp_a2_descr">
+    <text>空気汚染区域や放射能、有害化学物質を検知した際、閉鎖呼吸システムに切り替える装置である。</text>
+  </string>
+  <string id="st_up_resp_a2_name">
+    <text>対放射能 有害化学物質防護システム</text>
+  </string>
+  <string id="st_up_resp_a3_name">
+    <text>蒸気浄化 呼吸用マスク</text>
+  </string>
+  <string id="st_up_resp_b1_descr">
+    <text>ノボシビルスク機器製造工場で製造された、最新のIIT世代のPN21KL暗視装置。ヘッドマウント型で、暗い場所での視認性が大幅に向上。画像を濃淡で表示する高度な画像処理ソフトを搭載。ベースマウントグリッドの設置が必要。重量は約270gと、他のヘルメットに比べて大幅に軽量化されている。アップグレードキットにより、レンズや画像処理ソフトの性能を向上させることができる。
+
+\n%c[d_cyan] ・ 高い電力消費量</text>
+  </string>
+  <string id="st_up_resp_b1_name">
+    <text>PN21KL暗視装置</text>
+  </string>
+  <string id="st_up_resp_b2_descr">
+    <text>サーマルバイザーを使用することにより、着用者は特定の熱源の察知を可能にする。</text>
+  </string>
+  <string id="st_up_resp_b2_name">
+    <text>自動ターゲッティングシステム</text>
+  </string>
+  <string id="st_up_resp_b3_descr">
+    <text>精神波の波長を計算した上で開発された機器は、「精神波の放射」を伴うアノマリー地帯での活動を可能にする。</text>
+  </string>
+  <string id="st_up_resp_b3_name">
+    <text>オラクル「精神波の防護機器」</text>
+  </string>
+  <string id="st_up_resp_c1_descr">
+    <text>レンズの交換、そして画像処理ソフトウェアの更新は、ビデオノイズを除去し PN21K の画像処理ユニットの能力を増強する。それにより、本格的な第三世代の IIT 暗視装置を作成する。ヘルメットの重さや UPD の消費量に変化は無い。</text>
+  </string>
+  <string id="st_up_resp_c1_name">
+    <text>PN21K ナイトビジョンのレンズの改良と画像処理ソフトウェアのアップグレード</text>
+  </string>
+  <string id="st_up_resp_c2_descr">
+    <text>イオン化された空気分子がシステムの基板内を移動することにより、電子間の移動を逆流させイオン風を作り上げる。</text>
+  </string>
+  <string id="st_up_resp_c2_name">
+    <text>イオン風冷却装置</text>
+  </string>
+  <string id="st_up_resp_c3_descr">
+    <text>赤外線を探知することにより、近くにいる人間の正確な場所がわかるようになる。</text>
+  </string>
+  <string id="st_up_resp_c3_name">
+    <text>サーマルセンサー</text>
+  </string>
+  <string id="st_up_resp_c4_descr">
+    <text>SPB VPZ.m.IV は「対精神波防護システム 4 型」を意味する。</text>
+  </string>
+  <string id="st_up_resp_c4_name">
+    <text>SPB VPZ.m.IV 戦闘システム</text>
+  </string>
+  <string id="st_up_tch_a1_descr">
+    <text>ジェネレーションA注入機はキエフ研究所で開発された技術であり、定期的に血流内に少量のアドレナリンを注入する。危険ではあるものの、このシステムは命に関わる事態には絶大な効果を持つ。</text>
+  </string>
+  <string id="st_up_tch_a1_name">
+    <text>「激怒」アドレナリン注入機</text>
+  </string>
+  <string id="st_up_tch_a2_descr">
+    <text>フィルター部に付着した有毒物質の結露を取り除くためのシステムを導入する。</text>
+  </string>
+  <string id="st_up_tch_a2_name">
+    <text>有毒物質除外機　</text>
+  </string>
+  <string id="st_up_tch_a3_descr">
+    <text>Clear Sky により開発されたこの機器は背部に装着される小型周波発生装置で、随時装着することで血液の凝固作用を向上させる。</text>
+  </string>
+  <string id="st_up_tch_a3_name">
+    <text>「光線」止血装置</text>
+  </string>
+  <string id="st_up_tch_a4_descr">
+    <text>このシステムでスーツ外部へ電流を流すことにより、有毒物質や放射性物質などの粉塵の付着を防ぐことが出来る。</text>
+  </string>
+  <string id="st_up_tch_a4_name">
+    <text>内蔵防塵システム</text>
+  </string>
+  <string id="st_up_tch_b1_descr">
+    <text>ジェネレーションB注入機は血管内の圧力が低下した際、血流内に凝固物質を注入する装置である。</text>
+  </string>
+  <string id="st_up_tch_b1_name">
+    <text>「ヒドラ」ヘモグロビン注入機</text>
+  </string>
+  <string id="st_up_tch_b2_descr">
+    <text>このシステムは身体の活動に適した温度を保つことにより、過度の身体疲労を防ぐ。</text>
+  </string>
+  <string id="st_up_tch_b2_name">
+    <text>スーツ空調システムの導入</text>
+  </string>
+  <string id="st_up_tch_b3_descr">
+    <text>胸部に装着されるこの周波発生装置は随時装着することで身体の治癒能力、免疫系、痛覚の許容範囲を大きく向上させる。</text>
+  </string>
+  <string id="st_up_tch_b3_name">
+    <text>サン生体強化装置</text>
+  </string>
+  <string id="st_up_tch_b4_descr">
+    <text>周波を利用するこの機器は、「精神波の放射」を伴うアノマリー地帯での活動を行うため設計されている。</text>
+  </string>
+  <string id="st_up_tch_b4_name">
+    <text>オラクル「精神波の防護機器」</text>
+  </string>
+  <string id="st_up_tch_c1_descr">
+    <text>ジェネレーションC注入機は戦闘用に開発された混合剤を血流中に投与し、組織の回復向上と痛みの解消を施す。</text>
+  </string>
+  <string id="st_up_tch_c1_name">
+    <text>「不死鳥」回復システム</text>
+  </string>
+  <string id="st_up_tch_c2_descr">
+    <text>これは着用者の必要に応じ、ビタミン、アドレナリン、凝固剤などを自動投与する内蔵式システムである。</text>
+  </string>
+  <string id="st_up_tch_c2_name">
+    <text>生命維持装置の導入</text>
+  </string>
+  <string id="st_up_tch_c3_descr">
+    <text>この喉部に装着する周波発生装置は、いまだその仕組みが解明されていないが非常に強力な鎮静作用をもたらす。</text>
+  </string>
+  <string id="st_up_tch_c3_name">
+    <text>「反射」精神安定装置</text>
+  </string>
+  <string id="st_up_uti_a1_descr">
+    <text>更なる動作補助機器の導入することで、最大積載量を増加させる。</text>
+  </string>
+  <string id="st_up_uti_a1_name">
+    <text>サーボモーターの追加</text>
+  </string>
+  <string id="st_up_uti_a2_descr">
+    <text>このシステムは使用者に抗テタニー剤、抗炎症剤、抗菌剤を供給する。</text>
+  </string>
+  <string id="st_up_uti_a2_name">
+    <text>フィールドドクター内蔵システム</text>
+  </string>
+  <string id="st_up_uti_a3_descr">
+    <text>汚染区域での活動のためスーツ内に空調フィルターを配備する。</text>
+  </string>
+  <string id="st_up_uti_a3_name">
+    <text>スーツ内蔵空調システム</text>
+  </string>
+  <string id="st_up_uti_a4_descr">
+    <text>人間工学に基づいて設計されたマウントをボディスーツにつけることにより荷物の重量を軽く感じるようになる。</text>
+  </string>
+  <string id="st_up_uti_a4_name">
+    <text>重量分散ベスト</text>
+  </string>
+  <string id="st_up_uti_a5_descr">
+    <text>有害化学物質や放射能物質などで空気汚染の進んだ地域で活動する時に酸素ボンベは必須である。</text>
+  </string>
+  <string id="st_up_uti_a5_name">
+    <text>酸素ボンベの追加</text>
+  </string>
+  <string id="st_up_uti_b1_descr">
+    <text>追加のアタッチメントモジュールを導入する。</text>
+  </string>
+  <string id="st_up_uti_b1_name">
+    <text>アタッチメントモジュールの追加</text>
+  </string>
+  <string id="st_up_uti_b2_descr">
+    <text>このシステムにより、荷物の重量がより身体全体に平均されて負荷がかかるようになる。</text>
+  </string>
+  <string id="st_up_uti_b2_name">
+    <text>重量緩和マウントシステム</text>
+  </string>
+  <string id="st_up_uti_b3_descr">
+    <text>背部にフレームを儲けることで肩にかかる重量が全身に行き渡るようになり、最大積載量が増加する。</text>
+  </string>
+  <string id="st_up_uti_b3_name">
+    <text>重量緩和背部フレーム</text>
+  </string>
+  <string id="st_up_uti_b4_descr">
+    <text>使用者に抗テタニー剤、抗菌剤、身体活性剤を供給する自家製のシステム。今のところ身体への悪影響は見られない。</text>
+  </string>
+  <string id="st_up_uti_b4_name">
+    <text>ケア内蔵システム</text>
+  </string>
+  <string id="st_up_uti_b5_descr">
+    <text>このシステムは特別な格子をアノマリーと同じ電圧の電気を流すことにより、緩和させる。</text>
+  </string>
+  <string id="st_up_uti_b5_name">
+    <text>スティングレイ耐電流装置</text>
+  </string>
+  <string id="st_up_uti_b6_descr">
+    <text>インナーレイヤーを取り付け、有害物質から着用者を守る。</text>
+  </string>
+  <string id="st_up_uti_b6_name">
+    <text>耐有害物質用レイヤー</text>
+  </string>
+  <string id="st_up_uti_b7_descr">
+    <text>長距離走行システムの試作機。その値段と得体の知れなさのせいか、ゾーン内でしか使用が確認されていない。</text>
+  </string>
+  <string id="st_up_uti_b7_name">
+    <text>アスリート内蔵システム</text>
+  </string>
+  <string id="st_up_uti_b8_descr">
+    <text>このシステムは有毒物質とともに、呼吸器に付着した異物も取り除くことが出来る。</text>
+  </string>
+  <string id="st_up_uti_b8_name">
+    <text>「解毒剤」有毒物質除去システム</text>
+  </string>
+  <string id="st_up_uti_c1_descr">
+    <text>アタッチメントモジュールをひとつ追加する。</text>
+  </string>
+  <string id="st_up_uti_c1_name">
+    <text>アタッチメントモジュールの追加</text>
+  </string>
+  <string id="st_up_uti_c2_descr">
+    <text>スーツ全体に組み込まれた戦闘支援システム。使われるのは稀だが、主にスペツナズによって使用される。アドレナリンと血液凝固システムが事前にインストールされている。</text>
+  </string>
+  <string id="st_up_uti_c2_name">
+    <text>「ヴァリャーグ」サポートシステム</text>
+  </string>
+  <string id="st_up_uti_c3_descr">
+    <text>この戦闘支援システム試作型では、人体に危険を伴うアドレナリン注入を行う代わりに、治癒能力向上剤と血液凝固剤を使用者に投与する。</text>
+  </string>
+  <string id="st_up_uti_c3_name">
+    <text>「スキフ」サポートシステム</text>
+  </string>
+  <string id="st_prop_binoc_zoom">
+    <text>倍率</text>
+  </string>
+  <string id="st_prop_binoc_nightvision">
+    <text>暗視装置</text>
+  </string>
+  <string id="st_prop_binoc_autolock">
+    <text>検出可能性</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_1">
+    <text>ハイコントラスト</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_2">
+    <text>ナイトビジョン第1段階</text>
+  </string>
+  <string id="st_prop_binoc_nightvision_3">
+    <text>ナイトビジョン第2段階</text>
+  </string>
+  <string id="st_up_binoc_a1_name">
+    <text>対物レンズ（10倍率）</text>
+  </string>
+  <string id="st_up_binoc_a1_descr">
+    <text>遠距離用の新しいレンズにする。倍率が10倍になる。</text>
+  </string>
+  <string id="st_up_binoc_a2_name">
+    <text>対物レンズ（15倍率）</text>
+  </string>
+  <string id="st_up_binoc_a2_descr">
+    <text>遠距離用の新しいレンズにする。倍率が15倍になる。</text>
+  </string>
+  <string id="st_up_binoc_a3_name">
+    <text>対物レンズ（20倍率）</text>
+  </string>
+  <string id="st_up_binoc_a3_descr">
+    <text>遠距離用の新しいレンズにする。倍率が20倍になる。</text>
+  </string>
+  <string id="st_up_binoc_b1_name">
+    <text>視力コントラストの改善</text>
+  </string>
+  <string id="st_up_binoc_b1_descr">
+    <text>通常のレンズに代わってEDガラスを装着することで、色収差や二次スペクトルの影響を最小限に抑え、より良い映像を実現することができる</text>
+  </string>
+  <string id="st_up_binoc_b2_name">
+    <text>第一世代の暗視装置</text>
+  </string>
+  <string id="st_up_binoc_b2_descr">
+    <text>夜間に有効なスペクトルと強度の範囲の技術に依存して、人間の観察者には見えない放射線を感知する、低照度条件のための暗視技術の導入。</text>
+  </string>
+  <string id="st_up_binoc_b3_name">
+    <text>第二世代の暗視装置</text>
+  </string>
+  <string id="st_up_binoc_b3_descr">
+    <text>ナイトビジョン技術の改良で、システムの光増幅、システム解像度、感光性を向上させ、視覚的な品質を高める。</text>
+  </string>
+  <string id="st_up_binoc_c1_name">
+    <text>筐体のスタイル</text>
+  </string>
+  <string id="st_up_binoc_c1_descr">
+    <text>オープンブリッジとアルミ合金製のシャーシを採用することで、全体の重量を減らすために筐体のスタイルを変更した。</text>
+  </string>
+  <string id="st_up_binoc_d1_name">
+    <text>ターゲット検出</text>
+  </string>
+  <string id="st_up_binoc_d1_descr">
+    <text>オープンブリッジとアルミ合金製のシャーシを採用することで、全体の重量を減らすために筐体のスタイルを変更した。</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand1_descr">
+    <text>減速機をナイロン製に交換することで摩擦が減り、機構の信頼性と寿命が若干向上した。</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand1_name">
+    <text>ブロックギア</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand2_descr">
+    <text>発電機フレームの鉄板部分をジュラルミンに変更し、大幅な軽量化を実現した。</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand2_name">
+    <text>ジュラルミンフレーム</text>
+  </string>
+  <string id="st_up_opt_dynamo_hand3_descr">
+    <text>モーターのローターについている特殊な磁石で発電機の効率を高める。</text>
+  </string>
+</string_table>

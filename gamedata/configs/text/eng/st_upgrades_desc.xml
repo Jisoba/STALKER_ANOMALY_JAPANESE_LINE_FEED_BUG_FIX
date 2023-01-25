@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_up_armor_1_name">
+    <text>ケブラー製装甲板</text>
+  </string>
+  <string id="st_up_armor_1_descr">
+    <text>長期間の使用が可能なように強化された装甲板。耐久性は強化されていない。</text>
+  </string>
+  <string id="st_up_armor_2_name">
+    <text>ポリカーボネート製装甲板</text>
+  </string>
+  <string id="st_up_armor_2_descr">
+    <text>ポリカーボネート製装甲板は長持ちしないが、耐衝撃性の改良により、ケブラーより信頼性が高くなっている。</text>
+  </string>
+  <string id="st_up_armor_3_name">
+    <text>保護装甲板の増強</text>
+  </string>
+  <string id="st_up_armor_3_descr">
+    <text>衝撃をより拡散させる内部層を持つアーマー。</text>
+  </string>
+  <string id="st_up_armor_4_name">
+    <text>関節用可動保護装甲板の装着</text>
+  </string>
+  <string id="st_up_armor_4_descr">
+    <text>可動装甲板は、銃創から関節を保護する。</text>
+  </string>
+  <string id="st_up_damage_1_name">
+    <text>セグメントプロテクション</text>
+  </string>
+  <string id="st_up_damage_1_descr">
+    <text>アーマーのシンナーシートは、アーマーの耐摩耗性を高める層。</text>
+  </string>
+  <string id="st_up_damage_2_name">
+    <text>追加のアルミニウム/チタニウム製装甲板</text>
+  </string>
+  <string id="st_up_damage_2_descr">
+    <text>チタニウム製装甲板の数を増やす。アーマーの耐久性が大幅に改良される。</text>
+  </string>
+  <string id="st_up_damage_3_name">
+    <text>予備の可動層</text>
+  </string>
+  <string id="st_up_damage_3_descr">
+    <text>モバイル装甲板は、結合部を外傷から保護する。</text>
+  </string>
+  <string id="st_up_durability_1_name">
+    <text>肥厚革の挿入</text>
+  </string>
+  <string id="st_up_durability_1_descr">
+    <text>防御性能が上昇するわけではなく、より良い耐久性を保証する。</text>
+  </string>
+  <string id="st_up_durability_2_name">
+    <text>高耐久性保護フレームシールド</text>
+  </string>
+  <string id="st_up_durability_2_descr">
+    <text>スーツの耐久性を改善する。</text>
+  </string>
+  <string id="st_up_durability_3_name">
+    <text>強化ケブラー製装甲板の挿入</text>
+  </string>
+  <string id="st_up_durability_3_descr">
+    <text>耐久性を向上させるための長時間使用可能な強化装甲板</text>
+  </string>
+  <string id="st_up_weight_1_name">
+    <text>ソリッドカーボンコンポーネント</text>
+  </string>
+  <string id="st_up_weight_1_descr">
+    <text>金属をカーボンファイバーに変え、耐久性を損なうことなくアーマーの重量を減らす。</text>
+  </string>
+  <string id="st_up_weight_2_name">
+    <text>軽いアルミニウムフレーム</text>
+  </string>
+  <string id="st_up_weight_2_descr">
+    <text>スチールフレームを装甲板用のより軽いアルミニウムフレームに交換する。アーマーの重量を減らす。</text>
+  </string>
+  <string id="st_up_weight_3_name">
+    <text>軽い合成プラスチック部品の装着</text>
+  </string>
+  <string id="st_up_weight_3_descr">
+    <text>軽い材料を使うことでアーマーの重量を減らす。</text>
+  </string>
+  <string id="st_up_weight_4_name">
+    <text>軽い合成ポリマー材料</text>
+  </string>
+  <string id="st_up_weight_4_descr">
+    <text>布、クリップ、増粘剤をより軽い合成材料に変え、アーマーの重量を減らす。</text>
+  </string>
+  <string id="st_up_carry_1_name">
+    <text>重量分配用マウントシステム</text>
+  </string>
+  <string id="st_up_carry_1_descr">
+    <text>マウントシステムにより、重量をより均等に全身に分配する。</text>
+  </string>
+  <string id="st_up_carry_2_name">
+    <text>重量分配バックフレーム</text>
+  </string>
+  <string id="st_up_carry_2_descr">
+    <text>バックフレームは全身に荷重を分散させることで、肩にかかる重さを軽減する。これにより最大所持重量が増える。</text>
+  </string>
+  <string id="st_up_carry_3_name">
+    <text>追加のサーボモーター</text>
+  </string>
+  <string id="st_up_carry_3_descr">
+    <text>追加の運動機器により最大所持重量を増やす。</text>
+  </string>
+  <string id="st_up_shock_1_name">
+    <text>絶縁用コンスタンタンベースの内部層</text>
+  </string>
+  <string id="st_up_shock_1_descr">
+    <text>薄いコンスタンタンの層は、電気を絶縁する。</text>
+  </string>
+  <string id="st_up_shock_2_name">
+    <text>隔絶コンスタンタンの挿入</text>
+  </string>
+  <string id="st_up_shock_2_descr">
+    <text>コンスタンタンは電気と非常に高い融解点を絶縁可能。</text>
+  </string>
+  <string id="st_up_shock_3_name">
+    <text>マンガニン挿入型の絶縁ボディースーツ</text>
+  </string>
+  <string id="st_up_shock_3_descr">
+    <text>ニッケルとマグネシウム合金は、アーマーを電撃から守るために使用される。</text>
+  </string>
+  <string id="st_up_burn_1_name">
+    <text>耐火処理された布地</text>
+  </string>
+  <string id="st_up_burn_1_descr">
+    <text>これは、炎系アーティファクトを探すストーカーの間で人気がある。</text>
+  </string>
+  <string id="st_up_burn_2_name">
+    <text>マグネシウム装甲板の挿入</text>
+  </string>
+  <string id="st_up_burn_2_descr">
+    <text>マグネシウムを挿入することで、着用者を熱から守る。</text>
+  </string>
+  <string id="st_up_burn_3_name">
+    <text>熱伝導性ファイバーグラスによる保護 </text>
+  </string>
+  <string id="st_up_burn_3_descr">
+    <text>ガラス繊維は、自然災害対応チームが着用するスーツに使用されている。</text>
+  </string>
+  <string id="st_up_burn_4_name">
+    <text>ニッケル挿入型耐火ボディースーツ</text>
+  </string>
+  <string id="st_up_burn_4_descr">
+    <text>ニッケルはアーマーに使用するのに十分な耐火性を有している。</text>
+  </string>
+  <string id="st_up_helm_burn_1_name">
+    <text>サンダーバード コンスタンタン フェイスアーマー</text>
+  </string>
+  <string id="st_up_helm_burn_1_descr">
+    <text>熱と電撃ダメージを防ぐ合金フレーム。</text>
+  </string>
+  <string id="st_up_rad_1_name">
+    <text>ゴム引きボディースーツ</text>
+  </string>
+  <string id="st_up_rad_1_descr">
+    <text>ゴムは、基本的に短時間の放射線被爆から身を守る。</text>
+  </string>
+  <string id="st_up_rad_2_name">
+    <text>放射線を防ぐプレキシガラス内層</text>
+  </string>
+  <string id="st_up_rad_2_descr">
+    <text>プレキシガラスは、鉛より遥かに軽く、２種類の放射線を吸収する。</text>
+  </string>
+  <string id="st_up_rad_3_name">
+    <text>ボディースーツに鉛を追加</text>
+  </string>
+  <string id="st_up_rad_3_descr">
+    <text>鉛は放射能防護に定評がある。なぜなら３つ全てのタイプを吸収するから。</text>
+  </string>
+  <string id="st_up_helm_rad_1_name">
+    <text>能動フィルター</text>
+  </string>
+  <string id="st_up_helm_rad_1_descr">
+    <text>能動フィルターは、放射性粒子に抵抗できる。</text>
+  </string>
+  <string id="st_up_helm_rad_2_name">
+    <text>プレキシガラスコーティング</text>
+  </string>
+  <string id="st_up_helm_rad_2_descr">
+    <text>プレキシガラス製マスクは、放射能を部分的に防げる。</text>
+  </string>
+  <string id="st_up_helm_rad_3_name">
+    <text>極限状態用強化レスピレーター</text>
+  </string>
+  <string id="st_up_helm_rad_3_descr">
+    <text>追加の浄化コーティングと毒物除去システムを備えたフィルター。</text>
+  </string>
+  <string id="st_up_chem_1_name">
+    <text>キャンバスボディースーツ</text>
+  </string>
+  <string id="st_up_chem_1_descr">
+    <text>雨と腐食性物質が肌に接触する際の基本的な保護。</text>
+  </string>
+  <string id="st_up_chem_2_name">
+    <text>密閉プラスチック内層</text>
+  </string>
+  <string id="st_up_chem_2_descr">
+    <text>シンプルなプラスチック層。着用者を科学的脅威から保護する。</text>
+  </string>
+  <string id="st_up_chem_3_name">
+    <text>含浸ボディースーツ生地</text>
+  </string>
+  <string id="st_up_chem_3_descr">
+    <text>含浸布は化学毒を防ぐ。</text>
+  </string>
+  <string id="st_up_chem_4_name">
+    <text>「救命」プレキシグラス製ボディスーツ（鉛製フレキシブルメッシュ使用）</text>
+  </string>
+  <string id="st_up_chem_4_descr">
+    <text>リードメッシュは、機動性を犠牲にする事無く、高度な科学的防護を実現する。</text>
+  </string>
+  <string id="st_up_helm_chem_1_name">
+    <text>汚染された場所用のフィルター</text>
+  </string>
+  <string id="st_up_helm_chem_1_descr">
+    <text>追加の毒物除去用防護層、強化済み防食コーティングを備えたフィルター</text>
+  </string>
+  <string id="st_up_helm_chem_2_name">
+    <text>含浸呼吸マスク</text>
+  </string>
+  <string id="st_up_helm_chem_2_descr">
+    <text>毒を完全にブロックするレスピレーター。</text>
+  </string>
+  <string id="st_up_tele_1_name">
+    <text>ペアのスチールグリルで作られた「精神波の防護」バンド</text>
+  </string>
+  <string id="st_up_tele_1_descr">
+    <text>このバンドは、「精神波の放射」を部分的に保護できることが証明されている。</text>
+  </string>
+  <string id="st_up_helm_tele_1_name">
+    <text>精神波ドームバンドの装着</text>
+  </string>
+  <string id="st_up_helm_tele_1_descr">
+    <text>サハロフと呼ばれている科学者によって発明されたと言われているハイテクな「精神波の防護」バンド。</text>
+  </string>
+  <string id="st_up_arty_1_name">
+    <text>アーマーアタッチメントモジュール</text>
+  </string>
+  <string id="st_up_arty_1_descr">
+    <text>アーマーアタッチメントモジュールの装着</text>
+  </string>
+  <string id="st_up_arty_2_name">
+    <text>追加のアーマーアタッチメントモジュール</text>
+  </string>
+  <string id="st_up_arty_2_descr">
+    <text>追加のアーマーアタッチメントモジュールの装着</text>
+  </string>
+  <string id="st_up_arty_3_name">
+    <text>二室アーマーアタッチメントモジュール</text>
+  </string>
+  <string id="st_up_arty_3_descr">
+    <text>二室アーマーアタッチメントモジュールの装着</text>
+  </string>
+  <string id="st_up_stamina_1_name">
+    <text>内部温度調整システム</text>
+  </string>
+  <string id="st_up_stamina_1_descr">
+    <text>人間工学に基づく改良、ボディースーツに特別な装備を装着することで、重量を軽減させる。</text>
+  </string>
+  <string id="st_up_stamina_2_name">
+    <text>アスリート内蔵システム</text>
+  </string>
+  <string id="st_up_stamina_2_descr">
+    <text>ランニングシステムの試作モデル。胡散臭く、高価格なのでゾーン以外では使用されない。</text>
+  </string>
+  <string id="st_up_helm_stamina_1_name">
+    <text>蒸気浄化、呼吸フィルター</text>
+  </string>
+  <string id="st_up_helm_stamina_1_descr">
+    <text>汚染された空気、呼吸するには低すぎるもしくは高すぎる臨界温度状態で使用されるフィルターのセット。</text>
+  </string>
+  <string id="st_up_bleed_1_name">
+    <text>「光線」止血装置</text>
+  </string>
+  <string id="st_up_bleed_1_descr">
+    <text>この小さなウェーブエミッターは背中に装着されており、着用している間血液凝固速度を効果的に高める。</text>
+  </string>
+  <string id="st_up_bleed_2_name">
+    <text>「ヒドラ」ヘモグロビン注入機</text>
+  </string>
+  <string id="st_up_bleed_2_descr">
+    <text>血圧が大きく低下した際に定期的に、凝固剤を血流に注入するゲネレーションA注射器。</text>
+  </string>
+  <string id="st_up_health_1_name">
+    <text>「激怒」アドレナリン注入機</text>
+  </string>
+  <string id="st_up_health_1_descr">
+    <text>キエフの研究機関で開発されたジェネレーションA注射器は、定期的にアドレナリンを血流に注射する。危険かもしれないが、非常時に自分の命を救うかもしれない。</text>
+  </string>
+  <string id="st_up_health_2_name">
+    <text>「不死鳥」回復システム</text>
+  </string>
+  <string id="st_up_health_2_descr">
+    <text>着用者の健康状態を監視し、必要に応じてビタミン、アドレナリン、同化物質を供給する統合システム。</text>
+  </string>
+  <string id="st_up_health_3_name">
+    <text>生命維持装置の導入</text>
+  </string>
+  <string id="st_up_health_3_descr">
+    <text>このウェーブエミッターは首に装着されており、メカニズムと操作方法は不明だが、強い鎮静効果がある。</text>
+  </string>
+  <string id="st_up_run_1_name">
+    <text>油圧ブースターの付加</text>
+  </string>
+  <string id="st_up_run_1_descr">
+    <text>これは、第四世代外骨格に使用される変更。外骨格を着たまま走れる。</text>
+  </string>
+</string_table>

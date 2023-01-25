@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="lttz_ll_find_doctor_task_title">
+    <text>「生ける伝説」 : 旧友</text>
+  </string>
+  <string id="lttz_ll_find_doctor_task_descr">
+    <text>ストレロックの古くからの友人である「ドクター」は、グレート スワンプの北西の辺境で引退した。彼に会いストレロックの手がかりを探せ。</text>
+  </string>
+  <string id="lttz_ll_visit_agro_ug_name">
+    <text>「生ける伝説」 : 地下の隠れ家</text>
+  </string>
+  <string id="lttz_ll_visit_agro_ug_text">
+    <text>「ドクター」は、アグロプロム地下にあるストレロックの隠れ家に行き、彼の居場所の手がかりを見つけるよう提案した。</text>
+  </string>
+  <string id="lttz_ll_visit_agro_ug_text_2">
+    <text>「ドクター」のメモをよく読むと、ストレロックがアグロプロム地下に隠れていることがわかる。彼の居場所に関する手がかりを求めるため、アグロプロム地下を調査するべきだろう。</text>
+  </string>
+  <string id="strelok_notes_name">
+    <text>ストレロックのノート</text>
+  </string>
+  <string id="strelok_notes_desc">
+    <text>このノートは以前ストレロックのものだった。ちょっと読んでみると、かなりバラバラで謎めいたメモがたくさんあることがわかる。ストーカーは数年前に重要な決定を下したことに危機感を抱いていたらしく、自分の選択を確かめるために北に進む前に、ロストクで素早く補給したかったようだ。</text>
+  </string>
+  <string id="lttz_ll_visit_barkeep_task_title">
+    <text>「生ける伝説」 : 手掛かりををたどれ</text>
+  </string>
+  <string id="lttz_ll_visit_barkeep_task_descr">
+    <text>もしストレロックが補給のためにロストクを訪れていたのならば、バーキープはそれについて何か知っているだろう。彼を訪問しろ。</text>
+  </string>
+  <string id="lttz_ll_visit_aslan_task_title">
+    <text>「生ける伝説」 : 手掛かりををたどれ</text>
+  </string>
+  <string id="lttz_ll_visit_aslan_task_descr">
+    <text>アスランは、ゾーンの北部についての何かを知っている。彼を訪問しろ。</text>
+  </string>
+  <string id="lttz_ll_call_north_task_title">
+    <text>「生ける伝説」 :  北の呼び声</text>
+  </string>
+  <string id="lttz_ll_call_north_task_descr">
+    <text>ブレイン スコーチャーから身を守るために、「精神波の防護機器」を入手しろ。</text>
+  </string>
+  <string id="lttz_ll_call_north_task_descr2">
+    <text>ゲートキーパーは「防衛線」を守るベテランだ。彼はおそらくストレロックたちを最後に見た人物だろう。</text>
+  </string>
+  <string id="lttz_ll_breakthrough_task_name">
+    <text>「生ける伝説」 : 突破口</text>
+  </string>
+  <string id="lttz_ll_breakthrough_task_text">
+    <text>Monolithが「防衛線」内に侵入している。レーダー施設にアクセスするには、奴らを倒す必要がある。</text>
+  </string>
+  <string id="lttz_ll_talk_gatekeeper_task_descr">
+    <text>Monolithたちを撃退した。ゲートキーパーと話せ。</text>
+  </string>
+  <string id="lttz_ll_radar_deactivate_name">
+    <text>「生ける伝説」 : 虹の彼方に</text>
+  </string>
+  <string id="lttz_ll_deactivate_text">
+    <text>ゾーンの中心部にアクセスするには、ブレイン スコーチャーを無効にする必要がある。</text>
+  </string>
+  <string id="lttz_ll_visit_beard_task_title">
+    <text>「生ける伝説」 : 孤立地域へ</text>
+  </string>
+  <string id="lttz_ll_visit_beard_task_descr">
+    <text>ゲートキーパーはベアードに敬意を表している。後者はストレロックについて何か知っているかもしれない。</text>
+  </string>
+  <string id="lttz_ll_meet_rogue_task_title">
+    <text>「生ける伝説」 : ローグに会え</text>
+  </string>
+  <string id="lttz_ll_meet_rogue_task_descr">
+    <text>ストレロックの仲間のひとりであるローグは、現在スカドフスクにいる。詳細について彼と話せ。</text>
+  </string>
+  <string id="lttz_ll_fetch_gauss_task_title">
+    <text>「生ける伝説」 : 実験兵器</text>
+  </string>
+  <string id="lttz_ll_fetch_gauss_task_descr">
+    <text>ローグは、彼のために実験的な武器を見つけてきてほしいと言っている。放棄された軍事施設を訪れろ。</text>
+  </string>
+  <string id="lttz_ll_fetch_gauss_task_descr2">
+    <text>実験用の武器を見つけた。ローグの元へ戻れ。</text>
+  </string>
+  <string id="lttz_ll_wpn_gauss_quest_name">
+    <text>「アイテム62」</text>
+  </string>
+  <string id="lttz_ll_wpn_gauss_quest_descr">
+    <text>非常に強力で高精度な電磁加速銃だ。電気的アーティファクトをエネルギー源としているようだ。どのような装甲も貫通できるだろう。誰かがこの大きな試作機の携帯版を、射撃場に置き去りにしたらしい。</text>
+  </string>
+  <string id="lttz_ll_path_pripyat_task_title">
+    <text>「生ける伝説」 : プリピャチへの道</text>
+  </string>
+  <string id="lttz_ll_path_pripyat_task_descr">
+    <text>ジュピター地下を通過しろ。ローグが一緒に同行してくれる。</text>
+  </string>
+  <string id="lttz_ll_talk_rogue_underpass_task_descr">
+    <text>Monolithの待ち伏せを撃退した。ローグに状況を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_reach_pripyat_task_descr">
+    <text>プリピャチのストレロックの隠れ家に到達しろ。ローグが同行する。</text>
+  </string>
+  <string id="lttz_ll_medical_supplies_name">
+    <text>「生ける伝説」 : 医療用品</text>
+  </string>
+  <string id="lttz_ll_medical_supplies_text">
+    <text>ストレロックの衛生兵であるスティッチから%sを調達するように頼まれた。</text>
+  </string>
+  <string id="lttz_ll_attack_on_titan_name">
+    <text>「生ける伝説」 : 進撃の巨人</text>
+  </string>
+  <string id="lttz_ll_attack_on_titan_text">
+    <text>危険なスードウジャイアントがプリピャチをうろついている。致命的な混乱を避けるために、前もってそいつを駆除しろ。</text>
+  </string>
+  <string id="lttz_ll_return_rogue_attack_on_titan_task_descr">
+    <text>あなたはスードウジャイアントを駆除した。ローグに成功を知らせろ。</text>
+  </string>
+  <string id="lttz_ll_find_documents_name">
+    <text>「生ける伝説」 : 極秘</text>
+  </string>
+  <string id="lttz_ll_find_documents_text">
+    <text>X-8研究所には、ゾーンに関する極秘情報がある。文書を見つけて、ストレロックに持っていけ。</text>
+  </string>
+  <string id="item_doc_x8_ll_name">
+    <text>X-8文書</text>
+  </string>
+  <string id="item_doc_x8_ll_desc">
+    <text>この文書には、未知のグループが行った大規模な精神波研究の実験結果が簡潔に記されている。特に、地球を包む非接触型の精神波エネルギー領域の存在が確認されているようだ。
+
+\n\nまた限定的ではあるが、この領域に影響を与える可能性のある、高度な機械の簡単な説明も含まれている。
+
+\n\nしかし、これらの文書の大部分は、様々な周波数と強度をもつ「精神波の放射」にさらされた被験者の長い一覧に過ぎない。その中には、実験中に超人的な持久力や知性、テレパシー能力を身につけたと思われる人も多く含まれている。ある者は後に死亡し、ある者は突然変異し、またある者は消えたか逃げたかのように、全くの行方不明になったと記録されている。
+
+\n\n余白には、「我々はすでに、研究のために人間の形をはるかに変えてしまった。我々の傲慢さと罪が我々を罰するのは、いったいいつになるだろうか？」と記述されている。ストレロックはこれに興味を持つだろう。</text>
+  </string>
+  <string id="lttz_ll_eidolon_start_task_title">
+    <text>「生ける伝説」 : 先制攻撃</text>
+  </string>
+  <string id="lttz_ll_eidolon_start_task_descr">
+    <text>チームを編成し、エイドロンを倒すために出発しろ。</text>
+  </string>
+  <string id="lttz_ll_eidolon_task_title">
+    <text>「生ける伝説」 : Monolithのチャンピオン</text>
+  </string>
+  <string id="lttz_ll_eidolon_task_descr">
+    <text>文化宮殿を襲撃してエイドロンを誘い出し、倒せ。</text>
+  </string>
+  <string id="lttz_ll_strelok_objective_task_title">
+    <text>「生ける伝説」 : 野心的な目標</text>
+  </string>
+  <string id="lttz_ll_strelok_objective_task_descr">
+    <text>エイドロンを倒した。今こそ、ストレロックが主な目的を明らかにするときだ。</text>
+  </string>
+  <string id="lttz_ll_chernobyl_raid_task_title">
+    <text>「生ける伝説」 : チェルノブイリ原子力発電所へ侵入</text>
+  </string>
+  <string id="lttz_ll_chernobyl_raid_task_descr">
+    <text>チェルノブイリ原子力発電所に到達し、そこを守っているMonolith部隊を倒せ。</text>
+  </string>
+  <string id="lttz_ll_crucible_task_title">
+    <text>「生ける伝説」 : 厳しい試練</text>
+  </string>
+  <string id="lttz_ll_crucible_task_descr">
+    <text>戦いながらモノリス中央制御室へ進み、ファントム ガードを倒し、Monolithの欠片を見つける。</text>
+  </string>
+  <string id="item_monolith_shard_name">
+    <text>「生ける伝説」 : Monolithの破片</text>
+  </string>
+  <string id="item_monolith_shard_desc">
+    <text>伝説によると、この物体は願望機から分裂したという。アーティファクトに似た特性を持っている。不気味なエネルギーでパチパチと音を立てている
+。すぐにはわからない陰湿な力を誇るかもしれない。</text>
+  </string>
+  <string id="lttz_ll_answers_task_title">
+    <text>「生ける伝説」 : 答え</text>
+  </string>
+  <string id="lttz_ll_answers_task_descr">
+    <text>Monolithの欠片を手に入れた。答えを出す時が来た。</text>
+  </string>
+  <string id="st_strelok_pendrive_name">
+    <text>ストレロックのUSBメモリー</text>
+  </string>
+  <string id="st_strelok_pendrive_descr">
+    <text>このUSBメモリーには、多くの暗号化されたデータが含まれている。これは、ストレロックの長年にわたる多くの調査結果のバックアップのコピーだ。ゾーンを作ったとされる最高機密の実験に関する貴重な証拠だ。</text>
+  </string>
+  <string id="lttz_ll_finish_task_title">
+    <text>「生ける伝説」 : 終焉</text>
+  </string>
+  <string id="lttz_ll_finish_csky_task_descr">
+    <text>コールドの元へ戻り、成功を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_finish_stalker_task_descr">
+    <text>シドロヴィッチの元へ戻り、成功を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_finish_killer_task_descr">
+    <text>ダッシュマンの元へ戻り、成功を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_finish_freedom_task_descr">
+    <text>ルーカッシュの元へ戻り、成功を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_finish_dolg_task_descr">
+    <text>ヴォロニン将軍の元へ戻り、成功を報告しろ。</text>
+  </string>
+  <string id="lttz_ll_finish_ecolog_task_descr">
+    <text>サハロフ教授の元へ戻り、成功を報告しろ。</text>
+  </string>
+</string_table>

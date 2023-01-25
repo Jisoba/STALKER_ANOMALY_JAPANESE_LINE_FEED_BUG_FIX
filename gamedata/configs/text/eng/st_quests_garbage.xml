@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="hunter_gar_trader_task_1_name">
+    <text>ミュータントを殺せ</text>
+  </string>
+  <string id="hunter_gar_trader_task_1_text">
+    <text>ミュータント隠れ家を片付ける。</text>
+  </string>
+  <string id="hunter_gar_trader_task_1_about">
+    <text>ミュータントを排除するために手を貸してほしい。これが座標だ。</text>
+  </string>
+  <string id="hunter_gar_trader_task_1_finish">
+    <text>良い仕事だ、これが報酬の金だ。</text>
+  </string>
+  <string id="hunter_gar_trader_task_2_name">
+    <text>%sを探せ</text>
+  </string>
+  <string id="hunter_gar_trader_task_2_text">
+    <text>ブッチャーに%sを持ってくるように頼まれた。</text>
+  </string>
+  <string id="hunter_gar_trader_task_2_about">
+    <text>ミュータントの肉に大金を払う奴らがいる。</text>
+  </string>
+  <string id="hunter_gar_trader_task_2_fetch_about">
+    <text>金を稼ぎたい？ミュータントの肉はいくつかの「限定会員」の中じゃ高い価値を持っている･･････。詳しいことは気にしないほうがいい。%sを持ってきてくれるか、どうだ、やるか？</text>
+  </string>
+  <string id="hunter_gar_trader_task_2_fetch_finish">
+    <text>素晴らしい「飯」だ。よくやった、ハンター。</text>
+  </string>
+  <string id="baraholka_trader_night_task_1_name">
+    <text>「%s」を見つけろ</text>
+  </string>
+  <string id="baraholka_trader_night_task_1_text">
+    <text>フリーマーケットのトレーダーは%sを探してほしい。</text>
+  </string>
+  <string id="baraholka_trader_night_task_1_about">
+    <text>貴重なアーティファクトを見つけて装備を調達したい？ いい装備をいくつか提供できるぜ。</text>
+  </string>
+  <string id="baraholka_trader_night_task_1_fetch_about">
+    <text>レアなアーティファクトを探しながら装備を調達できると思うかい？「%s」について、もう少し何かを提供することができるぞ。</text>
+  </string>
+  <string id="baraholka_trader_night_task_1_fetch_finish">
+    <text>ああストーカー、素晴らしい仕事っぷりだ。これをお前にやろう。</text>
+  </string>
+</string_table>

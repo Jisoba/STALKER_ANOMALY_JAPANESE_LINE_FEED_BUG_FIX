@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="guid_agr_mlr_military_0">
+    <text>移動を手配できるか？乗せてってもらいたいところがあるんだが。</text>
+  </string>
+  <string id="guid_agr_mlr_military_1">
+    <text>ああ、俺はあんたをコードンとヤンターに連れて行くことができる･･････。ってちょと待って、お前は誰だ？俺は輸送することはできるが、お前のような凡人の兵士は乗せることはできねえな。ほら、あっちいきやがれ、シッ！シッ！</text>
+  </string>
+  <string id="guid_agr_mlr_military_list_0">
+    <text>今度はどこまでいくんだ？</text>
+  </string>
+  <string id="guid_agr_mlr_military_list_1">
+    <text>5,000ルーブルでコードンの検問所へ、7,000ルーブルでヤンターの基地に。</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_0">
+    <text>操縦者が必要だ。</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_1">
+    <text>分かった、我々の次の飛行距離は短いらしいがどこに向かうんだ？</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_2">
+    <text>コードンの検問所まで。%c[d_orange]［5,000ルーブル］</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_3">
+    <text>ヤンターの基地まで。%c[d_orange]［7,000ルーブル］</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_4">
+    <text>気が変わった。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_army_0">
+    <text>ヘリコプターの残骸からフライトレコーダーを見つけたんだ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_army_1">
+    <text>いいぞ！よくやってくれた兵士よ。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_0">
+    <text>あんたの事を教えてくれ。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_1">
+    <text>俺は医療従事者だ。ここで契約を結び、準備をしてすぐにフェアウェイ部隊に配属された。軍事作戦が崩壊後、俺たちはどういうわけかプリピャチで身動きが取れなくなった。まだ生きていた俺たちをSSU（ウクライナの情報機関）の人間が助けてくれ、そこから避難させられた。俺はまだこの何が起こったのかを思い出すことができず、司令官は幼稚園に俺と数人の人間を送った。その後の予備資料によると、そこには無線通信を妨害する装置があったらしい。何が俺を襲ったのか、自分自身のことも分からず。目も見えず、仲間がどこにいるのかさえ分からず、何かが私の目に直接ベールをかぶせた。そして、その幼稚園の中で冷蔵庫を見つけてそこに隠れた。すると真上で爆発音がして、なぜかすぐに気分は良くなったんだが、冷蔵庫が固まってしまい外に出られなかった。鍵をかけられて中に閉じ込められたのか、ドアを閉めていたのが「ポルターガイスト」だったのかは覚えていないんだ･･････。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_2">
+    <text>それからはどうした？なぜそこで辞めなかったんだ？</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_3">
+    <text>まあ..俺は金が欲しかったのさ。そうでなければこんなところにはいない。医者はいつでも役に立つ存在だが･･････。今のところ軍に医師は多くない。幸いなことに俺は作戦の失敗が原因で降格されたわけではないが、賞賛されたわけでもない。俺は少佐とは違い、ゾーンのどこかでうろついたりはしないしな。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_4">
+    <text>わかった。あんたの旅の成功を祈っているよ。</text>
+  </string>
+  <string id="rogovets_hello_1_6_army_mlr_0">
+    <text>えっ？あ、お前か･･････。</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_0">
+    <text>お前は誰だ?</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_1">
+    <text>俺はここでバーテンダーというか、食料品の管理人のようなことをやっている･･････まあ、好きに呼んでくれて構わんよ。俺は、原発事故の後始末に参加した数少ないひとりなんだぜ。ここの出身ではないが、契約でゾーンに来ている。俺にはいろいろな経験があるからな、へへ。</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_2">
+    <text>どうだった？</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_3">
+    <text>当時、俺はただの陸軍徴用兵で、放射能を測定してきれいに掃除するだけだった。しかし、発電所の近くの男たちは次々に倒れていき、死んでいった。われわれのテクノロジーを持ってしてでも放射能の前には無力だったのだ。彼らは、おかしなシャベルでグラファイトだらけの屋根をきれいにしていた。放射能とは実に奇妙なものだな。それはあるものを苦しめ、ディアトロフのように刑務所で人生の最後を迎えようとしていた者たちにとっては希望の光ともなったんだからな。</text>
+  </string>
+</string_table>

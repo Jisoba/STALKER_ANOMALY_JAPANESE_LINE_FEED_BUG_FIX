@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_msg_stash_title_1_1">
+    <text>スタッシュを見つけた</text>
+  </string>
+  <string id="st_msg_stash_title_1_2">
+    <text>スタッシュだ！</text>
+  </string>
+  <string id="st_msg_stash_title_1_3">
+    <text>何かを見つけた！</text>
+  </string>
+  <string id="st_msg_stash_title_1_4">
+    <text>何かそこにあったか？</text>
+  </string>
+  <string id="st_msg_stash_title_1_5">
+    <text>略奪品の貯蔵庫だ！</text>
+  </string>
+  <string id="st_msg_stash_title_1_6">
+    <text>金脈かもしれない</text>
+  </string>
+  <string id="st_msg_stash_1_1_1">
+    <text>いつも忘れちまう自分へのリマインダーリスト : </text>
+  </string>
+  <string id="st_msg_stash_1_1_2">
+    <text>おい$c1_fname、なにがあった！</text>
+  </string>
+  <string id="st_msg_stash_1_1_3">
+    <text>今日はクソな日だった。 あれを除けば珍しいことは何も無かった。</text>
+  </string>
+  <string id="st_msg_stash_1_1_4">
+    <text>アンタが興味を引くかもしれない何かがここにある。</text>
+  </string>
+  <string id="st_msg_stash_1_1_5">
+    <text>気を付けてくれ</text>
+  </string>
+  <string id="st_msg_stash_1_1_6">
+    <text>アンタが興味を持ちそうなモノを手に入れたぜ。</text>
+  </string>
+  <string id="st_msg_stash_1_2_1">
+    <text>旅の途中でスタッシュを見つけた。だが開けるには安全じゃなかった。</text>
+  </string>
+  <string id="st_msg_stash_1_2_2">
+    <text>出しっぱなしで置いてあるバックパックみたいなものを見かけた。誰が置いたかはわからないが、隠そうとしてたのは確かだな。</text>
+  </string>
+  <string id="st_msg_stash_1_2_3">
+    <text>どうも古いスタッシュを見つけたようだ。腹をすかせた犬の群れから逃げてるときに見つけたんだが、まだ手付かずに見えたな。</text>
+  </string>
+  <string id="st_msg_stash_1_2_4">
+    <text>今日ついさっき、スタッシュを見つけたんだが、足を止めて調べる時間がなかったんだ。ラッキーなことにしっかり隠されてるみたいだ。</text>
+  </string>
+  <string id="st_msg_stash_1_2_5">
+    <text>$mapのここにスタッシュが隠されている。まだ調べる機会がない。</text>
+  </string>
+  <string id="st_msg_stash_1_3_1">
+    <text>機会があればもう一度確認してみようかな。今度は運がいいような気がするよ。</text>
+  </string>
+  <string id="st_msg_stash_1_3_2">
+    <text>もしかしたら、誰かが装備を隠そうとしていたのかもしれないな。</text>
+  </string>
+  <string id="st_msg_stash_1_3_3">
+    <text>暇な時に見に行かなきゃ。誰にも見つからないといいんだけど。</text>
+  </string>
+  <string id="st_msg_stash_1_3_4">
+    <text>何が入ってるんだろう･･････。</text>
+  </string>
+  <string id="st_msg_stash_1_3_5">
+    <text>お祈りのサインは意味無えな。</text>
+  </string>
+  <string id="st_msg_stash_1_3_6">
+    <text>きっとそこには何かあるはずだ。だが、まず事態が落ち着くまで少し待とう。</text>
+  </string>
+  <string id="st_msg_stash_1_3_7">
+    <text>高価な装備やアーティファクトがたくさんあるといいな･･････。</text>
+  </string>
+  <string id="st_msg_death_title_1_1">
+    <text>ご愁傷さま</text>
+  </string>
+  <string id="st_msg_death_title_1_2">
+    <text>またひとりゾーンに消えた</text>
+  </string>
+  <string id="st_msg_death_title_1_3">
+    <text>我々の友人を埋葬した</text>
+  </string>
+  <string id="st_msg_death_title_1_4">
+    <text>彼は良いストーカーだった</text>
+  </string>
+  <string id="st_msg_death_title_1_5">
+    <text>Another one bites the dust...</text>
+  </string>
+  <string id="st_msg_death_title_1_6">
+    <text>悪い知らせだ</text>
+  </string>
+  <string id="st_msg_death_title_1_7">
+    <text>$fnameが死んだ</text>
+  </string>
+  <string id="st_msg_death_title_1_8">
+    <text>$fnameをゾーンが連れて行ってしまった</text>
+  </string>
+  <string id="st_msg_death_1_1_1">
+    <text>$fnameの死にお悔やみ申し上げる</text>
+  </string>
+  <string id="st_msg_death_1_1_2">
+    <text>$fnameは泥の中へ還っちまった。</text>
+  </string>
+  <string id="st_msg_death_1_1_3">
+    <text>俺たちはは$fnameを失ってしまった。</text>
+  </string>
+  <string id="st_msg_death_1_1_4">
+    <text>$fname $lnameは命を落とした。</text>
+  </string>
+  <string id="st_msg_death_1_1_5">
+    <text>$fname $lnameは今日死亡した。</text>
+  </string>
+  <string id="st_msg_death_1_2_1">
+    <text>俺たちがちょうど狩りを終えたところに、どこからともなく「ボア」がやって来て、彼のことを突きやがったんだ。</text>
+  </string>
+  <string id="st_msg_death_1_2_2">
+    <text>それは野営地へのいつも通りの帰り道で、何度も通った道だった･･････。だが、あいつは回転木馬アノマリーを踏んじまった。一直線に空へ引っ張られていったよ。</text>
+  </string>
+  <string id="st_msg_death_1_2_3">
+    <text>俺らがパトロールに行ってる間に、こいつは撃たれたようだ。油断大敵だな。</text>
+  </string>
+  <string id="st_msg_death_1_2_4">
+    <text>俺らはエミッションを避けるために避難場所に入ったんだが、そこにトゥシュカノの群れも居てな。すげえ狭いから逃げ道も避けられる場所もなかった。あのちび野郎ども、$fnameに群がってな、スーツをブチ抜いて噛みちぎってやがった。</text>
+  </string>
+  <string id="st_msg_death_1_2_5">
+    <text>彼は犬の群れから逃げ出していて、俺たちが追い払う直前に犬どもが彼を捕まえた。</text>
+  </string>
+  <string id="st_msg_death_1_2_6">
+    <text>何が起こったのかは分からないけど、彼を見つけたときには･･････すでに･･････。
+</text>
+  </string>
+  <string id="st_msg_death_1_3_1">
+    <text>俺たちは最善を尽くしたが、傷を食い止めようとしている間に彼は血を流して死んでしまった。</text>
+  </string>
+  <string id="st_msg_death_1_3_2">
+    <text>彼の傷はあまりにも大きかった。</text>
+  </string>
+  <string id="st_msg_death_1_3_3">
+    <text>彼は体のコントロールができなくなった。</text>
+  </string>
+  <string id="st_msg_death_1_3_4">
+    <text>おびただしい傷と大量の血があった。</text>
+  </string>
+  <string id="st_msg_death_1_3_5">
+    <text>俺たちは十分な医薬品を持っていなかった･･････。</text>
+  </string>
+  <string id="st_msg_death_1_4_1">
+    <text>彼は運が悪かっただけだ</text>
+  </string>
+  <string id="st_msg_death_1_4_2">
+    <text>どうしようもなかったんだ。</text>
+  </string>
+  <string id="st_msg_death_1_4_3">
+    <text>すまない</text>
+  </string>
+  <string id="st_msg_death_1_4_4">
+    <text>彼は長くは苦しまなかった。</text>
+  </string>
+  <string id="st_msg_death_1_4_5">
+    <text>彼は良いストーカーだった</text>
+  </string>
+  <string id="st_msg_death_1_4_6">
+    <text>今夜は彼を記念してウォッカのボトルを開けよう。</text>
+  </string>
+  <string id="st_msg_map_title_1_1">
+    <text>これは使えそうだな･･････。</text>
+  </string>
+  <string id="st_msg_map_title_1_2">
+    <text>良さそうな抜け道だな。</text>
+  </string>
+  <string id="st_msg_map_title_1_3">
+    <text>この道を見てみよう。</text>
+  </string>
+  <string id="st_msg_map_title_1_4">
+    <text>新しい道を見つけた</text>
+  </string>
+  <string id="st_msg_map_title_1_5">
+    <text>秘密の抜け道</text>
+  </string>
+  <string id="st_msg_map_1_1_1">
+    <text>調子はどうだ、$fname。なんかいい話はねえか？</text>
+  </string>
+  <string id="st_msg_map_1_1_2">
+    <text>こんにちは$fname、今日はどうお過ごしですか？</text>
+  </string>
+  <string id="st_msg_map_1_1_3">
+    <text>よう$fname。こちら$c1_fname。良い土産を手に入れた。</text>
+  </string>
+  <string id="st_msg_map_1_1_4">
+    <text>誰が主導権を持ってると思ってるんだ！</text>
+  </string>
+  <string id="st_msg_map_1_1_7">
+    <text>俺はお前ん中で最もスゲえ友達だろ。</text>
+  </string>
+  <string id="st_msg_map_1_1_5">
+    <text>よう$fname。こちら$c1_fname。良い土産を手に入れた。</text>
+  </string>
+  <string id="st_msg_map_1_1_6">
+    <text>ごきげんよう、$fname。</text>
+  </string>
+  <string id="st_msg_map_1_2_1">
+    <text>$traderから古い書類をいくつか手に入れた。これにはゾーンのいくつかの場所についての詳細が記されている。調査グループがこれを書いたらしいと聞いたぞ。</text>
+  </string>
+  <string id="st_msg_map_1_2_2">
+    <text>今日$c2_lnameに会った。彼はこの辺を詳しく知ってて、ゾーンの周辺地域を安全に抜けられる通路を見せてくれた。</text>
+  </string>
+  <string id="st_msg_map_1_2_3">
+    <text>俺はそこで、$traderから情報を購入した。このろくでなしはそれのためにたくさんの金を要求してきやがったぜ。</text>
+  </string>
+  <string id="st_msg_map_1_2_4">
+    <text>先日、古い友人に助けてもらったんだ。彼は昔はガイド役をしていたけど、今はのんびり暮らしているしているよ。</text>
+  </string>
+  <string id="st_msg_map_1_2_5">
+    <text>今朝、古参のひとりが地図を見せてくれた。なんとか数枚のメモに書き留めることができた。</text>
+  </string>
+  <string id="st_msg_map_1_2_6">
+    <text>ちょっと前にブロウアウトを食らったストーカーを見つけた。やつは避難場所に隠れようとしたみたいだが、間に合わなかったようだ。とにかく、ヤツのPDAを調べてみたらちょっとは役に立ちそうな情報があったぜ。</text>
+  </string>
+  <string id="st_msg_map_1_2_7">
+    <text>俺はいま死体から略奪していたんだが、いくつかの信じられないほどの興味深い情報の入ったPDAを手に入れたぞ。</text>
+  </string>
+  <string id="st_msg_map_1_3_1">
+    <text>$map_route_1と$map_route_2の間の道を見といてくれ。いつかこの道を通る必要が出てくるかもしれないからな。</text>
+  </string>
+  <string id="st_msg_map_1_3_2">
+    <text>昨晩話した$map_route_1から$map_route_2の道を覚えているか？いい道だぜ。自由に使ってくれよ！</text>
+  </string>
+  <string id="st_msg_map_1_3_3">
+    <text>前にその道を試しに行ったけど、もっと安全な道を見つけたよ。</text>
+  </string>
+  <string id="st_msg_map_1_3_4">
+    <text>これは、$map_route_1と$map_route_2の間の道だ。以前はアノマリーによってブロックされていたが、今は通れるようになっているはずだ。</text>
+  </string>
+  <string id="st_msg_map_1_4_1">
+    <text>今はまだ、この情報が本当に安全とは約束できん。だが、今のところはコイツしか無い。誰かがいい情報を持ってないかどうか聞いて回るつもりだ。</text>
+  </string>
+  <string id="st_msg_map_1_4_2">
+    <text>順調か？他に必要なものがあれば知らせくれよ。それじゃあ、またな。</text>
+  </string>
+  <string id="st_msg_map_1_4_3">
+    <text>いつかまたその場所を訪れるつもりなら、俺に知らせてくれよ。気をつけてな。</text>
+  </string>
+  <string id="st_msg_map_1_4_4">
+    <text>俺抜きで出かけるのなら気をつけて行けよ。それと、あんたはまだ俺に飲み物の借りがあるってことも忘れないでくれよ。</text>
+  </string>
+  <string id="st_msg_map_1_4_5">
+    <text>そっちでの幸運を祈るぜ！あんたが自力で新しい道を見つけたんなら、知らせてくれよ。</text>
+  </string>
+  <string id="st_msg_rf_title_1_1">
+    <text>無線信号だ！</text>
+  </string>
+  <string id="st_msg_rf_title_1_2">
+    <text>なにかいい案があるのか？</text>
+  </string>
+  <string id="st_msg_rf_title_1_3">
+    <text>妙な無線信号を傍受した。</text>
+  </string>
+  <string id="st_msg_rf_title_1_4">
+    <text>何かがシグナルを送っている！</text>
+  </string>
+  <string id="st_msg_rf_title_1_5">
+    <text>無線のノイズ</text>
+  </string>
+  <string id="st_msg_rf_1_1_1">
+    <text>よお、また$c1_fnameが来たぜ。退屈な日だな。俺らは$leaderから仕事をまたもらったから$rf_mapにもう一日いなきゃならねえ。</text>
+  </string>
+  <string id="st_msg_rf_1_1_2">
+    <text>よう$fname、こちらは$c1_fnameだ。$traderは、別の仕事を$rf_mapでやってもらいたいそうだ。だから、俺はまだこのあたりでブラブラするつもりだぜ。</text>
+  </string>
+  <string id="st_msg_rf_1_1_3">
+    <text>こちらは$c1_fnameだ。俺は、今$rf_mapにいる。俺の友人の$c2_fnameが非常にたくさんのアーティファクトがここにあると言ってたぜ。持ってきな･･････。</text>
+  </string>
+  <string id="st_msg_rf_1_2_1">
+    <text>あんたがくれたこのアホＲＦ受信機を覚えてるか？あんたはPDAをポケットから取り出してたし、これはどうやって使うんだかよくわからねえんだ。だがな、妙なことに俺が適当にいじくってたら突然、装置はビーッて鳴って、ノイズを吐き出したんだ！</text>
+  </string>
+  <string id="st_msg_rf_1_2_2">
+    <text>そいつはクソ退屈な日だったんだが、「非常事態専用」のRF受信機で遊んでたんだよ。そしたら妙なもんが聞こえてきてな･･････。</text>
+  </string>
+  <string id="st_msg_rf_1_2_3">
+    <text>俺は携帯してるRF受信機の電源を切り忘れてたんだ。バッテリーはほとんど空になりかけてたんだが、俺が目的地に近づいたとき、装置が大きなノイズを出し始めたんだ･･････。</text>
+  </string>
+  <string id="st_msg_rf_1_2_4">
+    <text>しかも、この上なく幸運なことに、電気アノマリーを通過中にRFレシーバーとPDAが危うく焼けちまうところだった。生きて帰ってこれたことが信じられねえ。それに、俺の装備もまだ動作していて、嬉しい限りだ。そういえば、受信機が何かを検知したな･･････。</text>
+  </string>
+  <string id="st_msg_rf_1_2_5">
+    <text>またさっきからRF受信機が不気味な音を拾ってやがる･･････。気になってしょうがねえ。</text>
+  </string>
+  <string id="st_msg_rf_1_2_6">
+    <text>ところで、RF受信機で再びあのノイズが聞こえてきた。前回と同じだった。</text>
+  </string>
+  <string id="st_msg_rf_1_2_7">
+    <text>最近、RF受信機が不気味な音を拾うことがある。</text>
+  </string>
+  <string id="st_msg_rf_1_3_1">
+    <text>周波数$rf_freq GHzで何か信号をとらえたのなら、このあたりから来てるだろうな。</text>
+  </string>
+  <string id="st_msg_rf_1_3_2">
+    <text>$rf_mapの中の何かが、$rf_freq［GHz］で信号を送っているから、それに近いと感じている。</text>
+  </string>
+  <string id="st_msg_rf_1_3_3">
+    <text>周波数$rf_freq［GHz］にすれば、クリアな音になるぞ。</text>
+  </string>
+  <string id="st_msg_rf_1_3_5">
+    <text>突然変異した生き物が無線で通信しようとしている。受信機を$rf_freq［GHz］に設定すると、時々聞こえるぞ。</text>
+  </string>
+  <string id="st_msg_rf_1_3_4">
+    <text>受信機を$rf_freq［GHz］に合わせると、俺の言っていることがわかるだろう。誰が何をしているにせよ、その音は心地よくも健康的にも聞こえない。</text>
+  </string>
+  <string id="st_msg_rf_1_4_1">
+    <text>周りを見て、この信号に従うことにした。</text>
+  </string>
+  <string id="st_msg_rf_1_4_2">
+    <text>あんたはどう思う？俺はこれがどんなものなのか見てみたい。一緒にやりたいなら言ってくれ。</text>
+  </string>
+  <string id="st_msg_rf_1_4_3">
+    <text>俺はこのたわごとが何であるかを確認する必要があるようだ。幸運を祈っててくれ。</text>
+  </string>
+  <string id="st_msg_rf_1_4_4">
+    <text>これらのノイズを調査することにした。ただ変な音がするだけで、それ以上何もなければいいのだが。</text>
+  </string>
+  <string id="st_msg_rf_1_4_5">
+    <text>俺たちはその場所をパトロールして、ノイズの原因を突き止めるつもりだ。また後でな。</text>
+  </string>
+  <string id="st_msg_chitchat_title_1_1">
+    <text>俺の食い物はどこにある？</text>
+  </string>
+  <string id="st_msg_chitchat_title_1_2">
+    <text>俺はそれがあんただったことを知っている。</text>
+  </string>
+  <string id="st_msg_chitchat_title_1_3">
+    <text>またな。</text>
+  </string>
+  <string id="st_msg_chitchat_title_1_4">
+    <text>面白いと思う?</text>
+  </string>
+  <string id="st_msg_chitchat_1_1_1">
+    <text>Yo $fname、$c1_fname'sはここにいるぞ。</text>
+  </string>
+  <string id="st_msg_chitchat_1_1_2">
+    <text>$fname、この無能野郎が･･････。</text>
+  </string>
+  <string id="st_msg_chitchat_1_1_3">
+    <text>よう</text>
+  </string>
+  <string id="st_msg_chitchat_1_1_4">
+    <text>$fname、俺はそれを知っているよ！</text>
+  </string>
+  <string id="st_msg_chitchat_1_2_1">
+    <text>あんた、俺が保存していたダイエット ソーセージを取っただろう？</text>
+  </string>
+  <string id="st_msg_chitchat_1_2_2">
+    <text>俺のバックパックに入ってたエナジードリンクをどこにやりやがったんだ？犯人がお前なのは分かってるんだぞ！この極悪人が！</text>
+  </string>
+  <string id="st_msg_chitchat_1_2_3">
+    <text>お前、何も言わねえで行っちまったがよ。まあこっちは元気でやってるぜ。てめえが夜のうちにウォッカ三本も飲んじまった事以外はな！</text>
+  </string>
+  <string id="st_msg_chitchat_1_3_1">
+    <text>次にそのケツをここに見せに来るときはな、もっといいもんを持ってこいよな。</text>
+  </string>
+  <string id="st_msg_chitchat_1_3_2">
+    <text>次はもっと良い物を持ってこいよ。次にてめえの汚え面を見せる時までそいつを覚えとくんだぞ。</text>
+  </string>
+  <string id="st_msg_chitchat_1_3_3">
+    <text>俺がこれを見逃すとは思うな。</text>
+  </string>
+  <string id="st_msg_chitchat_1_3_4">
+    <text>あんたのデタラメはもうたくさんだ！いい加減にしろ！</text>
+  </string>
+  <string id="st_msg_chitchat_1_3_5">
+    <text>てめえのクソ忌々しい友達だよ。</text>
+  </string>
+  <string id="st_msg_chitchat_1_4_1">
+    <text>$traderがついでにお前に会いたがってたぞ。彼の用件を確かめてこい。</text>
+  </string>
+  <string id="st_msg_chitchat_1_4_2">
+    <text>$leaderがお前について聞いてきたぜ。なんかえらいブツを手に入れたらしいじゃねえか。帰ってきたらちゃんとボスに報告しとけよ。</text>
+  </string>
+  <string id="st_msg_chitchat_1_4_3">
+    <text>まったく$c2_fnameのたわごとにはうんざりだぜ。一方$mechanicは重要な用事があるみてえだな。確認してこいよ。</text>
+  </string>
+  <string id="st_msg_chitchat_1_4_4">
+    <text>そんで、俺の寝袋でしょんべんをもらしたのはどこのド間抜けだ？！！</text>
+  </string>
+  <string id="st_msg_chitchat_1_4_5">
+    <text>おめえは俺にタバコ一箱とウォッカの借りがあるだろうが。間抜け野郎。</text>
+  </string>
+  <string id="st_msg_joke_title_1_1">
+    <text>誰かがあんたの頭に賞金をかけたようだぜ！</text>
+  </string>
+  <string id="st_msg_joke_title_1_2">
+    <text>あんた狙われてるぜ！</text>
+  </string>
+  <string id="st_msg_joke_title_1_3">
+    <text>あんたの友人は最近亡くなった。</text>
+  </string>
+  <string id="st_msg_joke_title_1_4">
+    <text>奴らが追いかけてくる!</text>
+  </string>
+  <string id="st_msg_joke_1_1_1">
+    <text>あんたの注意を引こうとしているようだぞ。</text>
+  </string>
+  <string id="st_msg_joke_1_1_2">
+    <text>冗談だよ、怒るなって。</text>
+  </string>
+  <string id="st_msg_joke_1_1_3">
+    <text>寄せ餌だ！</text>
+  </string>
+  <string id="st_msg_joke_1_1_4">
+    <text>釣り針がかかったみたいだな！ハハッ！</text>
+  </string>
+  <string id="st_msg_joke_1_1_5">
+    <text>ハーッハハハハ！おめえの面をやっと拝めるぜ！</text>
+  </string>
+  <string id="st_msg_joke_1_2_1">
+    <text>帰りに $c2_fnameと俺にいくつかプーチンカ ウォッカを持って来れるか？</text>
+  </string>
+  <string id="st_msg_joke_1_2_2">
+    <text>$c2_fnameが言うには、彼はラッキー ストライクが一箱欲しいそうだ。くれ･･････。マルボロ。心配しないでくれ。返しに来るから。</text>
+  </string>
+  <string id="st_msg_joke_1_2_3">
+    <text>オーケー、あー俺は腹が減ってるんだ。ダイエットソーセージはいくつある？</text>
+  </string>
+  <string id="st_msg_joke_1_2_4">
+    <text>$c2_fnameが生きて帰ってきた！彼との約束に基づき、今夜はお祝いだ！少しばかりウォッカと食べ物を手にとってくれ。そして、1986年であるように、パーティをしようじゃないか！</text>
+  </string>
+  <string id="st_msg_joke_1_2_5">
+    <text>どんなのでもいいから食料は手に入らねえか？ゾーンの料理はどれもクソばっかりだった。「ボア」肉なら話は別だが。</text>
+  </string>
+  <string id="st_msg_joke_1_3_1">
+    <text>今日のシフトはほぼ終わったから、1時間後に会おう。</text>
+  </string>
+  <string id="st_msg_joke_1_3_2">
+    <text>あんたを待ってるよ。それまでは死ぬんじゃないぞ。</text>
+  </string>
+  <string id="st_msg_joke_1_3_3">
+    <text>もし手ぶらで帰ってきたりでもしてみやがれ、金輪際てめえとは縁を切るからな。分かったか。</text>
+  </string>
+  <string id="st_msg_joke_1_3_4">
+    <text>野営地で会おうストーカー！</text>
+  </string>
+  <string id="st_msg_mission_target_title_1_1">
+    <text>報告</text>
+  </string>
+  <string id="st_msg_mission_target_title_1_2">
+    <text>ターゲットは近い</text>
+  </string>
+  <string id="st_msg_mission_target_title_1_3">
+    <text>ターゲットについて</text>
+  </string>
+  <string id="st_msg_mission_target_title_1_4">
+    <text>俺は定位置にいる</text>
+  </string>
+  <string id="st_msg_mission_target_title_1_5">
+    <text>準備完了</text>
+  </string>
+  <string id="st_msg_mission_target_1_1_1">
+    <text>$leader、こちら$fname $lname。任務について報告したいことがある。</text>
+  </string>
+  <string id="st_msg_mission_target_1_1_2">
+    <text>$fname $lnameだ。$leaderに関する情報がある。</text>
+  </string>
+  <string id="st_msg_mission_target_1_1_3">
+    <text>俺の名は$fname $lnameだ。$leaderから重要なターゲットに関する命令を受けた。</text>
+  </string>
+  <string id="st_msg_mission_target_1_1_4">
+    <text>$fname $lname こっちだ。</text>
+  </string>
+  <string id="st_msg_mission_target_1_2_1">
+    <text>俺は$mapに移動し、$directional $pointerにいる。ここからだと目標がよく見える。</text>
+  </string>
+  <string id="st_msg_mission_target_1_2_2">
+    <text>$mapは今のところ落ち着いる。ターゲットは$directional $pointerを移動中だ。数分後に尾行を開始する。</text>
+  </string>
+  <string id="st_msg_mission_target_1_3_1">
+    <text>その場所は$enemyに囲まれている。奴らはその場所でずいぶん長居している。ここで何かに取り組んでいるのかもしれない。</text>
+  </string>
+  <string id="st_msg_mission_target_1_3_2">
+    <text>ここからそう遠くないところで$enemyを見つけたが、問題はないはずだ。奴らとつながりがあるかどうかは、まだわかっていない。</text>
+  </string>
+  <string id="st_msg_mission_target_1_3_3">
+    <text>俺はその場所で$enemyを見かけた。他の奴がこちらに向かう際には注意するように伝えてくれ。</text>
+  </string>
+  <string id="st_msg_mission_target_1_3_4">
+    <text>$enemyはこの辺りで目撃されてる。奴らはその場所でかなり活発に活動しているようだ。</text>
+  </string>
+  <string id="st_msg_mission_target_1_4_1">
+    <text>次の命令は何だ？</text>
+  </string>
+  <string id="st_msg_mission_target_1_4_2">
+    <text>次の命令は？</text>
+  </string>
+  <string id="st_msg_mission_target_1_4_3">
+    <text>俺は任務を継続し、異常な動きがあれば報告する。</text>
+  </string>
+  <string id="st_msg_mission_target_1_4_4">
+    <text>今のところはそれだけだ。</text>
+  </string>
+  <string id="st_msg_mission_target_1_4_5">
+    <text>計画に変更はあったか？</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_1">
+    <text>すべて正常</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_2">
+    <text>穏やかな日だ</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_3">
+    <text>この場所を守る</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_4">
+    <text>こちらに送れ</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_5">
+    <text>この位置を保持する</text>
+  </string>
+  <string id="st_msg_mission_guard_title_1_6">
+    <text>今のところ順調だ</text>
+  </string>
+  <string id="st_msg_mission_guard_1_1_1">
+    <text>$leader、$mapの状況に異常はない。飢えた盲目の犬やネズミ共を除けば、大きな脅威はない。俺たちは幸運だったよ。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_1_2">
+    <text>数時間前に$directionalの$pointerで$enemyを見つけたが、逃げられた。それ以降はすべて正常だ。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_1_3">
+    <text>こちら$fnameだ。今のところ$mapには新しいものは何も無い。しばらくはこのままみたいだな。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_1_4">
+    <text>$fnameの報告。$mapはとても静かなように見える。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_2_1">
+    <text>$c1_fnameのグループをここに送ってくれ。俺はそれまで待機する。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_2_2">
+    <text>$c1_fname'sのグループがこの方向に進んでも安全だ。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_2_3">
+    <text>$c1_fname'sのグループが次のシフトに入るのを待つ。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_2_4">
+    <text>次のグループが交代する準備はできている。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_3_1">
+    <text>$fname交信終了。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_3_2">
+    <text>それまでの間、俺たちはここを警戒しておく。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_3_3">
+    <text>あまり暗くならないうちに急いで行ったほうがいい。</text>
+  </string>
+  <string id="st_msg_mission_guard_1_3_4">
+    <text>先に進むように伝えてくれ。</text>
+  </string>
+  <string id="st_msg_mission_hunt_title_1_1">
+    <text>無料の肉</text>
+  </string>
+  <string id="st_msg_mission_hunt_title_1_2">
+    <text>狩りに行ってくる</text>
+  </string>
+  <string id="st_msg_mission_hunt_title_1_3">
+    <text>狩猟旅行</text>
+  </string>
+  <string id="st_msg_mission_hunt_title_1_4">
+    <text>参加したいのか？</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_1_1">
+    <text>おーい $fname,  $mapの辺りにいるのか?</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_1_2">
+    <text>$fname, これを見てくれ！</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_1_3">
+    <text>俺たちはこれから狩りに出かけるぜ。お前が取り逃がした$fnameをな。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_1_4">
+    <text>参加したいのならまた狩りに行くか？</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_2_1">
+    <text>$c2_fname は、いくつかの「フレッシュ」を見つけたぞ。$directional $pointer。肉付きが良く、健康そうだ。あいつらはまだ俺たちに気づいていないようだ･･････。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_2_2">
+    <text>俺と $c2_fname は、２匹の荒々しい「ボア」たちを $directional $pointer で見つけた。いつもよりでけえぞ！</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_2_3">
+    <text>「フレッシュ」だ。大量の「フレッシュ」たちが $directional $pointerにいる。連中は今眠りこけてる。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_2_4">
+    <text>「ボア」の群れが早めに寝だしたのを見たぞ。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_3_1">
+    <text>$c2_fnameは奴らを追い詰めたいと思っている。俺に言わせれば無料の肉なんだがな。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_3_2">
+    <text>早く来てくれよ。これ以上待っていられないし、奴らはどこかに隠れちまうぞ。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_3_3">
+    <text>俺は狩猟用ナイフを取り出したが、 $c2_fname はそれを注意深く見ている。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_4_1">
+    <text>10分ほど待つから、ここまで来て同行できるか教えてくれ。</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_4_2">
+    <text>それで、あんたは来るのか？</text>
+  </string>
+  <string id="st_msg_mission_hunt_1_4_3">
+    <text>遅くなることをグループの残りの奴に知らせようか？</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_1">
+    <text>襲撃の準備</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_2">
+    <text>サービス品</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_3">
+    <text>取組中だ</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_4">
+    <text>待ち伏せの準備</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_5">
+    <text>襲撃に前進する</text>
+  </string>
+  <string id="st_msg_mission_raid_title_1_6">
+    <text>パーティー中だ</text>
+  </string>
+  <string id="st_msg_mission_raid_1_1_1">
+    <text>$fnameどうした？俺たちは何かを見つけたようだ。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_1_2">
+    <text>$c1_fname'sここにいるが、$fnameの奴はどこに居やがるんだ？</text>
+  </string>
+  <string id="st_msg_mission_raid_1_1_3">
+    <text>$fname、仕事を探していると聞いたが?</text>
+  </string>
+  <string id="st_msg_mission_raid_1_1_4">
+    <text>$fname、俺はあんたのために良い仕事を紹介するよ。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_2_1">
+    <text>$directional $pointerの辺りをさ迷っている新人を見かけたよ。どうやら道に迷っているらしい。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_2_2">
+    <text>$mapをボーナスアイテムがいくつかぶらついているぜ。連中は今、$directionalの$pointerで野営している。
+</text>
+  </string>
+  <string id="st_msg_mission_raid_1_2_3">
+    <text>俺らはさっき$directional $pointerの近くで集団を見かけたぜ。あのやばかった場所だな。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_3_1">
+    <text>あいつらのポケットの中には、きっと何かが入っているはずだ。最高のタイミングを見計らって、行動を起こすべきだ。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_3_2">
+    <text>今夜は一攫千金の予感がする･･････。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_3_3">
+    <text>連中のバックパックはいっぱいで重そうだ。今回は運がいいかもしれない。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_3_4">
+    <text>連中は良い装備を持っていて、興味深い場所にも行ったことがある。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_4_1">
+    <text>で、お前は中にいるのか？</text>
+  </string>
+  <string id="st_msg_mission_raid_1_4_2">
+    <text>俺たちは今から一撃を喰らわせに行くところだ。お前も一緒に来るか？</text>
+  </string>
+  <string id="st_msg_mission_raid_1_4_3">
+    <text>$c2_fnameに遅れると連絡しろ。我々を待たなくていい。</text>
+  </string>
+  <string id="st_msg_mission_raid_1_4_4">
+    <text>あんたみたいに信頼できるやつが必要なんだ。どうだ？</text>
+  </string>
+  <string id="st_msg_mission_bounty_title_1_1">
+    <text>賞金首</text>
+  </string>
+  <string id="st_msg_mission_bounty_title_1_2">
+    <text>見つけたぜ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_title_1_3">
+    <text>新しい仕事だ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_title_1_4">
+    <text>丁度いい賞金首</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_1_1">
+    <text>なあ$c1_fname、ちょっとやることがあるんだけど。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_1_2">
+    <text>$fname, 俺はあんたのために良いものを見つけてきたぞ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_1_3">
+    <text>新しい仕事が見つかったよ。これから$fnameを起こして、ライフルを準備するところだ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_1_4">
+    <text>なあ、$fname。どこかで食料と弾薬を手に入れてきてくれよ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_2_1">
+    <text>数分前に$traderと会ったけど、彼は死んで欲しい奴がいると言っていたよ。今回はお金が良いらいしい。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_2_2">
+    <text>$traderは誰かの首に賞金をかけたらしい。報奨は10, 000ルーブル。良さそうな話だな。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_2_3">
+    <text>$leaderが怒り狂ってたぜ。誰かが仲間を２人殺したらしくて、その犯人を殺してこいってな。報酬はでかいし、結構深刻な事態だな。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_2_4">
+    <text>そう、$traderからチョットばかし弾薬を買ってる時だったんだが、ついでに仕事がないか聞いてみたんだよ。彼が言うにはビジネスにちょっかいを出してくるやつがいて、永遠に消えてもらいたいらしい。この話の最高なところは、報酬がJellyfishだってところだな。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_3_1">
+    <text>名前は $c2_fname $c2_lname。こいつらが最後に目撃されたのは $map, $directional $pointerでぶらついているところだ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_3_2">
+    <text>そこらの連中に聞いて回った結果、奴らは$mapにいるらしい。正確には$directional $pointerだな。ヤツの名前は $c2_fname $c2_lname。それと、情報提供者の話によれば、やつは$enemyと共に行動中だ。厳しい状況になるかもしれない。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_3_3">
+    <text>$c2_fname、$c2_lnameがターゲットだ。奴は最近多くの人を怒らせているから、情報を探るのはそれほど難しくないはずだ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_4_1">
+    <text>そこで会って、その地域を調べてみよう。彼について何か新しい情報が入ったらまた連絡してくれ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_4_2">
+    <text>俺は言ってやったんだ。他の誰かが賞金を頂く前に撃っちまおうってな。だろ？</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_4_3">
+    <text>俺に言わせれば、十分な報酬だな。それで、どう近づいて、どう会うか、次に何をするか決めたのか？</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_4_4">
+    <text>装備を整えろ。そしたら野郎を追跡するぞ。</text>
+  </string>
+  <string id="st_msg_mission_bounty_1_4_5">
+    <text>さっさと移動しよう。</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_1">
+    <text>やれるのか？</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_2">
+    <text>アーティファクトを掴み取ったぞ</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_3">
+    <text>面白いもんを見つけたぜ</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_4">
+    <text>アーティファクトを見つけた！</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_5">
+    <text>袋詰のアーティファクトだ！</text>
+  </string>
+  <string id="st_msg_mission_artefact_title_1_6">
+    <text>給料日だ！</text>
+  </string>
+  <string id="st_msg_mission_artefact_1_1_1">
+    <text>くそったれ、「ムーンライト」アーティファクトを$mapで見つけた。クソツイてるぜ。</text>
+  </string>
+  <string id="st_msg_mission_artefact_1_1_2">
+    <text>フォォ！「バブル」アーティファクト見つけたぜ！</text>
+  </string>
+  <string id="st_msg_mission_artefact_1_2_1">
+    <text>俺以外は皆殺されたし電気的なアーティファクトしか残ってねえ。だがそれだけの価値があるぜ。</text>
+  </string>
+  <string id="st_msg_mission_artefact_1_2_2">
+    <text>このベイビーをつかむためにやべえ量の放射線を浴びちまった。こいつは地面を跳ね回ってたんだ。</text>
+  </string>
+  <string id="st_msg_mission_artefact_1_3_1">
+    <text>$trader はこいつに興味があると思うか？</text>
+  </string>
+  <string id="st_msg_mission_anomaly_title_1_1">
+    <text>アノマリー領域に到着</text>
+  </string>
+  <string id="st_msg_mission_anomaly_title_1_2">
+    <text>異常なアノマリーだ！</text>
+  </string>
+  <string id="st_msg_mission_anomaly_title_1_3">
+    <text>変だな･･････。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_title_1_4">
+    <text>珍しいアノマリー活動だ。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_1_1">
+    <text>やあ、$c1_fname。俺はいま$mapの$directional $pointerにいるぜ。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_1_2">
+    <text>$c1_fname、 俺は$fnameだ。 研究チームは$mapの$directional $pointerに到達した。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_1_3">
+    <text>オーケー、$c1_fname、15分前に$mapに到着した。探知機によると、アノマリー活動である$directional $pointerは強力だ。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_2_1">
+    <text>予想通り、最後の発光がこの地域のアノマリー領域に影響を与えた。俺の線量計もかなりの数を刻んでいて、ここの放射線量は高い。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_2_2">
+    <text>場所が違うようだ。新しい渦巻アノマリーが3つ隣り合っている。前回の「精神波の嵐」は確かに荒れていた。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_2_3">
+    <text>アノマリーが変化して、測定値が悪化している。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_2_4">
+    <text>ミュータントたちはこの地域を避けているようだ、俺たちは外に出ていて無防備なのに。非常に興味深い行動だ･･････。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_3_1">
+    <text>俺は渦巻アノマリーのひとつの近くに立っているが、この渦はこれまでに見たものと比べても異常だ。重力場は非常に強いのだが、最も奇妙なのは、それが静止していないことだ。ランダムな動きをしていて、時間とともに半径が広がっている。しかし、このような動きのために、重力場はその力を失っているようだ。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_3_2">
+    <text>さて、面白いのはこの回転木馬アノマリーだ。この近くでは重力場が非常に強くなっている。</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_3_3">
+    <text>しかし、最も目を引いたのは、この踏み切り板アノマリーだ。他のものとは異なり、半径は5メートルほどである。巨大だ！</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_4_1">
+    <text>測定してほしいか？</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_4_2">
+    <text>俺がその領域の周りにいくつかのセンサーを設置することで、あんたが自分で測定値を読み取ることができるようにするのはどうだろう？</text>
+  </string>
+  <string id="st_msg_mission_anomaly_1_4_3">
+    <text>俺はより多くの資料を集め、より多くの観察をするつもりだ。終わったらデータを送る。</text>
+  </string>
+</string_table>

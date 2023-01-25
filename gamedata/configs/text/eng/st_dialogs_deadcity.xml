@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="find_blackbox_mlr_reward_killer_0">
+    <text>ほら。フライトレコーダーを見つけた。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_killer_1">
+    <text>そいつは軍用かい？そりゃすごいな。そいつはあんたが考えているよりも遥かに価値のある機器なんだぜ。いくつかの紙切れで手を打とうじゃないか。</text>
+  </string>
+  <string id="meet_ds_killer_guide_main_base_0">
+    <text>ここから抜け出すにはどうしたらいい？</text>
+  </string>
+  <string id="meet_ds_killer_guide_main_base_1">
+    <text>この地域はあらゆる種類の危険がそこら中にあるが、地下の下水道網が候補地に挙げられるな。ザトン南部にある数少ない基地の1つにあんたを街から連れ出すことができるガイド役がいるぜ。</text>
+  </string>
+  <string id="meet_ds_killer_guide_main_base_list_0">
+    <text>もう一度聞かせてくれ、どの場所に案内できる？</text>
+  </string>
+  <string id="meet_ds_killer_guide_main_base_list_1">
+    <text>あんたが選べる唯一の選択肢は、ザトン南東部の廃棄物処理場だ。8,000ルーブルの費用がかかるぞ。</text>
+  </string>
+  <string id="travel_ds_killer_guide_main_base_0">
+    <text>街を出たい。</text>
+  </string>
+  <string id="travel_ds_killer_guide_main_base_1">
+    <text>本当にそれでいいのか？我々の唯一の選択肢は北だ。ザトン南部の廃棄物処理場行きは8,000ルーブルになる。</text>
+  </string>
+  <string id="travel_ds_killer_guide_main_base_2">
+    <text>準備ができた。ザトンに向かおう。%c[d_orange]［8,000ルーブル］</text>
+  </string>
+  <string id="travel_ds_killer_guide_main_base_3">
+    <text>気が変わった。</text>
+  </string>
+  <string id="talk_to_aslan_on_main_base_merk_0">
+    <text>あんたの事を教えてくれ。</text>
+  </string>
+  <string id="talk_to_aslan_on_main_base_merk_1">
+    <text>何を言うべきかな？俺はこの辺のバーテンダーだが、このガラクタの中で誰が俺をそのように見ると思う？俺たちはここで何日も立ち往生していて、ほとんど自分等のことで手一杯だ。数年前、俺は大統領官邸の防衛に参加し、スイスに移住したんだ。その後、ゾーンに来たわけだ。友人と一緒に100ラズ バーを訪れ、飲んだり昔を思い出したりするのを楽しんだ･･････。そんな中、シンジケートがある場所を教えてもらったんだ。当時はほとんど支持されていなかったからな、ダッシュマンと私はこの分野のパイオニアのようなもんさ。だから何だって？回りくどくなっちまったが、俺にぴったりって言いたかったのさ。アフガニスタンとジョージアに行ったことがある奴らもいるしな。だがまぁ、バルト海の連中はあまり来たがらないがな、そいつらのことは気にするな。</text>
+  </string>
+  <string id="talk_to_aslan_about_lottery_0">
+    <text>派閥ワッペンに興味があると聞いた。</text>
+  </string>
+  <string id="talk_to_aslan_about_lottery_1">
+    <text>どう言えばいいのかな？個人的には「興味がない」のだが、最近は士気が下がっているから、部下が戦利品を稼ぐには最適な方法だ。しかも、上層部はそれを望んでいる。ストーカーたちからのワッペンを持ってくると、何かアイテムがもらえる、もしくは何ももらえない。EcologistとMonolithのワッペンを除いて、どの派閥のワッペンでも25個で、劣悪なアーティファクトを手に入れるチャンスがあるし、何も手に入らないこともある。50個のワッペンでは、まともなアーティファクトや、かなりしっかりした装備を手に入れるチャンスがあるが、何も手に入らない可能性もあるだろう。MonolithとEcologistのワッペン25個では、他の派閥のワッペン50個と同じ確率で、かなり良いアーティファクトを手に入れることができる。MonolithとEcologistのワッペン50個では、経験豊富なストーカー専用の優れたアイテムや、強く良い装備が保証される。「なぜそんなに気前がいいのか」と思うかもしれないが･･････。なぜなら、多くの連中が戦闘の戦利品としてワッペンを自分のものにしたいと思っているからだ。</text>
+  </string>
+  <string id="talk_to_aslan_about_lottery_2">
+    <text>おまえはどうだ？みんなはどうやってる？</text>
+  </string>
+  <string id="talk_to_aslan_about_lottery_3">
+    <text>お前には関係ないことだ。ただ派閥ワッペンを手に入れて、何か良いことがあると期待しろ。それが宝くじの仕組みだ、話は終わりだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_0">
+    <text>派閥ワッペンをいくつか持ってるんだが。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_1">
+    <text>素晴らしい、どれだ？</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_2">
+    <text>Clear Sky。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_3">
+    <text>Freedom。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_4">
+    <text>Loner。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_5">
+    <text>Ecologist。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_6">
+    <text>Bandit。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_7">
+    <text>Duty。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_8">
+    <text>Monolith。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_9">
+    <text>Military。25枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_11">
+    <text>Clear Sky。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_12">
+    <text>Freedom。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_13">
+    <text>Loner。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_14">
+    <text>Ecologist。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_15">
+    <text>Bandit。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_16">
+    <text>Duty。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_17">
+    <text>Monolith。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_18">
+    <text>Military。50枚だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_10">
+    <text>気が変わった。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_19">
+    <text>ほら、あんたの分のアーティファクトだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_20">
+    <text>これだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_21">
+    <text>ほれ、持ってけ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_22">
+    <text>ほらよ、報酬のアーティファクトだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_23">
+    <text>今夜どっかの誰かが幸運を掴んだな。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_24">
+    <text>いいもんもらえたな。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_25">
+    <text>こいつが報酬のアーティファクトだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_26">
+    <text>あんたツイてるぜ。こちらはよくわからない放射性物質だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_27">
+    <text>素晴らしいアーティファクトだ。ほらよ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_28">
+    <text>アーティファクトが2つ！運がいいな</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_29">
+    <text>ジャックポット！大当たりだ！</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_30">
+    <text>運がいいぜあんた。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_31">
+    <text>アーティファクト ハンターのための優れた道具だ！</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_34">
+    <text>珍しくて素晴らしいアーティファクトだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_35">
+    <text>クソ、あんたはラッキーだ！</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_36">
+    <text>大当たり！</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_37">
+    <text>ああ悲しいかな。なんにもなしだぜ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_38">
+    <text>なんてこった！どうやら貧乏くじを引いたようだな！次回がんばってくれよ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_39">
+    <text>次にご期待ってところだ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_40">
+    <text>卓越したマークスマンのための優秀な装備だ。</text>
+  </string>
+  <string id="lottery_ds_aslan_mlr_41">
+    <text>理想的な長距離攻撃手段だぜ。</text>
+  </string>
+  <string id="aslan_st_0">
+    <text>現在の状況は？</text>
+  </string>
+  <string id="aslan_st_1">
+    <text>さて、シンジケートはゾーン内に1つの中央基地しかなくてな、それがここってわけさ。「精神波の放射設備」のせいでヤンターへの道が途絶えて、ミュータントやゾンビの群れがそこから漏れ出してくるんだ。リマンスクはクソッタレになっちまった。あそこはもはや危険しかない迷路さ。Monolithの戦闘員がリマンスクへの橋に居座っているし、他の地域であるレッド フォレストはミュータントがうごめいているからさらに危険だしな。東の陸軍倉庫付近は、すべてFreedomの縄張りになっている。</text>
+  </string>
+  <string id="aslan_st_2">
+    <text>続けてくれ。</text>
+  </string>
+  <string id="aslan_st_3">
+    <text>どんな危険についても、自分自身のために確認しておくこと。ただし、覚えておけ。命令を実行するとき、あんたにはやらなくてはいけいないことがある、そしてどんな感情もあんたの集中力を削いでくるはずだ。それらを念頭に置くことだ･･････。感情、道徳的余地も必要はない。生き残るための知識と計算だけだ。そして他の道に関しては、最も安全な経路はリマンスクを経由することだな。スナイパーの攻撃から身を隠す閉鎖空間がそこら辺にあるし、アノマリーやそれと同じくらい危険なものから隠れる避難所もある。だが、その付近は、ほとんど予測不可能な場所でな、角を曲がった先に何があるかはハッキリしていないな。</text>
+  </string>
+  <string id="aslan_st_4">
+    <text>あんたは基地がこの辺の中心部と言っていたな。それってつまり、以前は別に前哨基地があったということか？</text>
+  </string>
+  <string id="aslan_st_5">
+    <text>俺が知っている場所はマイナーだが2つある。ひとつは、北の湿地の端にあるザトンに、2つ目は、プリピャチ郊外の南西部にある。ワイルド テリトリーにもグループがいくつかいて、契約を結ぶとゾーンのさまざまな場所でチームを見つけることができるはずだ。</text>
+  </string>
+  <string id="aslan_st_6">
+    <text>ようは、リマンスクの北にあるものはすべてMonolithのテリトリーってわけさ。</text>
+  </string>
+  <string id="aslan_st_7">
+    <text>リマンスクからそう遠くないところに古い病院があるんだ。そこに行く意味はない。チェルノブイリ原子力発電所への道とヤンターへの道は両方とも「精神波の放射」によって遮断されている。</text>
+  </string>
+  <string id="aslan_st_8">
+    <text>理解した、情報をありがとう。</text>
+  </string>
+  <string id="information_about_stash_aslan_0">
+    <text>あんたがスタッシュの情報を持っていると聞いた。</text>
+  </string>
+  <string id="information_about_stash_aslan_1">
+    <text>あんたが耳にした噂は事実さ。俺らは襲撃後は、常に戦利品を保管している。6,500ルーブルであんたのモンだ。</text>
+  </string>
+  <string id="information_about_stash_aslan1_0">
+    <text>ほらよ。%c[d_orange]［6,500ルーブル］</text>
+  </string>
+  <string id="information_about_stash_aslan1_1">
+    <text>そうこなくっちゃな。楽しんでくれ。</text>
+  </string>
+</string_table>

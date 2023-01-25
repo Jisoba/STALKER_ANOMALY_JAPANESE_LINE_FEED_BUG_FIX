@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_stalker_trade_dialog_init">
+    <text>何か売買できるものはあるか？%c[d_orange]［トレード］</text>
+  </string>
+  <string id="st_stalker_trade_dialog_reply_1">
+    <text>派手なものを期待するなよ。俺の持ってるものはこれだ。</text>
+  </string>
+  <string id="st_stalker_trade_dialog_reply_2">
+    <text>いいぜ</text>
+  </string>
+  <string id="st_stalker_trade_dialog_reply_3">
+    <text>あー･･････確かに</text>
+  </string>
+  <string id="st_stalker_trade_dialog_reply_no_1">
+    <text>マジで何も無いぜ。他のやつを見つけな。</text>
+  </string>
+  <string id="st_stalker_trade_dialog_reply_no_2">
+    <text>悪いな、自分用しか持ち合わせがないんだ。</text>
+  </string>
+  <string id="st_trader_dialog_init">
+    <text>アイテムを売買したい。%c[d_orange]［トレード］</text>
+  </string>
+  <string id="st_trader_dialog_reply_1">
+    <text>いいとも</text>
+  </string>
+  <string id="st_trader_dialog_reply_2">
+    <text>見てってくれ</text>
+  </string>
+  <string id="st_trader_dialog_reply_3">
+    <text>持ってるものはこれだ</text>
+  </string>
+  <string id="st_mechanic_dialog_init">
+    <text>装備品の調整が必要だ。%c[d_orange]［修理／アップグレード］</text>
+  </string>
+  <string id="st_mechanic_dialog_reply_1">
+    <text>じゃああんたの装備を見せてみな･･････。ああそれと所持金もな。</text>
+  </string>
+  <string id="st_mechanic_dialog_reply_2">
+    <text>まだ修理してほしいガラクタがあるのか？やれやれ、見せてみな</text>
+  </string>
+  <string id="st_mechanic_dialog_reply_3">
+    <text>素晴らしい、いい仕事だ。</text>
+  </string>
+  <string id="st_medic_dialog_init">
+    <text>医薬品を売買したい。%c[d_orange]［トレード］</text>
+  </string>
+  <string id="st_medic_dialog_reply_1">
+    <text>手持ちが少なくてね。</text>
+  </string>
+  <string id="st_medic_dialog_reply_2">
+    <text>忌々しいが、こんな場所じゃすぐに使いきってしまうからな･･････。とにかく、これだ。</text>
+  </string>
+  <string id="st_medic_dialog_reply_3">
+    <text>大丈夫、商品を無駄にしないでくれ。</text>
+  </string>
+  <string id="st_bartender_dialog_init">
+    <text>何か売買するものはあるか？%c[d_orange]［トレード］</text>
+  </string>
+  <string id="st_bartender_dialog_reply_1">
+    <text>飯、酒、煙草･･････何が欲しいんだ？</text>
+  </string>
+  <string id="st_bartender_dialog_reply_2">
+    <text>腹減ってるのか？おあつらえ向きのがあるぜ･･････。</text>
+  </string>
+  <string id="st_bartender_dialog_reply_3">
+    <text>今日は何を飲みたいんだ？ヴォルカ ウォッカか、それともプーチンカ ウォッカか？</text>
+  </string>
+  <string id="st_trade_important_documents_0">
+    <text>いくつか古い書類を見つけたが、興味はあるか？</text>
+  </string>
+  <string id="st_trade_important_documents_1">
+    <text>いいだろう！見つけたブツとやらを確認しよう。</text>
+  </string>
+  <string id="st_trade_important_documents_2">
+    <text>ほら、見てみろよ。</text>
+  </string>
+  <string id="st_trade_important_documents_4">
+    <text>売る。</text>
+  </string>
+  <string id="st_trade_important_documents_5">
+    <text>とりあえず持っておこうかな･･････。</text>
+  </string>
+  <string id="st_trade_important_documents_7">
+    <text>じゃ、ほらよ。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_esc_m_trader">
+    <text>お前さんがこいつをどこでどうやって手に入れたかは聞かないでやるよ。情報ってのは誰に対しても価値も見返りもある･･････俺も含めな。よし%sルーブルで取引しよう、あと俺の秘蔵のブツも付けるつもりだ。どうだいこの取引、伸るか反るか？</text>
+  </string>
+  <string id="st_trade_important_documents_answer_esc_m_trader">
+    <text>こいつはいい！もしこれと似たような物が手に入ったらすぐに持ってきてくれ。面白いブツだったら良い品と交換してやるよ･･････。へへ</text>
+  </string>
+  <string id="st_trade_important_documents_ask_bar_visitors_barman_stalker_trader">
+    <text>これは･･････。なるほど、ちょっと聞いてくれ。この文書は確かに価値がある。ゾーンに関する実験の情報が含まれていたりな。もし俺があんただったら、質の悪そうなやつらには渡さんようにするね。さて、ここには俺とあんた、聞き耳を立ててるようなのもいない。そこで取引なんだが。%sルーブルぐらいでどうだ？他にも持ってきてくれたら、もっと出す。どうだ？</text>
+  </string>
+  <string id="st_trade_important_documents_answer_bar_visitors_barman_stalker_trader">
+    <text>最高だ！もっといいものが見つかったら、いつでも連絡しろよ。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_zat_b7_bandit_boss_sultan">
+    <text>おー、こいつは驚いた。小さな勇者さん、こんなことさえなければ今日はいい日になるだろうな。お前さんが知っているように、こいつはクソ長い間隠されてきた物だ。そして俺は、こんな書類のために殺そうとしてくる奴らも知ってる。%sルーブルだ。慎重に考えることだな。</text>
+  </string>
+  <string id="st_trade_important_documents_answer_zat_b7_bandit_boss_sultan">
+    <text>いい仕事だ、小僧。また「何か」見つけたら、来てくれよ。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_mar_smart_terrain_base_stalker_leader_marsh">
+    <text>これらの文書には、うちにとって貴重な情報が含まれていると思う。ただ、残念ながら立ち上げたばかりで、現状はそれほどうまくいっていなくてね。%sルーブルしか出せない。悪いね。</text>
+  </string>
+  <string id="st_trade_important_documents_answer_mar_smart_terrain_base_stalker_leader_marsh">
+    <text>ありがたい。こんなに貴重な情報なのに、今あげたものだけでは足りないのは理解している。商人であるディスピュートに相談してみるよ。次はもっと多くの資料を持ってきてくれれば、余分な装備を確保してくれるかもしれない。俺たちの状況が改善されたら、こういう情報にもっとお金を払えるようになるだろう、約束する。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_bar_dolg_leader">
+    <text>興味深い･･････。%sルーブルが適正な価格だ。言うまでもなく、最近のDutyは最高の状態ではない。この書類のおかげで、我々は必要な装備の配送を手配することができる。おまえもそれらから何かを得られると思うぞ。そう思わないか？</text>
+  </string>
+  <string id="st_trade_important_documents_answer_bar_dolg_leader">
+    <text>今日からMilitaryとの交渉を開始するが、結果が出るのに時間はかからないだろう。今度、このような資料を持ってきてくれたら、もっと価値のある報酬を出してやろう。今は、Dutyからの感謝の気持ちを込めて、これを受け取ってくれ。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+    <text>興味深い･･････。とても興味深い。いきなりそのような文書を自分で見つけてきたというのには目をつぶろう。とにかく、俺にはもっといいアイデアというか、ビジネスの提案がある。だから、この書類を俺に渡して、見たことを忘れてくれ。もし他にも見つけたら、中間業者を通さずに俺個人のところに持ってきてほしい。いいな？俺の方では、現金で支払おう。文書1つにつき %sルーブルでいいか？</text>
+  </string>
+  <string id="st_trade_important_documents_answer_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+    <text>同意できたな。さしあたって、君を怒らせないうちにポケットにある金を渡しておくとしよう。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_cit_killers_merc_trader_stalker">
+    <text>本当に面白い･･････。ゾーンの領域での実験についての文書･･････。飛躍的な進歩を遂げた時代には、重要な顧客が莫大な金額を提示してくれたものだ。今は時代が違うし、特にこの貧弱な状態で必要というわけではないが、ここにある情報には十分な価値がある。うーん･･････。やってみようじゃないか。今なら %sルーブルで買い取ろう。どうだ？</text>
+  </string>
+  <string id="st_trade_important_documents_answer_cit_killers_merc_trader_stalker">
+    <text>それでいい。もし同じような資料を見つけたら、遠慮しないで持ってきな。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_yan_stalker_sakharov">
+    <text>非常に興味深い内容だ。このような文書は我々の専門ではないが、その内容は我々の研究の多くに光を当てることができる。また、スポンサーの方々も非常に興味を持ってくれると思うので、我々の資金調達にも非常に良い影響を与えてくれるだろう。この機会に、我々と特別な契約を結ばないか？このような文書に対して、君は私から金銭的な報酬を受け取ることができる。さっき手渡してくれた書類に対しては、%sルーブルを支払おう。</text>
+  </string>
+  <string id="st_trade_important_documents_answer_yan_stalker_sakharov">
+    <text>ありがとう。我々の新しい協力関係にとても満足しているよ。</text>
+  </string>
+  <string id="st_trade_important_documents_ask_mil_smart_terrain_7_7_freedom_leader_stalker">
+    <text>はは、これらの論文はどこで手に入れたんだ？こういう情報は、世界をひっくり返すことができる。絶対に隠さないよ。過去に違法な実験が行われていたのであれば、人々は真実を知らなければならない。君が手にした「これ」は、その始まりに過ぎない。私は君に%sルーブルを提供できる。そして、断る前にこう考えてみないか。今日、君は良い仕事をしていて、明日にはそれが3倍の大きさになって返ってくる。</text>
+  </string>
+  <string id="st_trade_important_documents_answer_mil_smart_terrain_7_7_freedom_leader_stalker">
+    <text>完璧だ！なにか役立つものでも見つけてくれると、とても有り難い。</text>
+  </string>
+  <string id="st_companion_inv_show_gui">
+    <text>荷物を整理させてくれ。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items">
+    <text>戦利品を運んでくれ。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_dummy">
+    <text>戦利品を運んでくれ。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_response_accept_1">
+    <text>もちろんだ、返して欲しければいつでも言ってくれ。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_response_accept_2">
+    <text>えっと、俺に重い荷物を運ばせようとしてる？そうかい。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_response_refuse_1">
+    <text>ちょっと待て。俺の荷物だってあるんだぜ？そんな一度に持てねえよ。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_response_refuse_2">
+    <text>悪いが俺のバックパックはもういっぱいでね。</text>
+  </string>
+  <string id="st_companion_inv_take_all_my_items_response_refuse_3">
+    <text>俺はラバか？おいおい、俺のバックパックはもうパンパンだぜ！</text>
+  </string>
+  <string id="st_companion_inv_give_me_back_all_items">
+    <text>今度は俺が荷物運びになる番だ。戦利品を渡してくれるか？</text>
+  </string>
+  <string id="st_companion_inv_give_me_back_all_items_response">
+    <text>勿論だ、ほら。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_0">
+    <text>護衛を探してる、興味はないか？</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_1">
+    <text>前払いであんたを保護しよう。24時間なら%sルーブル、48時間なら%sルーブルだな。いくつかの研究所やMonolithの支配地域に行くなら、自己責任でやってくれ。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_2">
+    <text>悪いな、別の仕事があるんだ。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_3">
+    <text>24時間で頼む。%c[d_orange]［%sルーブル］</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_4">
+    <text>わかった。２日で頼む。%c[d_orange]［%sルーブル］</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_5">
+    <text>その･･････。心変わりしてね。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_6">
+    <text>移動しよう。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_7">
+    <text>移動しよう。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_8">
+    <text>あいよ。</text>
+  </string>
+  <string id="st_paid_companion_dialog_text_9">
+    <text>了解。</text>
+  </string>
+  <string id="st_paid_companion_contract_timeout_1">
+    <text>契約は終わりだ。ここからはひとりだ、気をつけろ。</text>
+  </string>
+  <string id="st_paid_companion_contract_timeout_2">
+    <text>これで俺の仕事は終わりだ。先に戻るぞ。気をつけてな。</text>
+  </string>
+  <string id="st_paid_companion_danger_1">
+    <text>おいおい、話が違うぞ。悪いが今日の予定に自殺は入ってないんでね。契約は終わりだ。</text>
+  </string>
+  <string id="st_paid_companion_danger_2">
+    <text>本気か？護衛を受ける前に言ったはずだ、この場所には入らないって。じゃあな。</text>
+  </string>
+  <string id="st_dm_medic_general_text_0">
+    <text>診てくれないか。</text>
+  </string>
+  <string id="st_dm_medic_general_text_1_0">
+    <text>1,850ルーブルで怪我は全て治してやる。いい血清があるんだ、ちょちょいのちょいで元通りになる。もし、放射線を浴びたってんなら、そいつは血清じゃどうにもならない。別料金になるが、1,480ルーブルで放射線障害を治療してやる。で、どうするんだ？</text>
+  </string>
+  <string id="st_dm_medic_general_text_1_1">
+    <text>ああそうだ、自分で自分の面倒もみれない。どれどれ･･････。</text>
+  </string>
+  <string id="st_dm_medic_general_text_1_2">
+    <text>え？ああ、こっちに来な。</text>
+  </string>
+  <string id="st_dm_medic_general_text_1_3">
+    <text>ああ、診てやるよ･･････有料でな。</text>
+  </string>
+  <string id="st_dm_medic_general_text_10_0">
+    <text>怪我も放射線障害の兆候も無し。行っていいぜ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_10_1">
+    <text>どれどれ診てみよう･･････。うーん･･････。特に問題はなさそうだ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_10_2">
+    <text>ふーむ･･････。手と足は無事･･････アタマもちゃんとついてる･･････。よし、大丈夫だ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_10_3">
+    <text>おいおい、お前はブラッドサッカーより健康だよ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_10_4">
+    <text>馬鹿言うな、平気だよ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_2">
+    <text>傷を治して欲しい。%c[d_orange]［1,850ルーブル］</text>
+  </string>
+  <string id="st_dm_medic_general_text_3">
+    <text>放射能を除去して欲しい。%c[d_orange]［1,480ルーブル］</text>
+  </string>
+  <string id="st_dm_medic_general_text_4">
+    <text>クソ、俺は調子を取り戻す必要があるんだ。%c[d_orange]［3,350ルーブル］</text>
+  </string>
+  <string id="st_dm_medic_general_text_5">
+    <text>そうだな、クソくらえ！</text>
+  </string>
+  <string id="st_dm_medic_general_text_6">
+    <text>行ってよし。次は気をつけろよ。</text>
+  </string>
+  <string id="st_dm_medic_general_text_7">
+    <text>お前次第だ。</text>
+  </string>
+  <string id="st_encrypted_pda_text_0">
+    <text>暗号化されたPDAがある。反応がないんだが、どうにかできないか？</text>
+  </string>
+  <string id="st_encrypted_pda_text_1">
+    <text>金さえ出せばいくらでもアンロックしてやろう。PDAひとつにつき500ルーブルだ。</text>
+  </string>
+  <string id="st_encrypted_pda_text_2">
+    <text>いいだろう、ほら。</text>
+  </string>
+  <string id="st_encrypted_pda_text_3">
+    <text>忘れてくれ。</text>
+  </string>
+  <string id="st_encrypted_pda_text_4">
+    <text>ほらよ、使えるようになったぜ。</text>
+  </string>
+  <string id="st_encrypted_pda_text_5">
+    <text>それじゃ。</text>
+  </string>
+  <string id="st_bribe_text_0">
+    <text>あんたにはコネがあるんだろ？ちょっと揉めててな、仲裁してもらいたいんだ。</text>
+  </string>
+  <string id="st_bribe_text_1">
+    <text>かもな。誰を怒らせた？</text>
+  </string>
+  <string id="st_bribe_text_2">
+    <text>ウクライナの兵隊が俺を構わないようにして欲しい。</text>
+  </string>
+  <string id="st_bribe_text_21">
+    <text>ふーむ。いい話がある。俺なら奴らの将校のひとりを通してあんたのために臨時の書類を偽造させることが出来る。/n5,000ルーブルもあれば、2日分のパスをもらう賄賂には充分だろう。4日間なら 10,000ルーブルだな。/nパスが有効な間、連中はいきなりあんたを撃ってくることはない。だが、調子に乗ったり、不用意なことはしないほうがいい。忠告だけはしとくぜ。</text>
+  </string>
+  <string id="st_bribe_text_3">
+    <text>スルタンのところの連中がちょっかい掛けてくるのを止めさせてほしい</text>
+  </string>
+  <string id="st_bribe_text_31">
+    <text>止める？ずっと止めるってのは無理な話だな。だが、暫くなら金を巻き上げられたりトラブルになるのを見逃してもらえるはずだ。5,000ルーブルもあれば1,2日は無視してくれるだろう。10,000ルーブルなら4日ってとこだな。で、どうするね？</text>
+  </string>
+  <string id="st_bribe_text_4">
+    <text>Clear Skyに対して悪い印象を与えてしまった、悪意がないことを示したい。</text>
+  </string>
+  <string id="st_bribe_text_41">
+    <text>沼地の住人どもを怒らせたって？まぁ何をしたかは聞かないでおくがよ。いずれにせよ、5,000ルーブルで1〜2日はマシになる、10,000ルーブルなら4日間は一服しながら散歩できるぜ。</text>
+  </string>
+  <string id="st_bribe_text_5">
+    <text>Duty に追われている、何とかならないか？</text>
+  </string>
+  <string id="st_bribe_text_51">
+    <text>「正義」と「秩序」っていう理想のためには、いわゆる「無政府主義者と犯罪者」を抹殺することもいとわん奴らだからな。5,000ルーブルで2日間、10,000ルーブルで4日間はなんとかしよう。</text>
+  </string>
+  <string id="st_bribe_text_6">
+    <text>Ecologistたちとその護衛に対して誤解を解きたいことがある。</text>
+  </string>
+  <string id="st_bribe_text_61">
+    <text>科学者たちを説得するのはそう難しくない。5,000ルーブルなら1日か2日、10,000ルーブルなら4日は邪魔されずに済むだろう。</text>
+  </string>
+  <string id="st_bribe_text_7">
+    <text>Freedomを怒らせた。</text>
+  </string>
+  <string id="st_bribe_text_71">
+    <text>Freedom？お前はろくでもないファシストってやつか。冗談、冗談だよ。5,000ルーブルもあれば１、２日は無視してくれるだろう。10,000ルーブルなら4日だ。</text>
+  </string>
+  <string id="st_bribe_text_8">
+    <text>Mercenaryどもだ。俺の首に賞金を掛けたらしい。</text>
+  </string>
+  <string id="st_bribe_text_81">
+    <text>そうか。ただ 幸いなことに、ヤツらは金のために生きてる。5,000ルーブルで1〜2日の猶予は買える、10,000ルーブルで4日間だ。</text>
+  </string>
+  <string id="st_bribe_text_9">
+    <text>フリーのストーカーたちと仲違いしてしまってな。</text>
+  </string>
+  <string id="st_bribe_text_91">
+    <text>わかった･･････待て、やつらの「全て」か？ハハッ、あんたは本当に友達の作り方ってやつを心得てるな。5000ルーブルを支払えば、2日間は無事でいられると保証するぜ。4日間なら、10,000ルーブル。どうする？</text>
+  </string>
+  <string id="st_bribe_text_13">
+    <text>ほら、二日で十分だ。</text>
+  </string>
+  <string id="st_bribe_text_14">
+    <text>わかった。四日で頼む。</text>
+  </string>
+  <string id="st_bribe_text_10">
+    <text>いや、やっぱりいい。</text>
+  </string>
+  <string id="st_bribe_text_11">
+    <text>ああ。</text>
+  </string>
+  <string id="st_bribe_text_12">
+    <text>これから連絡を取って算段をつけるが、仕事なら奴らの気が変わる前に済ませろ。忘れるな、常に距離をとれ。近づき過ぎれば奴らは撃ってくる。</text>
+  </string>
+  <string id="st_jg_1">
+    <text>メッセージを聞いた。ガイド役は要るか？</text>
+  </string>
+  <string id="st_jg_1_alt">
+    <text>仕事についてだが･･････。</text>
+  </string>
+  <string id="st_jg_2">
+    <text>ああ、助けてくれるのか？</text>
+  </string>
+  <string id="st_jg_2_alt">
+    <text>何だ？</text>
+  </string>
+  <string id="st_jg_3">
+    <text>詳しく話してくれ。</text>
+  </string>
+  <string id="st_jg_4">
+    <text>よし、いこう。</text>
+  </string>
+  <string id="st_jg_5">
+    <text>先導してくれ、ストーカー！目的地に着いて、また話しかけてくれれば、代金を渡そう。</text>
+  </string>
+  <string id="st_jg_6">
+    <text>悪いな。だけど、計画がうまくいかなかったときに俺に払う金はあんた持ってないだろ？</text>
+  </string>
+  <string id="st_jg_mlr_1">
+    <text>俺はお前が誰かすら知らないんだぞ？他をあたるよ。</text>
+  </string>
+  <string id="st_jg_7">
+    <text>どこへ行けばいいのか教えてくれ。</text>
+  </string>
+  <string id="st_jg_8">
+    <text>着いたぞ。</text>
+  </string>
+  <string id="st_jg_9">
+    <text>やっとか！ありがとう、ストーカー。いい仕事だ。約束の金はここだ。</text>
+  </string>
+  <string id="st_jg_10">
+    <text>気が変わった。仕事を辞めたいんだが。</text>
+  </string>
+  <string id="st_jg_11">
+    <text>本当にそれでいいのか？</text>
+  </string>
+  <string id="st_jg_12">
+    <text>ああ、確かだ。</text>
+  </string>
+  <string id="st_jg_13">
+    <text>いや、忘れてくれ。</text>
+  </string>
+  <string id="st_jg_14">
+    <text>俺を%sに先導してくれる経験豊富なストーカーを探している。俺は今、%sにいて、名前は%sだ。</text>
+  </string>
+  <string id="st_jg_15">
+    <text>遅すぎた。悪いが契約未成だ、報酬全額は諦めてくれ。</text>
+  </string>
+  <string id="st_jg_16">
+    <text>こいつが条件だ。%s時間以内に俺は%sにいなきゃいけない。報酬は%sルーブルだが、時間内につけなければ全額は貰えないことを覚えておいてくれ。</text>
+  </string>
+  <string id="st_jg_17">
+    <text>目的地は</text>
+  </string>
+  <string id="st_jg_18">
+    <text>それなら俺は自分でやって、その金をもらうとするさ。残念だ。</text>
+  </string>
+  <string id="st_jg_19">
+    <text>出発地から目的地までの距離 : </text>
+  </string>
+  <string id="st_jg_29">
+    <text>ストーカーは必要としている。</text>
+  </string>
+  <string id="st_jg_cancel_1">
+    <text>最高の骨折り損をありがとよ。</text>
+  </string>
+  <string id="st_jg_cancel_2">
+    <text>残念だ。</text>
+  </string>
+  <string id="st_jg_cancel_3">
+    <text>俺の時間を無駄にしてくれてありがとう。</text>
+  </string>
+  <string id="debt_register_0">
+    <text>%s、いくらか金を貸してくれないか？</text>
+  </string>
+  <string id="debt_register_1">
+    <text>それなりの理由があって金が要るんだろうが･･････金利は5割、返済時には借りた額とその半分を払ってもらう。そして、あんたが借金を返すまで、ウチの物を利用できないってことを覚えておいてくれ。</text>
+  </string>
+  <string id="debt_register_2">
+    <text>%c[d_orange]［5,000ルーブル］必要だ。</text>
+  </string>
+  <string id="debt_register_3">
+    <text>OK、%c[d_orange]［10,000ルーブル］頼む。</text>
+  </string>
+  <string id="debt_register_4">
+    <text>%c[d_orange]［15,000ルーブル］欲しい。</text>
+  </string>
+  <string id="debt_register_5">
+    <text>問題ない。%c[d_orange]［20,000ルーブル］頼む。</text>
+  </string>
+  <string id="debt_register_6">
+    <text>大丈夫だ･･････。</text>
+  </string>
+  <string id="debt_register_7">
+    <text>これをくれてやる唯一の理由は、あんたが使えるヤツだと聞いてるからだ。期待を裏切らないでほしいものだな。ほらよ。次にここに来るときには、%c[d_orange]［%sルーブル］%c[255,160,160,190] を忘れるなよ。</text>
+  </string>
+  <string id="debt_register_8">
+    <text>わかった。</text>
+  </string>
+  <string id="debt_register_10">
+    <text>どこの誰とも知らんやつが来るたび、俺は金を投げて寄越さなきゃならんのか？答えはNoだ。</text>
+  </string>
+  <string id="debt_pay_off_0">
+    <text>例の金についてなんだが･･････。</text>
+  </string>
+  <string id="debt_pay_off_1">
+    <text>借金の返済に来たのか？</text>
+  </string>
+  <string id="debt_pay_off_2">
+    <text>もちろん。これがあんたの金だ。%c[d_orange]［%sルーブル］</text>
+  </string>
+  <string id="debt_pay_off_3">
+    <text>あー･･････。もう少し待ってくれ。</text>
+  </string>
+  <string id="debt_pay_off_4">
+    <text>素晴らしい。これで貸し借りなしのきれいな身だな。</text>
+  </string>
+  <string id="debt_pay_off_5">
+    <text>急げよ。</text>
+  </string>
+  <string id="st_debt_no_trade_1">
+    <text>そんなことはないと思う。お前は俺に金を借りているんだぞ？早く借金を返せよ。</text>
+  </string>
+  <string id="buy_extra_items_0">
+    <text>なにか特別な仕事はあるかい？</text>
+  </string>
+  <string id="buy_extra_items_1">
+    <text>何を考えている？</text>
+  </string>
+  <string id="buy_extra_items_2">
+    <text>追加の機器を購入したいんだが。</text>
+  </string>
+  <string id="buy_extra_items_3">
+    <text>確かにそういったこともやるが、あんたにやってやる義理はないな。「信頼」と「経験」て言葉を知ってるか？知ってるなら、話しはそれからだってことだな。</text>
+  </string>
+  <string id="buy_extra_items_4">
+    <text>追加の機器を購入したいのだが。</text>
+  </string>
+  <string id="buy_extra_items_5">
+    <text>何に興味があるんだ？</text>
+  </string>
+  <string id="buy_extra_items_6">
+    <text>医療用品。</text>
+  </string>
+  <string id="buy_extra_items_7">
+    <text>食料。</text>
+  </string>
+  <string id="buy_extra_items_8">
+    <text>弾薬。</text>
+  </string>
+  <string id="buy_extra_items_9">
+    <text>を選べ。</text>
+  </string>
+  <string id="buy_extra_items_10">
+    <text>を選べ。</text>
+  </string>
+  <string id="buy_extra_items_11">
+    <text>を選べ。</text>
+  </string>
+  <string id="buy_extra_items_12">
+    <text>気が変わった。</text>
+  </string>
+  <string id="buy_extra_items_txt">
+    <text>%s%c[d_orange]［%sルーブル］</text>
+  </string>
+  <string id="st_buy_route_0">
+    <text>知らない道の情報を買いたい。</text>
+  </string>
+  <string id="st_buy_route_1">
+    <text>いくつか情報を持ってる。\n8,000ルーブル出せばほとんどの地域と場所について情報が手に入る。10,000ルーブルで「デリケート」な場所の情報、20,000ルーブル出せば隠された道についてだ。\nもし興味があれば、40,000ルーブルである「秘密」の道について情報を分けてやってもいい。</text>
+  </string>
+  <string id="st_buy_route_2">
+    <text>俺には少し高過ぎるな。</text>
+  </string>
+  <string id="st_buy_route_3">
+    <text>こっちの知ったことじゃない。必要になった時に戻ってきな。</text>
+  </string>
+  <string id="st_buy_route_4">
+    <text>ほらよ。</text>
+  </string>
+  <string id="st_buy_route_dialog">
+    <text>「%s」と「%s」の間の道［%sルーブル］</text>
+  </string>
+  <string id="st_route_open_title">
+    <text>道の情報</text>
+  </string>
+  <string id="st_route_open_msg">
+    <text>「%s」と「%s」の間の新しい道を発見した。</text>
+  </string>
+  <string id="st_route_unknown">
+    <text>道を知らないので、この先には進めない</text>
+  </string>
+  <string id="st_route_aes1">
+    <text>チェルノブイリ原子力発電所の南側</text>
+  </string>
+  <string id="st_route_aes2">
+    <text>チェルノブイリ原子力発電所の北側</text>
+  </string>
+  <string id="st_route_agr">
+    <text>アグロプロム</text>
+  </string>
+  <string id="st_route_bar">
+    <text>ロストク</text>
+  </string>
+  <string id="st_route_cit">
+    <text>デッド シティ</text>
+  </string>
+  <string id="st_route_dsc">
+    <text>ダークスケープ</text>
+  </string>
+  <string id="st_route_esc">
+    <text>コードン</text>
+  </string>
+  <string id="st_route_gar">
+    <text>ガベージ</text>
+  </string>
+  <string id="st_route_gen">
+    <text>ジェネレーター</text>
+  </string>
+  <string id="st_route_jup">
+    <text>ジュピター</text>
+  </string>
+  <string id="st_route_kat">
+    <text>放棄された病院</text>
+  </string>
+  <string id="st_route_lim">
+    <text>リマンスク</text>
+  </string>
+  <string id="st_route_mar">
+    <text>グレート スワンプ</text>
+  </string>
+  <string id="st_route_mil">
+    <text>陸軍倉庫</text>
+  </string>
+  <string id="st_route_out">
+    <text>プリピャチ郊外</text>
+  </string>
+  <string id="st_route_pol">
+    <text>メドウ</text>
+  </string>
+  <string id="st_route_pri">
+    <text>プリピャチ</text>
+  </string>
+  <string id="st_route_rad">
+    <text>レーダー施設</text>
+  </string>
+  <string id="st_route_red">
+    <text>レッド フォレスト</text>
+  </string>
+  <string id="st_route_ros">
+    <text>ワイルド テリトリー</text>
+  </string>
+  <string id="st_route_trc">
+    <text>トラック墓地</text>
+  </string>
+  <string id="st_route_val">
+    <text>ダーク バレー</text>
+  </string>
+  <string id="st_route_yan">
+    <text>ヤンター</text>
+  </string>
+  <string id="st_route_zat">
+    <text>ザトン</text>
+  </string>
+  <string id="st_route_x8">
+    <text>X-8研究所</text>
+  </string>
+  <string id="st_route_x16">
+    <text>X-16研究所</text>
+  </string>
+  <string id="st_route_x18">
+    <text>X-18研究所</text>
+  </string>
+  <string id="st_route_x19">
+    <text>X-19研究所</text>
+  </string>
+  <string id="st_route_mar_h">
+    <text>Clea Skyの隠し通路</text>
+  </string>
+  <string id="st_route_agr_u">
+    <text>アグロプロム地下</text>
+  </string>
+  <string id="st_route_jup_u">
+    <text>ジュピター地下</text>
+  </string>
+  <string id="st_route_sar">
+    <text>石棺</text>
+  </string>
+  <string id="st_route_s_lab">
+    <text>モノリス中央制御室</text>
+  </string>
+  <string id="st_route_w_lab">
+    <text>モノリス戦争研究所</text>
+  </string>
+  <string id="ka_travel_dialog_ask">
+    <text>ちょっと旅をする用事があるんだが･･････。それらを手配することって出来るか？</text>
+  </string>
+  <string id="ka_travel_dialog_response">
+    <text>もちろんだ。どこへ行きたい？</text>
+  </string>
+  <string id="ka_travel_dialog_nevermind">
+    <text>気にすんな。</text>
+  </string>
+  <string id="ka_travel_dialog_accept">
+    <text>いいね。</text>
+  </string>
+  <string id="ka_travel_dialog_change">
+    <text>実は別の場所へ行きたくてな･･････。</text>
+  </string>
+  <string id="ka_travel_dialog_deny">
+    <text>ちょっと高いな。</text>
+  </string>
+  <string id="ka_travel_dialog_cost">
+    <text>料金は%sルーブルかかる。</text>
+  </string>
+  <string id="ka_travel_dialog_zaton">
+    <text>ザトンにあるスカドフスク</text>
+  </string>
+  <string id="ka_travel_dialog_jupiter">
+    <text>ジュピターにあるヤノフ駅</text>
+  </string>
+  <string id="ka_travel_dialog_yantar">
+    <text>ヤンターにある科学研究所</text>
+  </string>
+  <string id="ka_travel_dialog_cordon">
+    <text>コードンにあるルーキー村</text>
+  </string>
+  <string id="ka_travel_dialog_bar">
+    <text>ロストクにあるバー</text>
+  </string>
+  <string id="ka_travel_dialog_warehouses">
+    <text>陸軍倉庫にあるFreedom基地</text>
+  </string>
+  <string id="ka_travel_dialog_city">
+    <text>デッド シティーにあるMercenary基地</text>
+  </string>
+  <string id="ka_travel_dialog_agroprom">
+    <text>アグロプロムにあるMilitary基地</text>
+  </string>
+  <string id="ka_travel_dialog_swamp">
+    <text>グレート スワンプにあるClear Sky基地</text>
+  </string>
+  <string id="about_quests_dialog_bandit_0">
+    <text>最近ここでニュースを聞いたことないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_1">
+    <text>どんな？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_10">
+    <text>ニンブルをどう思う？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_101">
+    <text>ニンブルだぁ？俺はいつか、誰もいない所であの逃げ足の速いマヌケ野郎を襲おうと考えてんだ！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_11">
+    <text>「オアシス」について何か聞いてないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_111">
+    <text>昔、面白い話を聞いたことがある。ガベージの奴らが、「オアシス」がどこにあるのかという噂を立て、それを本当のことのように信じてしまったのだ。そして、その場所に行って待っていたという。まあ、なんというか。あまりにも多くの騙されやすい人たちが集まってきたので、噂を流した奴らはすぐにゾーンを去ってしまった。それもそのはず。残ったのはひとりだけ。ひとりだけ残ったのは、ヨーガと呼ばれる男だった･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_112">
+    <text>そいつぁ、もし辿り着いたらありとあらゆる問題が解決するぞ。二日酔いも痔ももっと手軽に治らなくちゃおかしい！見つけて来いよ。そしたらスパを始めて大儲けだぜ！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_113">
+    <text>なぜそんなくだらねえ噂を信じるんだ？全部負け犬の遠吠えだ･･････。まともな野郎ならそんなもん信じねえんだよ。あんたは冷えた酒を片手にバーでくつろいでるってのに、ストーカーの奴らといえば 「オアシスはどこなんだ」 ってやかましく騒ぐんだ。そんで、どいつもこいつも最後には「奴なら知ってる」って言うのさ･･････。わかってんだろ？全部ヘタレのたわごとだ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_12">
+    <text>マグピーというストーカーに会ったことないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_121">
+    <text>会った事あるぜ･･････。奴の第一印象を言わせてもらえば、完ぺきなクソ野郎だな。他のストーカーたちもあいつは紛れも無いカス野郎だと口揃えて言ってたぜ。あいつがどこにいるかまでは知らねぇ･･････。跡を追ってるなら自分で捜すんだな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_122">
+    <text>いや･･････。初めて聞いた名前だぜ、兄弟。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_13">
+    <text>個人用収納ボックスから物を盗んだ奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_131">
+    <text>裏切者だ。ヤノフにいるボスたちに尋ねた方がいい。彼らは裏切者の捕らえ方を知っている。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_14">
+    <text>誰かここに暗号を解析出来る奴はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_141">
+    <text>そうだな、ヤノフにいるニトロってヤツがいい腕をしているらしい。確かヤツがまだDutyのために働いてなかった頃、仲間が手に入れたストーカーのPDAを数回解析してたかな･･････。ああ、昔は良かったよ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_143">
+    <text>難しい事聞くなよ、大将。その類の糞なら解析家が必要だろうな。刑務所に居た頃、ム所の中でひとり会った事があるが、知ってるのはそいつだけだ。俺が出所した時、そいつはまだ 5 年ぐらい刑期が残ってたがな･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_15">
+    <text>俺はDutyのトレーダーのPDAを持っている。誰かこいつに興味を持っていそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_151">
+    <text>スカドフスクのオウェルってトレーダーだろうな。あいつは金払いが良いし、今でも仲間たちはあいつにストーカー共のPDAを売り払ってるしな。しつこく質問してくることも無い。最高じゃないか。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_152">
+    <text>そんなもん誰でも分かるだろ、兄弟。考えてもみやがれ。Dutyに持ってきゃその下衆野郎を生き埋めにしちまうだろうしFreedomなら大騒ぎだぜ。だが、ザトンのオウェルならPDAをキレイサッパリどこかへやっちまうだろうよ。そうなりゃ、そのPDAをいつ、どこで引っ張り出すかは オウェル 次第って事になる･･････。まあ、好きにしな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_16">
+    <text>この辺りでツールを見なかったか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_165">
+    <text>そうだな、手術器具が必要だったら、病院や救急処置室で探せばいい。建設用の道具を探しているなら、ジュピターの採石場を見て回れば良い。小さなツールを探しているなら、古い作業所を探してみると良い。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_166">
+    <text>知らねぇよ 俺はストーカーを拷問するのに道具なんか使わねぇからな。知ってんだろ？･･････冗談だ、落ち着けよ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_17">
+    <text>誰かこの記録装置の暗号を解除できないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_171">
+    <text>良い質問だ！って俺がその専門家だとでも思ってんのか？ハッ！馬鹿かお前は？そいつは技術屋か科学者の仕事だ･･････。俺がそんな商売をしてると、本気で思ってんのか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_172">
+    <text>正直に言おう。最後に記憶装置の暗号を解除したのは学生の頃で、その記憶装置の名前は「腐れフロッピーディスク」だ。専門家に相談しに行け。そいつを見せて連中のキンタマを破裂させてやんな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_18">
+    <text>鉄のトランクを開けられる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_181">
+    <text>スカドフスクのカーダンを知ってるか？あのバカ野郎、この間べろべろに酔っ払ってな、カナテコ片手にあちこち追い回されたぜ。奴だったら、あのカナテコで何か物を割ったり、もっとマシな用途に使えるだろうによ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_182">
+    <text>そうだな、適当なツールがあれば俺でも開けられるだろうが、そんな物をゾーンに持ち込んでる奴なんているか？旦那、技術屋のところに行ってみろよ。連中ならその手の物も持っていそうだろ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_19">
+    <text>スナグというストーカーを探しているんだが。奴がどこにいるか知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_191">
+    <text>誰が知っているかって？スカドフスクのスルタンを訪ねろ。ボスはどこにカモがいるかいつも知っている。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_193">
+    <text>ああ、俺はそのウジ虫野郎なら聞いたことがあるぞ。奴はザトンをいつもうろついているから、このあたりじゃ見かけないぜ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_2">
+    <text>墜落したヘリコプターについて何か知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_20">
+    <text>Dutyの創設者に関する情報に興味がある奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_201">
+    <text>興味ない奴なんか居ないだろ！相棒、そいつは危険な情報だぞ、だからスカドフスクのオウェルを通すのが一番いい。そうすりゃあ、金も貰えて誰も敵に回さないで済むだろう。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_22">
+    <text>駄目だ。左向けばDuty、右向けばFreedom、振り向けばストーカーが現れる。あんたを相手している暇があると思うか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_23">
+    <text>ああ、仲間が「鉄の森」の電線の上にフラフラ飛んでる 「何か」 を見たらしい。だが、あんたがその 「何か」を見に行くってんなら、それ以外の 「何か」 に出くわすだろうな･･････。アノマリーに突っ込むか、さもなきゃ、「ポルターガイスト」に頭を潰されるかだな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_24">
+    <text>ああ、何名かが台地に落ちたのを見たようだ。しかし、そこへ行く道が無いんだ･･････。目撃したヤツらの話では、ヘリ操縦者はラリってんじゃないかってくらい妙な飛び方をしていたらしい。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_26">
+    <text>湿地帯にヘリが落ちたらしい。ヘリはものすごい勢いで浅瀬に乗り上げたんだが、そこの水は健康とは程遠いもんでな、毒や化学物質やクソだらけさ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_3">
+    <text>この辺りでMilitaryを見かけなかったか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_30">
+    <text>ザトンとジュピターの間の地図に興味がありそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_301">
+    <text>「パイロット」じゃねえのか。奴はあの地域一帯のガイド役だろ。奴が今やってるような、星座頼りよりはマシになると思うぜ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_31">
+    <text>仲間が言っていたんだが、Militaryの分隊が南部の台地からMercenaryの野営地に向かってまっすぐ降りていった。糞野郎どもはすぐに撃ちあいを始めるだろうと思ったんで、急いでその場から逃げたってな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_32">
+    <text>Militaryのゴキブリ野郎共が湿地帯に落ちたヘリからどうやって脱出しようかって話してるのが聞こえたんだ。想像できるか？そこらで５人の兵士どもが沼に落ちないようにジャンプしてる光景をさ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_33">
+    <text>ある男が戦利品をいただくためにストーカーの後を付けていたら銃声を聞いたって話を聞いたな。MilitaryとMarcenaryがやりあってたんだとよ。そいつはその銃撃戦を隠れてやり過ごしたんだが、その頃にはストーカーは逃げちまった。人生中々うまくいかねぇもんだなぁ？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_34">
+    <text>そういやダチ公が以前面白い物を見たって言ってたな。聞くには、はしけの上にMilitary連中がいてノアがそいつらにカンカンに怒って怒鳴り散らしてたんだと、それで犬っころをけしかけたみたいでよ。10人もの兵隊がその犬から逃げようと走り回ってたそうだ。ダチ公は大層満悦したようで、その漫才が終わる前にその場を離れたそうだ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_35">
+    <text>いやぁ、ここはおっかねぇ場所だからよ、ゴテゴテに武装した連中ばっかでさ･･････。どいつがMilitaryでどいつがDutyの手先だなんて見分けがつかねぇよ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_4">
+    <text>どうすればプリピャチに行ける？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_40">
+    <text>科学者たちの護衛に雇える人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_403">
+    <text>ハッ、それなら俺らに任せときな！あいつらが経験したこともねぇ護衛をしてやるぜ！ストーカーやミュータント野郎どもは怖気付いて近寄ろうともしねえよ、マジでな！毎週シャバ代を払ってくれりゃ働いてやるぜ。クリスマスボーナスもお忘れなく、だな！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_41">
+    <text>歩いていくのさ、兄弟。まずはジュピターに向かって歩くんだ、そしてそこで尋ねてみな。なぜかって？ザトンからプリピャチまで直接行く道はないんだよ、それが真実さ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_43">
+    <text>おい兄弟、俺がガイドか何かに見えるか？「アホな質問受け付けます」って俺の額にタトゥーでも刻んであるか？ええ？「パイロット」に聞けよ。奴ならくだらねえ質問にも答えてくれるだろ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_44">
+    <text>いいや･･････。俺は其処で何をするんだ？カモにするストーカーがひとりも居ないのに！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_5">
+    <text>誰か一緒にプリピャチへ同行してくれそうな手の空いている奴を紹介してくれないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_51">
+    <text>プリピャチは俺たちみたいなのが行く場所じゃない。考えても見ろ、ミュータントとアノマリーでいっぱいで･･････ゾーンの他の場所と同じように･･････だがストーカーと戦利品がない。ストーカーがプリピャチに現れたら知らせてくれ、当たり前のことをしに行くからよ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_57">
+    <text>何も思いつかないよ兄弟、すまねぇ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_6">
+    <text>俺はちょっと普通じゃない銃を見つけた。お前、そういうブツのことについて何か知っているヤツを知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_62">
+    <text>そうだな、俺なら技術屋に聞くだろうよ。つまりだ、このクソッたれなことを知るってのがヤツらの仕事なんだよ、わかるよな？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_63">
+    <text>さあな、だがスカドフスクのストーカーたちはカーダンが天才技術屋か何かだと信じてる。そうしたければ、彼に聞いてみろ。俺に言わせれば、ただの酔っぱらいの年寄りだ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_7">
+    <text>科学者の測定作業に駆り出せそうな人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_73">
+    <text>簡単な質問じゃないか、俺たちの仲間がやるとも。まぁ確かにあいつらオツムが強いって訳じゃないが、誰なりと連れて行ってビシっと測ってやるさ。そんで、その測量とやらが終わったらそいつらに墓石でも用意してやりゃいいんだろ、チョロイな！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_8">
+    <text>珍しいアーティファクトを見つけたんだが、買い取ってくれそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_81">
+    <text>珍しいアーティファクトってのは、お前が言ったのか？良く見せてくれ･･････。じっくり見るから渡せってんだよ･･････。ハッ、安心しろよ兄弟、ただからかってるだけさ。だが、俺がお前ならこれは見えないところにしまっておくね。他の奴らには俺ほどユーモアのセンスはないだろうからな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_83">
+    <text>こんな所でアーティファクトをちらつかせるなんて大した肝っ玉野郎だな、尊敬するぜ。そいつはだな、スカドフスクにいるベアードって野郎に持って行きな。奴がどうやってゾーンからアーティファクトを出荷してるのかまだ掴めてないが、あいつなら問題なく買い取ってくれるはずだぜ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_9">
+    <text>ブラッドサッカーが大量にいる巣穴を見つけた。どうすりゃいいと思う？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_91">
+    <text>ああ？何ができるってんだ？ケツまくって逃げろ、それが俺たちに出来るこった！</text>
+  </string>
+  <string id="about_quests_dialog_bandit_98">
+    <text>ああ、今のは忘れてくれ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_0">
+    <text>最近この辺りで何かニュースを聞かなかったか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_1">
+    <text>どんなのだ？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_10">
+    <text>ニンブルについてなんだが、どう思う？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_101">
+    <text>ニンブル？聞いた事無いが、多分別の分隊にでもいるんじゃないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_11">
+    <text>「オアシス」について、何か聞いたことはないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_111">
+    <text>ストーカーのおとぎ話さ、ストーカーたちは躍起になって探しまわってるがね！俺がお前ならこんな話は無視するよ、ゲートウェイ理論みたいなもんだな。願望機が有るって随分前から言われてるよ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_112">
+    <text>ああ、傷が自然に回復して、体力が魔法のように補給される場所だろ？あんたにいい知らせだ、そんな場所は存在しない。ゾーンがそれほど危険でないと思えるようにストーカーはそんな戯言を作るが、現実は厳しくゾーンに安全な場所なんてない。あんたもここの現実をしっかり把握しておけ。夢想家タイプはゾーンでは長生きできないからな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_113">
+    <text>そうさ、あそこのアーティファクトはそれと同じ重さの金と同等の価値があって、そいつは銀の皿に乗って差し出されて、おまけに奇麗な姉ちゃんに足をマッサージしてもらえるんだ･･････。なんてな。そんなものがあるとは思えないが、あればいいなと思う。医療従事者がいなくても、そこに病院を建てて、誰もが立ち寄れて癒される･･････。そんなのは夢のまた夢だよ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_12">
+    <text>マグピーというストーカーに会ったことはないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_121">
+    <text>俺がDutyの全隊員を覚えるのにも苦労しているってのに、その上ストーカー連中の事まで訊くのか？連中ならスカドフスクに基地を持ってるだろ、訊くならそこへ行け。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_122">
+    <text>いや、知らんな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_13">
+    <text>個人用収納ボックスから物を盗んだ奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_131">
+    <text>ほら見ろ、こんなことDutyの基地なら起こりえないのにFreedom野郎がいる途端にこれだ。奴らを先に調べるといいと思うぞ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_14">
+    <text>誰かここに解析をできる奴はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_141">
+    <text>ヤノフ駅にニトロっていう技術屋がいる。電子機器にはかなり強いぜ。俺は以前自分のPDAのパスワードを忘れちまったことがあるんだが、あいつはそれを5秒丁度で解析してのけたんだ！</text>
+  </string>
+  <string id="about_quests_dialog_dolg_143">
+    <text>ヤノフに行くといい。そこでニトロを探しな、こういうのが得意な奴だから。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_15">
+    <text>Dutyのトレーダーの PDA を持っている。誰かこいつに興味持ってる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_151">
+    <text>Dutyのトレーダー？ありえない話だ！とはいえ、何か情報を持ってるのなら、シュルガ中佐に渡して検討してもらったら良いだろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_16">
+    <text>この辺でツールはどこで見つかる?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_163">
+    <text>この近くに工場があったはずだ。もう既に取られちまってるかもしれないが、俺ならまず工場の倉庫を探すぜ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_165">
+    <text>俺がもしあんたならまず古い作業場から調べるね。どこかの商店でも見つかるかもしれないな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_166">
+    <text>ここらじゃミュータントとアノマリーくらいしかないぞ。ハッ、俺ならアノマリーには近づかんがね。バーラーや「コントローラー」なんかもうろついているからな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_169">
+    <text>そうだな、この辺りに橋の下に電車が止まっていたのを以前見た。そこは技術屋たちの移動に使われていたんだが、もしかしたらその中にツールが残っているかもしれないな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_17">
+    <text>誰かこの記録装置の暗号を解除できないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_171">
+    <text>聞くとしたらニトロだろうな、ヤノフの中でそういう事に詳しい奴と言ったら奴しか居ない。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_172">
+    <text>そう言うのは技術屋じゃないと分からんだろうな。ここら辺で唯一対処出来そうな奴はヤノフにいるニトロだ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_18">
+    <text>鉄のトランクを開けられる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_181">
+    <text>ストーカー連中に混じって技術屋がいるって話だぜ。飲んだくれだが、腕は確かだそうだ。そいつと話してみるんだな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_182">
+    <text>ハッ、金庫を持ち歩いてるようなもんだな。そいつにはニトロもお手上げだろうからな･･････電子ロックなら話は別だったんだが･･････。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_19">
+    <text>スナグというストーカーを探しているんだが、どこにいるか知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_191">
+    <text>ストーカーに聞くべきだ。自分たちのことは自分で知っているだろう。Snogだか何だか知らんが、俺はそんな名前を聞いたことはない。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_2">
+    <text>墜落したヘリコプターについて何か知らないか?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_20">
+    <text>Dutyの創設者に関する情報に興味のありそうな奴を知らないか?</text>
+  </string>
+  <string id="about_quests_dialog_dolg_201">
+    <text>もちろん、我々の司令官だ。知っていることをすべてシュルガに報告すれば、きっとDutyから感謝されるだろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_22">
+    <text>ああ、我々の偵察隊がMilitaryのヘリコプターがジュピターの近くの予備ヘリポートに降下するのを見ている。偵察隊はコースを変えるようにと合図を送ったらしいのだが、操縦士は他のことに気を取られていたようだ。Militaryの連中は無事に地雷原を抜けられただろうか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_23">
+    <text>ここらでは見て無いな。ここ周辺は我々の手があまり及んでないんだ･･････ヤノフにいる仲間に聞くといい。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_25">
+    <text>我々のパトロールからの報告によると、Militaryのヘリコプターがジュピター大規模工場の近くに不時着しようとしたそうだ。不運なことに、ヘリは工場の屋根に墜落してしまった。おそらく生存者はいないだろう･･････。墜落後にパトロールが救難信号を受信したことはなかったからな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_3">
+    <text>この辺りでMilitaryを見なかったか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_30">
+    <text>ザトンとジュピター間の地図に興味がありそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_301">
+    <text>そういった物を使う用事のある奴だろうな。ああ、「パイロット」の事だ。ヤノフとスカドフスク間のガイド役だからな。その地図は間違いなく奴にとって有用だろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_31">
+    <text>Military？この辺りでは見てないが、俺たちもまだ来たばかりなんでな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_35">
+    <text>最近、兵士の死体が地雷原で見つかった。おそらくヘリで来た奴のひとりだろう。あのヘリは操縦士とは別に最大８人まで運べる。ま、残りの奴らはお目当ての場所へと向かったんだろうな、それがどこかは誰にもわからんが。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_36">
+    <text>Militaryの奴がひとり、科学者の研究所（掩体壕）で見掛けられてるぜ。つい最近、やって来たばかりだそうだ。詳細は知らんがな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_37">
+    <text>何日か前、軍服姿の連中がヴォルホフ対空ミサイル施設の建物に入っていったそうだ。もっとも、Militaryとゾンビを見間違えただけじゃないかとも思うがな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_38">
+    <text>あるストーカーがジュピター大規模工場の近くでMilitaryの部隊を見つけた。聞いたところによるとそれは特殊部隊だったらしい。奴らは正体不明のストーカーと共に、プリピャチの方へと向かったようだ。なかなか真実味のある話だろ。経験上あまりアテにはできんがな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_4">
+    <text>どうすればプリピャチに行ける？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_40">
+    <text>科学者たちの護衛に雇える人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_401">
+    <text>Duty以上の護衛は見つからんだろうな。ヤノフにいるシュルガ中佐と会ってみろ。あんたたち2人なら上手いこと解決できると思うぜ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_402">
+    <text>いや。彼らがFreedomの連中を働かせている間、俺たちはそこから遠くに離れるつもりだ。馬鹿共が下らない冗談を飛ばすのを一日中聞くことは、死よりもむごい運命だ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_42">
+    <text>今のところDutyにはプリピャチへの道を探す理由は全く無いが、ともかく情報は集めている。ジュピター大規模工場の地下道がプリピャチに通じるという未確認情報がある。この情報の確認には、大規模工場の全域の徹底的な捜索を必要とするだろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_43">
+    <text>いや。もしその手の情報が欲しいんだったら民間人のガイド役に向かって言うべきだろう。俺たちの偵察兵は自分の任務で手一杯だからな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_44">
+    <text>我々の偵察隊は プリピャチ への安全経路がないか、その地域を定期的に調べているが、今のところは何の結果ももたらしていない。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_5">
+    <text>誰か一緒に プリピャチ へ同行してくれそうな手の空いている奴を紹介してくれないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_51">
+    <text>この地域に Duty は僅かしか存在しない。ヤノフにいる別の隊員に話してくれ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_52">
+    <text>科学者たちが研究所（掩体壕）でMilitaryを雇ってるってウワサだぜ。彼はろくな抜け道を持ってないからな。だけどまぁ、科学者たちは12ヶ月から18ヶ月間ゾーンにこもってるし、ヤツの足じゃゾーンの端に行くことなんて出来ないだろうからな。俺が思うに、彼は興味をもってるんだろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_53">
+    <text>冒険を追い求める人間を探した方がいい。例えばヤノフ駅にヴァノと呼ばれるストーカーがいる。彼はどんなやっかい事が自分に降り掛かるかなんて気にもしないし、役に立つだろう。あいつは目を閉じてもアノマリーを通り抜ける道がわかる。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_54">
+    <text>そうだな、まずは精神病院でメンバーの募集活動をするといい。もうひとつ良い方法があるぞ。Monolithの兵士たちだよ。ヤツらの一団が対空ミサイル施設の近くで目撃されているし、そいつらなら多分プリピャチへの道順すら知っているだろうよ･･････。おい、冗談だよ、頼むから俺の話をマジに受け取らないでくれよ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_56">
+    <text>Dutyの志願兵を探すといい。例えばストライダーだ。彼はまだ任務を受けたことがないから、中佐ならあんたと一緒に行かせると決定するだろうな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_57">
+    <text>Dutyが一番強いとみんな知っているが･･････現在、任務中で協力できない。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_6">
+    <text>俺はちょっと普通じゃない銃を見つけた。お前、そういうブツのことについて何か知っているヤツを知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_62">
+    <text>よし、見せてみろ！なんだこの大砲は！これはお前が作ったのか？本当にこんな物がどこかにあったのか？こんな物は見たことが無いな･･････。こういうのは技術屋にでも持っていってくれ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_7">
+    <text>科学者の測定作業に駆り出せそうな人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_71">
+    <text>マヌケな質問だな。それはもちろんDutyだろう。俺たちは経験豊富な者を大勢抱えているし、科学者と仕事をしたことだってある。シュルガ中佐に会いに行くといい。彼なら仕事に必要な小隊を見つけてくれるはずさ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_72">
+    <text>Freedomが 研究所（掩体壕）を護衛してるとしたら、誰がそこで働きたがるってんだ？あのクソ平和主義者どもは四六時中イっちまってるからな。倒した敵と同じくらいの仲間を撃ち殺すだろうよ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_8">
+    <text>かなり奇妙なアーティファクトを見付けたんだが、買い取ってくれる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_81">
+    <text>奇妙じゃないアーティファクトなんて存在しないんだよ。あんまり長い時間そいつを持っていないほうが良い。専門家に渡すのが身のためだぞ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_83">
+    <text>それならストーカーたちに見せたらいいんじゃないか。奴らにとってこの類は専門家だ。もしくは、アーティファクトの売人に見せてもいいかもな。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_9">
+    <text>ブラッドサッカーが大量にいる巣穴を見つけた。どうすりゃいいと思う？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_91">
+    <text>今、この場所でDutyの分隊は浄化作戦に従事していない。巣穴へ行くのは待ったほうが良いだろう。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_98">
+    <text>ああ、今のは忘れてくれ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_0">
+    <text>最近この辺りで何かニュースを聞かなかったか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_1">
+    <text>どんな？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_10">
+    <text>ニンブルについてどう思う？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_101">
+    <text>奴のことは何も知らん･･････。奴はストーカーのひとりなんだから、ストーカーたちに尋ねるのが良いんじゃないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_11">
+    <text>「オアシス」について何か聞いたことないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_111">
+    <text>伝説･･････。素晴らしい夢物語、とでも言おうかな。砂漠の中の楽園、霧の中に浮かぶ孤島、天空の城、シャングリラ、エデン･･････。「オアシス」。全ての人がそれぞれの夢を持っている、それを否定するのは粋とはいえないな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_112">
+    <text>ああ、とあるストーカーから面白い話を聞いたことがある。「オアシス」の伝説はあいつから聞いたのが最初だったな。伝説によれば、「オアシス」では全ての傷は癒され、まるでゾーンにいないかのようにとても穏やかな気持ちになれるそうだ。その話の後から、あいつを見ていない･･････。あいつがいなくなった後、俺はあいつの足が不自由だったことを思い出した。いなくなる前、あいつは普通に歩いていてとても若返っているように見えたんだ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_113">
+    <text>あるとも。フリーのストーカーが教えてくれたぜ･･････。バラバラの10箇所の座標をな。そいつをまとめたら、ブレイン スコーチャーからチェルノブイリ原子力発電所までの領域を示していた上に、なんとヤノフのバー辺りが中心近くなんだとよ。俺らゃ、既に「オアシス」まで後一歩って訳だ、楽しみじゃねえか！</text>
+  </string>
+  <string id="about_quests_dialog_freedom_12">
+    <text>マグピーというストーカーに会ったことはないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_121">
+    <text>知らないぜ。この辺りじゃフリーのストーカーも少ないしな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_122">
+    <text>マグピー？知らんが、イカした名前だな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_13">
+    <text>個人用収納ボックスから物を盗んだ奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_131">
+    <text>いや、そんな奴はここにゃ居ないぜ。まあ、誰も見てない所でパンのひとかけらや酒の一口をつまむ程度の奴はいるだろうがな、そんな盗みを働く奴は断じて居ない･･････。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_14">
+    <text>誰かここに解析をできる奴はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_141">
+    <text>ヤノフにいるニトロがプログラムや数値解析すげぇって聞いたな。俺は実際話したことは無いから、実際どうなのかは言えないが。奴はDuty絡みの仕事をしててね、俺らFreedomと絡む暇はあんまりないのさ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_143">
+    <text>俺はあまりここらには詳しくないんでね･･････。今度ヤノフ駅に行ったときにそこの連中に聞いてみるといい。奴らならよく知ってると思うぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_15">
+    <text>DutyのトレーダーのPDAを持っているんだが、興味がありそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_151">
+    <text>面白いもん持ってるじゃねぇか！それならロキに渡してやってくれ、ヤノフにいる俺らのリーダーさ。あいつなら、あのガチガチ階級軍団のDutyは本当はどんなやつが仕切ってたのか、皆によっく知らしめてくれるはずだ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_16">
+    <text>この周辺でツールはどこで見つかる？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_163">
+    <text>そりゃあ工場じゃねえか？他にどこにあるってんだ？確実にあるかどうかは知らないが、倉庫を見て回ればいいと思うぞ。その方が確実な探し方だし、いつかは見つかるとは思うぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_165">
+    <text>アンタいい質問するじゃないか。よし、ちょっと考えてみよう。ゾーンの外でツールを手に入れるにはどうする？この問題は脳みそを半分使えばわかる問題だな、答えは「店で買う」だ･･････。もしあんたに半分の脳みそが無ければ、工場でもう半分の脳みそのついでに探しに行けばいいんじゃないか？その辺はゾーンでも一緒だ、同じように探してやりゃあいい。簡単な話だぜ、ストーカー！</text>
+  </string>
+  <string id="about_quests_dialog_freedom_166">
+    <text>「ツールはどこだ？」えーと、なんだ、そりゃ暗号かなにかか？ここにゃ敵国の諜報員も怪しい奴もいない、普通にしゃべろうぜ･･････。へ？本気で言ってるのか？じゃあちょっとわかんねぇな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_169">
+    <text>そうだな、うちの連中もツールを探してて、橋の下の電車にもぐりこんだ事があったんだ。ほらあれだ、テスラ アノマリーが中で動き回ってるあれだ･･････。でまあ、そいつが言うには酷い目にあったと。で、なんでこの話をしてやってるかというとだ。連中は中にツールが転がっているのを確かに見たらしい、あまりに危険で逃げてくるほか無かったらしいがな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_17">
+    <text>誰かこの記録装置の暗号を解除できないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_171">
+    <text>そうだな、科学者の研究所（掩体壕）にいるならトゥカレフやってくれるだろう。奴の仕事は迅速で、丁寧だ。ヤノフ駅にいるニトロってやつに頼んでもいいかもな、Duty寄りだけど。あいつのやり方は安臭くて粗雑だ、だができないことはないだろう。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_172">
+    <text>腕利きの技術屋じゃなきゃまずできないだろうな。うちにいるのは機械を扱うのしか上手くはないんだ、その記録装置の銃身にライフル彫ってほしいなら取り次いでもいいんだがな、ジュピターあたりで別の奴を探してみてくれ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_18">
+    <text>鉄のトランクを開けられる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_181">
+    <text>ああ、スカドフスクのカーダンに頼むと良いんじゃねえか？腕は確かだって話だぜ、いつ行っても酔っ払ってるがな。奴なら、その入れ物をこじ開けられるかもしれないぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_182">
+    <text>生活のために鋼鉄製のトランクを開ける奴なんているか？ここで技術屋やってるニトロだってやりゃしないぜ。あいつが心血注いでるのは、人様の電子機器をハッキングすることだって話だからな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_19">
+    <text>スナグというストーカーを探しているんだが、どこにいるか知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_191">
+    <text>聞いたこともねえな･･････。他のヒマなストーカーにでも聞けよ、俺ならそうするがね。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_2">
+    <text>墜落したヘリコプターについて何か知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_20">
+    <text>Dutyの創設者の情報に興味を持っている奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_201">
+    <text>問答無用だ、ロキに持って行け。彼はヤノフでの俺らのリーダーなんだ。まあそいつがあった所で何をするかはわからないが、Dutyの手にそいつが渡らないってのは俺らにとって有利な事だ。奴らのあのプロパガンダが、どんだけでたらめで出来ているか考えた事あっか？ちょっと思っただけでも頭が痛くなってきやがるぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_22">
+    <text>ああ、あんたは地雷原のヘリの話を聞いてるか？簡単に言うとだな、兵隊共は奴らのお仲間が6年前に作った予備の離着陸場に落ちて来やがったんだ。今のところ、奴らが考え無しに突っ込んだだけだと言われてるがな、それだけじゃねえと俺はにらんでる訳さ。こう考えてみろ。誰もあの場へ行こうとしないって事は、Military共が任務を終わらせてからヘリに戻って、ちょいと修理したら飛び立てるって事じゃねえか。奴らの任務が何なのか、気になって仕方ねえぜ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_23">
+    <text>俺はこの辺の者じゃないから、ちょっとわからん。ヤノフ駅の方で聞いてみてくれ、うちの奴らが有る事無い事なんでも教えてくれるぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_25">
+    <text>ああ、数日ほど前にうちの奴らが無茶苦茶な飛び方のヘリを目にしてるな。落ちた場所も酷いもんだぜ。よりによってジュピターの真上でだ。ゴミを色々と撒き散らしながら、天井を突き破って建物の中に墜落したそうだぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_3">
+    <text>この辺りでMilitaryを見なかったか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_30">
+    <text>ザトンとジュピターの間の地図に興味がありそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_301">
+    <text>どう考えても「パイロット」だろうよ。彼はこの辺りでフリーのストーカーのガイド役をやっている。そいつに地図の事を聞いてみるんだな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_31">
+    <text>落ち着けよ兄弟。ここにゃサツもいねえ、海兵隊もいねえしクソッタレの軍人どももいねえよ。つまり、ゾーンにいる限りアンタは安全ってワケだ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_35">
+    <text>見たこと無いな、だが何人かの奴がMilitaryがヘリポート近くの地雷原を進んでいるのを見たと言っていたな。助けてやろうか悩んだらしいが、結局ちょっかいは出さなかったらしい。あの兵隊どもは何をしてくるかわかったもんじゃない、背中を向けたとたんに撃たれちまうかもしれんからな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_36">
+    <text>自分じゃ見たことはないが、研究所（掩体壕）に兵隊がいるって噂は聞いたぜ。そこにいるオゼルスキーっていう生物学者が言ってたんだが、ジュピター工業地帯に突っ込んだヘリからの生き残りらしい･･････。オタ野郎がペットに兵隊を飼い始めた、こんなジョークまで流れ始めたんだぜ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_37">
+    <text>俺で見聞したわけじゃないが、ストーカーから話を聞いたことはあるぜ。ヴォルホフ対空ミサイル施設で見たとか言っていたが。お化けかゾンビか･･････そういう奴でも頭数には入るのか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_38">
+    <text>知らねえな。Militaryが7人、フリーのストーカーの後にゾロゾロ引っ付きながら、無線工場を通り過ぎてプリピャチの方へ歩いて行った、とか言ってた奴がいたがな。ここ暫くゾーンじゃマリファナも手に入らねえからな、純粋かつ単純にイカれたんだろうよ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_4">
+    <text>プリピャチへの行き方を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_40">
+    <text>科学者の護衛に雇える人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_401">
+    <text>そこは俺らFreedomを雇っとけとしか言えないぜ。俺らはよく科学者と一緒に働くしな、護衛なんて朝飯前だぜ。ヤノフにいるうちのボスのロキに言っておいてくれ、喜んで引き受けてくれるはずさ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_402">
+    <text>友よ、それはちょっとできんな、だってあのインテリ共はDutyを働かせてるって聞いたぜ･･････。科学者の護衛そのものなら喜んで引き受けるところだ、でも毎日毎日あのDutyのフン詰まりみてぇな顔見るのだけは御免だよ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_42">
+    <text>ジュピターから行けるっていう話はあるな。あ、惑星の方じゃないぞ、ジュピター工業地帯の方だからな、ハッ！上手い事言っただろ！</text>
+  </string>
+  <string id="about_quests_dialog_freedom_43">
+    <text>俺には見当もつかんな。時間がなくてそこには行っていないんだ･･････。そうだな、野営地にいる「パイロット」に聞いてみたらどうだ？フリーのストーカーで、地域にすごく詳しい奴だ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_44">
+    <text>兄弟よ、もしそんな事を知ってたら、こんなところからはとっくの昔から居なくなってるぜ。Dutyから逃げて、兵隊どもから逃げて、争いごとはこりごりだよ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_5">
+    <text>誰か一緒にプリピャチへ同行してくれそうな奴を紹介してくれないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_51">
+    <text>すまんな友よ、ザトンじゃいい奴が思い浮かばないよ･･････。俺の言った事を信じてヤノフにいる奴らに声をかけてみてくれないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_52">
+    <text>科学者の研究所（掩体壕）があるだろ？あの辺で聞いてみるといいと思うぞ。俺が最初に思い浮かぶのはストーカーのギャリーだな、いつかプリピャチに行くって決心してるみたいだぞ、もしくはあの兵隊だ、同じようにプリピャチに行きたいみたいだ。ギャリーの方は一匹狼に誇りを持ってるからアレだろうが、兵隊の方はそういうわけじゃないからな、調度いいんじゃないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_53">
+    <text>ヤノフ駅にいるヴァノを薦めとくよ。あいつはいい奴だ、もしFreedomに入りたいってのならいつでも歓迎できるくらいな。でも俺は知ってる、あいつは俺らがやってるDutyとの闘争とか、それ以外でも争い事には興味が無いんだ。それがあいつのやり方なんだ、なら俺らはそれを尊重するしかないな！</text>
+  </string>
+  <string id="about_quests_dialog_freedom_54">
+    <text>ああ、いるぜ。うちの干上がった湖の近くからやってきた奴らだ。やつらなら自分の家に帰るようにプリピャチに行けるだろうし、今のところ主だった任務もないようだしな。それに勇敢だぞ、なんてったってMonolith兵だからな！</text>
+  </string>
+  <string id="about_quests_dialog_freedom_55">
+    <text>おうよ。ストライダーなんてどうだ、うちの新入りのリーダーだ･･････。ちょっと俺らの中にいても居心地良くは無さそうでな。彼の仲間たちは上手い事馴染んでるが、本人はまだ心残りがあるみたいなんだ･･････。あいつに声をかけてみてくれ、いい奴が自分の本心に背いて生きているのを見るのは、正直辛い。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_57">
+    <text>いや、見当もつかない。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_6">
+    <text>俺はちょっと普通じゃない銃を見つけたんだが、そういうブツのことについて何か知っているヤツを知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_62">
+    <text>こいつに付属してくるはずの取扱説明書は見つけなかったのか？どうなんだ？無い？じゃあどうしようにもならねえ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_7">
+    <text>科学者の測定作業に駆り出せそうな人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_71">
+    <text>うちの奴らならその仕事やれるぜ。Freedomでは有能な人材を派遣して、なにかわからない事があったら研究所（掩体壕）でその事を聞くことにしてるんだ。科学発展への貢献なら大歓迎だ！ヤノフ駅にいるロキに言っておいてくれ、同じ事言うと思うぞ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_72">
+    <text>俺と相方は喜んでやりたいと思ってる、でもあの研究所（掩体壕）はここんところDutyが警備してるだろ。科学者の所に会いに行くのはいいがな、あそこに居続けるのは衛生上よろしくない、やってられん。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_8">
+    <text>とても奇妙なアーティファクトを見付けたんだが、買い取ってくれる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_81">
+    <text>コレクターに買い取ってもらうしかないな。ストーカーは怖がってここまで来ないようだから、ヤノフじゃそんなやつは見つからないだろうな。ザトンあたりで聞きまわってみたらどうだ、そこならまだ落ち着いている方だ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_83">
+    <text>ストーカーの野営地にいるバーテンダーのベアードは知ってるか？あいつはアーティファクトの買取をしてくれるが、決して買い叩くような事はしないんだ。いい奴だ、あいつを見つける他無いぞ。しかしあいつが我々のために働いてくれないのが本当に残念でならないな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_9">
+    <text>ブラッドサッカーが大量にいる巣穴を見つけた。どうすりゃいいと思う？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_91">
+    <text>とりあえずその周りで野営してるストーカーたちに警告して回る事だ。ゾーンの野生生物は貴重だが、その場所にいる奴らの人命のほうが大事だからな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_98">
+    <text>ああ、今のは忘れてくれ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_0">
+    <text>ちょっといいか、聞きたい事があるんだが･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_1">
+    <text>なんだ？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_10">
+    <text>ニンブルについてどう思う？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_101">
+    <text>あんたの役に立てそうにはねえな･･････。スカドフスクの連中に聞くのが一番だぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_11">
+    <text>「オアシス」について何か知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_111">
+    <text>俺は「オアシス」にまつわる様々な話を聞いてきた！それは伝説、神話･･････ストーカーによって話が異なっていて、それぞれが正確な場所を知っていると主張しているんだ。だが、残念なことに全てに共通していることはひとつだけで、そこに到達するのはとても難しいということだけだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_112">
+    <text>ああ、彼らが言うには、そこでは傷が即座に治り、体力も数分で回復するらしい･･････。さらに「オアシス」では疾病や病気が続くことはなくなり、放射線でさえも毒ではなくなると言う！もっとも、俺が場所について知っていることはひとつだけだ･･････。知りたいか？そこはゾーンの中心にある！このことは他の誰にも言うなよ。俺たちの間だけの秘密だ！</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_113">
+    <text>その場所じゃ、ミュータントすら人間へ一瞥も寄越さずうろつき回るだけだって話だぜ。オマケに、ハート オブ ザ オアシスなんてアーティファクトまであるそうだ･･････。詳しい事は誰も知らないんだがな、ひとつだけ確かな事がある、そいつには触れるべきじゃねえ。手に取った奴は、もうゾーンに居場所が無くなっちまう･･････。位置だって？やれやれ、誰でも知ってる事だぜ。プリピャチにある観覧車の下だよ！つうかよ、他にどこだったらいいと言うんだ？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_12">
+    <text>マグピーというストーカーに会ったことはないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_121">
+    <text>知ってるぜ･･････。ただ、奴が今どこにいるかは分からねえがな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_122">
+    <text>うーむ･･････。聞いた事がないな･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_13">
+    <text>あんたは個人用収納ボックスから物を盗んでる奴を知ってるか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_131">
+    <text>はぁ？知らねぇなあ。ヤノフの熟練連中に聞いてみな、タメになることを教えてくれると思うぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_14">
+    <text>誰かここに解析をできる奴はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_141">
+    <text>ヤノフにいるニトロしかいないだろうな。あいつは好きな銃を弄くり回すより、そういう小難しい技術のほうが好きらしい。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_143">
+    <text>誰も思いつかないな。ヤノフで聞けよ。専門家だかなんだかがいるらしいぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_15">
+    <text>DutyのトレーダーのPDAを持っているんだが、誰かこいつに興味を持ってる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_151">
+    <text>スカドフスクのオウェルを知ってるかい？あいつなら喜んで手を出すと思うぜ。その手のビジネスに関わるのが好きな奴だからな･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_152">
+    <text>以前、ザトンのスカドフスクにオウェルって名前の奴がいたんだ。そいつは情報を扱ってた･･････。あんたのPDAに興味を示すかもな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_16">
+    <text>この辺りでツールを探しているんだが知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_161">
+    <text>知り合いのストーカーが教えてくれたんだが、やつの古い知り合いが1986年の事故以前に変電所の作業場に勤めていたらしい。奴によれば何かしらの仕事道具がそこにあるんだそうだ、多分そこにツールの類もあるんじゃねえかなあ。今では錆びて使い物にならなくなっちまってるかもしれないが、気になるなら行ってみるといい。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_162">
+    <text>林に囲まれた製材所が丘の上にあんだろ。あそこに転がってると思う、もし誰か先に必要なやつがいて、持っていってなければの話だがな。まあ近づいてみろ、ションベン漏らして逃げ帰ってくるような事になるだろうから。放射線とかそういう話じゃない、もっとアレな恐ろしさがあそこにゃある、そう教えておくよ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_163">
+    <text>そうだな、ツールならすぐそこのジュピター大規模工場のどこかにあるんじゃないか。俺は個人的に、工場には近寄りたくないが･･････。なんたってあそこは不気味だからな。まあ、まずは工場の横にあるジュピター倉庫辺りを探して見ると良いかもな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_164">
+    <text>プリピャチにはあらゆる技術品のガラクタを見つけられる場所がいくつかあると聞いた。うちひとつは古いソ連の百貨店だ。そこは当時、便利な物は何でも売られていた唯一の場所だった。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_165">
+    <text>どうやったらそんなの俺が知ってるように見えるんだ？まあ昔の工場や店やら、探してみたら出てくるんじゃないかな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_166">
+    <text>はっきり言って、最後にまともなツールを見たのはコードンのシドロヴィッチの地下壕だな。もちろん金は払わなきゃならないが、新品だったしそんなに高くもなかったぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_167">
+    <text>見ての通り、俺はツールを探しにゾーンへ来てるわけじゃないんだ。放射能汚染されたハンマーにどんだけの価値がある？考えりゃ分かる事だ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_168">
+    <text>話によれば旧サービスセンターに何か色々落ちてるとか･･････。ツールも拾えるかもしれないな。だが他の奴らも漁ってるからな、いい物見つけたいならさっさと行くといいぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_169">
+    <text>いい事聞いてくれた、俺だったら橋の下に電車が放置されてる所に探しに行くよ。理由は聞くな･･････。でもアンタなら見つけられるって俺に言ってくれてるよ、天啓的な何かが。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_17">
+    <text>誰かこの記録装置の暗号を解除できないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_171">
+    <text>色々思い当たるフシはあるが･･････。そうだ、ヤノフ駅にいるニトロって奴が上手い事やってくれると思うぞ。もしくはその近くにいるトゥカレフだな、科学者のところの技術屋だ、ああいうのを本物のプロって言うんだろうな。まあ誰に頼むか悩んだなら、ニトロの方が安く仕上げるとだけ覚えとけ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_172">
+    <text>んー、技術屋に頼めばいいんだろうが、ここいら辺にはカーダンしかいないしな。あいつにやらせたら、この先数年酒瓶を空けながらその電子機器を危なっかしく弄ってるだろうな。俺だったらジュピターで探すぜ、適切な専門家ならそっちにいるはずだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_18">
+    <text>鉄のトランクを開けられる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_181">
+    <text>スカドフスクにいるカーダンだと思うぜ。南京錠をぶった切って中身を覗くのが楽しいみたいだからな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_182">
+    <text>技術屋とかだったら出来るんじゃねえのか。まあ、ニトロはやる気は無いだろうがな。荒仕事には興味ないってよ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_183">
+    <text>おい、プリピャチにまで来て聞く事か！？俺から言わせりゃ、ゾーン中心部よりほんの少し外れた辺りで探せとしか言えないぞ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_19">
+    <text>スナグというストーカーを探しているんだが、どこにいるか知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_191">
+    <text>ベアードに聞いてみな、スカドフスクのバーテンダーだ。アイツはだいたいのストーカーがどこで何してるか把握してる。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_193">
+    <text>スナグだって？んな奴の事なんか知らねぇよ。ザトンで聞きな、奴は長い事そこでグダグダしてたみたいだからな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_2">
+    <text>墜落したヘリコプターについて何か知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_20">
+    <text>Dutyの創設者に関する情報に興味を持ちそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_201">
+    <text>スカドフスクにいる情報屋のオウェルってのと話したことがあるんだがな。奴にならケツ貸してやったっていいぞ。そんな伝説じみた話で、信頼性もあると来りゃ必ず乗ってくるはずだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_21">
+    <text>一度、見た事があるぜ･･････。墜落はしてなかったが、問題なく飛び続けられるようには見えなかったな。ザトンの南部の台地に着陸するまで、右左にフラフラ揺れ続けてたよ･･････。誰かしら生き残りがいるのかどうか、興味はあるが･･････。あの場に辿り着く方法が分かればの話だけどよ。そういや、変な船にいるノアなら何か知ってるんじゃねえかって、耳にしたな･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_22">
+    <text>ここからそんな離れてないところにMilitaryのヘリが墜落してるって話だな･･････。聞く人それぞれ言ってくる事は違うんだが、ひとつハッキリ覚えてる話がある。かつて自前で地雷だらけにした緊急へリポートに不時着したってな。こんな皮肉話信じられるか？師匠がよく言ってたもんだ「二つ目の穴なんて掘るもんじゃない、どっちかに落ちちまうからな」。上手い事言ったもんだぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_23">
+    <text>相棒から聞いた話だけどよ･･････。アーティファクトを探しに「鉄の森」へ行った時、到着した直後に背後から轟音が聞こえたんだそうだ。で、後ろを振り返ったら、ヘリがパイロンやら何やらブチまけながら全速力でこっちへ滑ってくるのが目に飛び込んできたんだとよ。死ぬ思いでそこから飛び出したそうなんだが･･････。俺としちゃ、あいつがアノマリーに飛び込まないで逃げられたって事に驚いたぜ。「鉄の森」自体は苦労なく見付けられるだろうよ。かなり遠くからでも目に入るしな。ただ、「ポルターガイスト」がウヨウヨしてるらしいから、面食らうんじゃねえぞ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_24">
+    <text>一機が南部の台地に着陸したそうだが、そこへ行くのは難しくてな。他にも、その原野の端でノアを見掛けた奴がいたそうだぜ。あの変人、高原への道を知ってるんじゃねえかって話だ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_25">
+    <text>俺が自分で見たわけじゃないんだが、工業地帯に落ちていったって噂だ･･････。もっとも、確認に行こうなんざ思うヤツはいない。あそこは危険すぎるんだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_26">
+    <text>あるストーカーから聞いたんだが、Militaryのヘリ何機かに問題が起きた瞬間を目にしたそうだぜ･･････。一機のエンジンが光ったと思ったら、アノマリーだらけの沼地に真っ直ぐ落ちていったんだとよ。現場へ行くのは簡単なもんだが、あの沼地そのものは夢に見そうなくらい酷えもんでな･･････。ありゃ、人間の踏み込める場所じゃねえよ、信じておけって。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_3">
+    <text>この辺りでMilitaryを見なかったか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_30">
+    <text>ザトンとジュピターの間の地図に興味がありそうな奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_301">
+    <text>「パイロット」だろ、他に誰がいるってんだ？奴はガイド役だろう？スカドフスクとヤノフをずっと行き来してるからな、その地図を使うのにうってつけだろうよ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_302">
+    <text>ここはザトンでもジュピターでもないからな、その地図が使い物になる事はないんじゃないか、だろ？その辺で聞けば、運がよければ誰か使いたい奴がいるんじゃないか！</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_31">
+    <text>俺が見たわけじゃないが、南部の台地から廃棄物処理場の方に降りていく兵隊の話なら聞いた事があるぞ。連中、最初は教則に倣ってロープとよくわからん登山装備で降りようとしてたらしいんだ。でも結局あきらめてケツで滑って降りて行ったんだってよ、ハハハハ！これがいわゆるゾーン式ボブスレーである、楽しいぞ！</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_32">
+    <text>スカドフスクで聞いたんだが、沼地に通じる排水トンネルからMilitaryが５人くらい出てきたって話があったぜ。酷え汚れ具合だったそうでな。内ひとりは沼のブラッドサッカーにやられたとすら言えない状態だったってよ。何でも、頭のてっぺんからつま先まで、粘液にすっぽり覆われてたそうだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_33">
+    <text>俺は見てないけどダチがな、Militaryの部隊とMercenary共が廃棄物処理場で撃ち合ってたってよ。ショー見物の特等席を見付けた頃には、Militaryが退いた所ためで終わっちまったそうだがな。どっちも犠牲者なしだとよ･･････良くある事、だろ？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_34">
+    <text>ノアのはしけの方に向かう兵隊がいたらしいな、10 人ぐらいはいたとか。だがあのキチガイはまだあそこでピンピンしてるからな、奴らと何か取引でもしたんじゃねえかな･･････あいつなりにな。まあ、誰もそこで何があったかノアの野郎に聞こうとはしねぇよ、あのキチガイのクソッタレにそういうのを期待しちゃいかん。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_35">
+    <text>夜中に何か爆発音が聞こえた事があったな、ヤノフ駅にいた奴は、昔からある地雷原の所で放棄されたMilitaryのヘリの前で兵隊野郎が死んでるのを見たとか。暗いせいでどこに不時着したのか知らなくて、そのまま地雷原を歩いていこうとしたんだろうな。何人そこから脱出したかなんて知ったこっちゃないが、ヘリがそこから飛び立っていなくなってることは無いと思うぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_36">
+    <text>Militaryなんか見たことが無いな･･････でも科学者たちのところに兵隊がいるって話なら聞いたな。ギャリーってストーカーがヴォルホフ対空ミサイル施設の貯蔵庫で仲間を探しに入ったときに見つけたらしい。あそこは、全うな人間を見つけちゃ撃ってくるゾンビ共で一杯だからな、とりあえず死なないように助け出したらしい。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_37">
+    <text>いや、だがヴォルホフ対空ミサイル施設にMilitaryが居たとかいう話は聞いたぜ。まあ俺はまったく信じちゃいないがね。嘘をついてるのか、ゾンビと兵隊の見分けも付けられないのかのどっちかさ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_38">
+    <text>Militaryか？そう言えば 「Militaryの一団をストーカーが先導していた」 なんて話を耳にしたな。ジュピター大規模工場を通り過ぎていったそうだ。まあ、そんな噂話どうでもいいんだがな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_4">
+    <text>プリピャチへの行き方を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_40">
+    <text>科学者の護衛に雇える人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_401">
+    <text>スパルタカスと彼の一団を知ってるか？ザトンのストーカーらしい。彼らは親切で礼儀正しいファイターだ。ザトンで経験を積んでいる。科学者の護衛に適していると思うぞ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_402">
+    <text>ザトンの変電所の作業場にいるハチェットの部隊に会った事はあるか？他のMercenaryと同じく任務に就いてるみたいだがな、奴らはまずこちらに警告してから撃ってくるあたりちょっと違うんだ。もしあんたがなんとかその科学者の仕事に就かせりゃ科学者は喜ぶだろうし、周辺のストーカーはMercenaryがいなくなって安心できる。これがハッピーエンドってやつじゃね、違うか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_403">
+    <text>うーん、そうだな･･････無いな、何も思い浮かばん･･････。すまないな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_41">
+    <text>俺がハッキリわかる事と言えばザトンからそこには行けないって事だな。プリピャチに行こうとしてた奴らは皆ジュピターの方に向っていた。だからそっちで聞いてみるといい。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_42">
+    <text>そうだな、ジュピター大規模工場にプリピャチの地下を通る極秘のトンネルがあるなんて噂があるぞ･･････。でもその噂には１個オマケが付いていてな、ジュピター大規模工場に近づくととてつもなく恐ろしい事が起きるんだそうだ、だから誰も近づかん。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_43">
+    <text>そんな事知ってると思うのか、旦那？次はもうちょっと簡単な質問をしてくれよ。んでその事については「パイロット」でも見つけてそいつに聞いてくれとしか言えないな、誰かあんたを手伝える奴がいるとしたら、そいつだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_44">
+    <text>ハッ、もしプリピャチへの道を知っていたらここにはいないよ。ゾーンの中心に辿り着いたらどうすると思う？プリピャチはアーティファクトの山に違いないぜ！一番最初にあそこに辿り着けた奴は、一生遊んで暮らせるだろうな！</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_5">
+    <text>誰か一緒にプリピャチへ同行してくれそうな手の空いている奴を紹介してくれないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_51">
+    <text>そんな奴はこの辺にはいないだろう。ゾーンの中心部を目指す奴らは、とっくにみんなジュピターへ行っちまったよ。まあ、俺があんたなら同じようにそうするだろうな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_52">
+    <text>最近、科学者の所にいる兵士の事は聞いたか？奴はあんたと一緒に行った所で失うものは無さそうだぜ。あの科学者たちが仕事終わらせて帰るまではまだまだ掛かるだろうし、自前でコードンまで辿り着く事は出来ないだろうしな、奴に残された道はあんたと一緒にプリピャチまで行くことだけだ！</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_53">
+    <text>ヤノフ駅にいるヴァノは知ってるか？あいつは腕が立つ、いいストーカーだが、とんでもなくだまされやすくてな。ヤツは普通の人間よりもアノマリーを上手くよける、猫みたいな奴さ。ヤツがいるってことはそれだけで得になるぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_54">
+    <text>そうだな、妙な一団が対空ミサイル施設の南の乾燥した湖で目撃されたっていう話を聞いたぜ。そいつらはどう考えたって普通のストーカーやFreedomやDutyじゃない。ヤツらはMonolithだよ！だからアンタがプリピャチに一緒に行くためのお供が必要なら、ヤツらはまさにチケットじゃないか。ハハハ、俺がフザけてるって分かってるよな？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_55">
+    <text>Freedomの新任の分隊リーダーであるストライダーを知ってるだろ？彼が頼りない面をしてるのを見たら、ヤノフの暮らしが彼に合っていないのが理解できると思う。ちょっと彼を励ましてやってくれないか。そうすれば喜んであんたに付いていってくれるはずだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_56">
+    <text>Dutyの新任の分隊リーダーであるストライダーを知ってるだろ？彼が頼りない面をしてるのを見たら、ヤノフの暮らしが彼に合っていないのが理解できると思う。ちょっと彼を励ましてやってくれないか。そうすれば喜んであんたに付いていってくれるはずだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_57">
+    <text>うーむ･･････。誰も思いつかないな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_6">
+    <text>俺はちょっと普通じゃない銃を見つけた。お前、そういうブツのことについて何か知っているヤツを知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_62">
+    <text>知るかよ。俺だったら専門家に聞くさ･･････。分かるだろ、技術屋とかさ･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_63">
+    <text>スカドフスクでカーダンを訪ねてみな、兄弟。ガッカリすることはないと思うぜ。奴の武器関連の仕事は見事なもんだぜ･･････。奴の脳細胞が働くようになるには、ウォッカが1，2本必要になるかもしれないけどな･･････。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_7">
+    <text>科学者たちの測定作業に駆り出せそうな人材はいないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_71">
+    <text>ミュータント ハンターのゴンタを知ってるか？俺は、彼とその仲間たちは科学者のために働くことには反対しないだろうと考えている。つまりだ、もしミュータントが手強いなら、彼らはお前の役に立つだろう。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_72">
+    <text>ヤノフのストーカーであるグリズリー、トルバ、ミタリーには会ったか？奴らはイカしたトリオさ！そういうこと任せるならやつらで決まりだ･･････。まあ仕事になるのはミタリーが問題起こすまでだろうが。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_73">
+    <text>手がかりがねぇ。ここでうんざりするほど悩んでいるんだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_8">
+    <text>とても奇妙なアーティファクトを見つけたんだが、買い取ってくれる奴を知らないか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_81">
+    <text>そうは思わねぇな。ここの住民は見慣れたものしか求めてないんだ。ゾーンのはずれの方にある、ザトンでいろいろ聞いて回ってみな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_83">
+    <text>ベアードにそれを見せてみな。スカドフスクにいるバーテンダーだ。外の世界の奇妙な物に目がない収集マニアと仕事をしているんだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_9">
+    <text>ブラッドサッカーが大量にいる巣穴を見つけた。どうすりゃいいと思う？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_91">
+    <text>これはスカドフスクのベアードにも伝えないといけないな･･････。我々が奴らに対処するか、奴らが我々のひとりを新たに引き裂くかのどちらかだからだ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_98">
+    <text>ああ、今のは忘れてくれ</text>
+  </string>
+  <string id="about_skadovsk_dialog_bandit_0">
+    <text>ここから最も近いストーカーの野営地はどこだ？</text>
+  </string>
+  <string id="about_skadovsk_dialog_bandit_1">
+    <text>何だお前は？ストーカーの野営地？知るかよボケ。ま、こっから一番近い野営地ならスカドフスクだな。座標を教えてやるよ、今回はタダにしてやる、よかったな？</text>
+  </string>
+  <string id="about_skadovsk_dialog_stalkers_0">
+    <text>この辺りで一番近いストーカーの野営地はどこだ？</text>
+  </string>
+  <string id="about_skadovsk_dialog_stalkers_1">
+    <text>あんたのPDAに座標を送信してやるよ･･････。スカドフスクが、この辺りでは唯一のデカい野営地だな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_27">
+    <text>何かが激突したという話は聞いたことあるが、詳しくはわからん。噂話には興味なくてな。役に立てなくてすまねえ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_28">
+    <text>何だよ、今は心配事を抱えててな、ヘリなんぞに構っていられねえんだ･･････。一機は間違いなく死ぬほどぶっ壊れてるだろうが、他のはどうなったか分からねえな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_27">
+    <text>何言ってやがる？間抜けが。この辺りでヘリを見掛けるなんざ、クソ強いヤクでも吸わなきゃ有り得ねえよ。そんなマトモな連中が何しに来るってんだ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_27">
+    <text>はぁ？知らねえよ、ったく。あんなクソッタレ共には関わろうとも思わねえ。俺の情報収集任務には欠片程度も役立たねえことだしな。分かるだろ？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_27">
+    <text>偵察隊が下降するヘリコプターを目撃してるが、詳細を報告されてるのは中佐だけだぜ。機密事項らしいが、俺にとっちゃどうでもいい事だな。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_50">
+    <text>閉鎖循環呼吸装置付きのスーツはどこにある？</text>
+  </string>
+  <string id="about_quests_dialog_bandit_501">
+    <text>見つけるとなると確かなことは言えねえが、十分な金がありゃ奇跡を起こせるぜ。どこに投資すりゃいいか分かってればの話だがな。ニンブルに話してみな･･････。細かいとこまで話がつけば、どっかからか古着を持ってきてくれるだろう。ぜひそうしてもらいたいね･･････。たとえ何日かでも、あいつがこのスカドフスクにいないってだけでせいせいするぜ。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_502">
+    <text>知ってるわけねえだろ。そんなに昔からここにいるわけじゃねえんだ･･････。ザトンで聞けよ、あそこなら兄弟たちが独自の人脈を築いてるから。</text>
+  </string>
+  <string id="about_quests_dialog_bandit_503">
+    <text>まったく分からんな。何だ、アノマリーに鼻でも突っ込もうってのか？なあ、もしアーティファクトが手に入ったら、大声で知らせてくれよ。すぐそこに行って、仕事がうまくいったお祝いをしてやるよ！</text>
+  </string>
+  <string id="about_quests_dialog_dolg_50">
+    <text>閉鎖循環呼吸装置付きのスーツはどこにある？</text>
+  </string>
+  <string id="about_quests_dialog_dolg_501">
+    <text>そんなの知ってるわけないだろ？いや、待てよ･･････スカドフスクにある男がいて、必要なものなら何でも手に入れてくれるとかいう話をだ。上部デッキにいる、ニンブルって名前の奴だ。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_502">
+    <text>いや、ここらでわざわざそんな特別なスーツを着て出てくる奴はいないな。ザトンで聞いてみろよ。ここよりも文明に一歩近づいているから。</text>
+  </string>
+  <string id="about_quests_dialog_dolg_503">
+    <text>どこを探せばいいかは分からないな。Duty隊員の間でさえ、そんなスーツは珍しい。彼らはそういうのを戦闘で特別目立った者やアノマリーの多い場所で活動する者にだけ支給しているんだ。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_50">
+    <text>閉鎖循環呼吸装置付きのスーツはどこにある？</text>
+  </string>
+  <string id="about_quests_dialog_freedom_501">
+    <text>ストーカーたちがニンブルって奴について話していたな。奴ならどんな商品だって調達できるとな。機材だろ、銃だろ、その他諸々だろ･･････麻薬はないが。もし、あんたが必要とするならスカドフスクへ寄ってみたると良い。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_502">
+    <text>良い質問だ･･････。Freedomでそれを着ている奴を見たことがない･･････。ザトンのストーカーたちに聞いたらどうだ。誰かがその類の商品を取り扱っているいるかもしれないからな。</text>
+  </string>
+  <string id="about_quests_dialog_freedom_503">
+    <text>ハッ、何であんなゴミが要るんだ？動き難いったらありゃしないぜ。いや、待てよ･･････。時と場合によれば役立つかもしれねえな。呼吸が楽になるし、日差しも目に入っても大してきつくなくなるのか･･････。俺も一着、持っていても悪くねえな。なあ、どこで手に入るか知らねえか？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_50">
+    <text>閉鎖循環呼吸装置付きのスーツはどこにある？</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_501">
+    <text>ああ、俺ならニンブルに賭けるな。スカドフスクの第3デッキにいるよ。奴は砂漠の真中にいる人間のところに雪を持ってくる事だってできる奴だ･･････。あいつのサービスは懐には優しくないがな。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_502">
+    <text>そうだな･･････。ザトンに調度いい奴がいるな、ニンブルって男だ。そいつを探してみるといい、まだ居ればの話だが。上等なモノを調達させるんならヤツに限ると聞くぜ。</text>
+  </string>
+  <string id="about_quests_dialog_stalkers_503">
+    <text>おいおい、まるで事務用品か何かのような言い方だな･･････。誰も正確なことは分からない。こんなことは極めて稀だ･･････。もしお前がそれを強奪できたらお前が幸運だと考えろ。</text>
+  </string>
+  <string id="dm_dialog_add_trade">
+    <text>それで、副業としてトレードをしているそうだな。</text>
+  </string>
+  <string id="dm_dialog_add_repair">
+    <text>噂によると、おまえはヤスリを使いこなすそうだな。俺の機材を修理してくれないか？</text>
+  </string>
+  <string id="dm_dialog_character_history">
+    <text>アンタのことを教えてほしい。</text>
+  </string>
+  <string id="actor_break_dialog_0">
+    <text>さよなら。</text>
+  </string>
+  <string id="actor_break_dialog_1">
+    <text>それじゃまた会おう。</text>
+  </string>
+  <string id="actor_break_dialog_2">
+    <text>またな。</text>
+  </string>
+  <string id="actor_break_dialog_3">
+    <text>じゃあな。</text>
+  </string>
+  <string id="st_wish_1">
+    <text>ゾーンを消し去りたい！</text>
+  </string>
+  <string id="st_wish_2">
+    <text>人は腐敗している。人類を支配しなければならない！</text>
+  </string>
+  <string id="st_wish_3">
+    <text>世界平和を望む！</text>
+  </string>
+  <string id="st_wish_4">
+    <text>ゾーンの全ての富を望む！</text>
+  </string>
+  <string id="st_wish_5">
+    <text>不死身にしてくれ！</text>
+  </string>
+  <string id="st_wish_99">
+    <text>［無言］</text>
+  </string>
+  <string id="axr_phrase_npc_start_wounded">
+    <text>たす･･････けて･･････。</text>
+  </string>
+  <string id="axr_phrase_actor_has_medkit">
+    <text>しっかりしろ！</text>
+  </string>
+  <string id="axr_phrase_actor_dont_has_medkit">
+    <text>悪いが、できない相談だ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_trade">
+    <text>装備を交換したいんだが。</text>
+  </string>
+  <string id="dm_dialog_become_companion_greeting">
+    <text>何か目的があって来てるのか？</text>
+  </string>
+  <string id="dm_dialog_companion_I_have_a_question">
+    <text>え？ああ･･････。ちょっと聞いていいか？</text>
+  </string>
+  <string id="dm_dialog_companion_question_answer_1">
+    <text>なんだ？</text>
+  </string>
+  <string id="dm_dialog_companion_question_answer_2">
+    <text>他を当たるんだな。</text>
+  </string>
+  <string id="dm_dialog_actor_answer_1">
+    <text>面白い･･････。</text>
+  </string>
+  <string id="dm_dialog_actor_answer_2">
+    <text>えーっと･･････。急用を思い出した。また会おう。</text>
+  </string>
+  <string id="dm_dialog_companion_can_i_come_with_1">
+    <text>一緒に行動するってのはどうかな？</text>
+  </string>
+  <string id="dm_dialog_companion_can_we_come_with_2">
+    <text>いくらかの助けがあれば、俺たちがゾーンで死ぬ確率はグッと下がると思うんだ。あんたについて行ってもいいかい？</text>
+  </string>
+  <string id="dm_dialog_companion_can_i_come_with_2">
+    <text>同じチームとして行動する。どう思うね？</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_1">
+    <text>いいぜ。銃を向ける相手を間違えない限りはな。</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_2">
+    <text>いいだろう。お前が死んだら装備は頂くぜ。</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_3">
+    <text>興味ないね。</text>
+  </string>
+  <string id="dm_dialog_companion_actor_reply_to_join_4">
+    <text>失せな。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_1">
+    <text>ありがとう。絶対に足手まといにはならない。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_2">
+    <text>よっしゃ。誰かの助けがマジで必要なんだ。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_alone_3">
+    <text>あんた、最高だぜ。ありがとう。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_alone_1">
+    <text>わかった。とにかくありがとう･･････。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_alone_2">
+    <text>おいおい！俺が何したっていうんだ？</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_1">
+    <text>そいつはいい。よし皆、出発だ！</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_2">
+    <text>よーし。おい、みんな、このストーカーが俺たちを連れて行ってくれるそうだ。はぐれるなよ。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_good_3">
+    <text>出発しようぜ。千里の道も一歩からってな。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_1">
+    <text>あっそ。</text>
+  </string>
+  <string id="dm_dialog_companion_final_words_bad_2">
+    <text>ブッ殺してやる！</text>
+  </string>
+  <string id="axr_phrase_companion_ask_for_command">
+    <text>なんだい？</text>
+  </string>
+  <string id="axr_phrase_actor_give_command">
+    <text>［命令する］</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat">
+    <text>戦術についてだが･･････。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_camper">
+    <text>戦闘ではいつもより注意深く行動しろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_default">
+    <text>いつも通りに戦ってくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_combat_type_monolith">
+    <text>奴らにお前の全力を見せてやれ！</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stay_close">
+    <text>離れずに俺の援護を頼む。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_keep_distance">
+    <text>俺からある程度の距離を保ってくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stealth">
+    <text>シー･･････。姿勢をかがめて静かにしろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stop_stealth">
+    <text>大丈夫だ。普通にしてくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_relax">
+    <text>ちょっと休んでろ。出発する時に声をかける。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_relax_over">
+    <text>よし、出発だ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_leave">
+    <text>ここからはひとりで行く。</text>
+  </string>
+  <string id="axr_phrase_companion_are_you_sure">
+    <text>本気なのか？</text>
+  </string>
+  <string id="axr_phrase_actor_acknowledge_1">
+    <text>ああ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_wait">
+    <text>ここで待って、周囲を警戒しろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_follow">
+    <text>俺についてきてくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_ignore_combat">
+    <text>今のところは誰も撃つなよ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_dont_ignore_combat">
+    <text>視界に入った敵だけ攻撃しろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
+    <text>俺が攻撃されない限り、誰も撃つな。</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_1">
+    <text>わかったよ。</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_2">
+    <text>あいよ。</text>
+  </string>
+  <string id="axr_phrase_companion_acknowledge_3">
+    <text>ああ、何をすればいい？</text>
+  </string>
+  <string id="axr_phrase_companion_goodbye_1">
+    <text>一緒にいて楽しかったぜ。またな。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_nevermind">
+    <text>気にするな。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_hide_in_cover">
+    <text>急いで物陰に！</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_menu">
+    <text>近くを巡回してほしい。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_start_patrol">
+    <text>巡回を始めろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_stop_patrol">
+    <text>巡回をやめろ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_remove_waypoints">
+    <text>全ての巡回経路を忘れてくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_patrol_add_waypoints">
+    <text>この場所を巡回経路に追加してくれ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_gather_items">
+    <text>装備品を見かけたら拾え。何かの役に立つかもしれない。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_loot_corpses">
+    <text>死体からめぼしい物を漁れ。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_gather_items_stop">
+    <text>落ちている装備品には触れるな。</text>
+  </string>
+  <string id="axr_phrase_actor_give_command_loot_corpses_stop">
+    <text>死体には触れるな。</text>
+  </string>
+  <string id="axr_phrase_friend_companion_ask_join">
+    <text>よう、一緒に行動しないか？旅は道連れ、世は情けって言うだろ？</text>
+  </string>
+  <string id="axr_phrase_friend_companion_answer_join">
+    <text>いいとも！先導してくれ。</text>
+  </string>
+  <string id="axr_phrase_friend_companion_ask_join_hostage">
+    <text>あんたの仲間を助けるために手を貸してくれないか？</text>
+  </string>
+  <string id="axr_phrase_friend_companion_answer_join_hostage">
+    <text>ああ、彼には俺たちの助けが要る。先導してくれ。</text>
+  </string>
+</string_table>
