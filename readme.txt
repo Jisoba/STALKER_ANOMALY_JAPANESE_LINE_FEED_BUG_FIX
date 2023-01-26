@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////
-S.T.A.L.K.E.R. Anomaly 1.5.2 DLTX対応日本語化MOD
+S.T.A.L.K.E.R. Anomaly 1.5.2 Anomaly Modded Exes Engine対応日本語化MOD
 ////////////////////////////////////////////////////////////////////
 
 ◆概要
@@ -10,11 +10,16 @@ S.T.A.L.K.E.R. Anomaly 1.5.2用の日本語化MODです。
 フォントデータについては、
 大型MODであるMISERYのものをそのままお借りしました。
 
+Anomaly Modded Exes Engineでは、マルチフォント環境下における意図しない改行バグが修正されました。
+この日本語化MODはそのAnomaly Modded Exes Engineに対応したものとなります。
+→本流日本語化MODでは、改行バグでの改行発生を見越して意図的に改行を削除していました。
 
 ◆導入手順
 1. その他のMODがすでに導入されている場合は、その他のMODをすべて削除します。
 2. ダウンロードしたZIPファイルを展開します。
 3. gamedataフォルダをゲームフォルダに上書きコピーします。
+4. 以下のURLからSTALKER-Anomaly-modded-exes.zipをダウンロードして解凍し、Anomalyのbinフォルダ内の同名exeファイルを置き換えてください。 
+   https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 
 ◆その他のMODをすべて削除する方法
 ゲームフォルダにあるgamedataフォルダについて、
@@ -40,8 +45,8 @@ gamedata\scripts\ui_options.script
 gamedata\scripts\ui_workshop.script
 gamedata\scripts\utils_ui.script
 
-◆DLTX対応
-DLTXのexeファイルにてマルチバイトフォント環境下の改行バグが修正された為、以下ファイルを修正
+◆Anomaly Modded Exes Engine対応
+Anomaly Modded Exes Engineのexeファイルにてマルチバイトフォント環境下の改行バグが修正された為、以下ファイルを修正
 gamedata\configs\text\eng\st_items_ammo.xml
 gamedata\configs\text\eng\st_items_artefacts.xml
 gamedata\configs\text\eng\st_items_artefacts2.xml
