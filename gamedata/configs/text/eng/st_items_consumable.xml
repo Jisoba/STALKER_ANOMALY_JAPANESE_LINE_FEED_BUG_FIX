@@ -243,7 +243,7 @@
   <string id="st_mint_descr">
     <text>西側から持ち込まれたミント味のタブレット菓子。気分をスッキリさせ、口腔内から放射線粒子を除去してくれる。またほんの少し眠気を紛らわす事もできる。一度に 10 粒ずつ食べるのが限界だろう。  
 
-\n%c[ui_gray_3]特性 : </text>
+\n%c[ui_gray_3]特性 : \n</text>
   </string>
   <string id="st_nuts">
     <text>ミックスナッツ</text>
@@ -337,7 +337,7 @@
 \n%c[d_blue] ・ 食品
 \n%c[d_blue] ・ 輸入品
 \n%c[d_blue] ・ 栄養源（汚染されていない） 
-\n%c[d_blue] ・ 高品質 
+\n%c[d_blue] ・ 高品質 \n
 </text>
   </string>
   <string id="st_water_drink">
