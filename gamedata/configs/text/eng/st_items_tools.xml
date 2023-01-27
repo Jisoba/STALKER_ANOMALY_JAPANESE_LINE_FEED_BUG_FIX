@@ -176,7 +176,7 @@
 
                 \n%c[ui_gray_3]特性 : 
 \n%c[d_blue] ・ 日用品
-\n%c[d_purple] ・ アイテム分解用ツール</text>
+\n%c[d_purple] ・ アイテム分解用ツール\n</text>
   </string>
   <string id="st_grooming">
     <text>グルーミングキット</text>
@@ -186,7 +186,7 @@
 
                 \n%c[ui_gray_3]特性 : 
 \n%c[d_blue] ・ 日用品
-\n%c[d_purple] ・ アイテム分解用ツール</text>
+\n%c[d_purple] ・ アイテム分解用ツール\n</text>
   </string>
   <string id="st_drugs_kit">
     <text>薬剤調合キット</text>
