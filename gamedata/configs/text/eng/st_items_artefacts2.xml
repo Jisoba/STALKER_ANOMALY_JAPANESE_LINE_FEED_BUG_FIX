@@ -4,350 +4,350 @@
     <text>「コクーン」アーティファクト</text>
   </string>
   <string id="st_af_cocoon_descr">
-    <text>重力環境により生成される。ちゃちなアクセサリー程度にしか使い道が無いが、コレクターと宝石商には高い値段がつけられている。放射線は出していない。
+    <text>重力環境により生成される。ちゃちなアクセサリー程度にしか使い道が無いが、コレクターと宝石商には高い値段がつけられている。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_cell_name">
     <text>「セル」アーティファクト</text>
   </string>
   <string id="st_af_cell_descr">
-    <text>重力環境により生成される。ちゃちなアクセサリー程度にしか使い道が無いが、コレクターと宝石商には高い値段がつけられている。放射線は出していない。
+    <text>重力環境により生成される。ちゃちなアクセサリー程度にしか使い道が無いが、コレクターと宝石商には高い値段がつけられている。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_fountain_name">
     <text>「ファウンテン」アーティファクト</text>
   </string>
   <string id="st_af_fountain_descr">
-    <text>重力環境のアノマリーにより生成されたようだ。役に立つ特性は何もないが、奇妙な形によってコレクターが高い値段をつけている。放射線は出していない。
+    <text>重力環境のアノマリーにより生成されたようだ。役に立つ特性は何もないが、奇妙な形によってコレクターが高い値段をつけている。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_spaika_name">
     <text>「スパイク」アーティファクト</text>
   </string>
   <string id="st_af_spaika_descr">
-    <text>化石の様に見える構造をしている。重力環境のアノマリーにより生成されたようだ。役に立つ特性は無い。放射線は出していない。
+    <text>化石の様に見える構造をしている。重力環境のアノマリーにより生成されたようだ。役に立つ特性は無い。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_signet_name">
     <text>「シグネット」アーティファクト</text>
   </string>
   <string id="st_af_signet_descr">
-    <text>一部のストーカーは、このアーティファクトを「お守り」と呼んでいる。全く役に立たないが、いまだに一部のストーカーは、このアーティファクトが幸運をもたらすと考えている。放射線は出していない。
+    <text>一部のストーカーは、このアーティファクトを「お守り」と呼んでいる。全く役に立たないが、いまだに一部のストーカーは、このアーティファクトが幸運をもたらすと考えている。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_repei_name">
     <text>「シスル」アーティファクト</text>
   </string>
   <string id="st_af_repei_descr">
-    <text>重力環境のアノマリーで頻繁に生成される。これには価値ある特性は無い。しかし、人体への有害性が無いという事により、多くのストーカーからの需要が生まれている。明るく、コレクターと宝石商には高い値段がつけられている。放射線は出していない。
+    <text>重力環境のアノマリーで頻繁に生成される。これには価値ある特性は無い。しかし、人体への有害性が無いという事により、多くのストーカーからの需要が生まれている。明るく、コレクターと宝石商には高い値段がつけられている。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_bat_name">
     <text>「バット」アーティファクト</text>
   </string>
   <string id="st_af_bat_descr">
-    <text>非常に美しい異常な形をしており、コレクターに評価されている。有用な特性はなく、かなり重い。放射線は出していない。
+    <text>非常に美しい異常な形をしており、コレクターに評価されている。有用な特性はなく、かなり重い。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_sun_name">
     <text>「サン」アーティファクト</text>
   </string>
   <string id="st_af_sun_descr">
-    <text>コレクターに大変喜ばれる希少なアーティファクトだ。非常に重く、無尽蔵な光源だ。有用な特性はない。放射線は出していない。
+    <text>コレクターに大変喜ばれる希少なアーティファクトだ。非常に重く、無尽蔵な光源だ。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_ear_name">
     <text>「ハート」アーティファクト</text>
   </string>
   <string id="st_af_ear_descr">
-    <text>奇妙な形のアーティファクト。その中心部分は人間の体に似ている。有用な特性は無い。ゾーン外部のコレクターには価値がある。放射線は出していない。
+    <text>奇妙な形のアーティファクト。その中心部分は人間の体に似ている。有用な特性は無い。ゾーン外部のコレクターには価値がある。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_chelust_name">
     <text>「チェーン」アーティファクト</text>
   </string>
   <string id="st_af_chelust_descr">
-    <text>非常に奇妙なアーティファクト。何も触れずに強い重力場を生成する。非常に重く、有用な特性はない。ゾーン外のコレクターに評価されいてる。 放射線は出していない。
+    <text>非常に奇妙なアーティファクト。何も触れずに強い重力場を生成する。非常に重く、有用な特性はない。ゾーン外のコレクターに評価されいてる。 放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_atom_name">
     <text>「アトム」アーティファクト</text>
   </string>
   <string id="st_af_atom_descr">
-    <text>まれで美しい原子のような形成。コレクターにとって非常に価値がある。弱い熱源がある。有用な特性はない。放射線は出していない。
+    <text>まれで美しい原子のような形成。コレクターにとって非常に価値がある。弱い熱源がある。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_lighthouse_name">
     <text>「ビーコン」アーティファクト</text>
   </string>
   <string id="st_af_lighthouse_descr">
-    <text>超高密度物質のかたまり。生産に使用される貴重な素材が含まれているため、ゾーンでは大きな需要がある。有用な特性はない。放射線は出していない。
+    <text>超高密度物質のかたまり。生産に使用される貴重な素材が含まれているため、ゾーンでは大きな需要がある。有用な特性はない。放射線は出していない。\n \n 
  
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ\n
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_fire_loop_name">
     <text>「ノット」アーティファクト</text>
   </string>
   <string id="st_af_fire_loop_descr">
-    <text>このアーティファクトを生成するための条件は、熱的アノマリーの密接な影響である。奇妙な形をしており、コレクターに喜ばれている。有用な特性はない。放射線は出していない。
+    <text>このアーティファクトを生成するための条件は、熱的アノマリーの密接な影響である。奇妙な形をしており、コレクターに喜ばれている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_zhelch_name">
     <text>「スカー」アーティファクト</text>
   </string>
   <string id="st_af_zhelch_descr">
-    <text>このアーティファクトは、人間の神経系に鎮静効果をもたらす。また、宝石商からも高く評価されている。有用な特性はない。非常に弱い重力と電場を生成する。放射線は出していない。
+    <text>このアーティファクトは、人間の神経系に鎮静効果をもたらす。また、宝石商からも高く評価されている。有用な特性はない。非常に弱い重力と電場を生成する。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性:
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性:\n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_sandstone_name">
     <text>「サンドストーン」アーティファクト</text>
   </string>
   <string id="st_af_sandstone_descr">
-    <text>このアーティファクトは極度な高温の場所で生成される。有用な特性はない。コレクターや宝石商には評価されていないが、少量の金を含んでいるため、若干の価値はある。 放射線は出していない。
+    <text>このアーティファクトは極度な高温の場所で生成される。有用な特性はない。コレクターや宝石商には評価されていないが、少量の金を含んでいるため、若干の価値はある。 放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_kislushka_name">
     <text>「サウアプス」アーティファクト</text>
   </string>
   <string id="st_af_kislushka_descr">
-    <text>表面は透明である種の羊皮紙のような球体であり、内部は中空になってる。フィルム層で覆われており、触り心地が良い。有用な特性はない。コレクターが高値を付けている。 放射線は出していない。
+    <text>表面は透明である種の羊皮紙のような球体であり、内部は中空になってる。フィルム層で覆われており、触り心地が良い。有用な特性はない。コレクターが高値を付けている。 放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_black_angel_name">
     <text>「ブラック エンジェル」アーティファクト</text>
   </string>
   <string id="st_af_black_angel_descr">
-    <text>植物の根に似たアーティファクト。ほかの物体と接触していないとき、表面からわずかな蒸気を発している。コレクターが非常に高値を付けている。有用な特性はない。放射線は出していない。
+    <text>植物の根に似たアーティファクト。ほかの物体と接触していないとき、表面からわずかな蒸気を発している。コレクターが非常に高値を付けている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_grapes_name">
     <text>「グレープ」アーティファクト</text>
   </string>
   <string id="st_af_grapes_descr">
-    <text>わずかに緑がかった色をした琥珀のような物質。強力なアノマリーによって生成されており、非常に重い。コレクターが非常に高値を付けている。有用な特性はない。放射線は出していない。
+    <text>わずかに緑がかった色をした琥珀のような物質。強力なアノマリーによって生成されており、非常に重い。コレクターが非常に高値を付けている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_skull_miser_name">
     <text>「マイザーズ スカル」アーティファクト</text>
   </string>
   <string id="st_af_skull_miser_descr">
-    <text>非常に軽く壊れやすいアーティファクト。全く有用な特性はない。放射線は出していない。
+    <text>非常に軽く壊れやすいアーティファクト。全く有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_star_phantom_name">
     <text>「ファントム スター」アーティファクト</text>
   </string>
   <string id="st_af_star_phantom_descr">
-    <text>アノマリーから生成される。プラズマに似た物質で構成された外殻は透明であり脈動している。微弱な重力場を発生させている。有用な特性はない。放射線は出していない。
+    <text>アノマリーから生成される。プラズマに似た物質で構成された外殻は透明であり脈動している。微弱な重力場を発生させている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_medallion_name">
     <text>「メダル」アーティファクト</text>
   </string>
   <string id="st_af_medallion_descr">
-    <text>この小さな金環には流線型な三角形の部品が４個埋め込まれている。これらは対を成し、対角上で任意に位置を変えながらぶつかり合い、模様を成している。コレクターが高値を付けている。有用な特性はない。放射線は出していない。
+    <text>この小さな金環には流線型な三角形の部品が４個埋め込まれている。これらは対を成し、対角上で任意に位置を変えながらぶつかり合い、模様を成している。コレクターが高値を付けている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_peas_name">
     <text>「ムーン」アーティファクト</text>
   </string>
   <string id="st_af_peas_descr">
-    <text>三日月型のアーティファクト。非常に薄暗い光を発している。有用な特性はない。コレクターと宝石商が若干の値段を付けている。 放射線は出していない。
+    <text>三日月型のアーティファクト。非常に薄暗い光を発している。有用な特性はない。コレクターと宝石商が若干の値段を付けている。 放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_generator_name">
     <text>「ジェネレーター」アーティファクト</text>
   </string>
   <string id="st_af_generator_descr">
-    <text>このアーティファクトは弱い電流と電磁場を発生させている。エネルギー資源となるため境界線の外部では非常に高い値段がついている。有用な特性はない。放射線は出していない。
+    <text>このアーティファクトは弱い電流と電磁場を発生させている。エネルギー資源となるため境界線の外部では非常に高い値段がついている。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_ball_name">
     <text>「ボール」アーティファクト</text>
   </string>
   <string id="st_af_ball_descr">
-    <text>このアーティファクトが作られた周囲の状況に関するデータがない。よってこういった名前が付けられている。しかし、実際の環境では電流が活発な場所で見つかることが多い。よく弾むため非常に素早く動くアーティファクトだ。有用な特性はない。放射線は出していない。
+    <text>このアーティファクトが作られた周囲の状況に関するデータがない。よってこういった名前が付けられている。しかし、実際の環境では電流が活発な場所で見つかることが多い。よく弾むため非常に素早く動くアーティファクトだ。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_fonar_name">
     <text>「ランプ」アーティファクト</text>
   </string>
   <string id="st_af_fonar_descr">
-    <text>電気特性のアーティファクト。若干のエネルギーと輝きを放っている。有用な特性はない。コレクターが非常に興味を持っている。放射線は出していない。
+    <text>電気特性のアーティファクト。若干のエネルギーと輝きを放っている。有用な特性はない。コレクターが非常に興味を持っている。放射線は出していない。\n \n 
  
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_tapeworm_name">
     <text>「テープワーム」アーティファクト</text>
   </string>
   <string id="st_af_tapeworm_descr">
-    <text>物質の原子量だけを考慮するなら、これは純粋な二酸化ケイ素なのだが、未知の挙動を見せる。有用な特性はない。放射線は出していない。
+    <text>物質の原子量だけを考慮するなら、これは純粋な二酸化ケイ素なのだが、未知の挙動を見せる。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_moh_name">
     <text>「モス」アーティファクト</text>
   </string>
   <string id="st_af_moh_descr">
-    <text>帯電したアーティファクト。有用な特性はない。価値はない。 放射線は出していない。
+    <text>帯電したアーティファクト。有用な特性はない。価値はない。 放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_serofim_name">
     <text>「セラフィン」アーティファクト</text>
   </string>
   <string id="st_af_serofim_descr">
-    <text>電気特性のアーティファクト。一時的な重力場を生み出す。有用な特性はない。放射線は出していない。
+    <text>電気特性のアーティファクト。一時的な重力場を生み出す。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_elektron_name">
     <text>「エレクトロン」アーティファクト</text>
   </string>
   <string id="st_af_elektron_descr">
-    <text>このアーティファクトは電気アノマリーで産出する。非常に重い。有用な特性はない。 境界線の外側では非常に価値がある。放射線は出していない。
+    <text>このアーティファクトは電気アノマリーで産出する。非常に重い。有用な特性はない。 境界線の外側では非常に価値がある。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_kogot_name">
     <text>「クロウ」アーティファクト</text>
   </string>
   <string id="st_af_kogot_descr">
-    <text>美しいガラス状で電気アノマリーから形成される。有用な特性はない。 境界線の外側では価値が無い。放射線は出していない。
+    <text>美しいガラス状で電気アノマリーから形成される。有用な特性はない。 境界線の外側では価値が無い。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_vaselisk_name">
     <text>「バシリスク」アーティファクト</text>
   </string>
   <string id="st_af_vaselisk_descr">
-    <text>持ち主に対するあらゆる身体的な影響に対処できる、ゾーンでは数少ないアーティファクト。放射線は出していない。
+    <text>持ち主に対するあらゆる身体的な影響に対処できる、ゾーンでは数少ないアーティファクト。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_geliy_name">
     <text>「ヘリウム」アーティファクト</text>
   </string>
   <string id="st_af_geliy_descr">
-    <text>電気特性を持つアーティファクトファミリーの明るい（文字通り）代表。それは、体に有益な影響を及ぼすガス状の物質を放出する。その高効率から大きな需要がある。放射線は出していない。
+    <text>電気特性を持つアーティファクトファミリーの明るい（文字通り）代表。それは、体に有益な影響を及ぼすガス状の物質を放出する。その高効率から大きな需要がある。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_gimlet_name">
     <text>「ギムレット」アーティファクト</text>
   </string>
   <string id="st_af_gimlet_descr">
-    <text>このアーティファクトが持つ鉢状の花弁からは強力なガス状の刺激薬が放出される。人のホルモンに良い変化をもたらす効果がある。放射線は出していない。
+    <text>このアーティファクトが持つ鉢状の花弁からは強力なガス状の刺激薬が放出される。人のホルモンに良い変化をもたらす効果がある。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_af_dragon_eye_name">
     <text>「ドラゴンズ アイ」アーティファクト</text>
   </string>
   <string id="st_af_dragon_eye_descr">
-    <text>このアーティフェクトはほとんどが炎アノマリーのようなもので形成され、爬虫類の目のように見える。有用な特性はない。放射線は出していない。
+    <text>このアーティフェクトはほとんどが炎アノマリーのようなもので形成され、爬虫類の目のように見える。有用な特性はない。放射線は出していない。\n \n 
 
-                \n%c[ui_gray_2]特性
-\n%c[ui_white] ・ ガラクタ
-\n%c[d_cyan] ・ 容器に格納できない</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ ガラクタ\n
+%c[d_cyan] ・ 容器に格納できない</text>
   </string>
   <string id="st_arty_save">
     <text>「アイ オブ ザ ノウアスフィア」アーティファクト</text>
   </string>
   <string id="st_arty_save_descr">
-    <text>ゾーンでも非常に神秘的なアーティファクトだ。時間を遡る力を振るうことができ、死をも逃れることができる。苦境に陥った時にアーティファクトは能力を起動させ、死からの回復地点を作成する。
-頻繁に使用するとアーティファクトが変色する原因となる。だが、それでもまだ力を放出しようとすると全く機能しなくなる可能性がある。目は時間が経てば徐々に力が回復する。おそらくはゾーンのアノマリーのエネルギーを燃料にしている。
+    <text>ゾーンでも非常に神秘的なアーティファクトだ。時間を遡る力を振るうことができ、死をも逃れることができる。苦境に陥った時にアーティファクトは能力を起動させ、死からの回復地点を作成する。\n \n 
+頻繁に使用するとアーティファクトが変色する原因となる。だが、それでもまだ力を放出しようとすると全く機能しなくなる可能性がある。目は時間が経てば徐々に力が回復する。おそらくはゾーンのアノマリーのエネルギーを燃料にしている。\n \n 
 
-                \n%c[ui_gray_2]特性 : 
-\n%c[ui_white] ・ スーパーアーティファクト</text>
+                %c[ui_gray_2]特性 : \n
+%c[ui_white] ・ スーパーアーティファクト</text>
   </string>
 </string_table>
