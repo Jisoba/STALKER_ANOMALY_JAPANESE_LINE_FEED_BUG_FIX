@@ -439,7 +439,7 @@ function build_desc_footer(obj, sec, str) -- one obj used
 		local part_type = upgr_o and str_tbl.upgr_o or str_tbl.upgr_w
 	
 --		_str = _str .. clr_2 .. " " .. str_tbl.prop .. ":\\n"
-		_str = _str .. clr_2 .. "\\n" .. str_tbl.prop .. " : \\n" --japan
+		_str = _str .. clr_2 .. " " .. str_tbl.prop .. " : \\n" --japan
 --		_str = _str .. clr_p .. "  ・" .. clr_1 .. " " .. part_type .. " \\n"
 		_str = _str .. clr_p .. " ・ " .. part_type .. " \\n" --japan
 --		_str = _str .. clr_o .. "  ・" .. clr_1 .. " " .. str_tbl.upgr_usable .. " \\n"
