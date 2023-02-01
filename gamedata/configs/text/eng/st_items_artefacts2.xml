@@ -336,7 +336,7 @@
   <string id="st_af_dragon_eye_descr">
     <text>このアーティフェクトはほとんどが炎アノマリーのようなもので形成され、爬虫類の目のように見える。有用な特性はない。放射線は出していない。\n \n 
 
-                %c[ui_gray_2]特性\n
+                %c[ui_gray_2]特性 : \n
 %c[ui_white] ・ ガラクタ\n
 %c[d_cyan] ・ 容器に格納できない</text>
   </string>
