@@ -15,7 +15,7 @@ https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
 
 ◆注意事項
 本MODはSTALKER-Anomaly-modded-exesの導入を前提として作成しています。
-STALKER-Anomaly-modded-exesを導入していない状態で本MODを適用しても、余計な改行が発生します。
+STALKER-Anomaly-modded-exesを導入していない状態で本MODを適用した場合、余計な改行が発生していまいます。
 
 ◆導入手順
 1. 以下のURLからSTALKER-Anomaly-modded-exes.zipをダウンロードして解凍し、
